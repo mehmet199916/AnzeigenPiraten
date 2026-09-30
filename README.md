@@ -60,7 +60,7 @@ GitHub Actions (Cron, alle 30 Min)
 │   │   ├── evaluate.mjs           #   KI-Bewertung + Heuristik-Fallback
 │   │   ├── store.mjs              #   JSON lesen/schreiben (atomar)
 │   │   └── util.mjs               #   fetch-Retry, Median, Chunking, …
-│   └── test/                      # `node --test` – 20 Tests, keine Dependencies
+│   └── test/                      # `node --test` – 25 Tests, keine Dependencies
 └── .github/workflows/scan.yml     # Cron-Scan + Commit
 ```
 
