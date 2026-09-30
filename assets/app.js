@@ -296,7 +296,7 @@
       <div class="detail__media">
         ${deal.imageLarge || deal.image
           ? `<img src="${escapeHtml(deal.imageLarge || deal.image)}" alt="" referrerpolicy="no-referrer"
-                  onerror="this.onerror=null;this.src='${escapeHtml(deal.image || '')}'">`
+                  data-fallback="${escapeHtml(deal.image || '')}">`
           : '<div class="card__placeholder" aria-hidden="true">🏴‍☠️</div>'}
       </div>
 
@@ -340,6 +340,16 @@
           Anzeige auf Kleinanzeigen öffnen ↗
         </a>
       </div>`;
+
+    // Fall back to the (smaller) thumbnail if the high-resolution variant fails.
+    for (const img of el.detailBody.querySelectorAll('img[data-fallback]')) {
+      img.addEventListener('error', () => {
+        const fallback = img.dataset.fallback;
+        if (!fallback || fallback === img.currentSrc || fallback === img.src) return;
+        img.removeAttribute('data-fallback');
+        img.src = fallback;
+      });
+    }
 
     if (typeof el.detail.showModal === 'function') {
       el.detail.showModal();
