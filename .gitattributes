@@ -1,0 +1,14 @@
+# Normalise line endings: repository stores LF, which is what the Linux-based
+# GitHub Actions runner and the browser expect.
+* text=auto eol=lf
+
+# Binary assets should never be converted.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+
+# Keep diffs of generated data readable.
+data/*.json -diff linguist-generated
+*.md text eol=lf

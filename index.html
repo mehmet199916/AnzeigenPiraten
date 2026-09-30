@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AnzeigenPiraten – Kleinanzeigen Deal-Finder mit KI-Bewertung</title>
+  <meta name="description" content="Automatisch gescannte Kleinanzeigen-Deals, bewertet von einer KI: Deal-Score, fairer Marktwert, Ersparnis und Warnsignale – komplett statisch über GitHub Pages.">
+  <meta name="color-scheme" content="dark light">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏴‍☠️</text></svg>">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#feed">Direkt zu den Deals</a>
+
+  <header class="hero">
+    <div class="hero__inner">
+      <div class="brand">
+        <span class="brand__logo" aria-hidden="true">🏴‍☠️</span>
+        <div class="brand__text">
+          <h1>Anzeigen<span>Piraten</span></h1>
+          <p class="tagline">Automatischer Kleinanzeigen-Deal-Finder mit KI-Bewertung</p>
+        </div>
+      </div>
+
+      <div class="hero__status">
+        <p class="status" id="status" aria-live="polite">Daten werden geladen…</p>
+        <p class="status status--sub" id="statusSub"></p>
+      </div>
+    </div>
+
+    <dl class="stats" id="stats" aria-label="Kennzahlen"></dl>
+  </header>
+
+  <main class="layout">
+    <section class="controls" aria-label="Filter und Sortierung">
+      <div class="field field--grow">
+        <label for="q">Suche</label>
+        <input id="q" type="search" placeholder="Titel, Beschreibung, Ort …" autocomplete="off" spellcheck="false">
+      </div>
+
+      <div class="field">
+        <label for="query">Kategorie</label>
+        <select id="query">
+          <option value="">Alle Kategorien</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="minScore">Min. Deal-Score: <output id="minScoreOut">0</output></label>
+        <input id="minScore" type="range" min="0" max="95" step="5" value="0">
+      </div>
+
+      <div class="field">
+        <label for="sort">Sortierung</label>
+        <select id="sort">
+          <option value="score">Deal-Score (hoch → niedrig)</option>
+          <option value="new">Zuletzt gefunden</option>
+          <option value="savings">Größte Ersparnis</option>
+          <option value="price_asc">Preis aufsteigend</option>
+          <option value="price_desc">Preis absteigend</option>
+        </select>
+      </div>
+
+      <div class="field field--inline">
+        <label class="checkbox">
+          <input id="onlyNew" type="checkbox">
+          <span>nur neue seit deinem letzten Besuch</span>
+        </label>
+      </div>
+
+      <button id="reset" class="btn btn--ghost" type="button">Zurücksetzen</button>
+    </section>
+
+    <section id="feed" class="grid" aria-live="polite" aria-busy="true"></section>
+    <p id="empty" class="empty" hidden></p>
+  </main>
+
+  <footer class="footer">
+    <p>
+      <strong>AnzeigenPiraten</strong> – statisches GitHub-Pages-Frontend.
+      Ein geplanter GitHub-Actions-Workflow scannt Kleinanzeigen, bewertet neue
+      Anzeigen per KI und schreibt die Ergebnisse in <code>data/deals.json</code>.
+    </p>
+    <p class="footer__meta" id="footerMeta"></p>
+    <p class="footer__legal">
+      Alle Angaben ohne Gewähr. Preise und Verfügbarkeiten können sich jederzeit ändern.
+      Dieses Projekt steht in keiner Verbindung zu kleinanzeigen.de.
+    </p>
+  </footer>
+
+  <dialog id="detail" class="detail" aria-labelledby="detailTitle">
+    <button class="detail__close" id="detailClose" type="button" aria-label="Schließen">×</button>
+    <div class="detail__body" id="detailBody"></div>
+  </dialog>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

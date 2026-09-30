@@ -1,0 +1,110 @@
+{
+  "currency": "EUR",
+  "searches": [
+    {
+      "id": "ebike",
+      "label": "E-Bikes",
+      "keywords": "e-bike",
+      "categoryId": "",
+      "locationId": "",
+      "radius": "",
+      "minPrice": "150",
+      "maxPrice": "2500",
+      "adType": "OFFER",
+      "posterType": "",
+      "maxPages": 1
+    },
+    {
+      "id": "iphone",
+      "label": "iPhone",
+      "keywords": "iphone",
+      "categoryId": "",
+      "locationId": "",
+      "radius": "",
+      "minPrice": "100",
+      "maxPrice": "1200",
+      "adType": "OFFER",
+      "posterType": "",
+      "maxPages": 1
+    },
+    {
+      "id": "macbook",
+      "label": "MacBook",
+      "keywords": "macbook",
+      "categoryId": "",
+      "locationId": "",
+      "radius": "",
+      "minPrice": "150",
+      "maxPrice": "2000",
+      "adType": "OFFER",
+      "posterType": "",
+      "maxPages": 1
+    },
+    {
+      "id": "gpu",
+      "label": "Grafikkarten",
+      "keywords": "grafikkarte",
+      "categoryId": "",
+      "locationId": "",
+      "radius": "",
+      "minPrice": "50",
+      "maxPrice": "1500",
+      "adType": "OFFER",
+      "posterType": "",
+      "maxPages": 1
+    },
+    {
+      "id": "console",
+      "label": "Konsolen",
+      "keywords": "playstation 5",
+      "categoryId": "",
+      "locationId": "",
+      "radius": "",
+      "minPrice": "50",
+      "maxPrice": "700",
+      "adType": "OFFER",
+      "posterType": "",
+      "maxPages": 1
+    },
+    {
+      "id": "kamera",
+      "label": "Kameras",
+      "keywords": "kamera",
+      "categoryId": "",
+      "locationId": "",
+      "radius": "",
+      "minPrice": "50",
+      "maxPrice": "2000",
+      "adType": "OFFER",
+      "posterType": "",
+      "maxPages": 1
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "baseUrl": "https://api.openai.com/v1",
+    "model": "gpt-4o-mini",
+    "temperature": 0.2,
+    "batchSize": 8,
+    "maxEvaluationsPerRun": 80,
+    "maxDescriptionChars": 700,
+    "timeoutMs": 60000
+  },
+  "scoring": {
+    "minScoreToKeep": 0,
+    "recalculateOnPriceChange": true
+  },
+  "output": {
+    "maxDeals": 600,
+    "maxAgeHours": 336
+  },
+  "state": {
+    "maxSeenIds": 40000
+  },
+  "http": {
+    "requestDelayMs": 1200,
+    "timeoutMs": 20000,
+    "attempts": 3,
+    "enrichDetails": false
+  }
+}

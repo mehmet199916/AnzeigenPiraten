@@ -1,0 +1,14 @@
+{
+  "name": "anzeigenpiraten-scanner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scheduled Kleinanzeigen scanner with AI deal evaluation for AnzeigenPiraten.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scan": "node scan.mjs",
+    "test": "node --test test/"
+  }
+}

@@ -1,0 +1,18 @@
+# Dependencies (the scanner itself is dependency-free, but keep this for tooling)
+node_modules/
+package-lock.json
+
+# Local secrets / overrides
+.env
+.env.*
+!.env.example
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local scan artifacts
+scripts/*.tmp
+data/*.tmp

@@ -1,0 +1,78 @@
+name: AnzeigenPiraten Scan
+
+# The scanner is the "backend" of this otherwise fully static GitHub Pages site.
+# It runs on a schedule, crawls Kleinanzeigen, asks the AI to evaluate every new
+# listing and commits the refreshed data back to the repository. GitHub Pages
+# then rebuilds and the frontend picks up data/deals.json.
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub may delay scheduled runs under load.
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Alle gefundenen Anzeigen neu bewerten (ignoriert den Zwischenspeicher)'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - 'config/**'
+      - 'scripts/**'
+      - '.github/workflows/scan.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: anzeigenpiraten-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run unit tests
+        working-directory: scripts
+        run: node --test
+
+      - name: Scan and evaluate listings
+        working-directory: scripts
+        env:
+          # Add OPENAI_API_KEY as a repository secret to enable AI evaluation.
+          # Without it the deterministic heuristic engine is used instead.
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # Optional overrides - set these as repository *variables*.
+          AI_BASE_URL: ${{ vars.AI_BASE_URL }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          # Empty on schedule runs; "true" when the manual input is checked.
+          INPUT_FORCE: ${{ github.event.inputs.force }}
+        run: node scan.mjs
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "anzeigenpiraten-bot"
+          git config user.email "anzeigenpiraten-bot@users.noreply.github.com"
+
+          git add data
+          if git diff --staged --quiet; then
+            echo "No data changes – nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "data: refresh deals ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+
+          # A concurrent run may have pushed in the meantime.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push
