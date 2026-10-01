@@ -49,9 +49,10 @@ node scan.mjs --local --force
 
 For automatic five-minute scans on the Windows machine running Ollama, run
 `.\scripts\register-local-task.ps1` once from an elevated or normal PowerShell
-session. The task runs while your Windows user is signed in, requires Ollama and
-Git credentials to be available, and pushes updated feed/price JSON to `main`
-for GitHub Pages to publish. Its log is
+session. The scan runs through a hidden Windows Script Host launcher, without
+opening a terminal window. It runs while your Windows user is signed in,
+requires Ollama and Git credentials to be available, and pushes updated
+feed/price JSON to `main` for GitHub Pages to publish. Its log is
 `%LOCALAPPDATA%\AnzeigenPiraten\local-scan.log`. The local runner skips a tick
 if another scan is active or if the repository has uncommitted changes.
 

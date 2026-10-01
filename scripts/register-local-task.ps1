@@ -2,13 +2,13 @@ $ErrorActionPreference = 'Stop'
 
 $TaskName = 'AnzeigenPiraten Local Scan'
 $RepoRoot = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
-$Runner = Join-Path $PSScriptRoot 'run-local.ps1'
-$PowerShell = Join-Path $env:SystemRoot 'System32\WindowsPowerShell\v1.0\powershell.exe'
+$Launcher = Join-Path $PSScriptRoot 'run-local-hidden.vbs'
+$WScript = Join-Path $env:SystemRoot 'System32\wscript.exe'
 $CurrentUser = "$env:USERDOMAIN\$env:USERNAME"
 
 $Action = New-ScheduledTaskAction `
-  -Execute $PowerShell `
-  -Argument "-NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File `"$Runner`"" `
+  -Execute $WScript `
+  -Argument "//B //NoLogo `"$Launcher`"" `
   -WorkingDirectory $RepoRoot
 $Trigger = New-ScheduledTaskTrigger `
   -Once `
