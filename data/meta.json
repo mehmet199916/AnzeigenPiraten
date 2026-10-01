@@ -1,73 +1,24 @@
 {
-  "generatedAt": "2026-10-01T19:10:32.613Z",
-  "startedAt": "2026-10-01T19:10:19.354Z",
-  "finishedAt": "2026-10-01T19:10:32.622Z",
-  "durationMs": 13267,
-  "engine": "heuristic",
-  "aiConfigured": false,
-  "aiUsed": false,
+  "generatedAt": "2026-10-01T22:00:06.104Z",
+  "startedAt": "2026-10-01T16:07:31.209Z",
+  "finishedAt": "2026-10-01T22:00:06.104Z",
+  "durationMs": 198305,
+  "engine": "ai:qwen3:4b",
+  "aiUsed": true,
   "searches": [
     "E-Bikes",
-    "iPhone",
-    "MacBook",
-    "Grafikkarten",
-    "Konsolen",
-    "Kameras"
+    "iPhone"
   ],
-  "fetchedListings": 162,
-  "previouslyStored": 320,
-  "newDeals": 80,
-  "evaluated": 80,
-  "totalDeals": 400,
-  "market": {
-    "ebike": {
-      "count": 96,
-      "median": 1150,
-      "p25": 619,
-      "p75": 1725,
-      "min": 189,
-      "max": 2500
-    },
-    "iphone": {
-      "count": 104,
-      "median": 500,
-      "p25": 300,
-      "p75": 725,
-      "min": 100,
-      "max": 1200
-    },
-    "macbook": {
-      "count": 60,
-      "median": 500,
-      "p25": 300,
-      "p75": 913,
-      "min": 175,
-      "max": 1699
-    },
-    "gpu": {
-      "count": 61,
-      "median": 220,
-      "p25": 150,
-      "p75": 350,
-      "min": 50,
-      "max": 1299
-    },
-    "console": {
-      "count": 72,
-      "median": 400,
-      "p25": 100,
-      "p75": 500,
-      "min": 50,
-      "max": 680
-    },
-    "kamera": {
-      "count": 85,
-      "median": 180,
-      "p25": 100,
-      "p75": 349,
-      "min": 50,
-      "max": 1550
-    }
+  "fetchedListings": 54,
+  "previouslyStored": 400,
+  "newDeals": 18,
+  "totalDeals": 418,
+  "priceDatabase": {
+    "products": 330,
+    "observations": 414,
+    "comparableListings": 71
   },
-  "errors": []
+  "errors": [],
+  "classifierConfigured": true,
+  "classified": 414
 }

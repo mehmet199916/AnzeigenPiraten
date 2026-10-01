@@ -1,26 +1,16 @@
 name: AnzeigenPiraten Scan
 
 # The scanner is the "backend" of this otherwise fully static GitHub Pages site.
-# It runs on a schedule, crawls Kleinanzeigen, asks the AI to evaluate every new
-# listing and commits the refreshed data back to the repository. GitHub Pages
-# then rebuilds and the frontend picks up data/deals.json.
+# Manual hosted scan only. Frequent scans that use local Ollama run from the
+# Windows scheduled task and publish their JSON changes by pushing to main.
 
 on:
-  schedule:
-    # Every 30 minutes. GitHub may delay scheduled runs under load.
-    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       force:
-        description: 'Alle gefundenen Anzeigen neu bewerten (ignoriert den Zwischenspeicher)'
+        description: 'Alle gefundenen Anzeigen neu kategorisieren'
         type: boolean
         default: false
-  push:
-    branches: [main]
-    paths:
-      - 'config/**'
-      - 'scripts/**'
-      - '.github/workflows/scan.yml'
 
 permissions:
   contents: write
@@ -47,11 +37,11 @@ jobs:
         working-directory: scripts
         run: node --test
 
-      - name: Scan and evaluate listings
+      - name: Scan and classify products
         working-directory: scripts
         env:
-          # Add OPENAI_API_KEY as a repository secret to enable AI evaluation.
-          # Without it the deterministic heuristic engine is used instead.
+          # Add OPENAI_API_KEY as a repository secret to enable AI classification.
+          # Without it listings are stored with an unknown product identity.
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           # Optional overrides - set these as repository *variables*.
           AI_BASE_URL: ${{ vars.AI_BASE_URL }}

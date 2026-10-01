@@ -1,324 +1,116 @@
 # 🏴‍☠️ AnzeigenPiraten
 
-Ein **Kleinanzeigen-Deal-Finder als GitHub-Pages-Seite**, der neue Anzeigen
-automatisch einsammelt und **per KI bewerten** lässt.
+AnzeigenPiraten collects Kleinanzeigen listings into one shared feed. The scan
+pipeline identifies the product in each listing so similar products can be
+grouped later—for example, an iPhone 13, an iPhone 14 Pro Max, a PS5 console,
+and a PS5 controller each get separate product identities.
 
-Die Seite selbst ist komplett statisch (kein Build, kein Framework, keine
-Abhängigkeiten). Das „Backend“ ist ein **geplanter GitHub-Actions-Workflow**, der
-regelmäßig Kleinanzeigen durchsucht, neue Anzeigen erkennt, sie von einer KI
-bewerten lässt und die Ergebnisse als JSON zurück ins Repository committet.
-GitHub Pages baut die Seite danach automatisch neu.
+**The classifier does not evaluate prices.** Asking prices remain visible in the
+feed and their history is kept, but the model receives no price or market data.
+A separate, stronger model can evaluate prices by product in a later step.
 
-```
-GitHub Actions (Cron, alle 30 Min)
-        │
-        ├─ 1. Kleinanzeigen-Suchen crawlen      scripts/lib/kleinanzeigen.mjs
-        ├─ 2. neue / preisgeänderte Anzeigen    scripts/scan.mjs
-        ├─ 3. KI-Bewertung (Score, Fairpreis)   scripts/lib/evaluate.mjs
-        └─ 4. data/*.json committen ─────────► GitHub Pages
-                                                     │
-                                        index.html + assets/app.js
-                                        liest data/deals.json
-```
+## How a scan works
 
----
+1. Fetch the configured Kleinanzeigen searches.
+2. Classify listings without a known product identity.
+3. Keep the product identity, listing, asking price, and price history in
+   `data/deals.json`.
+4. Store asking-price observations by product key in `data/prices.json` and
+   compare each listing with other listings for that same product.
+5. Publish changed JSON files so the static site shows the updated feed.
 
-## Was die Seite kann
+Existing listing records are classified when they next appear in a scan. Use
+`--force` to classify every fetched listing again.
 
-* **Automatischer Scan** aller konfigurierten Suchaufträge (Cron: alle 30 Minuten).
-* **KI-Bewertung** jeder neuen Anzeige: Deal-Score (0–100), geschätzter fairer
-  Marktwert, Ersparnis in Prozent, Kurzbegründung und Warnsignale.
-* **Volltextsuche**, Kategorie-Filter, Mindest-Score-Slider und Sortierung
-  (Score, Ersparnis, Preis, Neueste).
-* **„Neu seit deinem letzten Besuch“** – via `localStorage`, ohne Login.
-* **Detailansicht** im Modal mit Beschreibung, Anzeigen-Attributen,
-  Preisverlauf und Link zur Original-Anzeige.
-* **Ohne API-Key voll funktionsfähig**: dann übernimmt eine deterministische
-  Heuristik (Preis vs. Median des Suchtreffers + Warn-/Bonus-Keywords).
+## Run locally with Ollama
 
----
-
-## Projektstruktur
-
-```
-├── index.html                     # Frontend (GitHub Pages)
-├── assets/
-│   ├── app.js                     # Filter, Rendering, Modal – Vanilla JS
-│   └── styles.css                 # Dark Theme
-├── data/                          # vom Scanner erzeugt (committet!)
-│   ├── deals.json                 #   der Deal-Feed, den das Frontend liest
-│   ├── meta.json                  #   Lauf-Infos für das Status-Panel
-│   └── state.json                 #   Dedup-Zwischenspeicher („was ist neu?“)
-├── config/
-│   └── dealfinder.config.json     # Suche, KI, Schwellen, Limits
-├── scripts/                       # Scanner (Node ≥ 20, keine Dependencies)
-│   ├── scan.mjs                   #   Orchestrierung (Einstiegspunkt)
-│   ├── lib/
-│   │   ├── config.mjs             #   Konfiguration + ENV-Overrides
-│   │   ├── kleinanzeigen.mjs      #   Suche bauen, Seiten holen, normalisieren
-│   │   ├── parse.mjs              #   HTML/JSON-Parsing (Astro-Islands + klassisch)
-│   │   ├── evaluate.mjs           #   KI-Bewertung + Heuristik-Fallback
-│   │   ├── store.mjs              #   JSON lesen/schreiben (atomar)
-│   │   └── util.mjs               #   fetch-Retry, Median, Chunking, …
-│   └── test/                      # `node --test` – 25 Tests, keine Dependencies
-└── .github/workflows/scan.yml     # Cron-Scan + Commit
-```
-
----
-
-## Setup in 4 Schritten
-
-### 1. Repository veröffentlichen
+Install and start Ollama, then download the configured model once:
 
 ```bash
-git init -b main
-git add .
-git commit -m "AnzeigenPiraten: Kleinanzeigen-Deal-Finder"
-git remote add origin https://github.com/<DEIN-USER>/<DEIN-REPO>.git
-git push -u origin main
+ollama pull qwen3:4b
 ```
 
-### 2. GitHub Pages aktivieren
+Run a local scan from the `scripts/` directory:
 
-**Settings → Pages → Source: „Deploy from a branch“ → Branch: `main` / `/ (root)` → Save**
+```bash
+node scan.mjs --local
+```
 
-Die Seite ist danach unter `https://<DEIN-USER>.github.io/<DEIN-REPO>/`
-erreichbar. `index.html` liegt bewusst im Wurzelverzeichnis, damit die
-Ordner-struktur ohne weiteren Deployment-Workflow funktioniert.
+The local classifier uses Ollama's native structured-output API. It sends the
+listing title, description, search label, and listing attributes, but omits the
+asking price. `--local` selects `qwen3:4b` and `http://127.0.0.1:11434`.
 
-### 3. KI aktivieren (optional, aber empfohlen)
+To classify every fetched listing again:
 
-Ohne Schlüssel läuft die Seite mit der Heuristik. Für echte KI-Bewertung:
+```bash
+node scan.mjs --local --force
+```
 
-**Settings → Secrets and variables → Actions → New repository secret**
+For automatic five-minute scans on the Windows machine running Ollama, run
+`.\scripts\register-local-task.ps1` once from an elevated or normal PowerShell
+session. The task runs while your Windows user is signed in, requires Ollama and
+Git credentials to be available, and pushes updated feed/price JSON to `main`
+for GitHub Pages to publish. Its log is
+`%LOCALAPPDATA%\AnzeigenPiraten\local-scan.log`. The local runner skips a tick
+if another scan is active or if the repository has uncommitted changes.
 
-| Typ    | Name              | Beispielwert       | Bedeutung                                   |
-| ------ | ----------------- | ------------------ | ------------------------------------------- |
-| Secret | `OPENAI_API_KEY`  | `sk-…`             | API-Key (OpenAI-kompatibel)                  |
-| Variable | `AI_MODEL`      | `gpt-4o-mini`      | Modellname                                   |
-| Variable | `AI_BASE_URL`   | `https://api.openai.com/v1` | Auch OpenRouter/Groq/Azure/Ollama möglich |
+The scan updates `data/deals.json`, `data/meta.json`, `data/state.json`, and
+`data/prices.json`. Product price comparisons are calculated from other
+listings with the same product key. The page shows the observed median and
+middle price range when at least three other listings are available; it does
+not call that comparison an AI fair price.
 
-Beispiele für kompatible Endpunkte:
+## Configure searches
 
-* OpenAI: `https://api.openai.com/v1` + `gpt-4o-mini`
-* OpenRouter: `https://openrouter.ai/api/v1` + `openai/gpt-4o-mini`
-* Groq: `https://api.groq.com/openai/v1` + `llama-3.3-70b-versatile`
-* Ollama (lokal, nur mit eigenem Runner): `http://localhost:11434/v1` + `llama3.1`
+Edit `config/dealfinder.config.json`. Each entry under `searches` defines a
+Kleinanzeigen search. `maxClassificationsPerRun` limits the number of listings
+sent to the model in one run; uncategorized listings remain in the feed and are
+eligible on a later scan.
 
-### 4. Ersten Scan starten
+The classifier model and endpoint can also be configured with `AI_MODEL` and
+`AI_BASE_URL`. For a non-local OpenAI-compatible endpoint, set `AI_API_KEY` (or
+`OPENAI_API_KEY`).
 
-**Actions → „AnzeigenPiraten Scan“ → Run workflow**
+## Listing product data
 
-Optional `force` aktivieren, um alle gefundenen Anzeigen neu zu bewerten.
-Danach läuft der Scan automatisch alle 30 Minuten.
+Each classified listing has a `product` object in `data/deals.json`:
 
----
-
-## Suche konfigurieren
-
-Alles Wichtige steht in [`config/dealfinder.config.json`](config/dealfinder.config.json):
-
-```jsonc
+```json
 {
-  "searches": [
-    {
-      "id": "ebike",              // stabile ID (erscheint als Kategorie-Filter)
-      "label": "E-Bikes",         // Anzeigename im Frontend
-      "keywords": "e-bike",       // Suchbegriff
-      "categoryId": "",           // optional: Kleinanzeigen-Kategorie-ID
-      "locationId": "",           // optional: PLZ/Orts-ID (leer = deutschlandweit)
-      "radius": "",               // optional: "10"|"20"|"50"|"100"|"200" km
-      "minPrice": "150",
-      "maxPrice": "2500",
-      "adType": "OFFER",          // OFFER = Angebote, WANTED = Gesuche
-      "posterType": "",           // PRIVATE | COMMERCIAL | leer
-      "maxPages": 1               // 1–5 Seiten pro Suche
-    }
-  ],
-  "ai": {
-    "enabled": true,
-    "batchSize": 8,               // Anzeigen pro KI-Anfrage
-    "maxEvaluationsPerRun": 80    // Kostenbremse pro Lauf
-  },
-  "scoring": {
-    "minScoreToKeep": 0,          // z. B. 55 → nur gute Deals speichern
-    "recalculateOnPriceChange": true
-  },
-  "output": {
-    "maxDeals": 600,              // Größe des Feeds
-    "maxAgeHours": 336            // Anzeigen nach 14 Tagen nicht mehr zeigen
-  },
-  "http": {
-    "requestDelayMs": 1200,       // Pause zwischen Requests (höflich bleiben!)
-    "enrichDetails": false        // true = zusätzlich jede Detailseite laden
+  "product": {
+    "key": "apple-iphone-13-128-gb",
+    "name": "Apple iPhone 13 128 GB",
+    "category": "Smartphones",
+    "variant": "Schwarz",
+    "confidence": 0.94,
+    "engine": "ai:qwen3:4b",
+    "classifiedAt": "2026-10-01T12:00:00.000Z"
   }
 }
 ```
 
-**Kategorie- und Orts-IDs finden:** auf kleinanzeigen.de die gewünschte Suche
-im Browser zusammenklicken und in der Adresszeile ablesen – `c216` ist z. B. die
-Kategorie 216, `l3331` die Orts-ID 3331. Diese Zahlen in `categoryId` bzw.
-`locationId` eintragen.
+`product.key` is a normalized version of the canonical model name and groups
+listings in `data/prices.json`. Model and storage capacity belong in `name`;
+color, condition, and included accessories belong in `variant`. If the model
+cannot identify a product confidently, it returns `Unbekanntes Produkt` with
+the key `unknown`.
 
----
+`data/prices.json` stores asking-price observations by product and listing ID.
+The scanner compares a listing against other observations for the same product
+and excludes that listing's own price from the comparison. It keeps up to
+20,000 observations from the last 90 days. A future larger model can use these
+product groups for deeper price evaluation.
 
-## Lokal ausführen
+## Project structure
 
-Es sind **keine Abhängigkeiten** zu installieren:
+* `scripts/scan.mjs` — crawl, classify, merge, and persist listings.
+* `scripts/lib/products.mjs` — product-only model prompt and response handling.
+* `scripts/lib/kleinanzeigen.mjs` — listing collection and normalization.
+* `data/deals.json` — shared listing feed and product identities.
+* `data/prices.json` — product-keyed asking-price observations and comparisons.
+* `data/state.json` — IDs already observed by the scanner.
+* `index.html`, `assets/` — static browser interface.
 
-```bash
-# Tests
-cd scripts && node --test
-
-# Scan (schreibt nach ../data)
-OPENAI_API_KEY=sk-… node scan.mjs          # macOS / Linux
-$env:OPENAI_API_KEY="sk-…"; node scan.mjs  # PowerShell
-
-# nur einen bestimmten Suchauftrag testen: config temporär reduzieren
-```
-
-Andere Konfigurationsdatei verwenden:
-
-```bash
-DEALFINDER_CONFIG=../meine-config.json node scan.mjs
-```
-
-Lokalen Vorschaubetrieb:
-
-```bash
-python -m http.server 8080     # im Projektwurzelverzeichnis
-# → http://localhost:8080
-```
-
----
-
-## Wie die KI-Bewertung funktioniert
-
-1. Der Scanner ermittelt pro Suchauftrag Marktstatistiken
-   (Median, 25 %/75 %-Quantil, Min/Max, Anzahl) über **alle** bekannten Anzeigen.
-2. Pro Batch (Standard: 8 Anzeigen) geht ein strukturierter Prompt an das Modell:
-   Titel, Preis, Beschreibung, Ort, Suchbegriff und die Marktstatistik.
-3. Das Modell antwortet ausschließlich mit JSON
-   (`response_format: json_object`):
-
-   ```json
-   {
-     "evaluations": [
-       {
-         "index": 0,
-         "dealScore": 88,
-         "verdict": "top",
-         "fairPrice": 820,
-         "reasoning": "Deutlich unter dem üblichen Marktpreis, Rechnung vorhanden.",
-         "redFlags": []
-       }
-     ]
-   }
-   ```
-
-4. Schlägt ein Batch fehl (Rate-Limit, Timeout, ungültiges JSON), fällt der
-   Scanner für diesen Batch automatisch auf die Heuristik zurück – ein Lauf
-   bricht dadurch nie ab.
-
-### Heuristik-Fallback (ohne API-Key)
-
-| Faktor | Wirkung |
-| --- | --- |
-| Preis / Median | ≤ 0,35 → 97 Punkte … ≥ 1,6 → 20 Punkte |
-| „defekt“, „Bastler“, „Ersatzteil“, … | −12 Punkte pro Treffer (max. −30) |
-| „Originalverpackt“, „Garantie“, „Rechnung“, … | +6 Punkte pro Treffer (max. +18) |
-| „Zu verschenken“ | 96 Punkte |
-
-Score ⇒ Verdikt: **≥ 85 Top-Deal · ≥ 70 Guter Deal · ≥ 50 Marktüblich · < 50 Zu teuer**
-
----
-
-## Datenformat (`data/deals.json`)
-
-```jsonc
-{
-  "generatedAt": "2026-01-01T12:00:00.000Z",
-  "engine": "ai:gpt-4o-mini",
-  "count": 1,
-  "queries": [{ "id": "ebike", "label": "E-Bikes", "count": 12, "medianPrice": 1290 }],
-  "market": { "ebike": { "count": 40, "median": 1290, "p25": 900, "p75": 1800 } },
-  "deals": [
-    {
-      "id": "3001234567",
-      "title": "Cube Reaction Hybrid Pro 500",
-      "price": 1050,
-      "priceRaw": "1.050 € VB",
-      "location": "50667 Köln (12 km)",
-      "postedAt": "2026-01-01T09:30:00.000Z",
-      "image": "https://img.kleinanzeigen.de/…",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3001234567",
-      "queryId": "ebike",
-      "queryLabel": "E-Bikes",
-      "firstSeenAt": "2026-01-01T10:00:00.000Z",
-      "ai": {
-        "dealScore": 88,
-        "verdict": "top",
-        "fairPrice": 1290,
-        "savingsPct": 19,
-        "reasoning": "…",
-        "redFlags": [],
-        "engine": "ai:gpt-4o-mini"
-      }
-    }
-  ]
-}
-```
-
----
-
-## Kosten & Rate-Limits
-
-* Standardmäßig läuft der Scan **alle 30 Minuten** und bewertet höchstens
-  `maxEvaluationsPerRun` Anzeigen pro Lauf – nur neue bzw. preisgeänderte.
-  Nach dem ersten Befüllen sind die Läufe dadurch sehr günstig.
-* 8 Anzeigen pro Anfrage mit kurzen Beschreibungen kosten mit `gpt-4o-mini`
-  typischerweise Bruchteile eines Cents pro Batch.
-* `http.requestDelayMs` bewusst nicht zu klein stellen. Der Scanner sendet eine
-  normale Browser-User-Agent-Zeile und einen Wiederholungs-Backoff.
-* Bei vielen Suchen: `maxEvaluationsPerRun` senken oder den Cron auf
-  `0 * * * *` (stündlich) stellen.
-
----
-
-## Fehlerbehebung
-
-| Problem | Lösung |
-| --- | --- |
-| Seite bleibt leer / „Daten konnten nicht geladen werden“ | Workflow einmal manuell starten (**Actions → Run workflow**). |
-| Seite aktualisiert sich nach dem Scan nicht | **Settings → Pages** prüfen (Branch `main`, Ordner `/ root`). Wird der Push durch Branch Protection blockiert, in **Settings → Actions → General → Workflow permissions** „Read and write permissions“ setzen. |
-| `OPENAI_API_KEY` wird ignoriert | Key als **Secret** anlegen; in `data/meta.json` prüfen, ob `"aiUsed": true` steht. |
-| Alle Läufe zeigen `"engine": "heuristic"` | Kein Key gesetzt oder Modell/Base-URL falsch → `meta.errors` ansehen. |
-| Keine Anzeigen gefunden | Keywords/Kategorie-IDs prüfen; ggf. `maxPages` erhöhen. |
-| Zu viele Anzeigen / hohe Kosten | `maxEvaluationsPerRun` senken, `minScoreToKeep` erhöhen, `maxPages` auf `1`. |
-
-### Falls GitHub Pages trotz Commit nicht neu baut
-
-Commits, die mit dem eingebauten `GITHUB_TOKEN` gepusht werden, lösen
-grundsätzlich keine *Workflow*-Ketten aus (Pages-Builds vom Branch sind davon
-nicht betroffen). Sollte deine Pages-Konfiguration dennoch nicht reagieren,
-ersetze das Secret im Checkout-Schritt durch ein Personal Access Token:
-
-```yaml
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAGES_PUSH_TOKEN }}   # PAT mit "repo"-Scope
-```
-
----
-
-## Rechtlicher Hinweis
-
-Dieses Projekt ist ein technisches Beispiel und steht in **keiner Verbindung**
-zu Kleinanzeigen. Es liest öffentlich zugängliche Suchergebnisseiten aus.
-Bitte beachte die Nutzungsbedingungen von kleinanzeigen.de, halte die
-Anfragefrequenz niedrig (`http.requestDelayMs`) und nutze das Projekt nur für
-den privaten Gebrauch. Alle KI-Bewertungen sind Schätzungen ohne Gewähr.
-
-## Lizenz
-
-[MIT](LICENSE)
+The site supports full-text search, search filters, sorting by date or asking
+price, new-listing badges, and a listing detail view. It does not display deal
+scores or model-generated fair prices.

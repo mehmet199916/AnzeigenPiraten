@@ -86,13 +86,10 @@
     "model": "gpt-4o-mini",
     "temperature": 0.2,
     "batchSize": 8,
-    "maxEvaluationsPerRun": 80,
+    "maxClassificationsPerRun": 80,
     "maxDescriptionChars": 700,
-    "timeoutMs": 60000
-  },
-  "scoring": {
-    "minScoreToKeep": 0,
-    "recalculateOnPriceChange": true
+    "timeoutMs": 60000,
+    "reasoningEffort": ""
   },
   "output": {
     "maxDeals": 600,
@@ -100,6 +97,10 @@
   },
   "state": {
     "maxSeenIds": 40000
+  },
+  "database": {
+    "maxEntries": 20000,
+    "maxAgeDays": 90
   },
   "http": {
     "requestDelayMs": 1200,

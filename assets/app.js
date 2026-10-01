@@ -6,15 +6,6 @@
   const DATA_URL = 'data/deals.json';
   const META_URL = 'data/meta.json';
   const LAST_VISIT_KEY = 'anzeigenpiraten:lastVisit:v1';
-
-  const VERDICT_LABELS = {
-    top: 'Top-Deal',
-    good: 'Guter Deal',
-    fair: 'Marktüblich',
-    overpriced: 'Zu teuer',
-    unknown: 'Unbewertet',
-  };
-
   const state = {
     deals: [],
     queries: [],
@@ -22,8 +13,8 @@
     lastVisit: null,
     search: '',
     queryId: '',
-    minScore: 0,
-    sort: 'score',
+    productKey: '',
+    sort: 'new',
     onlyNew: false,
   };
 
@@ -35,8 +26,7 @@
     empty: document.getElementById('empty'),
     search: document.getElementById('q'),
     query: document.getElementById('query'),
-    minScore: document.getElementById('minScore'),
-    minScoreOut: document.getElementById('minScoreOut'),
+    product: document.getElementById('product'),
     sort: document.getElementById('sort'),
     onlyNew: document.getElementById('onlyNew'),
     reset: document.getElementById('reset'),
@@ -68,6 +58,26 @@
 
   const formatPrice = (value) => (Number.isFinite(value) ? euro.format(value) : 'Preis unbekannt');
 
+  function comparisonSummary(comparison) {
+    if (!comparison) return '';
+    if (comparison.status === 'insufficient_data') {
+      const count = comparison.comparableCount ?? 0;
+      return `<p class="card__comparison">${count} vergleichbare Anzeige${count === 1 ? '' : 'n'} in der Preisdatenbank; mindestens ${comparison.minComparables ?? 3} für einen Vergleich nötig.</p>`;
+    }
+    const labels = {
+      below_observed_range: 'Unter dem beobachteten Preisbereich',
+      within_observed_range: 'Im beobachteten Preisbereich',
+      above_observed_range: 'Über dem beobachteten Preisbereich',
+    };
+    const delta = Number.isFinite(comparison.differencePct)
+      ? ` (${comparison.differencePct > 0 ? '+' : ''}${comparison.differencePct}% zum Median)`
+      : '';
+    const range = Number.isFinite(comparison.p25) && Number.isFinite(comparison.p75)
+      ? ` · mittlere Spanne ${formatPrice(comparison.p25)}–${formatPrice(comparison.p75)}`
+      : '';
+    return `<p class="card__comparison">${escapeHtml(labels[comparison.status] ?? 'Preisvergleich')}${delta} · Median ${escapeHtml(formatPrice(comparison.median))}${escapeHtml(range)} aus ${comparison.comparableCount} anderen Anzeigen</p>`;
+  }
+
   const formatDateTime = (iso) => {
     const date = iso ? new Date(iso) : null;
     return date && !Number.isNaN(date.getTime()) ? dateTime.format(date) : '–';
@@ -84,14 +94,6 @@
     const days = Math.round(hours / 24);
     if (Math.abs(days) < 30) return relative.format(days, 'day');
     return relative.format(Math.round(days / 30), 'month');
-  }
-
-  function scoreTier(score) {
-    if (!Number.isFinite(score)) return 'unknown';
-    if (score >= 85) return 'top';
-    if (score >= 70) return 'good';
-    if (score >= 50) return 'fair';
-    return 'overpriced';
   }
 
   function isNew(deal) {
@@ -129,13 +131,29 @@
     el.query.innerHTML = `<option value="">Alle Kategorien</option>${options}`;
   }
 
+  function populateProductFilter() {
+    const products = new Map();
+    for (const deal of state.deals) {
+      const product = deal.product;
+      if (!product?.key || product.key === 'unknown') continue;
+      const current = products.get(product.key) ?? { name: String(product.name ?? 'Unbekannt'), count: 0 };
+      current.count += 1;
+      products.set(product.key, current);
+    }
+    const options = [...products.entries()]
+      .sort((a, b) => a[1].name.localeCompare(b[1].name, 'de'))
+      .map(([key, product]) => `<option value="${escapeHtml(key)}">${escapeHtml(product.name)} (${product.count})</option>`)
+      .join('');
+    el.product.innerHTML = `<option value="">Alle Produkte</option>${options}`;
+  }
+
   function currentDeals() {
     const needle = state.search.trim().toLowerCase();
 
     const filtered = state.deals.filter((deal) => {
       if (state.queryId && deal.queryId !== state.queryId) return false;
+      if (state.productKey && deal.product?.key !== state.productKey) return false;
       if (state.onlyNew && !isNew(deal)) return false;
-      if (state.minScore > 0 && !(Number(deal.ai?.dealScore) >= state.minScore)) return false;
       if (!needle) return true;
 
       const haystack = [
@@ -143,6 +161,9 @@
         deal.description,
         deal.location,
         deal.queryLabel,
+        deal.product?.name,
+        deal.product?.category,
+        deal.product?.variant,
         deal.priceRaw,
       ].join(' ').toLowerCase();
 
@@ -150,33 +171,26 @@
     });
 
     const priceOf = (deal) => (Number.isFinite(deal.price) ? deal.price : Number.POSITIVE_INFINITY);
-    const scoreOf = (deal) => (Number.isFinite(deal.ai?.dealScore) ? deal.ai.dealScore : -1);
-    const savingsOf = (deal) => (Number.isFinite(deal.ai?.savingsPct) ? deal.ai.savingsPct : -999);
     const seenOf = (deal) => new Date(deal.firstSeenAt ?? 0).getTime();
 
     const sorters = {
-      score: (a, b) => scoreOf(b) - scoreOf(a) || seenOf(b) - seenOf(a),
       new: (a, b) => seenOf(b) - seenOf(a),
-      savings: (a, b) => savingsOf(b) - savingsOf(a),
       price_asc: (a, b) => priceOf(a) - priceOf(b),
       price_desc: (a, b) => priceOf(b) - priceOf(a),
     };
 
-    return filtered.sort(sorters[state.sort] ?? sorters.score);
+    return filtered.sort(sorters[state.sort] ?? sorters.new);
   }
 
   function renderStats() {
-    const scored = state.deals.filter((deal) => Number.isFinite(deal.ai?.dealScore));
-    const top = scored.filter((deal) => deal.ai.verdict === 'top').length;
     const fresh = state.deals.filter(isNew).length;
-    const avg = scored.length
-      ? Math.round(scored.reduce((sum, deal) => sum + deal.ai.dealScore, 0) / scored.length)
-      : null;
+    const products = new Set(state.deals.map((deal) => deal.product?.key).filter((key) => key && key !== 'unknown'));
+    const classified = state.deals.filter((deal) => deal.product?.key && deal.product.key !== 'unknown').length;
 
     const cards = [
       ['Anzeigen im Feed', String(state.deals.length)],
-      ['Top-Deals', String(top)],
-      ['Ø Deal-Score', avg == null ? '–' : String(avg)],
+      ['Erkannte Produkte', String(products.size)],
+      ['Zugeordnet', `${classified} / ${state.deals.length}`],
       ['Neu seit letztem Besuch', String(fresh)],
     ];
 
@@ -190,8 +204,6 @@
   }
 
   function renderCard(deal) {
-    const ai = deal.ai ?? {};
-    const tier = scoreTier(ai.dealScore);
     const badges = [];
 
     if (isNew(deal)) badges.push('<span class="chip chip--new">Neu</span>');
@@ -199,13 +211,7 @@
     if (deal.priceTags?.negotiable) badges.push('<span class="chip">VB</span>');
     if (deal.stale) badges.push('<span class="chip chip--muted">nicht mehr gefunden</span>');
 
-    const savings = Number.isFinite(ai.savingsPct) && ai.savingsPct > 0
-      ? `<span class="savings">−${ai.savingsPct}% ggü. Marktwert</span>`
-      : '';
-
-    const fair = Number.isFinite(ai.fairPrice) && ai.fairPrice > 0
-      ? `<span class="fair">Fair: ${escapeHtml(formatPrice(ai.fairPrice))}</span>`
-      : '';
+    const product = deal.product ?? {};
 
     const image = deal.image
       ? `<img src="${escapeHtml(deal.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`
@@ -213,36 +219,31 @@
 
     return `
       <article class="card" data-id="${escapeHtml(deal.id)}" tabindex="0" role="button"
-               aria-label="${escapeHtml(deal.title)} – Deal-Score ${escapeHtml(String(ai.dealScore ?? '?'))}">
+               aria-label="${escapeHtml(deal.title)} – Produkt: ${escapeHtml(product.name ?? 'unbekannt')}">
         <div class="card__media">
           ${image}
-          <span class="score score--${tier}" title="Deal-Score">
-            <strong>${escapeHtml(ai.dealScore == null ? '?' : String(ai.dealScore))}</strong>
-            <small>Score</small>
-          </span>
-          <span class="verdict verdict--${tier}">${escapeHtml(VERDICT_LABELS[ai.verdict] ?? VERDICT_LABELS.unknown)}</span>
+          <span class="verdict verdict--fair">${escapeHtml(product.category ?? 'Produkt offen')}</span>
         </div>
 
         <div class="card__body">
           <div class="card__badges">${badges.join('')}</div>
           <h2 class="card__title">${escapeHtml(deal.title || 'Ohne Titel')}</h2>
 
+          <p class="card__product">${escapeHtml(product.name ?? 'Produkt noch nicht erkannt')}${product.variant ? ` · ${escapeHtml(product.variant)}` : ''}</p>
+
           <p class="card__price">
             <strong>${escapeHtml(deal.priceRaw || formatPrice(deal.price))}</strong>
-            ${savings}
           </p>
-          <p class="card__sub">${fair}</p>
+          ${comparisonSummary(deal.priceComparison)}
 
           <p class="card__meta">
             <span>📍 ${escapeHtml(deal.location || 'Ort unbekannt')}</span>
             <span>🕒 ${escapeHtml(formatRelative(deal.postedAt || deal.firstSeenAt))}</span>
           </p>
 
-          ${ai.reasoning ? `<p class="card__reasoning">🤖 ${escapeHtml(ai.reasoning)}</p>` : ''}
-
           <div class="card__footer">
             <span class="tag">${escapeHtml(deal.queryLabel || '')}</span>
-            <span class="engine">${escapeHtml(ai.engine ?? '')}</span>
+            <span class="engine">${product.confidence ? `${Math.round(product.confidence * 100)}% sicher` : ''}</span>
           </div>
         </div>
       </article>`;
@@ -257,7 +258,7 @@
     if (!deals.length) {
       el.empty.hidden = false;
       el.empty.textContent = state.deals.length
-        ? 'Keine Anzeige passt zu deinen Filtern. Setze die Filter zurück oder senke den Mindest-Score.'
+        ? 'Keine Anzeige passt zu deinen Filtern. Setze die Filter zurück.'
         : 'Noch keine Daten vorhanden. Der erste Scan-Lauf füllt data/deals.json automatisch.';
     } else {
       el.empty.hidden = true;
@@ -267,17 +268,8 @@
   }
 
   function openDetail(deal) {
-    const ai = deal.ai ?? {};
-    const tier = scoreTier(ai.dealScore);
     const attributes = Object.entries(deal.attributes ?? {});
-
-    const redFlags = (ai.redFlags ?? []).length
-      ? `<ul class="detail__flags">${ai.redFlags.map((flag) => `<li>${escapeHtml(flag)}</li>`).join('')}</ul>`
-      : '<p class="detail__muted">Keine Warnsignale erkannt.</p>';
-
-    const highlights = (ai.highlights ?? []).length
-      ? `Auffälligkeiten: ${escapeHtml(ai.highlights.join(', '))}.`
-      : '';
+    const product = deal.product ?? {};
 
     const history = (deal.priceHistory ?? []);
     const historyHtml = history.length > 1
@@ -302,33 +294,27 @@
 
       <div class="detail__content">
         <div class="detail__head">
-          <span class="score score--${tier}">
-            <strong>${escapeHtml(ai.dealScore == null ? '?' : String(ai.dealScore))}</strong>
-            <small>Score</small>
-          </span>
           <div>
-            <span class="verdict verdict--${tier}">${escapeHtml(VERDICT_LABELS[ai.verdict] ?? VERDICT_LABELS.unknown)}</span>
+            <span class="verdict verdict--fair">${escapeHtml(product.category ?? 'Produkt offen')}</span>
             <h3 id="detailTitle">${escapeHtml(deal.title || 'Ohne Titel')}</h3>
           </div>
         </div>
 
         <p class="detail__price">${escapeHtml(deal.priceRaw || formatPrice(deal.price))}</p>
 
+        <h4>Produktzuordnung</h4>
+        <p><strong>${escapeHtml(product.name ?? 'Produkt noch nicht erkannt')}</strong></p>
+        ${product.variant ? `<p>Ausführung: ${escapeHtml(product.variant)}</p>` : ''}
+        <p class="detail__muted">${product.confidence ? `${Math.round(product.confidence * 100)} % Zuordnungssicherheit` : 'Keine sichere Zuordnung'}</p>
+        <h4>Preisvergleich für dieses Produkt</h4>
+        ${comparisonSummary(deal.priceComparison) || '<p class="detail__muted">Noch keine Preisdaten vorhanden.</p>'}
+
         <dl class="detail__facts">
-          <div><dt>Fairer Marktwert</dt><dd>${escapeHtml(formatPrice(ai.fairPrice))}</dd></div>
-          <div><dt>Ersparnis</dt><dd>${Number.isFinite(ai.savingsPct) ? `${ai.savingsPct} %` : '–'}</dd></div>
+          <div><dt>Suchauftrag</dt><dd>${escapeHtml(deal.queryLabel || '–')}</dd></div>
           <div><dt>Ort</dt><dd>${escapeHtml(deal.location || '–')}</dd></div>
           <div><dt>Inseriert</dt><dd>${escapeHtml(formatDateTime(deal.postedAt))}</dd></div>
           <div><dt>Gefunden</dt><dd>${escapeHtml(formatDateTime(deal.firstSeenAt))}</dd></div>
-          <div><dt>Bewertung</dt><dd>${escapeHtml(ai.engine ?? '–')}</dd></div>
         </dl>
-
-        <h4>KI-Bewertung</h4>
-        <p>${escapeHtml(ai.reasoning || 'Keine Begründung verfügbar.')}</p>
-        ${highlights ? `<p class="detail__muted">${highlights}</p>` : ''}
-
-        <h4>Warnsignale</h4>
-        ${redFlags}
 
         ${attributesHtml}
         ${historyHtml}
@@ -361,14 +347,12 @@
   function setStatus(meta) {
     const engine = meta?.engine ?? '–';
     const friendly = engine.startsWith('ai:')
-      ? `KI (${engine.slice(3)})`
-      : (meta?.aiConfigured
-        ? 'Heuristik (KI nicht verfügbar)'
-        : 'Heuristik (kein KI-Schlüssel hinterlegt)');
+      ? `Produkt-KI (${engine.slice(3)})`
+      : 'Produkte nicht automatisch zugeordnet';
 
     el.status.innerHTML = `Letzter Scan: <strong>${escapeHtml(formatDateTime(meta?.generatedAt ?? state.generatedAt))}</strong>`;
     el.statusSub.textContent = [
-      `Bewertung: ${friendly}`,
+      `Produktzuordnung: ${friendly}`,
       Number.isFinite(meta?.fetchedListings) ? `${meta.fetchedListings} Anzeigen geprüft` : null,
       Number.isFinite(meta?.newDeals) ? `${meta.newDeals} neu` : null,
       Number.isFinite(meta?.durationMs) ? `in ${(meta.durationMs / 1000).toFixed(1)}s` : null,
@@ -391,9 +375,8 @@
       render();
     });
 
-    el.minScore.addEventListener('input', () => {
-      state.minScore = Number(el.minScore.value);
-      el.minScoreOut.textContent = el.minScore.value;
+    el.product.addEventListener('change', () => {
+      state.productKey = el.product.value;
       render();
     });
 
@@ -410,15 +393,14 @@
     el.reset.addEventListener('click', () => {
       state.search = '';
       state.queryId = '';
-      state.minScore = 0;
-      state.sort = 'score';
+      state.productKey = '';
+      state.sort = 'new';
       state.onlyNew = false;
 
       el.search.value = '';
       el.query.value = '';
-      el.minScore.value = '0';
-      el.minScoreOut.textContent = '0';
-      el.sort.value = 'score';
+      el.product.value = '';
+      el.sort.value = 'new';
       el.onlyNew.checked = false;
 
       render();
@@ -461,6 +443,7 @@
       state.generatedAt = data.generatedAt ?? null;
 
       populateQueryFilter();
+      populateProductFilter();
       setStatus(meta ?? { generatedAt: state.generatedAt, engine: data.engine });
       render();
 
@@ -471,8 +454,7 @@
       el.statusSub.textContent = String(error.message ?? error);
       el.empty.hidden = false;
       el.empty.innerHTML = `Die Datei <code>data/deals.json</code> ist nicht erreichbar.<br>`
-        + `Starte den Workflow <em>„AnzeigenPiraten Scan“</em> in GitHub Actions oder führe `
-        + `<code>npm run scan</code> in <code>scripts/</code> lokal aus.`;
+        + `Der gemeinsame Deal-Feed ist gerade nicht verfügbar. Bitte versuche es später erneut.`;
     }
   }
 

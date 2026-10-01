@@ -107,6 +107,64 @@ code {
 .status { margin: 0; font-size: 0.95rem; }
 .status--sub { color: var(--text-faint); font-size: 0.82rem; margin-top: 4px; }
 
+/* ------------------------------------------------- evaluation toggle (top) -- */
+.hero__eval {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  max-width: 1400px;
+  margin: 22px auto 0;
+}
+
+.hero__eval-label {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-faint);
+}
+
+.segmented {
+  display: inline-flex;
+  gap: 4px;
+  padding: 4px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+
+.segmented__btn {
+  appearance: none;
+  padding: 7px 16px;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-dim);
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.18s ease, color 0.18s ease;
+}
+
+.segmented__btn:hover { color: var(--text); }
+
+.segmented__btn.is-active {
+  color: #04121f;
+  background: linear-gradient(92deg, var(--accent), var(--accent-2));
+}
+
+.segmented__btn:focus-visible {
+  outline: 2px solid rgba(56, 189, 248, 0.55);
+  outline-offset: 2px;
+}
+
+.hero__eval-hint {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--text-faint);
+}
+
 .stats {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -575,4 +633,18 @@ input[type="range"] {
 @media (prefers-color-scheme: light) {
   /* The brand is intentionally dark; keep contrast predictable. */
   :root { color-scheme: dark; }
+}
+
+.card__product {
+  margin: 0.35rem 0 0.6rem;
+  color: var(--accent, #7dd3fc);
+  font-size: 0.9rem;
+  font-weight: 650;
+}
+
+.card__comparison {
+  margin: 0.4rem 0 0;
+  color: var(--text-faint);
+  font-size: 0.78rem;
+  line-height: 1.4;
 }

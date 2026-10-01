@@ -250,6 +250,13 @@ async function callChatCompletion({ config, items, logContext }) {
     ],
   };
 
+  // Ollama (and some other providers) disable the slow "thinking" mode of
+  // models like qwen3 when reasoning_effort is set to "none". Providers that do
+  // not understand the field are only affected when it is explicitly configured.
+  if (config.ai.reasoningEffort) {
+    body.reasoning_effort = config.ai.reasoningEffort;
+  }
+
   const response = await fetch(endpoint, {
     method: 'POST',
     headers: {
@@ -302,23 +309,54 @@ function normaliseAiEvaluation(entry, engine, price) {
   };
 }
 
+/** Reads a cached evaluation out of either a Map or a plain object. */
+function lookupKnown(known, id) {
+  if (!known) return null;
+  if (known instanceof Map) return known.get(String(id)) ?? null;
+  return known[String(id)] ?? null;
+}
+
 /**
  * Evaluates a batch of listings.
+ *
+ * Every item always receives a deterministic heuristic evaluation; the AI is
+ * only consulted for items that are not already covered by `knownEvaluations`
+ * (i.e. the persistent price database). This is what makes "only evaluate what
+ * is not in the DB yet" work.
  *
  * @param {object} params
  * @param {Array<{listing: object, priceChanged?: boolean, isNew?: boolean}>} params.items
  * @param {Record<string, object>} params.marketByQuery
  * @param {object} params.config
- * @returns {Promise<{ results: Map<string, object>, engine: string, aiUsed: boolean, errors: string[] }>}
+ * @param {Map<string, object>|Record<string, object>|null} [params.knownEvaluations]
+ * @returns {Promise<{
+ *   results: Map<string, object>,
+ *   heuristicResults: Map<string, object>,
+ *   aiEvaluations: Map<string, object>,
+ *   engine: string,
+ *   aiUsed: boolean,
+ *   reused: number,
+ *   errors: string[],
+ * }>}
  */
-export async function evaluateListings({ items, marketByQuery, config }) {
+export async function evaluateListings({ items, marketByQuery, config, knownEvaluations = null }) {
   const results = new Map();
+  const heuristicResults = new Map();
+  const aiEvaluations = new Map();
   const errors = [];
   const aiEnabled = Boolean(config.ai.enabled && config.ai.apiKey);
   const engineName = `ai:${config.ai.model}`;
 
   if (!items.length) {
-    return { results, engine: aiEnabled ? engineName : 'heuristic', aiUsed: false, errors };
+    return {
+      results,
+      heuristicResults,
+      aiEvaluations,
+      engine: aiEnabled ? engineName : 'heuristic',
+      aiUsed: false,
+      reused: 0,
+      errors,
+    };
   }
 
   const indexed = items.map((item, index) => ({
@@ -326,12 +364,21 @@ export async function evaluateListings({ items, marketByQuery, config }) {
     listing: item.listing,
     market: marketByQuery?.[item.listing.queryId] ?? null,
     maxDescriptionChars: config.ai.maxDescriptionChars,
+    known: lookupKnown(knownEvaluations, item.listing.id),
   }));
 
+  // The heuristic is free and deterministic, so every item gets one.
+  for (const item of indexed) {
+    heuristicResults.set(item.listing.id, heuristicEvaluate(item.listing, marketByQuery));
+  }
+
   let aiUsed = false;
+  let reused = 0;
 
   if (aiEnabled) {
-    for (const batch of chunk(indexed, config.ai.batchSize)) {
+    const fresh = indexed.filter((item) => !item.known);
+
+    for (const batch of chunk(fresh, config.ai.batchSize)) {
       try {
         const evaluations = await callChatCompletion({
           config,
@@ -343,10 +390,9 @@ export async function evaluateListings({ items, marketByQuery, config }) {
           const target = batch.find((item) => item.index === Number(evaluation?.index))
             ?? batch.find((item) => String(evaluation?.id) === item.listing.id);
           if (!target) continue;
-          results.set(
-            target.listing.id,
-            normaliseAiEvaluation(evaluation, engineName, target.listing.price),
-          );
+          const normalised = normaliseAiEvaluation(evaluation, engineName, target.listing.price);
+          results.set(target.listing.id, normalised);
+          aiEvaluations.set(target.listing.id, normalised);
         }
         aiUsed = true;
       } catch (error) {
@@ -354,17 +400,27 @@ export async function evaluateListings({ items, marketByQuery, config }) {
         log(`AI batch failed: ${error.message}`);
       }
     }
+
+    // Listings already present in the price database reuse their stored verdict.
+    for (const item of indexed) {
+      if (!item.known) continue;
+      results.set(item.listing.id, item.known);
+      reused += 1;
+    }
   }
 
   for (const item of indexed) {
     if (results.has(item.listing.id)) continue;
-    results.set(item.listing.id, heuristicEvaluate(item.listing, marketByQuery));
+    results.set(item.listing.id, heuristicResults.get(item.listing.id));
   }
 
   return {
     results,
-    engine: aiUsed ? engineName : 'heuristic',
+    heuristicResults,
+    aiEvaluations,
+    engine: (aiUsed || reused > 0) ? engineName : 'heuristic',
     aiUsed,
+    reused,
     errors,
   };
 }

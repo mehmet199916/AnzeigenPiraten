@@ -184,3 +184,109 @@ test('evaluateListings skips the AI entirely when no API key is configured', asy
     server.close();
   }
 });
+
+test('evaluateListings returns the heuristic for every item and the fresh AI evaluations', async () => {
+  const { server, port } = await startMockServer((req, res) => {
+    let body = '';
+    req.on('data', (chunk) => { body += chunk; });
+    req.on('end', () => {
+      const parsed = JSON.parse(body);
+      const userPayload = JSON.parse(parsed.messages[1].content);
+      const evaluations = userPayload.angebote.map((offer, index) => ({
+        index,
+        dealScore: 80,
+        verdict: 'good',
+        fairPrice: 400,
+        reasoning: 'ok',
+        redFlags: [],
+      }));
+      res.writeHead(200, { 'content-type': 'application/json' });
+      res.end(JSON.stringify({ choices: [{ message: { content: JSON.stringify({ evaluations }) } }] }));
+    });
+  });
+
+  try {
+    const result = await evaluateListings({
+      items: [{ listing: sampleListings()[0] }],
+      marketByQuery: MARKET,
+      config: configFor(port),
+    });
+
+    assert.equal(result.heuristicResults.size, 1);
+    assert.equal(result.heuristicResults.get('a').engine, 'heuristic');
+    assert.equal(result.aiEvaluations.size, 1);
+    assert.equal(result.aiEvaluations.get('a').engine, 'ai:mock-model');
+    assert.equal(result.results.get('a').engine, 'ai:mock-model');
+    assert.equal(result.reused, 0);
+  } finally {
+    server.close();
+  }
+});
+
+test('evaluateListings forwards reasoning_effort only when configured', async () => {
+  const requests = [];
+
+  const { server, port } = await startMockServer((req, res) => {
+    let body = '';
+    req.on('data', (chunk) => { body += chunk; });
+    req.on('end', () => {
+      requests.push(JSON.parse(body));
+      res.writeHead(200, { 'content-type': 'application/json' });
+      res.end(JSON.stringify({ choices: [{ message: { content: JSON.stringify({ evaluations: [] }) } }] }));
+    });
+  });
+
+  try {
+    await evaluateListings({
+      items: [{ listing: sampleListings()[0] }],
+      marketByQuery: MARKET,
+      config: configFor(port, { reasoningEffort: 'none' }),
+    });
+    assert.equal(requests[0].reasoning_effort, 'none');
+
+    requests.length = 0;
+    await evaluateListings({
+      items: [{ listing: sampleListings()[0] }],
+      marketByQuery: MARKET,
+      config: configFor(port, { reasoningEffort: '' }),
+    });
+    assert.equal('reasoning_effort' in requests[0], false);
+  } finally {
+    server.close();
+  }
+});
+
+test('evaluateListings reuses known evaluations instead of calling the AI', async () => {
+  let calls = 0;
+  const { server, port } = await startMockServer((req, res) => {
+    calls += 1;
+    req.resume();
+    res.writeHead(200, { 'content-type': 'application/json' });
+    res.end(JSON.stringify({ choices: [{ message: { content: JSON.stringify({ evaluations: [] }) } }] }));
+  });
+
+  try {
+    const known = new Map([
+      ['a', { dealScore: 12, verdict: 'overpriced', fairPrice: 50, engine: 'ai:cached', evaluatedAt: 'x' }],
+    ]);
+    const result = await evaluateListings({
+      items: sampleListings().map((listing) => ({ listing })),
+      marketByQuery: MARKET,
+      config: configFor(port),
+      knownEvaluations: known,
+    });
+
+    // Only b and c are unknown => a single batch with batchSize 2.
+    assert.equal(calls, 1);
+    assert.equal(result.reused, 1);
+    assert.equal(result.results.get('a').engine, 'ai:cached');
+    assert.equal(result.results.get('a').dealScore, 12);
+    // The heuristic is still produced for every item, cached or not.
+    assert.equal(result.heuristicResults.size, 3);
+    assert.equal(result.heuristicResults.get('a').engine, 'heuristic');
+    // Only freshly produced AI verdicts are handed back for persistence.
+    assert.equal(result.aiEvaluations.has('a'), false);
+  } finally {
+    server.close();
+  }
+});

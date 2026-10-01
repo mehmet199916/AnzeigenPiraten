@@ -21,13 +21,11 @@ export const CONFIG_DEFAULTS = {
     model: 'gpt-4o-mini',
     temperature: 0.2,
     batchSize: 8,
-    maxEvaluationsPerRun: 80,
+    maxClassificationsPerRun: 80,
     maxDescriptionChars: 700,
     timeoutMs: 60000,
-  },
-  scoring: {
-    minScoreToKeep: 0,
-    recalculateOnPriceChange: true,
+    // Optional reasoning_effort for OpenAI-compatible classification endpoints.
+    reasoningEffort: '',
   },
   output: {
     maxDeals: 600,
@@ -35,6 +33,10 @@ export const CONFIG_DEFAULTS = {
   },
   state: {
     maxSeenIds: 40000,
+  },
+  database: {
+    maxEntries: 20000,
+    maxAgeDays: 90,
   },
 };
 
@@ -79,6 +81,15 @@ export function normaliseSearch(search, index) {
   };
 }
 
+function isLoopbackUrl(value) {
+  try {
+    const { hostname } = new URL(value);
+    return hostname === 'localhost' || hostname === '::1' || /^127(?:\.\d{1,3}){3}$/.test(hostname);
+  } catch {
+    return false;
+  }
+}
+
 /**
  * @param {string} configPath absolute path to the JSON config file
  * @param {NodeJS.ProcessEnv} [env]
@@ -93,6 +104,10 @@ export async function loadConfig(configPath, env = process.env) {
   config.ai.baseUrl = String(env.AI_BASE_URL || config.ai.baseUrl).replace(/\/+$/, '');
   config.ai.model = String(env.AI_MODEL || config.ai.model);
   config.ai.apiKey = String(env.AI_API_KEY || env.OPENAI_API_KEY || '');
+  config.ai.reasoningEffort = String(env.AI_REASONING_EFFORT || config.ai.reasoningEffort || '');
+  // Ollama ignores the bearer token, but the shared AI path uses a non-empty
+  // key as its enabled signal. Only supply a placeholder for loopback hosts.
+  if (!config.ai.apiKey && isLoopbackUrl(config.ai.baseUrl)) config.ai.apiKey = 'ollama';
   config.ai.enabled = Boolean(config.ai.enabled);
 
   return config;

@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AnzeigenPiraten – Kleinanzeigen Deal-Finder mit KI-Bewertung</title>
-  <meta name="description" content="Automatisch gescannte Kleinanzeigen-Deals, bewertet von einer KI: Deal-Score, fairer Marktwert, Ersparnis und Warnsignale – komplett statisch über GitHub Pages.">
+  <title>AnzeigenPiraten – Deals zentral entdecken</title>
+  <meta name="description" content="Finde aktuelle Kleinanzeigen-Angebote zentral an einem Ort. Durchsuche Angebote und erkenne automatisch, um welches Produkt es sich handelt.">
   <meta name="color-scheme" content="dark light">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏴‍☠️</text></svg>">
   <link rel="stylesheet" href="assets/styles.css">
@@ -18,7 +18,7 @@
         <span class="brand__logo" aria-hidden="true">🏴‍☠️</span>
         <div class="brand__text">
           <h1>Anzeigen<span>Piraten</span></h1>
-          <p class="tagline">Automatischer Kleinanzeigen-Deal-Finder mit KI-Bewertung</p>
+      <p class="tagline">Anzeigen finden. Produkte erkennen. Preise später vergleichen.</p>
         </div>
       </div>
 
@@ -34,28 +34,28 @@
   <main class="layout">
     <section class="controls" aria-label="Filter und Sortierung">
       <div class="field field--grow">
-        <label for="q">Suche</label>
-        <input id="q" type="search" placeholder="Titel, Beschreibung, Ort …" autocomplete="off" spellcheck="false">
+        <label for="q">Was suchst du?</label>
+        <input id="q" type="search" placeholder="z. B. E-Bike, iPhone oder Kamera …" autocomplete="off" spellcheck="false">
       </div>
 
       <div class="field">
-        <label for="query">Kategorie</label>
+        <label for="query">Suchauftrag</label>
         <select id="query">
           <option value="">Alle Kategorien</option>
         </select>
       </div>
 
       <div class="field">
-        <label for="minScore">Min. Deal-Score: <output id="minScoreOut">0</output></label>
-        <input id="minScore" type="range" min="0" max="95" step="5" value="0">
+        <label for="product">Erkanntes Produkt</label>
+        <select id="product">
+          <option value="">Alle Produkte</option>
+        </select>
       </div>
 
       <div class="field">
         <label for="sort">Sortierung</label>
         <select id="sort">
-          <option value="score">Deal-Score (hoch → niedrig)</option>
           <option value="new">Zuletzt gefunden</option>
-          <option value="savings">Größte Ersparnis</option>
           <option value="price_asc">Preis aufsteigend</option>
           <option value="price_desc">Preis absteigend</option>
         </select>
@@ -77,9 +77,9 @@
 
   <footer class="footer">
     <p>
-      <strong>AnzeigenPiraten</strong> – statisches GitHub-Pages-Frontend.
-      Ein geplanter GitHub-Actions-Workflow scannt Kleinanzeigen, bewertet neue
-      Anzeigen per KI und schreibt die Ergebnisse in <code>data/deals.json</code>.
+      <strong>AnzeigenPiraten</strong> ist eine zentrale Deal-Seite: Alle Besucher
+      finden Angebote im gemeinsamen Feed und filtern ihn direkt hier. Die
+      Suchfilter gelten nur für deinen aktuellen Besuch.
     </p>
     <p class="footer__meta" id="footerMeta"></p>
     <p class="footer__legal">

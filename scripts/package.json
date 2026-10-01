@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Scheduled Kleinanzeigen scanner with AI deal evaluation for AnzeigenPiraten.",
+  "description": "Scheduled Kleinanzeigen scanner with AI product classification for AnzeigenPiraten.",
   "engines": {
     "node": ">=20"
   },
   "scripts": {
     "scan": "node scan.mjs",
+    "scan:local": "node scan.mjs --local",
     "test": "node --test test/"
   }
 }
