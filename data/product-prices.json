@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-01T23:48:13.287Z",
+  "updatedAt": "2026-10-01T23:53:06.810Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -16,7 +16,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-512-gb": {
-      "name": "Apple iPhone 13 Pro 512 Gb",
+      "name": "Apple iPhone 13 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": 430,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -52,13 +52,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64 gb",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3851,6 +3851,42 @@
     },
     "polaroid-one-step-flash": {
       "name": "Polaroid One Step Flash",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-touring-hybrid-pro-625": {
+      "name": "Cube Touring Hybrid Pro 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "onesport-ot30-pro": {
+      "name": "OneSport OT30 Pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-12-pro-128-gb": {
+      "name": "iPhone 12 Pro 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rohrreinigung-sanitarmontage": {
+      "name": "Rohrreinigung & Sanitärmontage",
+      "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-5-pro-fly-more-combo": {
+      "name": "DJI Mini 5 Pro Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tarion-pb-02-kamerarucksack": {
+      "name": "TARION PB-02 Kamerarucksack",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
