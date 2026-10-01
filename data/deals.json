@@ -1,102 +1,3759 @@
 {
-  "generatedAt": "2026-10-01T13:38:50.100Z",
+  "generatedAt": "2026-10-01T19:10:32.613Z",
   "engine": "heuristic",
-  "count": 320,
+  "count": 400,
   "queries": [
     {
       "id": "ebike",
       "label": "E-Bikes",
-      "count": 69,
-      "medianPrice": 1199,
-      "marketCount": 79
+      "count": 85,
+      "medianPrice": 1150,
+      "marketCount": 96
     },
     {
       "id": "gpu",
       "label": "Grafikkarten",
-      "count": 36,
-      "medianPrice": 250,
-      "marketCount": 54
+      "count": 46,
+      "medianPrice": 220,
+      "marketCount": 61
     },
     {
       "id": "iphone",
       "label": "iPhone",
-      "count": 77,
-      "medianPrice": 525,
-      "marketCount": 79
+      "count": 102,
+      "medianPrice": 500,
+      "marketCount": 104
     },
     {
       "id": "kamera",
       "label": "Kameras",
-      "count": 59,
-      "medianPrice": 175,
-      "marketCount": 72
+      "count": 69,
+      "medianPrice": 180,
+      "marketCount": 85
     },
     {
       "id": "console",
       "label": "Konsolen",
-      "count": 45,
+      "count": 55,
       "medianPrice": 400,
-      "marketCount": 60
+      "marketCount": 72
     },
     {
       "id": "macbook",
       "label": "MacBook",
-      "count": 34,
-      "medianPrice": 600,
-      "marketCount": 55
+      "count": 43,
+      "medianPrice": 500,
+      "marketCount": 60
     }
   ],
   "market": {
     "ebike": {
-      "count": 79,
-      "median": 1199,
-      "p25": 638,
-      "p75": 1789,
+      "count": 96,
+      "median": 1150,
+      "p25": 619,
+      "p75": 1725,
       "min": 189,
       "max": 2500
     },
     "iphone": {
-      "count": 79,
-      "median": 525,
-      "p25": 305,
-      "p75": 710,
+      "count": 104,
+      "median": 500,
+      "p25": 300,
+      "p75": 725,
       "min": 100,
       "max": 1200
     },
     "macbook": {
-      "count": 55,
-      "median": 600,
-      "p25": 320,
-      "p75": 925,
+      "count": 60,
+      "median": 500,
+      "p25": 300,
+      "p75": 913,
       "min": 175,
-      "max": 1799
+      "max": 1699
     },
     "gpu": {
-      "count": 54,
-      "median": 250,
-      "p25": 135,
-      "p75": 434,
+      "count": 61,
+      "median": 220,
+      "p25": 150,
+      "p75": 350,
       "min": 50,
       "max": 1299
     },
     "console": {
-      "count": 60,
+      "count": 72,
       "median": 400,
-      "p25": 142,
-      "p75": 485,
+      "p25": 100,
+      "p75": 500,
       "min": 50,
       "max": 680
     },
     "kamera": {
-      "count": 72,
-      "median": 175,
+      "count": 85,
+      "median": 180,
       "p25": 100,
-      "p75": 296,
+      "p75": 349,
       "min": 50,
-      "max": 1849
+      "max": 1550
     }
   },
   "deals": [
+    {
+      "id": "3528494552",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "City E-Bike Neuwertig nur 184km - ABUS NP 2400€",
+      "description": "Ich verkaufe mein City E-Bike, das sich in einem hervorragenden, neuwertigen Zustand befindet und...",
+      "price": 1200,
+      "priceRaw": "1.200 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "75172 Pforzheim",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:10:00.000Z",
+      "postedRaw": "Heute, 21:10",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b54d541d-3824-45a0-9ef3-279eff047447?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b54d541d-3824-45a0-9ef3-279eff047447?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494552",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 58,
+        "verdict": "fair",
+        "fairPrice": 1150,
+        "savingsPct": -4,
+        "reasoning": "Marktüblicher Preis (4% über dem Median von 1150 € (96 Angebote)). Positiv: neuwertig.",
+        "redFlags": [],
+        "highlights": [
+          "neuwertig"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 1200,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528494412",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "E-Bike Hercules 28 zoll",
+      "description": "E-Bike Hercules\n28 zoll\nRahmengröße:\n55 cm\nMotor: Bosch Active Line Plus\nAkku:500Wh\nSchaltung:...",
+      "price": 2150,
+      "priceRaw": "2.150 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "49632 Essen (Oldenburg)",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/0004782f-1bf2-4edf-be4b-571d6cf577ab?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/0004782f-1bf2-4edf-be4b-571d6cf577ab?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494412",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 1150,
+        "savingsPct": -87,
+        "reasoning": "Preis wirkt zu hoch (87% über dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 2150,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493900",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "E Bike Telefunken Mittelmotor 29 Zoll 2023",
+      "description": "Zustand: Sehr gut, leichte Gebrauchsspuren, nur 950 km Laufleistung.\nRahmengröße: 50 cm (für...",
+      "price": 670,
+      "priceRaw": "670 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "30926 Seelze",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d54c9386-7e82-47cb-a1f6-906556733f60?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d54c9386-7e82-47cb-a1f6-906556733f60?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493900",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 84,
+        "verdict": "good",
+        "fairPrice": 1150,
+        "savingsPct": 42,
+        "reasoning": "Guter Preis (42% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 670,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493630",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Haibike Alltrack 8.5 E-Mountainbike inkl. Zubehör",
+      "description": "Ich verkaufe mein hochwertiges E-Mountainbike vom Typ Haibike Alltrack 8.5, das mich bisher treu...",
+      "price": 2250,
+      "priceRaw": "2.250 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "57271 Hilchenbach",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87abf39d-3540-4847-98e5-797fff92ea4f?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87abf39d-3540-4847-98e5-797fff92ea4f?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493630",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 1150,
+        "savingsPct": -96,
+        "reasoning": "Preis wirkt zu hoch (96% über dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 2250,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492166",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Fully E Bike Raymon FullRay 130E 4.0 wie neu nur 185km.",
+      "description": "Ich verkaufe kaum gefahrenes, Fully E Bike Raymon FullRay 130E 4.0\nRahmenhöhe 50cm (165-185cm), 29“...",
+      "price": 1490,
+      "priceRaw": "1.490 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "56072 Koblenz",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/4862004d-5131-4ed6-b31a-2eabf5df4f67?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/4862004d-5131-4ed6-b31a-2eabf5df4f67?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492166",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 46,
+        "verdict": "overpriced",
+        "fairPrice": 1150,
+        "savingsPct": -30,
+        "reasoning": "Preis wirkt zu hoch (30% über dem Median von 1150 € (96 Angebote)). Positiv: wie neu.",
+        "redFlags": [],
+        "highlights": [
+          "wie neu"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 1490,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3517724986",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Orbea Rise H10 E MTB",
+      "description": "Zum Verkauf steht mein Orbea Rise Hydro aus 2022. Das Bike wurde stets gepflegt und technisch...",
+      "price": 2499,
+      "priceRaw": "2.499 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "54552 Schalkenmehren",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9161acc-4c18-43d7-9e8b-dc4c85dbfbe9?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9161acc-4c18-43d7-9e8b-dc4c85dbfbe9?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3517724986",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 1150,
+        "savingsPct": -117,
+        "reasoning": "Preis wirkt zu hoch (117% über dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 2499,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491559",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Rockrider 500 ST E-Mountainbike 27,5 Zoll",
+      "description": "Ich verkaufe mein Rockrider 500 E- ST\nE-Mountainbike, da es bei mir leider zu selten zum Einsatz...",
+      "price": 899,
+      "priceRaw": "899 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "44579 Castrop-Rauxel",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:05:00.000Z",
+      "postedRaw": "Heute, 21:05",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59849aec-c9a0-4bce-94e1-356d7f429bb0?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59849aec-c9a0-4bce-94e1-356d7f429bb0?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491559",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 74,
+        "verdict": "good",
+        "fairPrice": 1150,
+        "savingsPct": 22,
+        "reasoning": "Guter Preis (22% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 899,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491445",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "E-bike/MTB 504w/500KM",
+      "description": "Hallo! Ich verkaufe mein E-Bike Zündapp Z808 in sehr gutem Zustand.\nDas Fahrrad wurde 2023 gekauft...",
+      "price": 890,
+      "priceRaw": "890 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "88069 Tettnang",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:05:00.000Z",
+      "postedRaw": "Heute, 21:05",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/006e446f-f591-482f-864c-5571d0adf6e7?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/006e446f-f591-482f-864c-5571d0adf6e7?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491445",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 74,
+        "verdict": "good",
+        "fairPrice": 1150,
+        "savingsPct": 23,
+        "reasoning": "Guter Preis (23% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 890,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491245",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Prophete Dice 1.0 E-Bike 27,5 Zoll -NEU & UNGEFAHREN - RH 48 cm",
+      "description": "Zum Verkauf steht ein neues und ungefahrenes Prophete Dice 1.0 E-MTB.\n\nDas Fahrrad ist neu,...",
+      "price": 899,
+      "priceRaw": "899 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "48282 Emsdetten",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:05:00.000Z",
+      "postedRaw": "Heute, 21:05",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df62d0c5-447b-481b-b939-470d9a742dc9?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df62d0c5-447b-481b-b939-470d9a742dc9?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491245",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 74,
+        "verdict": "good",
+        "fairPrice": 1150,
+        "savingsPct": 22,
+        "reasoning": "Guter Preis (22% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 899,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491154",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Saxxx Trekking e-bike",
+      "description": "Saxxx Trekking S e-bike\nNur Abholung\nInfo siehe Bilder\n\nBei Interesse einfach melden.\n\nDa...",
+      "price": 400,
+      "priceRaw": "400 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "31185 Söhlde",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:05:00.000Z",
+      "postedRaw": "Heute, 21:05",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7423d901-7078-4886-8fa7-9a83e1b76be6?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7423d901-7078-4886-8fa7-9a83e1b76be6?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491154",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 97,
+        "verdict": "top",
+        "fairPrice": 1150,
+        "savingsPct": 65,
+        "reasoning": "Sehr attraktiver Preis (65% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 400,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491134",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Bulls Lacuba E-Bike 51 Zoll, 650 Watt",
+      "description": "Ich biete ein gepflegtes Bulls Lacuba E-Bike mit 650 Watt Motor zum Verkauf an. Das Fahrrad wurde...",
+      "price": 420,
+      "priceRaw": "420 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "26721 Emden",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:05:00.000Z",
+      "postedRaw": "Heute, 21:05",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9cee78d5-e13e-4891-8dc2-9bb6db16ae45?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9cee78d5-e13e-4891-8dc2-9bb6db16ae45?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491134",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 1150,
+        "savingsPct": 63,
+        "reasoning": "Sehr attraktiver Preis (63% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 420,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489122",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Giant Talon E+",
+      "description": "Zum Verkauf steht mein Giant Talon E+, Baujahr 2022. Das Fahrrad befindet sich in einem guten...",
+      "price": 999,
+      "priceRaw": "999 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "76887 Bad Bergzabern",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:02:00.000Z",
+      "postedRaw": "Heute, 21:02",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac086bbd-7cfd-4630-ae53-a2e437bbef53?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac086bbd-7cfd-4630-ae53-a2e437bbef53?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489122",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 63,
+        "verdict": "fair",
+        "fairPrice": 1150,
+        "savingsPct": 13,
+        "reasoning": "Marktüblicher Preis (13% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 999,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488876",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Biete E-Bike, wenig gefahren, 27\" Damen",
+      "description": "Ich verkaufe mein E-Bike, da es leider kaum genutzt wurde und daher in einem fast neuen Zustand...",
+      "price": 750,
+      "priceRaw": "750 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "06237 Leuna",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:02:00.000Z",
+      "postedRaw": "Heute, 21:02",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e455bc05-eb63-4b2c-b7fd-cf10ff6387bc?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e455bc05-eb63-4b2c-b7fd-cf10ff6387bc?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488876",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 80,
+        "verdict": "good",
+        "fairPrice": 1150,
+        "savingsPct": 35,
+        "reasoning": "Guter Preis (35% unter dem Median von 1150 € (96 Angebote)). Positiv: kaum genutzt.",
+        "redFlags": [],
+        "highlights": [
+          "kaum genutzt"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 750,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488727",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Cube E-Bike",
+      "description": "Top gepflegt mit servicebrief rechnung bei Fragen einfach melden kilometerstand ist auf Bild zusehen",
+      "price": 1200,
+      "priceRaw": "1.200 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "99087 Erfurt",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:01:00.000Z",
+      "postedRaw": "Heute, 21:01",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e34846b5-a062-4505-bd16-82fd8b9412e5?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e34846b5-a062-4505-bd16-82fd8b9412e5?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488727",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 58,
+        "verdict": "fair",
+        "fairPrice": 1150,
+        "savingsPct": -4,
+        "reasoning": "Marktüblicher Preis (4% über dem Median von 1150 € (96 Angebote)). Positiv: Kaufbeleg vorhanden.",
+        "redFlags": [],
+        "highlights": [
+          "Kaufbeleg vorhanden"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 1200,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488685",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Mini E-Bike Eigenbau",
+      "description": "Biete hier ein Mini E-Bike aus einem E-Scooter an Zustand gut fährt einwandfrei ladekabel inklusive...",
+      "price": 300,
+      "priceRaw": "300 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "30982 Pattensen",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:01:00.000Z",
+      "postedRaw": "Heute, 21:01",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eb4d0ce-efd0-454b-839f-6a9cad8ed8fa?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eb4d0ce-efd0-454b-839f-6a9cad8ed8fa?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488685",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 97,
+        "verdict": "top",
+        "fairPrice": 1150,
+        "savingsPct": 74,
+        "reasoning": "Sehr attraktiver Preis (74% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 300,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488652",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Fahrrad E Bike Rex Prophete",
+      "description": "Ich biete hier mein E-Bike der Marke Rex zum Verkauf an, das mir bisher gute Dienste geleistet hat....",
+      "price": 300,
+      "priceRaw": "300 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "54597 Weißenseifen, Gem Wallersheim",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:01:00.000Z",
+      "postedRaw": "Heute, 21:01",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb834ecd-645b-4f98-b40c-88e9008e4828?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb834ecd-645b-4f98-b40c-88e9008e4828?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488652",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 97,
+        "verdict": "top",
+        "fairPrice": 1150,
+        "savingsPct": 74,
+        "reasoning": "Sehr attraktiver Preis (74% unter dem Median von 1150 € (96 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 300,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528494653",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 16 Pro Max 256 GB",
+      "description": "VERKAUFE HIER MEINEN TOP GEPFLEGTES IPHONE 16 PRO MAX 256 GB IM TECHNISCH EINWANDFREIEM...",
+      "price": 500,
+      "priceRaw": "500 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "26789 Leer (Ostfriesland)",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:10:00.000Z",
+      "postedRaw": "Heute, 21:10",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e7c4ab9-a2f6-4f09-b9f6-80f6242eb662?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e7c4ab9-a2f6-4f09-b9f6-80f6242eb662?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494653",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 52,
+        "verdict": "fair",
+        "fairPrice": 500,
+        "savingsPct": 0,
+        "reasoning": "Marktüblicher Preis (0% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 500,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3517290541",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 14 128 GB Blau – OVP – voll funktionsfähig",
+      "description": "Verkaufe mein iPhone 14 mit 128 GB Speicher in Blau.\n\nDas iPhone ist technisch einwandfrei und voll...",
+      "price": 229,
+      "priceRaw": "229 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "26133 Oldenburg",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:10:00.000Z",
+      "postedRaw": "Heute, 21:10",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40b850c9-3d6b-4f53-a67f-6939eb4096c6?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40b850c9-3d6b-4f53-a67f-6939eb4096c6?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3517290541",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 98,
+        "verdict": "top",
+        "fairPrice": 500,
+        "savingsPct": 54,
+        "reasoning": "Sehr attraktiver Preis (54% unter dem Median von 500 € (104 Angebote)). Positiv: Originalverpackung.",
+        "redFlags": [],
+        "highlights": [
+          "Originalverpackung"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 229,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528494500",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 16 pro 256 gb",
+      "description": "iPhone 16 pro mit 256 gb Speicherplatz in Titan weiß mit Original Verpackung.\nGuter zustand läuft...",
+      "price": 800,
+      "priceRaw": "800 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "89340 Leipheim",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72be3eae-0985-4903-8d3e-6da1775ca3eb?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72be3eae-0985-4903-8d3e-6da1775ca3eb?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494500",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 36,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -60,
+        "reasoning": "Preis wirkt zu hoch (60% über dem Median von 500 € (104 Angebote)). Positiv: Original.",
+        "redFlags": [],
+        "highlights": [
+          "Original"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 800,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528494211",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 14 Pro mit OVP, Rechnung, Zubehör & Hülle",
+      "description": "Ich verkaufe mein gepflegtes iPhone 14 Pro, das mich treu begleitet hat. Es wurde stets mit einem...",
+      "price": 430,
+      "priceRaw": "430 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "49356 Diepholz",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7a57ff0-3d9f-4f6a-a17e-df0e56dd001b?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7a57ff0-3d9f-4f6a-a17e-df0e56dd001b?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494211",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 75,
+        "verdict": "good",
+        "fairPrice": 500,
+        "savingsPct": 14,
+        "reasoning": "Guter Preis (14% unter dem Median von 500 € (104 Angebote)). Positiv: Originalverpackung, Kaufbeleg vorhanden.",
+        "redFlags": [],
+        "highlights": [
+          "Originalverpackung",
+          "Kaufbeleg vorhanden"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 430,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493992",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 17 256 GB blau neu und versiegelt",
+      "description": "Ich verkaufe hier ein neues und original versiegeltes Apple iPhone 17 in der Farbe Blau mit 256 GB...",
+      "price": 750,
+      "priceRaw": "750 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "22869 Schenefeld",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36b2fd1e-60e8-4644-8706-b759eccc3814?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36b2fd1e-60e8-4644-8706-b759eccc3814?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493992",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 36,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -50,
+        "reasoning": "Preis wirkt zu hoch (50% über dem Median von 500 € (104 Angebote)). Positiv: Original.",
+        "redFlags": [],
+        "highlights": [
+          "Original"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 750,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493870",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "IPhone XR red 128MB TOP! OVP",
+      "description": "Biete ein top gepflegtes IPhone XR red mit 128MB in OVP an. Gratis gibt es einen transparenten...",
+      "price": 115,
+      "priceRaw": "115 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "31832 Springe",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b8a779b-4b87-420c-a708-07bdb387262f?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b8a779b-4b87-420c-a708-07bdb387262f?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493870",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 99,
+        "verdict": "top",
+        "fairPrice": 500,
+        "savingsPct": 77,
+        "reasoning": "Sehr attraktiver Preis (77% unter dem Median von 500 € (104 Angebote)). Positiv: Originalverpackung.",
+        "redFlags": [],
+        "highlights": [
+          "Originalverpackung"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 115,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493670",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 14 Pro Max",
+      "description": "Hiermit verkaufe ich mein IPhone 14 Pro Max. Top Zustand. Hat keine Kratzer. Hier rein paar...",
+      "price": 480,
+      "priceRaw": "480 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "32457 Porta Westfalica",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22ec5825-e5da-4a3e-8d30-9fd689081377?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22ec5825-e5da-4a3e-8d30-9fd689081377?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493670",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 52,
+        "verdict": "fair",
+        "fairPrice": 500,
+        "savingsPct": 4,
+        "reasoning": "Marktüblicher Preis (4% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 480,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493469",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "IPhone 14 Pro 256 GB",
+      "description": "Gebraucht gute Zustand",
+      "price": 439,
+      "priceRaw": "439 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "76133 Karlsruhe",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0b1630a-7f35-4d18-a4b9-f3f44ef19cf3?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0b1630a-7f35-4d18-a4b9-f3f44ef19cf3?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493469",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 63,
+        "verdict": "fair",
+        "fairPrice": 500,
+        "savingsPct": 12,
+        "reasoning": "Marktüblicher Preis (12% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 439,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3527679061",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Apple iPhone 17 Pro 256GB Neu",
+      "description": "Ich verkaufe ein neues Apple iPhone 17 Pro mit 256 GB Speicherplatz. Das Gerät befindet sich noch...",
+      "price": 1200,
+      "priceRaw": "1.200 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "29664 Walsrode",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2825fae9-8b5b-4f42-a90f-060e57a265ae?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2825fae9-8b5b-4f42-a90f-060e57a265ae?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3527679061",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -140,
+        "reasoning": "Preis wirkt zu hoch (140% über dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 1200,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493406",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Apple iPhone 12 Pro 256GB Gold",
+      "description": "Ich verkaufe mein iPhone 12 Pro in der Farbe Gold mit 256 GB Speicherplatz. Das Gerät kommt...",
+      "price": 250,
+      "priceRaw": "250 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "49610 Quakenbrück",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8b4bc65-2d62-4cda-9d59-56b644ecb580?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8b4bc65-2d62-4cda-9d59-56b644ecb580?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493406",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 500,
+        "savingsPct": 50,
+        "reasoning": "Sehr attraktiver Preis (50% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 250,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493385",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Verkaufe iPhone 14 Plus",
+      "description": "Verkaufe iPhone 14 Plus 128 GB mit 85% Akku",
+      "price": 220,
+      "priceRaw": "220 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "52353 Düren",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5fd66d9-5984-4dfa-9c5d-3f7ebee6de1c?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5fd66d9-5984-4dfa-9c5d-3f7ebee6de1c?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493385",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 500,
+        "savingsPct": 56,
+        "reasoning": "Sehr attraktiver Preis (56% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 220,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493183",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Apple iPhone 15, rosa, 1. Hand, sehr guter Zustand",
+      "description": "Ich verkaufe mein iPhone 15 in der Farbe Rosa, welches sich seit dem Kauf in meinem Erstbesitz...",
+      "price": 390,
+      "priceRaw": "390 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "45659 Recklinghausen",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/959babea-8720-49c8-95d7-e8d2b9225fd8?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/959babea-8720-49c8-95d7-e8d2b9225fd8?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493183",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 74,
+        "verdict": "good",
+        "fairPrice": 500,
+        "savingsPct": 22,
+        "reasoning": "Guter Preis (22% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 390,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3516486504",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 16 pro 128 GB",
+      "description": "Verkauft wird mein iPhone 16 Pro in der Farbe Wüstensand.\nAkku 88%\n\nEs befindet sich optisch in...",
+      "price": 580,
+      "priceRaw": "580 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "57258 Freudenberg",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8e6b99b-3590-4edb-98eb-90d1d98d301d?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8e6b99b-3590-4edb-98eb-90d1d98d301d?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3516486504",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 40,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -16,
+        "reasoning": "Preis wirkt zu hoch (16% über dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 580,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492958",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 14 Pro 128gb hinten beschädigt",
+      "description": "Hallo, da ich auf neues Handy zufällig gestiegen bin ist das abzugeben bei Fragen etc....",
+      "price": 333,
+      "priceRaw": "333 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "73035 Göppingen",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37cda04b-1ca1-4cd9-a1bf-d0b6597c640c?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37cda04b-1ca1-4cd9-a1bf-d0b6597c640c?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492958",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 62,
+        "verdict": "fair",
+        "fairPrice": 500,
+        "savingsPct": 33,
+        "reasoning": "Marktüblicher Preis (33% unter dem Median von 500 € (104 Angebote)). Vorsicht: beschädigt.",
+        "redFlags": [
+          "beschädigt"
+        ],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 333,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492536",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 17 512 GB schwarz, neu und versiegelt",
+      "description": "Ich verkaufe hier ein unbenutztes und noch original versiegeltes iPhone 17 in der Farbe Schwarz.\n\n-...",
+      "price": 800,
+      "priceRaw": "800 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "22869 Schenefeld",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1d35490-9b40-42b6-a096-c0f2e90dbb66?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1d35490-9b40-42b6-a096-c0f2e90dbb66?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492536",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 36,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -60,
+        "reasoning": "Preis wirkt zu hoch (60% über dem Median von 500 € (104 Angebote)). Positiv: Original.",
+        "redFlags": [],
+        "highlights": [
+          "Original"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 800,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492528",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Apple iPhone 16 pro mit OVP und Ladekabel",
+      "description": "Ich gebe mein treues Apple iPhone ab, da ich auf ein neueres Modell umgestiegen bin. Es befindet...",
+      "price": 580,
+      "priceRaw": "580 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "07768 Kahla",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c41fd52-2858-465a-863c-42aac87f11c4?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c41fd52-2858-465a-863c-42aac87f11c4?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492528",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 46,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -16,
+        "reasoning": "Preis wirkt zu hoch (16% über dem Median von 500 € (104 Angebote)). Positiv: Originalverpackung.",
+        "redFlags": [],
+        "highlights": [
+          "Originalverpackung"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 580,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492480",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Verkaufe mein iPhone 13 Pro mit 512 GB Speicher.",
+      "description": "Verkaufe mein iPhone 13 Pro mit 512 GB Speicher.\n\nDas iPhone ist technisch voll funktionsfähig....",
+      "price": 270,
+      "priceRaw": "270 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "73614 Schorndorf",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78ba836d-ba92-41f1-8b67-18b4b2f0cdc2?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78ba836d-ba92-41f1-8b67-18b4b2f0cdc2?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492480",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 84,
+        "verdict": "good",
+        "fairPrice": 500,
+        "savingsPct": 46,
+        "reasoning": "Guter Preis (46% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 270,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492456",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Verkaufe mein iPhone 12 128gb",
+      "description": "iPhone 12, 128 GB zu verkaufen. Gerät funktioniert einwandfrei. Das Glas an der Kamera ist...",
+      "price": 150,
+      "priceRaw": "150 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "47169 Marxloh",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b11065a9-a8ff-46c0-a584-fb6bcfc18bff?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b11065a9-a8ff-46c0-a584-fb6bcfc18bff?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492456",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 97,
+        "verdict": "top",
+        "fairPrice": 500,
+        "savingsPct": 70,
+        "reasoning": "Sehr attraktiver Preis (70% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 150,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492404",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 15 Pro",
+      "description": "Top Zustand\nKeine Kratzer oder Gebrauchsspuren\nFunktioniert alles einwandfrei\n93% Akku",
+      "price": 500,
+      "priceRaw": "500 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "22549 Hamburg Osdorf",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6c2155f-fd58-436e-b0f1-fb64c93a9b86?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6c2155f-fd58-436e-b0f1-fb64c93a9b86?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492404",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 52,
+        "verdict": "fair",
+        "fairPrice": 500,
+        "savingsPct": 0,
+        "reasoning": "Marktüblicher Preis (0% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 500,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492343",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 15 Pro - Sehr guter Zustand - 84% Akku",
+      "description": "Ich verkaufe mein iPhone 15 Pro. Das Gerät funktioniert technisch einwandfrei und ist im Alltag...",
+      "price": 499,
+      "priceRaw": "499 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "84032 Landshut",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cc009ff-01ec-4154-905b-9cc1fa7e22fb?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cc009ff-01ec-4154-905b-9cc1fa7e22fb?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492343",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 52,
+        "verdict": "fair",
+        "fairPrice": 500,
+        "savingsPct": 0,
+        "reasoning": "Marktüblicher Preis (0% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 499,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492288",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 17 256 GB",
+      "description": "Aufgrund von Neuanschaffung wird dieses IPhone 17 mit 256 GB Speicher verkauft.\nEs wurde im Apple...",
+      "price": 740,
+      "priceRaw": "740 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "44577 Castrop-Rauxel",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c982cce8-4f26-4187-bdac-bd5a16da46ba?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c982cce8-4f26-4187-bdac-bd5a16da46ba?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492288",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 30,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -48,
+        "reasoning": "Preis wirkt zu hoch (48% über dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 740,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492285",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 11 Pro Max 256GB 81% Akkukapazität",
+      "description": "Ich verkaufe ein IPhone 12 Pro Max mit 256Gb und einer maximalen Akkukapazität von 81%. Das Handy...",
+      "price": 259,
+      "priceRaw": "259 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "87509 Immenstadt",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4517497-35c3-4a27-b6b2-186182fd9168?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4517497-35c3-4a27-b6b2-186182fd9168?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492285",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 84,
+        "verdict": "good",
+        "fairPrice": 500,
+        "savingsPct": 48,
+        "reasoning": "Guter Preis (48% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 259,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492255",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 15 Pro Max",
+      "description": "Verkaufe mein iPhone. Zustand ist sehr gut nur bissel Staub unten :)\nAkku-Kapazität liegt bei...",
+      "price": 600,
+      "priceRaw": "600 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "01723 Wilsdruff",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/4062b43f-cfdb-4ede-998a-fd5cf707ceef?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/4062b43f-cfdb-4ede-998a-fd5cf707ceef?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492255",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 40,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -20,
+        "reasoning": "Preis wirkt zu hoch (20% über dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 600,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492251",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "iPhone 13 Pro 256GB",
+      "description": "iPhone wird ohne Zubehör verkauft, Panzerglas ist noch drauf und dazu gibt es noch eine Hülle.",
+      "price": 300,
+      "priceRaw": "300 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "33449 Langenberg",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f674ecf4-6fda-4af7-812d-f6bf2444cc1a?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f674ecf4-6fda-4af7-812d-f6bf2444cc1a?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492251",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 72,
+        "verdict": "good",
+        "fairPrice": 500,
+        "savingsPct": 40,
+        "reasoning": "Guter Preis (40% unter dem Median von 500 € (104 Angebote)). Vorsicht: ohne Zubehör.",
+        "redFlags": [
+          "ohne Zubehör"
+        ],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 300,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492149",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Iphone 15 Pink 128 gb",
+      "description": "Apple iPhone 15 – 128 GB – Pink – Sehr guter Zustand\n\nIch verkaufe mein Apple iPhone 15 mit 128 GB...",
+      "price": 420,
+      "priceRaw": "420 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "58706 Menden",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e142af69-78ce-4674-97b0-f3d0bc9a97c2?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e142af69-78ce-4674-97b0-f3d0bc9a97c2?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492149",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 63,
+        "verdict": "fair",
+        "fairPrice": 500,
+        "savingsPct": 16,
+        "reasoning": "Marktüblicher Preis (16% unter dem Median von 500 € (104 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 420,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3500900347",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "Apple MacBook Pro 13,3“ 8GB Speicher TouchBar Erscheinungsjahr 2019 [256GB,Gray] • Gebraucht • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:6038",
+      "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
+      "price": 299,
+      "priceRaw": "299 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "30451 Linden-Limmer",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T17:09:00.000Z",
+      "postedRaw": "Heute, 17:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21f444a7-3eed-4940-8865-a7ced7f8e496?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21f444a7-3eed-4940-8865-a7ced7f8e496?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3500900347",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 96,
+        "verdict": "top",
+        "fairPrice": 485,
+        "savingsPct": 38,
+        "reasoning": "Sehr attraktiver Preis (38% unter dem Median von 485 € (25 Angebote)). Positiv: Restgarantie, Kaufbeleg vorhanden.",
+        "redFlags": [],
+        "highlights": [
+          "Restgarantie",
+          "Kaufbeleg vorhanden"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-09-30T23:53:29.556Z"
+      },
+      "firstSeenAt": "2026-09-30T23:53:29.557Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 299,
+          "at": "2026-09-30T23:53:29.557Z"
+        }
+      ]
+    },
+    {
+      "id": "3528494115",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "MacBook Air M1 Silber 8gb RAM 256gb SSD mit OVP *gepflegt*",
+      "description": "Hallo,\nich verkaufe das MacBook Air meiner Frau. Es wurde sehr sorgsam behandelt und weist bis auf...",
+      "price": 550,
+      "priceRaw": "550 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "30161 Vahrenwald-List",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60dd2d4e-e3da-4978-9b9e-74c230692447?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60dd2d4e-e3da-4978-9b9e-74c230692447?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494115",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 58,
+        "verdict": "fair",
+        "fairPrice": 500,
+        "savingsPct": -10,
+        "reasoning": "Marktüblicher Preis (10% über dem Median von 500 € (60 Angebote)). Positiv: Originalverpackung.",
+        "redFlags": [],
+        "highlights": [
+          "Originalverpackung"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 550,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493985",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "MacBook Air M2 13,6\" – 1 TB SSD – Top Zustand!",
+      "description": "Ich verkaufe mein MacBook Air 13,6&quot; mit Apple M2\n\nTechnische Daten: • Apple M2 Chip • 8 GB...",
+      "price": 750,
+      "priceRaw": "750 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "20535 Hamburg Hamm",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/7193d4b1-b32f-4646-9829-6a724043b9b6?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/7193d4b1-b32f-4646-9829-6a724043b9b6?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493985",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 30,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -50,
+        "reasoning": "Preis wirkt zu hoch (50% über dem Median von 500 € (60 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 750,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493871",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "Apple MacBook Pro 13 Zoll (Modell 2019)",
+      "description": "Ich verkaufe hier mein Apple MacBook Pro 13 Zoll (Modell 2019) in Silber. Aufgrund meiner...",
+      "price": 220,
+      "priceRaw": "220 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "31655 Stadthagen",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68b964a5-c116-4324-840d-b1be0a679cb5?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68b964a5-c116-4324-840d-b1be0a679cb5?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493871",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 500,
+        "savingsPct": 56,
+        "reasoning": "Sehr attraktiver Preis (56% unter dem Median von 500 € (60 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 220,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493823",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "Apple MacBook Pro 15,7 Zoll, Intel Core i7, 32GB RAM, 256GB",
+      "description": "Ich verkaufe mein gepflegtes MacBook Pro mit Touch Bar, da ich für mein Studium auf ein neueres...",
+      "price": 315,
+      "priceRaw": "315 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "24941 Flensburg",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1cd84a6c-e5e4-49a9-8469-6722b6207928?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1cd84a6c-e5e4-49a9-8469-6722b6207928?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493823",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 84,
+        "verdict": "good",
+        "fairPrice": 500,
+        "savingsPct": 37,
+        "reasoning": "Guter Preis (37% unter dem Median von 500 € (60 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 315,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491895",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "MacBook Pro 1502 13\" 99% Akku | Tastatur wie neu + Xiaomi Speaker",
+      "description": "Ich verkaufe mein stets gepflegtes Apple MacBook Pro. Das Gerät läuft technisch einwandfrei und...",
+      "price": 239,
+      "priceRaw": "239 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "13187 Pankow",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "",
+      "imageLarge": "",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491895",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 98,
+        "verdict": "top",
+        "fairPrice": 500,
+        "savingsPct": 52,
+        "reasoning": "Sehr attraktiver Preis (52% unter dem Median von 500 € (60 Angebote)). Positiv: wie neu.",
+        "redFlags": [],
+        "highlights": [
+          "wie neu"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 239,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491635",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "MacBook Pro 13“ 2017 Four Thunderbolt 3 Ports (i7 / 16 GB DDR3)",
+      "description": "Verkaufe mein MacBook Pro 13” aus 2017 mit vier Thunderbolt-3-Anschlüssen.\n\nAusstattung:\n\n* Intel...",
+      "price": 205,
+      "priceRaw": "205 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "66346 Püttlingen",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1a51b26-f6f2-41aa-8e44-fb59cd7d8380?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1a51b26-f6f2-41aa-8e44-fb59cd7d8380?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491635",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 500,
+        "savingsPct": 59,
+        "reasoning": "Sehr attraktiver Preis (59% unter dem Median von 500 € (60 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 205,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491189",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "MacBook Air 13 Zoll mit neuem M5, 512GB SSD und 16GB RAM",
+      "description": "Verkaufe mein MacBook Air, da ich persönlich mit macOS nicht so richtig warm werde und mit Windows...",
+      "price": 1049,
+      "priceRaw": "1.049 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "58762 Altena",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:05:00.000Z",
+      "postedRaw": "Heute, 21:05",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c78fb5b-9026-45ec-968f-428885ca339c?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c78fb5b-9026-45ec-968f-428885ca339c?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491189",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -110,
+        "reasoning": "Preis wirkt zu hoch (110% über dem Median von 500 € (60 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 1049,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488826",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "Air 13,6 Zoll Macbook M2 (2022) 512GB",
+      "description": "Biete hier mein Apple MacBook Air 13,6 Zoll M2 (2022) 512GB Space grau\n\nwurd wenig genutzt\n9Monate...",
+      "price": 270,
+      "priceRaw": "270 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "37671 Höxter",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:02:00.000Z",
+      "postedRaw": "Heute, 21:02",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3517d78-9439-4eb2-b336-0eae54b8fd7e?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3517d78-9439-4eb2-b336-0eae54b8fd7e?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488826",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 84,
+        "verdict": "good",
+        "fairPrice": 500,
+        "savingsPct": 46,
+        "reasoning": "Guter Preis (46% unter dem Median von 500 € (60 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 270,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488244",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "Verkaufe mein MacBook Air 13” mit M4 Chip und 256 GB Speicher.",
+      "description": "Verkaufe mein MacBook Air 13” mit M4 Chip und 256 GB Speicher.\n\nDas MacBook wurde dieses Jahr...",
+      "price": 1000,
+      "priceRaw": "1.000 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "29664 Walsrode",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:01:00.000Z",
+      "postedRaw": "Heute, 21:01",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/943dd954-f796-4ae7-8e64-639089888993?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/943dd954-f796-4ae7-8e64-639089888993?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488244",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 500,
+        "savingsPct": -100,
+        "reasoning": "Preis wirkt zu hoch (100% über dem Median von 500 € (60 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 1000,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3499298707",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "KFA2 RTX 3080 TI 12GB SG 1-Click ►Händler◄",
+      "description": "Die Grafikkarte wurde von uns technisch geprüft, gereinigt und umfangreich getestet.\n\nDirekt...",
+      "price": 489,
+      "priceRaw": "489 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "94566 Riedlhütte",
+      "distanceKm": 0,
+      "postedAt": "2026-09-30T22:30:00.000Z",
+      "postedRaw": "Gestern, 22:30",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28106ac2-2254-45d5-9991-0fe1a84c0bb7?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28106ac2-2254-45d5-9991-0fe1a84c0bb7?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3499298707",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 200,
+        "savingsPct": -144,
+        "reasoning": "Preis wirkt zu hoch (144% über dem Median von 200 € (27 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-09-30T23:53:29.556Z"
+      },
+      "firstSeenAt": "2026-09-30T23:53:29.557Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 489,
+          "at": "2026-09-30T23:53:29.557Z"
+        }
+      ]
+    },
+    {
+      "id": "3499310583",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "Asus RTX 3070 8GB ROG Strix Gaming OC ►Händler◄",
+      "description": "Die Grafikkarte wurde von uns technisch geprüft, gereinigt und instandgesetzt.\n\nDirekt bestellbar...",
+      "price": 299,
+      "priceRaw": "299 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "94566 Riedlhütte",
+      "distanceKm": 0,
+      "postedAt": "2026-09-30T22:30:00.000Z",
+      "postedRaw": "Gestern, 22:30",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f1e2f34-2c8d-4c4a-904b-4e477919104c?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f1e2f34-2c8d-4c4a-904b-4e477919104c?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3499310583",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 30,
+        "verdict": "overpriced",
+        "fairPrice": 200,
+        "savingsPct": -50,
+        "reasoning": "Preis wirkt zu hoch (50% über dem Median von 200 € (27 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-09-30T23:53:29.556Z"
+      },
+      "firstSeenAt": "2026-09-30T23:53:29.557Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 299,
+          "at": "2026-09-30T23:53:29.557Z"
+        }
+      ]
+    },
+    {
+      "id": "3528494322",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "MSI GeForce RTX 2060 VENTUS 12G OC (12GB VRAM) – Top Zustand",
+      "description": "Hallo zusammen,\n\nich verkaufe hier meine voll funktionsfähige Grafikkkarte von MSI (GeForce RTX...",
+      "price": 190,
+      "priceRaw": "190 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "24613 Aukrug",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25f423aa-01e7-4332-b9dd-477f319babdd?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25f423aa-01e7-4332-b9dd-477f319babdd?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494322",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 63,
+        "verdict": "fair",
+        "fairPrice": 220,
+        "savingsPct": 14,
+        "reasoning": "Marktüblicher Preis (14% unter dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 190,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493524",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "MSI GTX 1070 - 8GB - Guter Zustand !",
+      "description": "Ich biete hier aus meine Sammlung eine MSI GTX 1070 mit 8GB VRam an\n\nDie Karte ist gebraucht aber...",
+      "price": 150,
+      "priceRaw": "150 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "04347 Schönefeld-Abtnaundorf",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "",
+      "imageLarge": "",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493524",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 74,
+        "verdict": "good",
+        "fairPrice": 220,
+        "savingsPct": 32,
+        "reasoning": "Guter Preis (32% unter dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 150,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492967",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "Dell Latitude 7420 Bussines i5 11 gen 16gb Ram IrisX Grafikkarte",
+      "description": "Dell Latitude 7420\nI5 1145g7\nIris Grafikkarte\n16gb Ram\n14 Zoll fullhd IPS\n256gb NVMe\nWindows...",
+      "price": 170,
+      "priceRaw": "170 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "81829 Trudering-Riem",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e3c47f0-c49a-47cc-a4db-8e34add5c523?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e3c47f0-c49a-47cc-a4db-8e34add5c523?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492967",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 74,
+        "verdict": "good",
+        "fairPrice": 220,
+        "savingsPct": 23,
+        "reasoning": "Guter Preis (23% unter dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 170,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492115",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "ASUS Dual GeForce GTX 1060 - Guter Zustand",
+      "description": "Ich biete hier aus meine Sammlung eine weiße Asus Dual GTX 1060 mit 6GB VRam an\n\nDie Karte ist...",
+      "price": 100,
+      "priceRaw": "100 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "04347 Schönefeld-Abtnaundorf",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "",
+      "imageLarge": "",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492115",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 220,
+        "savingsPct": 55,
+        "reasoning": "Sehr attraktiver Preis (55% unter dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 100,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528490938",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "NVIDIA Quadro P4000 8GB GDDR5 Grafikkarte – Workstation GPU",
+      "description": "Verkaufe eine NVIDIA Quadro P4000 Grafikkarte mit 8 GB GDDR5 Speicher.\n\nDie Karte stammt aus einer...",
+      "price": 150,
+      "priceRaw": "150 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "48149 Gievenbeck",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:05:00.000Z",
+      "postedRaw": "Heute, 21:05",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8ff01b94-f0ff-47d9-8f1b-9b3255c1ebd2?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8ff01b94-f0ff-47d9-8f1b-9b3255c1ebd2?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528490938",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 74,
+        "verdict": "good",
+        "fairPrice": 220,
+        "savingsPct": 32,
+        "reasoning": "Guter Preis (32% unter dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 150,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489993",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "NVIDIA GeForce RTX 3060 Ti Founders Edition - OVP - Top Zustand",
+      "description": "Hallo zusammen,\n\nich verkaufe hier meine treue NVIDIA GeForce RTX 3060 Ti in der begehrten Founders...",
+      "price": 350,
+      "priceRaw": "350 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "28199 Neustadt",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:03:00.000Z",
+      "postedRaw": "Heute, 21:03",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20ab3ac5-bcd5-430d-b8be-b0b201f3e6d7?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20ab3ac5-bcd5-430d-b8be-b0b201f3e6d7?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489993",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 36,
+        "verdict": "overpriced",
+        "fairPrice": 220,
+        "savingsPct": -59,
+        "reasoning": "Preis wirkt zu hoch (59% über dem Median von 220 € (61 Angebote)). Positiv: Originalverpackung.",
+        "redFlags": [],
+        "highlights": [
+          "Originalverpackung"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 350,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489794",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "Nvidia Rtx 4090M",
+      "description": "Die Nvidia Laptop 4090 als pcie Karte, diese hat 16gb vram und ist ca 20% schwächer als die echte...",
+      "price": 1000,
+      "priceRaw": "1.000 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "41515 Grevenbroich",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:03:00.000Z",
+      "postedRaw": "Heute, 21:03",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96220a6d-d15f-462f-91b0-868434e06185?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96220a6d-d15f-462f-91b0-868434e06185?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489794",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 220,
+        "savingsPct": -355,
+        "reasoning": "Preis wirkt zu hoch (355% über dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 1000,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488603",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "NVIDIA GeForce RTX 3060 Ti Sehr guter Zustand",
+      "description": "Verkaufe meine RTX 3060 Ti, da ich auf eine stärkere Grafikkarte aufgerüstet habe.\n\nDie Grafikkarte...",
+      "price": 250,
+      "priceRaw": "250 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "36391 Sinntal",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:01:00.000Z",
+      "postedRaw": "Heute, 21:01",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/feaab640-5a9e-4a53-8fc1-8d54b0d0555b?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/feaab640-5a9e-4a53-8fc1-8d54b0d0555b?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488603",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 40,
+        "verdict": "overpriced",
+        "fairPrice": 220,
+        "savingsPct": -14,
+        "reasoning": "Preis wirkt zu hoch (14% über dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 250,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488570",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "Suche eine Grafikkarte RTX 5060 ti oder stärker",
+      "description": "Ich suche einen Grafikkarte RTX 5060 ti bevorzug mit 3 Lüfter\n\nSie sollte technisch wie optisch in...",
+      "price": 450,
+      "priceRaw": "450 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "58553 Halver",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:01:00.000Z",
+      "postedRaw": "Heute, 21:01",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0bce46a-84c4-4dc2-bc00-b29300dab54f?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0bce46a-84c4-4dc2-bc00-b29300dab54f?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488570",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 220,
+        "savingsPct": -105,
+        "reasoning": "Preis wirkt zu hoch (105% über dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 450,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528488546",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "Sapphire Pulse Radeon RX 9070 XT 16GB – Sehr guter Zustand + Rech",
+      "description": "Verkaufe meine Sapphire Pulse Radeon RX 9070 XT mit 16 GB VRAM in sehr gutem Zustand.\nDie...",
+      "price": 350,
+      "priceRaw": "350 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "79809 Weilheim",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:01:00.000Z",
+      "postedRaw": "Heute, 21:01",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3874770-83cd-4795-a0c3-b1c01ea08c3a?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3874770-83cd-4795-a0c3-b1c01ea08c3a?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528488546",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 30,
+        "verdict": "overpriced",
+        "fairPrice": 220,
+        "savingsPct": -59,
+        "reasoning": "Preis wirkt zu hoch (59% über dem Median von 220 € (61 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 350,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493616",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "PlayStation 5 Disc + 4TB Speicher + weiteres Zubehör",
+      "description": "Hiermit verkaufe ich meine PlayStation 5 Disc Edition. Die Konsole ist in einem sehr guten Zustand...",
+      "price": 580,
+      "priceRaw": "580 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "67105 Schifferstadt",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97ee2cbe-fe0e-444d-a325-351dc19e4bc1?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97ee2cbe-fe0e-444d-a325-351dc19e4bc1?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493616",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 30,
+        "verdict": "overpriced",
+        "fairPrice": 400,
+        "savingsPct": -45,
+        "reasoning": "Preis wirkt zu hoch (45% über dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 580,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493441",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "Sony PlayStation DualSense Edge Controller",
+      "description": "Ich biete hier meinen Sony PlayStation DualSense Edge Controller zum Verkauf an. Er ist in einem...",
+      "price": 110,
+      "priceRaw": "110 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "75015 Bretten",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47259a6a-5b6b-4726-be2a-2c99c57e24f3?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47259a6a-5b6b-4726-be2a-2c99c57e24f3?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493441",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 97,
+        "verdict": "top",
+        "fairPrice": 400,
+        "savingsPct": 73,
+        "reasoning": "Sehr attraktiver Preis (73% unter dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 110,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492991",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "PlayStation 5",
+      "description": "Ich biete hiermit meine top gepflegte PS5 Digital zum Verkauf an.\n\nAus Zeitmangel komme ich aktuell...",
+      "price": 400,
+      "priceRaw": "400 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "90478 Südstadt",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8c31f8d-6dd7-4ebc-9db7-87574714bf1c?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8c31f8d-6dd7-4ebc-9db7-87574714bf1c?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492991",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 52,
+        "verdict": "fair",
+        "fairPrice": 400,
+        "savingsPct": 0,
+        "reasoning": "Marktüblicher Preis (0% unter dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 400,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492968",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "Sony PlayStation 5 Pro 2 TB (NEU)",
+      "description": "Moin, bevor du mir schreibst - nimm dir kurz &#x27;ne Minute. Danke dir!\n\nDamit das für uns beide...",
+      "price": 510,
+      "priceRaw": "510 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "87561 Oberstdorf",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26c834d3-28da-48b5-8fe2-62a23d141c30?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26c834d3-28da-48b5-8fe2-62a23d141c30?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492968",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 40,
+        "verdict": "overpriced",
+        "fairPrice": 400,
+        "savingsPct": -27,
+        "reasoning": "Preis wirkt zu hoch (27% über dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 510,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528492463",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "Sony PlayStation 5 PS5 mit Controller",
+      "description": "Hallo\nZum Verkauf steht eine fast neue Sony PlayStation 5 (PS5) Disc Edition mit Laufwerk inklusive...",
+      "price": 549,
+      "priceRaw": "549 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "15741 Bestensee",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d06637d7-7500-4d4e-9011-a457a3427fcc?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d06637d7-7500-4d4e-9011-a457a3427fcc?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528492463",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 30,
+        "verdict": "overpriced",
+        "fairPrice": 400,
+        "savingsPct": -37,
+        "reasoning": "Preis wirkt zu hoch (37% über dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 549,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489769",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "Playstation",
+      "description": "Hiermit verkaufe ich meine Playstation 5 mit Laufwerk, Controller,Abdeckung und\nController Halter...",
+      "price": 500,
+      "priceRaw": "500 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "47178 Walsum",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:07:00.000Z",
+      "postedRaw": "Heute, 21:07",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b14d23ee-f8d3-4b78-ae7d-6a1e1cf8e7d7?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b14d23ee-f8d3-4b78-ae7d-6a1e1cf8e7d7?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489769",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 40,
+        "verdict": "overpriced",
+        "fairPrice": 400,
+        "savingsPct": -25,
+        "reasoning": "Preis wirkt zu hoch (25% über dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 500,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491182",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "Ps5 Konsole",
+      "description": "Verkaufe hier eine Ps5 mit Controller\nSie ist ein halbes Jahr ca. Alt\n\nNur ernsthafte Anfragen\nNur...",
+      "price": 600,
+      "priceRaw": "600 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "52070 Aachen-Mitte",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:05:00.000Z",
+      "postedRaw": "Heute, 21:05",
+      "image": "",
+      "imageLarge": "",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491182",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 30,
+        "verdict": "overpriced",
+        "fairPrice": 400,
+        "savingsPct": -50,
+        "reasoning": "Preis wirkt zu hoch (50% über dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 600,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528490802",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "2 PlayStation 5 Controllee",
+      "description": "2 Ps5 Controller in weiß und Schwarz.\nBeide funktionieren einwandfrei, ohne stickdrift, keine...",
+      "price": 100,
+      "priceRaw": "100 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "63743 Aschaffenburg",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:04:00.000Z",
+      "postedRaw": "Heute, 21:04",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/643e3208-6e13-41d5-986c-8151cc56c467?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/643e3208-6e13-41d5-986c-8151cc56c467?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528490802",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 97,
+        "verdict": "top",
+        "fairPrice": 400,
+        "savingsPct": 75,
+        "reasoning": "Sehr attraktiver Preis (75% unter dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 100,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528490196",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "PlayStation 5 mit 2 Controller LED Ladestation in schwarz wie neu",
+      "description": "Verkaufe eine PlayStation 5 (Disc Edition, 825 GB) in sehr gutem Zustand. Die Konsole läuft...",
+      "price": 490,
+      "priceRaw": "490 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "57627 Hachenburg",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:03:00.000Z",
+      "postedRaw": "Heute, 21:03",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afce0657-1880-4f34-bf6e-33035f942a6e?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afce0657-1880-4f34-bf6e-33035f942a6e?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528490196",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 46,
+        "verdict": "overpriced",
+        "fairPrice": 400,
+        "savingsPct": -23,
+        "reasoning": "Preis wirkt zu hoch (23% über dem Median von 400 € (72 Angebote)). Positiv: wie neu.",
+        "redFlags": [],
+        "highlights": [
+          "wie neu"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 490,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489584",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "playstation 5 stimmt 1 t",
+      "description": "playstation 5 3 Viertel jahr alt verkaufe wegen brauche geld",
+      "price": 150,
+      "priceRaw": "150 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "84419 Obertaufkirchen",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:03:00.000Z",
+      "postedRaw": "Heute, 21:03",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5ad4ff31-68e6-4581-8d88-e176eae40017?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5ad4ff31-68e6-4581-8d88-e176eae40017?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489584",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 400,
+        "savingsPct": 63,
+        "reasoning": "Sehr attraktiver Preis (63% unter dem Median von 400 € (72 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 150,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3455742322",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Ausgefallene Custom Design Deko-Lampe Retro Leuchte Kamera",
+      "description": "Aus einem originalen antiken Fotoapparat entstand ein einzigartiges Designobjekt, das Vergangenheit...",
+      "price": 165,
+      "priceRaw": "165 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "40477 Golzheim",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T00:52:00.000Z",
+      "postedRaw": "Heute, 00:52",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8205f73-8b6f-4b29-9012-e4d1d6f8c9ba?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8205f73-8b6f-4b29-9012-e4d1d6f8c9ba?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3455742322",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 69,
+        "verdict": "fair",
+        "fairPrice": 199,
+        "savingsPct": 17,
+        "reasoning": "Marktüblicher Preis (17% unter dem Median von 199 € (27 Angebote)). Positiv: Original.",
+        "redFlags": [],
+        "highlights": [
+          "Original"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-09-30T23:52:06.204Z"
+      },
+      "firstSeenAt": "2026-09-30T23:52:06.204Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 165,
+          "at": "2026-09-30T23:52:06.204Z"
+        }
+      ]
+    },
+    {
+      "id": "3528494584",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Insta360 X5 Essentials Bundle in OVP + Tauchgehäuse",
+      "description": "Insta360 X5 – befindet sich in sehr gutem Zustand, fast wie neu. Zubehörset inklusive.\n\nIch biete...",
+      "price": 300,
+      "priceRaw": "300 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "17375 Grambin",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:10:00.000Z",
+      "postedRaw": "Heute, 21:10",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/8830c5a4-fb58-4860-8ae4-dfaca7ec310c?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/8830c5a4-fb58-4860-8ae4-dfaca7ec310c?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494584",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 32,
+        "verdict": "overpriced",
+        "fairPrice": 180,
+        "savingsPct": -67,
+        "reasoning": "Preis wirkt zu hoch (67% über dem Median von 180 € (85 Angebote)). Positiv: Originalverpackung, wie neu.",
+        "redFlags": [],
+        "highlights": [
+          "Originalverpackung",
+          "wie neu"
+        ],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 300,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528494097",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Nikon D5200 + Sigma 18–300 OS | nur 15.000 Auslösungen + viel Zub",
+      "description": "Zum Verkauf steht meine gepflegte Nikon D5200 mit Sigma 18–300 mm Reisezoom und umfangreichem...",
+      "price": 390,
+      "priceRaw": "390 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "86975 Bernbeuren",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33ff67-5bcc-4ddc-8d78-16d057c5aeb7?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33ff67-5bcc-4ddc-8d78-16d057c5aeb7?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528494097",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 180,
+        "savingsPct": -117,
+        "reasoning": "Preis wirkt zu hoch (117% über dem Median von 180 € (85 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 390,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493913",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Mercedes W166 W218 W212 Frontkamera A[Telefonnummer entfernt] A2079013000",
+      "description": "✦ CWComponent ✦\n\nSpezialisiert auf Ersatzteile für Oberklasse- & Sportfahrzeuge.\nQualität und...",
+      "price": 50,
+      "priceRaw": "50 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "59269 Beckum",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:09:00.000Z",
+      "postedRaw": "Heute, 21:09",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19c480f4-0a0b-428a-97da-966e922752fc?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19c480f4-0a0b-428a-97da-966e922752fc?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493913",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 85,
+        "verdict": "top",
+        "fairPrice": 180,
+        "savingsPct": 72,
+        "reasoning": "Sehr attraktiver Preis (72% unter dem Median von 180 € (85 Angebote)). Vorsicht: Ersatzteilspender.",
+        "redFlags": [
+          "Ersatzteilspender"
+        ],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.612Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 50,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528493749",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Nikon D5200 + Sigma 18–300 OS | nur 15.000 Auslösungen + viel Zub",
+      "description": "Zum Verkauf steht meine gepflegte Nikon D5200 mit Sigma 18–300 mm Reisezoom und umfangreichem...",
+      "price": 390,
+      "priceRaw": "390 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "86975 Bernbeuren",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:08:00.000Z",
+      "postedRaw": "Heute, 21:08",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33ff67-5bcc-4ddc-8d78-16d057c5aeb7?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33ff67-5bcc-4ddc-8d78-16d057c5aeb7?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528493749",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 180,
+        "savingsPct": -117,
+        "reasoning": "Preis wirkt zu hoch (117% über dem Median von 180 € (85 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 390,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528491696",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "✅Canon PowerShot SX740 HS Digitalkamera Schwarz",
+      "description": "✅Beim Kauf über das System kostet der Versand aktuell nur 2,99€ (Hermes)\n\n✅Versand innerhalb...",
+      "price": 590,
+      "priceRaw": "590 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "33175 Bad Lippspringe",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:06:00.000Z",
+      "postedRaw": "Heute, 21:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e4536b5-3e5d-4441-99ae-79be3058b6fe?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e4536b5-3e5d-4441-99ae-79be3058b6fe?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528491696",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 180,
+        "savingsPct": -228,
+        "reasoning": "Preis wirkt zu hoch (228% über dem Median von 180 € (85 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 590,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528490637",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Fujifilm Finepix AX230 12 MP 5xZoom Digitalkamera Vintage Kamera",
+      "description": "Hallo zusammen,\n\nwir verkaufen hier eine voll funktionsfähige Fujifilm Finepix AX230 Digitalkamera...",
+      "price": 70,
+      "priceRaw": "70 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "10999 Kreuzberg",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:04:00.000Z",
+      "postedRaw": "Heute, 21:04",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/895996ed-a804-491a-925c-caba0be11eba?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/895996ed-a804-491a-925c-caba0be11eba?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528490637",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 180,
+        "savingsPct": 61,
+        "reasoning": "Sehr attraktiver Preis (61% unter dem Median von 180 € (85 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 70,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489985",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Insta 360 x3 Tauch Gehäuse.",
+      "description": "Ich biete hier ein Tauchgehäuse für eine Insta 360 x3. Es wurde nie wirklich benutzt. Ist somit...",
+      "price": 60,
+      "priceRaw": "60 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "15370 Petershagen",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:03:00.000Z",
+      "postedRaw": "Heute, 21:03",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a963aa6-b2c2-4e22-985e-1d21acce4608?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a963aa6-b2c2-4e22-985e-1d21acce4608?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489985",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 97,
+        "verdict": "top",
+        "fairPrice": 180,
+        "savingsPct": 67,
+        "reasoning": "Sehr attraktiver Preis (67% unter dem Median von 180 € (85 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 60,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489542",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "GoPro Hero 7 Black mit Zubehör, 2 Akkus.",
+      "description": "Verkauft wird hier meine GoPro Hero 7 Black mit Zubehör, die Kamera weist keinerlei Gebrauchsspuren...",
+      "price": 99,
+      "priceRaw": "99 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "76187 Karlsruhe",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:03:00.000Z",
+      "postedRaw": "Heute, 21:03",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de4cc94e-71a7-4b7e-a6c6-cf0f303664d0?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de4cc94e-71a7-4b7e-a6c6-cf0f303664d0?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489542",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 84,
+        "verdict": "good",
+        "fairPrice": 180,
+        "savingsPct": 45,
+        "reasoning": "Guter Preis (45% unter dem Median von 180 € (85 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 99,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489313",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Konica Minolta Dynax 7D Spiegelreflex Kamera Komplettset",
+      "description": "Hiermit biete ich meine Konica Minolta Dynax 7D inkl. sämtlichem Zubehör an.\nAlles in allem sind...",
+      "price": 450,
+      "priceRaw": "450 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "52441 Linnich",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:02:00.000Z",
+      "postedRaw": "Heute, 21:02",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f21b5c9a-1dad-4b50-8f87-8df77f0b5b04?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f21b5c9a-1dad-4b50-8f87-8df77f0b5b04?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489313",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 20,
+        "verdict": "overpriced",
+        "fairPrice": 180,
+        "savingsPct": -150,
+        "reasoning": "Preis wirkt zu hoch (150% über dem Median von 180 € (85 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 450,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
+    {
+      "id": "3528489073",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Sony PS3 Slim Konsole mit Move Starter Kit, Kamera & Controller",
+      "description": "Ich verkaufe hier meine PlayStation 3 Slim Konsole inklusive dem kompletten Move Starter Kit für...",
+      "price": 90,
+      "priceRaw": "90 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "47533 Kleve",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:02:00.000Z",
+      "postedRaw": "Heute, 21:02",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/006a2b89-a995-4b9c-8567-efd5f745bb41?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/006a2b89-a995-4b9c-8567-efd5f745bb41?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528489073",
+      "category": "",
+      "attributes": {},
+      "ai": {
+        "dealScore": 92,
+        "verdict": "top",
+        "fairPrice": 180,
+        "savingsPct": 50,
+        "reasoning": "Sehr attraktiver Preis (50% unter dem Median von 180 € (85 Angebote)).",
+        "redFlags": [],
+        "highlights": [],
+        "engine": "heuristic",
+        "evaluatedAt": "2026-10-01T19:10:32.613Z"
+      },
+      "firstSeenAt": "2026-10-01T19:10:32.613Z",
+      "lastSeenAt": "2026-10-01T19:10:32.613Z",
+      "priceHistory": [
+        {
+          "price": 90,
+          "at": "2026-10-01T19:10:32.613Z"
+        }
+      ]
+    },
     {
       "id": "3528201198",
       "queryId": "ebike",
@@ -138,7 +3795,8 @@
           "price": 799,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200022",
@@ -181,7 +3839,8 @@
           "price": 1200,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3526572261",
@@ -224,7 +3883,8 @@
           "price": 980,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199765",
@@ -267,7 +3927,8 @@
           "price": 2100,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199494",
@@ -310,7 +3971,8 @@
           "price": 200,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198318",
@@ -353,7 +4015,8 @@
           "price": 750,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198224",
@@ -396,7 +4059,8 @@
           "price": 900,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197869",
@@ -439,7 +4103,8 @@
           "price": 370,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3527384990",
@@ -482,7 +4147,8 @@
           "price": 650,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197805",
@@ -525,7 +4191,8 @@
           "price": 999,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197485",
@@ -570,7 +4237,8 @@
           "price": 1800,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196599",
@@ -613,7 +4281,8 @@
           "price": 2300,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196563",
@@ -656,7 +4325,8 @@
           "price": 1199,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196522",
@@ -701,7 +4371,8 @@
           "price": 600,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196498",
@@ -746,7 +4417,8 @@
           "price": 750,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3525599939",
@@ -789,7 +4461,8 @@
           "price": 1150,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528193660",
@@ -832,7 +4505,8 @@
           "price": 380,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528201476",
@@ -875,7 +4549,8 @@
           "price": 300,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3524519108",
@@ -918,7 +4593,8 @@
           "price": 625,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528201035",
@@ -961,7 +4637,8 @@
           "price": 950,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200997",
@@ -1004,7 +4681,8 @@
           "price": 660,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200943",
@@ -1047,7 +4725,8 @@
           "price": 370,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200885",
@@ -1090,7 +4769,8 @@
           "price": 600,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200860",
@@ -1133,7 +4813,8 @@
           "price": 350,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200706",
@@ -1176,7 +4857,8 @@
           "price": 739,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199962",
@@ -1219,7 +4901,8 @@
           "price": 295,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199776",
@@ -1262,7 +4945,8 @@
           "price": 450,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199196",
@@ -1305,7 +4989,8 @@
           "price": 120,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198708",
@@ -1348,7 +5033,8 @@
           "price": 130,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198566",
@@ -1391,7 +5077,8 @@
           "price": 180,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198557",
@@ -1434,7 +5121,8 @@
           "price": 525,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198548",
@@ -1477,7 +5165,8 @@
           "price": 625,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198443",
@@ -1520,7 +5209,8 @@
           "price": 770,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198370",
@@ -1563,7 +5253,8 @@
           "price": 700,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198166",
@@ -1606,7 +5297,8 @@
           "price": 615,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197474",
@@ -1649,7 +5341,8 @@
           "price": 400,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197473",
@@ -1694,7 +5387,8 @@
           "price": 900,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197432",
@@ -1737,7 +5431,8 @@
           "price": 320,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197414",
@@ -1780,7 +5475,8 @@
           "price": 600,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197329",
@@ -1823,7 +5519,8 @@
           "price": 500,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197288",
@@ -1866,7 +5563,8 @@
           "price": 750,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197258",
@@ -1913,7 +5611,8 @@
           "price": 1150,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3488740455",
@@ -1959,7 +5658,8 @@
           "price": 399,
           "at": "2026-09-30T23:53:29.557Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3473002463",
@@ -2006,7 +5706,8 @@
           "price": 1449,
           "at": "2026-09-30T23:53:29.557Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200261",
@@ -2049,7 +5750,8 @@
           "price": 780,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199440",
@@ -2092,7 +5794,8 @@
           "price": 390,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196852",
@@ -2135,7 +5838,8 @@
           "price": 250,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528194709",
@@ -2178,7 +5882,8 @@
           "price": 900,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528201155",
@@ -2221,7 +5926,8 @@
           "price": 65,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200526",
@@ -2264,7 +5970,8 @@
           "price": 350,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198553",
@@ -2307,7 +6014,8 @@
           "price": 250,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198536",
@@ -2350,7 +6058,8 @@
           "price": 50,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198227",
@@ -2393,7 +6102,8 @@
           "price": 720,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198198",
@@ -2436,7 +6146,8 @@
           "price": 400,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196656",
@@ -2481,7 +6192,8 @@
           "price": 279,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196063",
@@ -2524,7 +6236,8 @@
           "price": 270,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528195346",
@@ -2569,7 +6282,8 @@
           "price": 399,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3521991804",
@@ -2612,7 +6326,8 @@
           "price": 69,
           "at": "2026-09-30T23:53:29.557Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528201503",
@@ -2659,7 +6374,8 @@
           "price": 399,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199444",
@@ -2702,7 +6418,8 @@
           "price": 50,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3521271025",
@@ -2747,7 +6464,8 @@
           "price": 440,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3527584144",
@@ -2790,7 +6508,8 @@
           "price": 625,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198398",
@@ -2835,7 +6554,8 @@
           "price": 50,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528197221",
@@ -2880,7 +6600,8 @@
           "price": 60,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196581",
@@ -2926,7 +6647,8 @@
           "price": 55,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196193",
@@ -2969,7 +6691,8 @@
           "price": 390,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528195509",
@@ -3014,7 +6737,8 @@
           "price": 400,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528194625",
@@ -3057,7 +6781,8 @@
           "price": 380,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528194488",
@@ -3100,7 +6825,8 @@
           "price": 60,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528201302",
@@ -3143,7 +6869,8 @@
           "price": 100,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200868",
@@ -3186,7 +6913,8 @@
           "price": 215,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528200457",
@@ -3229,7 +6957,8 @@
           "price": 180,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199803",
@@ -3272,7 +7001,8 @@
           "price": 69,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199711",
@@ -3317,7 +7047,8 @@
           "price": 55,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199587",
@@ -3360,7 +7091,8 @@
           "price": 65,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199573",
@@ -3405,7 +7137,8 @@
           "price": 160,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528199147",
@@ -3448,7 +7181,8 @@
           "price": 120,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528198129",
@@ -3491,7 +7225,8 @@
           "price": 380,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528196528",
@@ -3534,7 +7269,8 @@
           "price": 690,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528195748",
@@ -3577,7 +7313,8 @@
           "price": 80,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528195685",
@@ -3620,7 +7357,8 @@
           "price": 95,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528195168",
@@ -3663,7 +7401,8 @@
           "price": 850,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3528194989",
@@ -3708,7 +7447,8 @@
           "price": 89,
           "at": "2026-10-01T13:38:50.100Z"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3527809606",
@@ -10703,53 +14443,6 @@
       "stale": true
     },
     {
-      "id": "3500900347",
-      "queryId": "macbook",
-      "queryLabel": "MacBook",
-      "title": "Apple MacBook Pro 13,3“ 8GB Speicher TouchBar Erscheinungsjahr 2019 [256GB,Gray] • Gebraucht • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:6038",
-      "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
-      "price": 299,
-      "priceRaw": "299 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "30451 Linden-Limmer",
-      "distanceKm": 0,
-      "postedAt": "2026-09-30T22:14:00.000Z",
-      "postedRaw": "Heute, 00:14",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21f444a7-3eed-4940-8865-a7ced7f8e496?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21f444a7-3eed-4940-8865-a7ced7f8e496?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3500900347",
-      "category": "",
-      "attributes": {},
-      "ai": {
-        "dealScore": 96,
-        "verdict": "top",
-        "fairPrice": 485,
-        "savingsPct": 38,
-        "reasoning": "Sehr attraktiver Preis (38% unter dem Median von 485 € (25 Angebote)). Positiv: Restgarantie, Kaufbeleg vorhanden.",
-        "redFlags": [],
-        "highlights": [
-          "Restgarantie",
-          "Kaufbeleg vorhanden"
-        ],
-        "engine": "heuristic",
-        "evaluatedAt": "2026-09-30T23:53:29.556Z"
-      },
-      "firstSeenAt": "2026-09-30T23:53:29.557Z",
-      "lastSeenAt": "2026-09-30T23:53:29.557Z",
-      "priceHistory": [
-        {
-          "price": 299,
-          "at": "2026-09-30T23:53:29.557Z"
-        }
-      ],
-      "stale": true
-    },
-    {
       "id": "3520244433",
       "queryId": "macbook",
       "queryLabel": "MacBook",
@@ -11156,94 +14849,6 @@
       "priceHistory": [
         {
           "price": 283,
-          "at": "2026-09-30T23:53:29.557Z"
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "3499298707",
-      "queryId": "gpu",
-      "queryLabel": "Grafikkarten",
-      "title": "KFA2 RTX 3080 TI 12GB SG 1-Click ►Händler◄",
-      "description": "Die Grafikkarte wurde von uns technisch geprüft, gereinigt und umfangreich getestet.\n\nDirekt...",
-      "price": 489,
-      "priceRaw": "489 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "94566 Riedlhütte",
-      "distanceKm": 0,
-      "postedAt": "2026-09-30T20:30:00.000Z",
-      "postedRaw": "Gestern, 22:30",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28106ac2-2254-45d5-9991-0fe1a84c0bb7?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28106ac2-2254-45d5-9991-0fe1a84c0bb7?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3499298707",
-      "category": "",
-      "attributes": {},
-      "ai": {
-        "dealScore": 20,
-        "verdict": "overpriced",
-        "fairPrice": 200,
-        "savingsPct": -144,
-        "reasoning": "Preis wirkt zu hoch (144% über dem Median von 200 € (27 Angebote)).",
-        "redFlags": [],
-        "highlights": [],
-        "engine": "heuristic",
-        "evaluatedAt": "2026-09-30T23:53:29.556Z"
-      },
-      "firstSeenAt": "2026-09-30T23:53:29.557Z",
-      "lastSeenAt": "2026-09-30T23:53:29.557Z",
-      "priceHistory": [
-        {
-          "price": 489,
-          "at": "2026-09-30T23:53:29.557Z"
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "3499310583",
-      "queryId": "gpu",
-      "queryLabel": "Grafikkarten",
-      "title": "Asus RTX 3070 8GB ROG Strix Gaming OC ►Händler◄",
-      "description": "Die Grafikkarte wurde von uns technisch geprüft, gereinigt und instandgesetzt.\n\nDirekt bestellbar...",
-      "price": 299,
-      "priceRaw": "299 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "94566 Riedlhütte",
-      "distanceKm": 0,
-      "postedAt": "2026-09-30T20:30:00.000Z",
-      "postedRaw": "Gestern, 22:30",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f1e2f34-2c8d-4c4a-904b-4e477919104c?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f1e2f34-2c8d-4c4a-904b-4e477919104c?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3499310583",
-      "category": "",
-      "attributes": {},
-      "ai": {
-        "dealScore": 30,
-        "verdict": "overpriced",
-        "fairPrice": 200,
-        "savingsPct": -50,
-        "reasoning": "Preis wirkt zu hoch (50% über dem Median von 200 € (27 Angebote)).",
-        "redFlags": [],
-        "highlights": [],
-        "engine": "heuristic",
-        "evaluatedAt": "2026-09-30T23:53:29.556Z"
-      },
-      "firstSeenAt": "2026-09-30T23:53:29.557Z",
-      "lastSeenAt": "2026-09-30T23:53:29.557Z",
-      "priceHistory": [
-        {
-          "price": 299,
           "at": "2026-09-30T23:53:29.557Z"
         }
       ],
@@ -13997,52 +17602,6 @@
       "priceHistory": [
         {
           "price": 175,
-          "at": "2026-09-30T23:52:06.204Z"
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "3455742322",
-      "queryId": "kamera",
-      "queryLabel": "Kameras",
-      "title": "Ausgefallene Custom Design Deko-Lampe Retro Leuchte Kamera",
-      "description": "Aus einem originalen antiken Fotoapparat entstand ein einzigartiges Designobjekt, das Vergangenheit...",
-      "price": 165,
-      "priceRaw": "165 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "40477 Golzheim",
-      "distanceKm": 0,
-      "postedAt": "2026-09-30T22:52:00.000Z",
-      "postedRaw": "Heute, 00:52",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8205f73-8b6f-4b29-9012-e4d1d6f8c9ba?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8205f73-8b6f-4b29-9012-e4d1d6f8c9ba?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3455742322",
-      "category": "",
-      "attributes": {},
-      "ai": {
-        "dealScore": 69,
-        "verdict": "fair",
-        "fairPrice": 199,
-        "savingsPct": 17,
-        "reasoning": "Marktüblicher Preis (17% unter dem Median von 199 € (27 Angebote)). Positiv: Original.",
-        "redFlags": [],
-        "highlights": [
-          "Original"
-        ],
-        "engine": "heuristic",
-        "evaluatedAt": "2026-09-30T23:52:06.204Z"
-      },
-      "firstSeenAt": "2026-09-30T23:52:06.204Z",
-      "lastSeenAt": "2026-09-30T23:53:29.557Z",
-      "priceHistory": [
-        {
-          "price": 165,
           "at": "2026-09-30T23:52:06.204Z"
         }
       ],

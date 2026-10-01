@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T13:38:50.100Z",
-  "startedAt": "2026-10-01T13:38:35.129Z",
-  "finishedAt": "2026-10-01T13:38:50.108Z",
-  "durationMs": 14979,
+  "generatedAt": "2026-10-01T19:10:32.613Z",
+  "startedAt": "2026-10-01T19:10:19.354Z",
+  "finishedAt": "2026-10-01T19:10:32.622Z",
+  "durationMs": 13267,
   "engine": "heuristic",
   "aiConfigured": false,
   "aiUsed": false,
@@ -15,58 +15,58 @@
     "Kameras"
   ],
   "fetchedListings": 162,
-  "previouslyStored": 240,
+  "previouslyStored": 320,
   "newDeals": 80,
   "evaluated": 80,
-  "totalDeals": 320,
+  "totalDeals": 400,
   "market": {
     "ebike": {
-      "count": 79,
-      "median": 1199,
-      "p25": 638,
-      "p75": 1789,
+      "count": 96,
+      "median": 1150,
+      "p25": 619,
+      "p75": 1725,
       "min": 189,
       "max": 2500
     },
     "iphone": {
-      "count": 79,
-      "median": 525,
-      "p25": 305,
-      "p75": 710,
+      "count": 104,
+      "median": 500,
+      "p25": 300,
+      "p75": 725,
       "min": 100,
       "max": 1200
     },
     "macbook": {
-      "count": 55,
-      "median": 600,
-      "p25": 320,
-      "p75": 925,
+      "count": 60,
+      "median": 500,
+      "p25": 300,
+      "p75": 913,
       "min": 175,
-      "max": 1799
+      "max": 1699
     },
     "gpu": {
-      "count": 54,
-      "median": 250,
-      "p25": 135,
-      "p75": 434,
+      "count": 61,
+      "median": 220,
+      "p25": 150,
+      "p75": 350,
       "min": 50,
       "max": 1299
     },
     "console": {
-      "count": 60,
+      "count": 72,
       "median": 400,
-      "p25": 142,
-      "p75": 485,
+      "p25": 100,
+      "p75": 500,
       "min": 50,
       "max": 680
     },
     "kamera": {
-      "count": 72,
-      "median": 175,
+      "count": 85,
+      "median": 180,
       "p25": 100,
-      "p75": 296,
+      "p75": 349,
       "min": 50,
-      "max": 1849
+      "max": 1550
     }
   },
   "errors": []
