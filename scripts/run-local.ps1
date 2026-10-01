@@ -56,7 +56,7 @@ try {
 
   Invoke-LoggedProcess $Node @('scan.mjs', '--local') (Join-Path $RepoRoot 'scripts')
 
-  Invoke-LoggedProcess $Git @('-C', $RepoRoot, 'add', '--', 'data/deals.json', 'data/meta.json', 'data/state.json', 'data/prices.json') $RepoRoot
+  Invoke-LoggedProcess $Git @('-C', $RepoRoot, 'add', '--', 'data/deals.json', 'data/meta.json', 'data/state.json', 'data/prices.json', 'data/product-prices.json') $RepoRoot
 
   & git -C $RepoRoot diff --cached --quiet
   if ($LASTEXITCODE -eq 0) {

@@ -55,11 +55,28 @@ for GitHub Pages to publish. Its log is
 `%LOCALAPPDATA%\AnzeigenPiraten\local-scan.log`. The local runner skips a tick
 if another scan is active or if the repository has uncommitted changes.
 
-The scan updates `data/deals.json`, `data/meta.json`, `data/state.json`, and
-`data/prices.json`. Product price comparisons are calculated from other
-listings with the same product key. The page shows the observed median and
-middle price range when at least three other listings are available; it does
-not call that comparison an AI fair price.
+The scan updates `data/deals.json`, `data/meta.json`, `data/state.json`,
+`data/prices.json`, and `data/product-prices.json`. The product prices file is the manual
+product price catalog: it has one entry per product key and is never populated
+from listing prices. Each scan adds newly identified product keys while
+preserving prices you entered. Set `referencePrice` to a number in euros, or
+leave it `null` until you know the price. For example:
+
+```json
+"apple-iphone-15-pro-128-gb": {
+  "name": "Apple iPhone 15 Pro 128 GB",
+  "category": "Smartphones",
+  "referencePrice": 450,
+  "updatedAt": null
+}
+```
+
+Commit and push edits to this file so the scanner can pull them and the site can
+publish the results. A listing below its product's reference price is marked
+**Guter Preis**; one at the reference is marked accordingly, and one above it
+shows the difference. Missing manual prices are called out. The separate
+`data/prices.json` remains the history of observed asking prices and powers the
+market median/range comparison shown alongside the manual reference check.
 
 ## Configure searches
 

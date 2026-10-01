@@ -1,13 +1,10 @@
 /**
- * Persistent price database.
+ * Observed asking-price database plus a legacy per-listing evaluation cache.
  *
- * A tiny JSON-backed "database" (no external service, in keeping with the
- * dependency-free, static architecture of this project) that stores the
- * AI-evaluated fair price for every article the scanner has ever seen.
- *
- * Because the file lives in `data/` and is committed alongside the rest of the
- * feed, an article is only ever sent to the AI once: every later run reuses the
- * stored evaluation ("only evaluate what is not in the DB yet").
+ * `products` holds observed asking prices used for market comparisons.
+ * `entries` and its helpers are retained for compatibility with older saved
+ * evaluations; current scans do not invoke an evaluation model. Manual
+ * per-product reference prices live separately in data/product-prices.json.
  */
 
 import { readJson, writeJson } from './store.mjs';

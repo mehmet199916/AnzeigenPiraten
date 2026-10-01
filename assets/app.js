@@ -14,6 +14,7 @@
     search: '',
     queryId: '',
     productKey: '',
+    priceStatus: '',
     sort: 'new',
     onlyNew: false,
   };
@@ -27,6 +28,7 @@
     search: document.getElementById('q'),
     query: document.getElementById('query'),
     product: document.getElementById('product'),
+    priceStatus: document.getElementById('priceStatus'),
     sort: document.getElementById('sort'),
     onlyNew: document.getElementById('onlyNew'),
     reset: document.getElementById('reset'),
@@ -76,6 +78,29 @@
       ? ` · mittlere Spanne ${formatPrice(comparison.p25)}–${formatPrice(comparison.p75)}`
       : '';
     return `<p class="card__comparison">${escapeHtml(labels[comparison.status] ?? 'Preisvergleich')}${delta} · Median ${escapeHtml(formatPrice(comparison.median))}${escapeHtml(range)} aus ${comparison.comparableCount} anderen Anzeigen</p>`;
+  }
+
+  function referencePriceSummary(check) {
+    if (!check) return '<p class="card__reference card__reference--muted">Noch kein Produkt-Referenzpreis eingetragen.</p>';
+    if (check.status === 'reference_price_missing') {
+      return '<p class="card__reference card__reference--muted">Für dieses Produkt fehlt noch ein Referenzpreis.</p>';
+    }
+    if (check.status === 'asking_price_missing') {
+      return `<p class="card__reference card__reference--muted">Referenzpreis: ${escapeHtml(formatPrice(check.referencePrice))}; Anzeige ohne gültigen Preis.</p>`;
+    }
+
+    const amount = escapeHtml(formatPrice(Math.abs(check.difference)));
+    const percent = `${Math.abs(check.differencePct).toLocaleString('de-DE')}%`;
+    if (check.status === 'good_price') {
+      return `<p class="card__reference card__reference--good">Guter Preis: ${amount} (${percent}) unter deinem Produktpreis von ${escapeHtml(formatPrice(check.referencePrice))}.</p>`;
+    }
+    if (check.status === 'at_reference_price') {
+      return `<p class="card__reference card__reference--target">Genau dein Produktpreis: ${escapeHtml(formatPrice(check.referencePrice))}.</p>`;
+    }
+    if (check.status === 'above_reference_price') {
+      return `<p class="card__reference card__reference--over">${amount} (${percent}) über deinem Produktpreis von ${escapeHtml(formatPrice(check.referencePrice))}.</p>`;
+    }
+    return '<p class="card__reference card__reference--muted">Produkt noch nicht zugeordnet; kein Preisabgleich möglich.</p>';
   }
 
   const formatDateTime = (iso) => {
@@ -153,6 +178,7 @@
     const filtered = state.deals.filter((deal) => {
       if (state.queryId && deal.queryId !== state.queryId) return false;
       if (state.productKey && deal.product?.key !== state.productKey) return false;
+      if (state.priceStatus && deal.referencePriceCheck?.status !== state.priceStatus) return false;
       if (state.onlyNew && !isNew(deal)) return false;
       if (!needle) return true;
 
@@ -186,11 +212,13 @@
     const fresh = state.deals.filter(isNew).length;
     const products = new Set(state.deals.map((deal) => deal.product?.key).filter((key) => key && key !== 'unknown'));
     const classified = state.deals.filter((deal) => deal.product?.key && deal.product.key !== 'unknown').length;
+    const goodPrices = state.deals.filter((deal) => deal.referencePriceCheck?.status === 'good_price').length;
 
     const cards = [
       ['Anzeigen im Feed', String(state.deals.length)],
       ['Erkannte Produkte', String(products.size)],
       ['Zugeordnet', `${classified} / ${state.deals.length}`],
+      ['Gute Preise', String(goodPrices)],
       ['Neu seit letztem Besuch', String(fresh)],
     ];
 
@@ -212,6 +240,10 @@
     if (deal.stale) badges.push('<span class="chip chip--muted">nicht mehr gefunden</span>');
 
     const product = deal.product ?? {};
+    const referenceStatus = deal.referencePriceCheck?.status;
+    if (referenceStatus === 'good_price') badges.push('<span class="chip chip--good">Guter Preis</span>');
+    if (referenceStatus === 'at_reference_price') badges.push('<span class="chip chip--target">Zum Referenzpreis</span>');
+    if (referenceStatus === 'above_reference_price') badges.push('<span class="chip chip--over">Über Referenzpreis</span>');
 
     const image = deal.image
       ? `<img src="${escapeHtml(deal.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`
@@ -234,6 +266,7 @@
           <p class="card__price">
             <strong>${escapeHtml(deal.priceRaw || formatPrice(deal.price))}</strong>
           </p>
+          ${referencePriceSummary(deal.referencePriceCheck)}
           ${comparisonSummary(deal.priceComparison)}
 
           <p class="card__meta">
@@ -306,7 +339,9 @@
         <p><strong>${escapeHtml(product.name ?? 'Produkt noch nicht erkannt')}</strong></p>
         ${product.variant ? `<p>Ausführung: ${escapeHtml(product.variant)}</p>` : ''}
         <p class="detail__muted">${product.confidence ? `${Math.round(product.confidence * 100)} % Zuordnungssicherheit` : 'Keine sichere Zuordnung'}</p>
-        <h4>Preisvergleich für dieses Produkt</h4>
+        <h4>Abgleich mit deinem Produktpreis</h4>
+        ${referencePriceSummary(deal.referencePriceCheck)}
+        <h4>Vergleich mit anderen Anzeigen</h4>
         ${comparisonSummary(deal.priceComparison) || '<p class="detail__muted">Noch keine Preisdaten vorhanden.</p>'}
 
         <dl class="detail__facts">
@@ -380,6 +415,11 @@
       render();
     });
 
+    el.priceStatus.addEventListener('change', () => {
+      state.priceStatus = el.priceStatus.value;
+      render();
+    });
+
     el.sort.addEventListener('change', () => {
       state.sort = el.sort.value;
       render();
@@ -394,12 +434,14 @@
       state.search = '';
       state.queryId = '';
       state.productKey = '';
+      state.priceStatus = '';
       state.sort = 'new';
       state.onlyNew = false;
 
       el.search.value = '';
       el.query.value = '';
       el.product.value = '';
+      el.priceStatus.value = '';
       el.sort.value = 'new';
       el.onlyNew.checked = false;
 

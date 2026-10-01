@@ -402,6 +402,9 @@ input[type="range"] {
 .chip--new { background: rgba(34, 197, 94, 0.16); color: #4ade80; border-color: rgba(34, 197, 94, 0.35); }
 .chip--free { background: rgba(167, 139, 250, 0.16); color: var(--accent-2); border-color: rgba(167, 139, 250, 0.35); }
 .chip--muted { background: rgba(148, 163, 184, 0.14); color: var(--text-faint); border-color: var(--border); }
+.chip--good { background: rgba(34, 197, 94, 0.16); color: #4ade80; border-color: rgba(34, 197, 94, 0.35); }
+.chip--target { background: rgba(245, 158, 11, 0.14); color: #fbbf24; border-color: rgba(245, 158, 11, 0.35); }
+.chip--over { background: rgba(239, 68, 68, 0.14); color: #f87171; border-color: rgba(239, 68, 68, 0.35); }
 
 .card__title {
   margin: 0;
@@ -648,3 +651,13 @@ input[type="range"] {
   font-size: 0.78rem;
   line-height: 1.4;
 }
+
+.card__reference {
+  margin: 0;
+  font-size: 0.82rem;
+  font-weight: 650;
+}
+.card__reference--good { color: #4ade80; }
+.card__reference--target { color: #fbbf24; }
+.card__reference--over { color: #f87171; }
+.card__reference--muted { color: var(--text-faint); font-weight: 500; }

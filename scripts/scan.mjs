@@ -16,6 +16,12 @@ import { aiIsConfigured, loadConfig } from './lib/config.mjs';
 import { collectListings } from './lib/kleinanzeigen.mjs';
 import { classifyListings } from './lib/products.mjs';
 import {
+  checkProductPrice,
+  loadProductCatalog,
+  saveProductCatalog,
+  syncProductCatalog,
+} from './lib/product-catalog.mjs';
+import {
   compareProductPrice,
   loadPriceDb,
   prunePriceDb,
@@ -35,6 +41,7 @@ const PATHS = {
   meta: path.join(DATA_DIR, 'meta.json'),
   state: path.join(DATA_DIR, 'state.json'),
   prices: path.join(DATA_DIR, 'prices.json'),
+  productPrices: path.join(DATA_DIR, 'product-prices.json'),
 };
 
 const STATE_DEFAULT = { version: 1, updatedAt: null, seen: {} };
@@ -95,6 +102,7 @@ async function main() {
   const previous = await readJson(PATHS.deals, DEALS_DEFAULT);
   const state = await readJson(PATHS.state, STATE_DEFAULT);
   const priceDb = await loadPriceDb(PATHS.prices, config.currency);
+  const productCatalog = await loadProductCatalog(PATHS.productPrices, config.currency);
   state.seen = state.seen && typeof state.seen === 'object' ? state.seen : {};
 
   const previousDeals = Array.isArray(previous.deals) ? previous.deals : [];
@@ -185,6 +193,10 @@ async function main() {
   merged.sort((a, b) => new Date(b.lastSeenAt).getTime() - new Date(a.lastSeenAt).getTime());
   const limitedDeals = merged.slice(0, config.output.maxDeals);
 
+  // Keep a unique, manually editable reference price for each known product.
+  // Existing referencePrice values are never replaced by observed listing prices.
+  syncProductCatalog(productCatalog, limitedDeals, timestamp);
+
   // Store asking prices by canonical product key and compare each listing only
   // against other listings for the same model/variant.
   updateProductPriceDb(priceDb, limitedDeals, timestamp);
@@ -195,6 +207,7 @@ async function main() {
   const deals = limitedDeals.map((deal) => ({
     ...deal,
     priceComparison: compareProductPrice(priceDb, deal.product?.key, deal.id, deal.price),
+    referencePriceCheck: checkProductPrice(productCatalog, deal.product?.key, deal.price),
   }));
 
   // --- persist --------------------------------------------------------------
@@ -236,6 +249,12 @@ async function main() {
           .includes(deal.priceComparison?.status)
       )).length,
     },
+    productPriceCatalog: {
+      products: Object.keys(productCatalog.products).length,
+      pricesSet: Object.values(productCatalog.products)
+        .filter((product) => Number.isFinite(Number(product.referencePrice)) && Number(product.referencePrice) > 0).length,
+      goodPriceListings: deals.filter((deal) => deal.referencePriceCheck?.status === 'good_price').length,
+    },
     errors: [...crawlErrors, ...aiErrors],
   };
 
@@ -243,6 +262,7 @@ async function main() {
   await writeJson(PATHS.meta, meta);
   await writeJson(PATHS.state, state);
   await savePriceDb(PATHS.prices, priceDb);
+  await saveProductCatalog(PATHS.productPrices, productCatalog);
   log(
     `Done in ${(meta.durationMs / 1000).toFixed(1)}s – ${newDeals.length} new, `
     + `${capped.length} classified (${engine}), `
@@ -279,6 +299,7 @@ async function writeStepSummary(meta, deals) {
     `- **New deals:** ${meta.newDeals}`,
     `- **Classified this run:** ${meta.classified}`,
     `- **Products in price DB:** ${meta.priceDatabase.products} (${meta.priceDatabase.observations} observations; ${meta.priceDatabase.comparableListings} comparable listings)`,
+    `- **Manual product prices:** ${meta.productPriceCatalog.pricesSet} of ${meta.productPriceCatalog.products} set; ${meta.productPriceCatalog.goodPriceListings} listings below reference price`,
     `- **Total deals stored:** ${meta.totalDeals}`,
     `- **Duration:** ${(meta.durationMs / 1000).toFixed(1)}s`,
     '',
