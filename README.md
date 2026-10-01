@@ -19,8 +19,9 @@ A separate, stronger model can evaluate prices by product in a later step.
    compare each listing with other listings for that same product.
 5. Publish changed JSON files so the static site shows the updated feed.
 
-Existing listing records are classified when they next appear in a scan. Use
-`--force` to classify every fetched listing again.
+Recent stored listings are classified in capped batches, including listings
+outside the latest crawl window. Use `--force` to classify every fetched listing
+again.
 
 ## Run locally with Ollama
 
