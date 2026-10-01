@@ -1,24 +1,28 @@
 {
-  "generatedAt": "2026-10-01T22:00:06.104Z",
-  "startedAt": "2026-10-01T16:07:31.209Z",
-  "finishedAt": "2026-10-01T22:00:06.104Z",
-  "durationMs": 198305,
+  "generatedAt": "2026-10-01T22:09:23.063Z",
+  "startedAt": "2026-10-01T22:06:49.084Z",
+  "finishedAt": "2026-10-01T22:09:23.080Z",
+  "durationMs": 153995,
   "engine": "ai:qwen3:4b",
+  "classifierConfigured": true,
   "aiUsed": true,
   "searches": [
     "E-Bikes",
-    "iPhone"
+    "iPhone",
+    "MacBook",
+    "Grafikkarten",
+    "Konsolen",
+    "Kameras"
   ],
-  "fetchedListings": 54,
-  "previouslyStored": 400,
-  "newDeals": 18,
-  "totalDeals": 418,
+  "fetchedListings": 161,
+  "previouslyStored": 418,
+  "newDeals": 158,
+  "classified": 80,
+  "totalDeals": 576,
   "priceDatabase": {
-    "products": 330,
-    "observations": 414,
-    "comparableListings": 71
+    "products": 390,
+    "observations": 484,
+    "comparableListings": 74
   },
-  "errors": [],
-  "classifierConfigured": true,
-  "classified": 414
+  "errors": []
 }
