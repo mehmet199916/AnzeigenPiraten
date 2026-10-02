@@ -1,16 +1,16 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T14:44:37.807Z",
+  "updatedAt": "2026-10-02T14:49:42.667Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 Gb",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 GB",
+      "name": "Apple iPhone 11 64GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1985,7 +1985,7 @@
     },
     "ktm-cento-10-plus-e-bike": {
       "name": "KTM Cento 10 Plus E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 1300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2794,7 +2794,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-16-128-gb": {
-      "name": "iPhone 16 128 GB",
+      "name": "iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4421,7 +4421,7 @@
     },
     "asus-geforce-gtx-1050-ti-cerberus-4-gb": {
       "name": "ASUS GeForce GTX 1050 Ti Cerberus 4GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5440,7 +5440,7 @@
       "updatedAt": null
     },
     "apple-iphone-xs-64-gb": {
-      "name": "Apple iPhone XS 64GB",
+      "name": "Apple iPhone XS 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 mini 64GB",
+      "name": "Apple iPhone 12 Mini 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -9708,6 +9708,222 @@
     "scott-sub-sport-e-bike": {
       "name": "Scott sub Sport E-Bike",
       "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pedelec-city-trekking-mtb": {
+      "name": "Pedelec City Trekking MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike": {
+      "name": "Bosch E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-z810": {
+      "name": "Zündapp Z810",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-town-hybrid-pro-400": {
+      "name": "Cube Town Hybrid Pro 400",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-stance-e-2-mountainbike": {
+      "name": "Giant Stance E+ 2 Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diamant-elan-bosch-performance-e-bike": {
+      "name": "Diamant Elan+ Bosch Performance E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-e-bike-trekking-28-zoll-damen": {
+      "name": "Pegasus E-Bike Trekking 28 Zoll Damen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-e-bike-28-zoll-8-gang-schaltung": {
+      "name": "Giant E-Bike 28 Zoll 8 Gang Schaltung",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-avento-power-e-bike": {
+      "name": "KTM Avento Power E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-damen-e-bike-28-zoll": {
+      "name": "Raleigh Damen E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-precede-on-5-e-bike": {
+      "name": "Canyon Precede ON 5 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "byar-volta-e-bike": {
+      "name": "byAr Volta E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-15-pro-1-tb": {
+      "name": "iPhone 15 Pro 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-11-128-gb": {
+      "name": "iPhone 11 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-xr-64-gb": {
+      "name": "iPhone XR 64GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prada-handyhulle-fur-iphone-14-pro": {
+      "name": "Prada Handyhülle für iPhone 14 Pro",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-2016-8-gb": {
+      "name": "MacBook Pro 2016 8gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-24-gb": {
+      "name": "Apple MacBook Air 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-retina-2020": {
+      "name": "Apple MacBook Air 13\" Retina (2020)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-geforce-rtx-4080-super-amp-16-gb": {
+      "name": "ZOTAC GeForce RTX 4080 SUPER AMP 16 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-2080-super-gaming-oc-8-gb": {
+      "name": "Gigabyte GeForce RTX 2080 Super Gaming OC 8 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-geforce-gtx-1650": {
+      "name": "EVGA GeForce GTX 1650",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-geforce-rtx-2080-super-black-gaming-8-gb": {
+      "name": "EVGA GeForce RTX 2080 SUPER Black GAMING 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-aorus-geforce-rtx-2070-super-8-gb": {
+      "name": "Gigabyte AORUS GeForce RTX 2070 Super 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ratchet-clank-rift-apart": {
+      "name": "Ratchet & Clank: Rift Apart",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bresser-nightspy-3x42-nachtsichtgerat": {
+      "name": "BRESSER NightSpy 3x42 Nachtsichtgerät",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mavic-2-pro": {
+      "name": "DJI Mavic 2 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-rp": {
+      "name": "Canon EOS RP",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-xg-2": {
+      "name": "Minolta XG-2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-m3": {
+      "name": "Canon EOS M3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-optima-1035": {
+      "name": "Agfa Optima 1035",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-neo-2": {
+      "name": "DJI Neo 2",
+      "category": "Drohnen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz200": {
+      "name": "Panasonic LUMIX DMC-FZ200",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-500": {
+      "name": "Sony Alpha 500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-w80": {
+      "name": "Sony Cyber-Shot DSC-W80",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rokid-smart-glasses-ai-ar": {
+      "name": "Rokid Smart Glasses Ai Ar",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
