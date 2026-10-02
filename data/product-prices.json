@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T15:34:34.946Z",
+  "updatedAt": "2026-10-02T15:39:34.200Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128 Gb",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1060,7 +1060,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256 GB",
+      "name": "Apple iPhone 12 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1090,7 +1090,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro": {
-      "name": "Apple iPhone 16 PRO",
+      "name": "Apple iPhone 16 Pro",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2297,7 +2297,7 @@
     },
     "playstation-5-controller": {
       "name": "PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 40,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4925,7 +4925,7 @@
     },
     "ghost-e-teru-universal-eq-e-bike": {
       "name": "Ghost E-TERU UNIVERSAL EQ E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5104,7 +5104,7 @@
       "updatedAt": null
     },
     "iphone-13-mini-128-gb": {
-      "name": "iPhone 13 mini 128 GB",
+      "name": "iPhone 13 mini 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5591,7 +5591,7 @@
     },
     "dji-mavic-mini-drohne": {
       "name": "DJI Mavic Mini Drohne",
-      "category": "Flugzeuge",
+      "category": "Drohnen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6706,7 +6706,7 @@
       "updatedAt": null
     },
     "apple-iphone-18-pro-256-gb": {
-      "name": "Apple iPhone 18 Pro 256 GB",
+      "name": "Apple iPhone 18 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10445,7 +10445,7 @@
     },
     "fischer-e-bike-28-zoll": {
       "name": "Fischer E-Bike 28 Zoll",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -12000,6 +12000,258 @@
     "apple-iphone-14-pro-1-tb": {
       "name": "Apple iPhone 14 Pro 1TB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cowboy-s3-e-bike": {
+      "name": "Cowboy S3 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-bk9s-mountain-e-bike": {
+      "name": "HITWAY BK9S Mountain E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flli-schiano-e-moon-fahrrad": {
+      "name": "Flli Schiano E-Moon Fahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-culture-e-bike": {
+      "name": "Riese & Müller Culture E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samebike-c05-pro": {
+      "name": "Samebike C05 Pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "maratron-akku-36v-13ah-silverfish": {
+      "name": "Maratron Akku 36V 13Ah SilverFish",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-herren-e-mountainbike-cityrad": {
+      "name": "Specialized Herren E-Mountainbike/Cityrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gudereit-ec5": {
+      "name": "Gudereit EC5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "accolmile-meb09": {
+      "name": "Accolmile MEB09",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-pro-hybrid-e-bike-xl-29": {
+      "name": "Cube Reaction Pro Hybrid E-Bike XL 29\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-centurion-28-zoll": {
+      "name": "E-Bike Centurion 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-diamant-26-zoll": {
+      "name": "E-Bike Diamant 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hitway-bk15-pro-27-5-36v-13ah": {
+      "name": "E-Bike HITWAY BK15 Pro 27,5\" 36V 13Ah",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-mtb-e-bike": {
+      "name": "Corratec MTB E Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agattu-impulse": {
+      "name": "Kalkhoff Agattu Impulse",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-s-duro": {
+      "name": "Haibike S-Duro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-terra-2-1": {
+      "name": "Fischer e Bike Terra 2.1",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-copperhead-evo-3-e": {
+      "name": "Bulls Copperhead EVO 3 E",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "manufaktur-bottcher-spirit-kal-np-4700": {
+      "name": "Manufaktur Böttcher Spirit Kal NP 4700",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-16-gb-512-gb-ssd": {
+      "name": "Apple MacBook Air M2 16GB 512GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m5-2026-13-16-gb": {
+      "name": "Apple MacBook Air 13 (M5, 2026) 13\" 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-quadro-rtx-4000-grafikkarte": {
+      "name": "NVIDIA Quadro RTX 4000 Grafikkarte",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-nvidia-gtx-1080-grafikkarte": {
+      "name": "Zotac Nvidia GTX 1080 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-disc-825-gb": {
+      "name": "PlayStation 5 Disc 825gb",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-wb-210-digitalkamera": {
+      "name": "Samsung WB 210 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-gimbal": {
+      "name": "Dji Osmo gimbal",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-s5-is": {
+      "name": "Canon PowerShot S5 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-electro-35-gs": {
+      "name": "Yashica Electro 35 GS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-g-vario-45-200mm-objektiv": {
+      "name": "Panasonic Lumix G Vario 45-200mm Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reolink-e1-zoom": {
+      "name": "Reolink E1 Zoom",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-2-drohne": {
+      "name": "DJI Mini 2 Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-110-is": {
+      "name": "Canon IXUS 110 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a6000": {
+      "name": "Sony a6000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-au-eva1e-cinema-kamera": {
+      "name": "Panasonic AU-EVA1E Cinema Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-g5k-systemkamera": {
+      "name": "Panasonic DMC-G5K Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-mtb-cube-reaction-race-29": {
+      "name": "E-MTB Cube Reaction Race 29\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a300-dslr": {
+      "name": "Sony A300 DSLR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-700d": {
+      "name": "Canon EOS 700D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kamera-fotozubehor": {
+      "name": "Kamera, Fotozubehör",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exacta-varex-ii-a": {
+      "name": "Exacta varex II a",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hama-kamera-rucksack-schwarz": {
+      "name": "Hama Kamera-Rucksack Schwarz",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "6-kameras": {
+      "name": "6 Kameras",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
