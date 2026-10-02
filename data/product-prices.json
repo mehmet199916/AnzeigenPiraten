@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T16:34:28.576Z",
+  "updatedAt": "2026-10-02T16:39:12.621Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1102,7 +1102,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-256-gb": {
-      "name": "Apple iPhone 13 Pro 256GB",
+      "name": "Apple iPhone 13 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 390,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256gb",
+      "name": "Apple iPhone 15 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512GB",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3430,7 +3430,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-128-gb": {
-      "name": "iPhone 15 Pro (128GB)",
+      "name": "iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3604,7 +3604,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-128-gb": {
-      "name": "iPhone 16 Pro 128GB",
+      "name": "iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8032,7 +8032,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13\" 8GB",
+      "name": "Apple MacBook Air 13 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -14429,6 +14429,162 @@
     },
     "sony-alpha-100": {
       "name": "Sony Alpha 100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-3-s-lease-e-bike": {
+      "name": "Kalkhoff Image 3.S Lease E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "i-sy-s8-k-e-bike": {
+      "name": "I:SY S8 K E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-exc-625": {
+      "name": "Cube Reaction Hybrid EXC 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-pro-e-bike": {
+      "name": "KTM Macina Style Pro E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-hardseven-sduro-7": {
+      "name": "Haibike HardSeven SDuro 7",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-hmi-display-e-bike": {
+      "name": "Bosch Hmi Display E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-fathom-e-3-power": {
+      "name": "Giant Fathom E+ 3 Power",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-hybrid": {
+      "name": "CUBE Hybrid",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-damenrad-2013": {
+      "name": "Bosch E-Bike Damenrad 2013",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bad-bike-e-bike-fatbike-evo": {
+      "name": "Bad Bike E Bike Fatbike Evo",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-c-2-0": {
+      "name": "Conway Cairon C 2.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mountainbike-schwarz": {
+      "name": "E-Bike Mountainbike schwarz",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-e-bike-elektrofahrrad-impulse-mittelmotor-36-v-15ah": {
+      "name": "Raleigh E-Bike/ Elektrofahrrad Impulse Mittelmotor & 36 V (15AH)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-bloomc7-e-bike": {
+      "name": "Gazelle BloomC7 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "top-e-bike-klapprad-engine-pro-fatbike": {
+      "name": "Top E-Bike Klapprad: ENGINE PRO (Fatbike)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-32-gb": {
+      "name": "Apple MacBook Pro 32GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-4070-ti-gaming-oc-12-gb": {
+      "name": "Gigabyte GeForce RTX 4070 Ti Gaming OC 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "marvel-s-wolverine-spiel-fur-playstation-5": {
+      "name": "Marvel's Wolverine Spiel für PlayStation 5",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "marvel-s-wolverine-fur-playstation-5": {
+      "name": "Marvel's Wolverine für PlayStation 5",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rennsitz-fur-pc-playstation": {
+      "name": "Rennsitz für PC Playstation",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asahi-pentax-me": {
+      "name": "Asahi Pentax ME",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-xg-9": {
+      "name": "Minolta XG-9",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-stylus-zoom-70-quartzdate": {
+      "name": "Olympus Stylus Zoom 70 Quartzdate",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-rx100-vii": {
+      "name": "Sony RX100 VII",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "baby-camera": {
+      "name": "Baby Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f3-slr-kamera": {
+      "name": "Nikon F3 SLR Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
