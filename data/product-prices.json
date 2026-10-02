@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T18:19:11.038Z",
+  "updatedAt": "2026-10-02T18:23:57.860Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256gb",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2129,7 +2129,7 @@
     },
     "sapphire-pulse-radeon-rx-5600-xt-be-oc-6-gb": {
       "name": "Sapphire Pulse Radeon RX 5600 XT BE OC 6GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 120,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2674,7 +2674,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128 GB",
+      "name": "Apple iPhone 16 Plus 128 gb",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3034,7 +3034,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-se-2022-128-gb": {
-      "name": "Apple iPhone SE 2022 128GB",
+      "name": "Apple iPhone SE 2022 128 GB",
       "category": "Smartphones",
       "referencePrice": 225,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -17574,6 +17574,90 @@
     "panasonic-nv-s5": {
       "name": "Panasonic NV-S5",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reany-e-bike": {
+      "name": "REANY E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elops-e-bike": {
+      "name": "ELOPS E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-e-bike": {
+      "name": "Kettler E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-64-gb": {
+      "name": "Apple iPhone SE 64 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-pro-max-123-gb": {
+      "name": "Apple iPhone 13 Pro Max 123gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-air": {
+      "name": "Apple iPhone 17 Air",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-pro-512-gb": {
+      "name": "Apple iPhone 12 Pro 512 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-6": {
+      "name": "Apple MacBook Air 13,6",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-4-slim-500-gb": {
+      "name": "Sony PlayStation 4 Slim 500 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-action-4": {
+      "name": "DJI Osmo Action 4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "audi-autoradio-a3-a4": {
+      "name": "Audi Autoradio A3 A4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fx01-digitalkamera": {
+      "name": "Panasonic Lumix DMC-FX01 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-phantom-4-pro": {
+      "name": "DJI Phantom 4 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fatbike-qmwheel-ouxi-modellen-v20-pro-v20-pro": {
+      "name": "Fatbike QMWHEEL & OUXI MODELLEN V20 pro V20 PRO",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
