@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T18:23:57.860Z",
+  "updatedAt": "2026-10-02T18:29:00.411Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2284,8 +2284,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1TB",
-      "category": "Spielekonsolen",
+      "name": "Sony PlayStation 5 (Slim) 1TB",
+      "category": "Spielenkonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3430,7 +3430,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-128-gb": {
-      "name": "iPhone 15 Pro 128GB",
+      "name": "iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3557,7 +3557,7 @@
     },
     "rose-e-bike-enviolo-automatik-xtra-watt": {
       "name": "Rose E Bike Enviolo Automatik XTRA WATT",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -3749,7 +3749,7 @@
     },
     "sony-playstation-vr2": {
       "name": "Sony PlayStation VR2",
-      "category": "Spielekonsolen",
+      "category": "Spielenkonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7540,7 +7540,7 @@
       "updatedAt": null
     },
     "apple-iphone-xr-64-gb": {
-      "name": "Apple iPhone XR 64gb",
+      "name": "Apple iPhone XR 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13204,7 +13204,7 @@
       "updatedAt": null
     },
     "apple-iphone-13-pro-max-1-tb": {
-      "name": "Apple iPhone 13 Pro Max 1TB",
+      "name": "Apple iPhone 13 Pro Max 1 TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -14615,7 +14615,7 @@
     },
     "victoria-e-bike": {
       "name": "Victoria E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -16247,7 +16247,7 @@
     },
     "haibike-trekking-7": {
       "name": "Haibike Trekking 7",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17658,6 +17658,120 @@
     "fatbike-qmwheel-ouxi-modellen-v20-pro-v20-pro": {
       "name": "Fatbike QMWHEEL & OUXI MODELLEN V20 pro V20 PRO",
       "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-miss-grace-c7-hmb-e-pedelec": {
+      "name": "GAZELLE Miss Grace C7+ HMB E-Pedelec",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-proline-mtb-e-bike-em-1608": {
+      "name": "FISCHER Proline MTB E-Bike EM 1608",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-f820-e-bike": {
+      "name": "Telefunken F820 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-3": {
+      "name": "Kalkhoff Endeavour 3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evercross-tech-e-bike-20-0": {
+      "name": "Evercross Tech E.Bike 20.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kinder-e-bike": {
+      "name": "Kinder E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-3rd-generation": {
+      "name": "Apple iPhone SE (3rd Generation)",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-9070-16-gb": {
+      "name": "AMD Radeon RX 9070 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-rtx-5060-8-gb": {
+      "name": "Palit GeForce RTX 5060 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-rx-6600xt-xfx-speedster-308-8-gb": {
+      "name": "AMD RX 6600XT XFX Speedster 308 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-2070-strix-8-gb": {
+      "name": "ASUS RTX 2070 Strix 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-vr-v2": {
+      "name": "PlayStation VR V2",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-handycam-hdr-cx180": {
+      "name": "Sony Handycam HDR-CX180",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "retro-kamera-analog-compur-rapid": {
+      "name": "Retro-Kamera analog Compur-Rapid",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a390-spiegelreglexkamera": {
+      "name": "Sony A390 Spiegelreglexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-12-clay-white": {
+      "name": "Fujifilm Instax Mini 12 Clay-White",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-68": {
+      "name": "Sony Alpha 68",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-t70-spiegelreflexkamera": {
+      "name": "Canon T70 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a6100": {
+      "name": "Sony Alpha A6100",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
