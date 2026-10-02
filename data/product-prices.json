@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:30:31.319Z",
+  "updatedAt": "2026-10-02T13:35:22.748Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -911,7 +911,7 @@
     },
     "sony-playstation-5-portal-remote-player-handheld": {
       "name": "Sony PlayStation 5 Portal Remote Player Handheld",
-      "category": "Gaming-Handhelds",
+      "category": "Spielekonsolen",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -947,7 +947,7 @@
     },
     "hercules-e-bike": {
       "name": "Hercules E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 900,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256gb",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256gb",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16e 128GB",
+      "name": "Apple iPhone 16e 128 GB",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,7 +1798,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256 GB",
+      "name": "Apple iPhone 13 Pro Max (256 GB)",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2345,7 +2345,7 @@
     },
     "maxtron-mt-11x-e-bike-mittelmotor": {
       "name": "Maxtron MT-11X E-Bike Mittelmotor",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2680,7 +2680,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-256-gb": {
-      "name": "Apple iPhone 11 Pro 256 GB",
+      "name": "Apple iPhone 11 Pro (256 GB)",
       "category": "Smartphones",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3598,7 +3598,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-pro-512-gb": {
-      "name": "Apple iPhone 15 Pro 512 GB",
+      "name": "Apple iPhone 15 Pro (512 GB)",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -3664,7 +3664,7 @@
       "updatedAt": null
     },
     "dji-mini-3-pro": {
-      "name": "DJI mini 3 pro",
+      "name": "DJI Mini 3 Pro",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -3988,7 +3988,7 @@
       "updatedAt": null
     },
     "canon-powershot-g7-x-mark-iii": {
-      "name": "Canon PowerShot G7 X Mark III",
+      "name": "Canon Powershot G7 X Mark III",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -4816,7 +4816,7 @@
       "updatedAt": null
     },
     "philips-avent-babyphone-mit-kamera": {
-      "name": "Philips AVENT Babyphone mit Kamera",
+      "name": "Philips Avent Babyphone mit Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -6276,6 +6276,222 @@
     "alte-photokameras": {
       "name": "Alte Photokameras",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riverside-e-bike-city-28-zoll-ec900": {
+      "name": "RIVERSIDE E-Bike City 28 Zoll EC900",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-von-aktivelo": {
+      "name": "E Bike von Aktivelo",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blackshox-city-e-bike": {
+      "name": "Blackshox City E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ladegerat-fit-e-bike-fast-charger-36-v-6a": {
+      "name": "Ladegerät Fit E- Bike Fast Charger 36 V, 6A",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-herren-rad": {
+      "name": "E-Bike Herren Rad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-qio-eins-ap-8r-crystal-white": {
+      "name": "E-Bike QIO \"EINS AP-8R , crystal white\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-ecoline-city-e-bike-ecu-1703": {
+      "name": "Fischer Ecoline City E-Bike ECU 1703",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-gazelle-grenoble-c8": {
+      "name": "Bosch E-Bike GAZELLE GRENOBLE C8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "qwic-atlas-velo": {
+      "name": "QWIC Atlas Velo",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sparta-e-bike": {
+      "name": "Sparta E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-bike-tracking-750wh": {
+      "name": "Scott E-Bike Tracking 750Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-daily-tour-e-2-lds": {
+      "name": "Giant Daily Tour E+2 LDS",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-stance-e-1-pro": {
+      "name": "Giant Stance E+1 Pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina": {
+      "name": "KTM Macina",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "retro-e-bike": {
+      "name": "Retro E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-endeavour-7": {
+      "name": "Kalkhoff E-Bike Endeavour 7",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-e-bike-26": {
+      "name": "Flyer e-bike 26\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-cento-10-cx5-damenfahrrad": {
+      "name": "KTM Cento 10 CX5 Damenfahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-pro-29-zoll-e-bike": {
+      "name": "CUBE STEREO PRO 29 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16": {
+      "name": "Apple iPhone 16",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-m3-chip-8-gb-speicher-256-gb-ssd": {
+      "name": "Apple MacBook Air 15\" M3 Chip 8GB Speicher 256GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-2020-256-gb": {
+      "name": "Apple MacBook Air M1 2020 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-15-8-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Air M2 15’’ (8GB RAM / 256GB SSD)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-512-gb": {
+      "name": "Apple MacBook Pro 13 Zoll 512 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scuf-ps5-controller": {
+      "name": "SCUF PS5 Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-12": {
+      "name": "Fujifilm Instax Mini 12",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-air-3s-combo": {
+      "name": "DJI Air 3S Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikkormat-analog-kamera": {
+      "name": "Nikkormat Analog Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-j1-kamera": {
+      "name": "Nikon J1 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-xd-7-slr-kamera-mit-led-licht": {
+      "name": "Minolta XD 7 SLR Kamera mit LED-Licht",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-nv-ds-55-eg": {
+      "name": "Panasonic NV-DS 55 EG",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hikvision-ds-2df8225ix-ael-t3-ptz-darkfighter-kamera": {
+      "name": "Hikvision DS-2DF8225IX-AEL T3 PTZ DarkFighter Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d5100-spiegelreflexkamera": {
+      "name": "Nikon D5100 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-r8": {
+      "name": "Canon EOS R8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-f31-fd": {
+      "name": "Fujifilm Finepix f31-fd",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-mini-64-gb": {
+      "name": "Apple iPhone 12 mini 64GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
