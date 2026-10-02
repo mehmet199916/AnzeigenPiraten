@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-01T23:58:10.613Z",
+  "updatedAt": "2026-10-02T00:03:11.990Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -641,7 +641,7 @@
     },
     "sony-playstation-5-konsole": {
       "name": "Sony PlayStation 5 Konsole",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1330,7 +1330,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-pro-2-tb": {
-      "name": "Sony PlayStation 5 Pro 2 TB",
+      "name": "Sony PlayStation 5 Pro 2TB",
       "category": "Spielekonsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1822,7 +1822,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512GB",
+      "name": "Apple iPhone 16 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3923,6 +3923,72 @@
     },
     "dji-osmo-action-5-pro": {
       "name": "Dji Osmo Action 5 pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-cento-10-plus": {
+      "name": "KTM Cento 10 Plus",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-fahrrad-faltrad-fr18": {
+      "name": "Fischer Fahrrad Faltrad FR18",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "didi-thurau-e-bike": {
+      "name": "Didi Thurau E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-und-muller-swing-rh-51": {
+      "name": "Riese und Müller Swing RH 51",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-max": {
+      "name": "iPhone 17 Pro Max",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-airpods-4": {
+      "name": "Apple iPhone 14 + Airpods 4",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13": {
+      "name": "Apple MacBook Air 13\"",
+      "category": "Computers",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3070-grafikkarte": {
+      "name": "NVIDIA GeForce RTX 3070 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-radeon-rx-580-gaming-8g-8-gb": {
+      "name": "Gigabyte Radeon RX 580 Gaming 8G 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-4060-ti-8-gb": {
+      "name": "NVIDIA RTX 4060 Ti 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-g7-x-mark-iii": {
+      "name": "Canon Powershot G7 X Mark III",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
