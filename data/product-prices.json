@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T17:49:27.548Z",
+  "updatedAt": "2026-10-02T17:55:04.491Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128 Gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512 Gb",
+      "name": "Apple iPhone 15 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128gb",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,8 +340,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
-      "category": "Smartphones",
+      "name": "Apple iPhone 16 Pro 256GB",
+      "category": "smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1240,7 +1240,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-825-gb": {
-      "name": "Sony PlayStation 5 Konsole 825gb",
+      "name": "Sony PlayStation 5 Konsole 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16e 128 GB",
+      "name": "Apple iPhone 16e 128 gb",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1828,7 +1828,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128GB",
+      "name": "Apple iPhone 12 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2279,7 +2279,7 @@
     },
     "sony-playstation-5": {
       "name": "Sony PlayStation 5",
-      "category": "Games consoles",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2386,7 +2386,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "cube-touring-hybrid-exc-625": {
-      "name": "CUBE Touring Hybrid EXC 625",
+      "name": "Cube Touring Hybrid EXC 625",
       "category": "E-Bikes",
       "referencePrice": 1600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2890,7 +2890,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-max-256-gb": {
-      "name": "iPhone 15 Pro Max 256 GB",
+      "name": "iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -9214,7 +9214,7 @@
       "updatedAt": null
     },
     "iphone-15-256-gb": {
-      "name": "iPhone 15 256 GB",
+      "name": "iPhone 15 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -12370,7 +12370,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-m4-16-gb-ram-256-gb-ssd": {
-      "name": "Apple MacBook Air 13 M4 16GB RAM 256GB SSD",
+      "name": "Apple MacBook Air 13” M4 – 16GB RAM – 256GB SSD",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -16662,6 +16662,126 @@
     "analoge-kamera": {
       "name": "Analoge Kamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-fahrrad-bergsteiger-26-zoll": {
+      "name": "e Fahrrad-Bergsteiger 26 zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-spectral-on-cf7-fully-mountainbike": {
+      "name": "Canyon Spectral:On CF7 Fully Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-bike-bosch-50cm": {
+      "name": "Victoria E-Bike Bosch 50cm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-leader-fox": {
+      "name": "E-Bike Leader Fox",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-access-hybrid-race-500-e-mtb": {
+      "name": "Cube Access Hybrid Race 500 E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-blue": {
+      "name": "CUBE Reaction Blue",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ninebot-e-scooter": {
+      "name": "Ninebot E-Scooter",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-max-rosegold-256-gb": {
+      "name": "Apple iPhone 16 Pro Max Roségold 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-128-gb-grau-anthrazit": {
+      "name": "Apple iPhone 15 Pro 128GB Grau/Anthrazit",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-512-gb-desert-titanium": {
+      "name": "Apple iPhone 16 Pro 512GB Desert Titanium",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1": {
+      "name": "Apple MacBook Air M1",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m4-pro-24-gb": {
+      "name": "Apple MacBook Pro 14\" M4 Pro 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2017-128-gb": {
+      "name": "Apple MacBook Air 2017 128GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-5070-gaming-trio-oc-white": {
+      "name": "MSI GeForce RTX 5070 Gaming Trio OC White",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1050-ti-oc-4g-4-gb": {
+      "name": "Gigabyte GeForce GTX 1050 Ti OC 4G 4 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dualsense-edge-ps5-controller": {
+      "name": "Sony DualSense Edge PS5 Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-nex-3n-systemkamera": {
+      "name": "Sony NEX-3N Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cita-1-0-damen-fahrrad": {
+      "name": "Cita 1.0 Damen Fahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-r10": {
+      "name": "Canon EOS R10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rockmachine-crossride-e400": {
+      "name": "RockMachine Crossride e400",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     }
