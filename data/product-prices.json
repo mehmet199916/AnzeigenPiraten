@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T17:29:27.557Z",
+  "updatedAt": "2026-10-02T17:34:25.721Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64 GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64gb",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 gb",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128gb",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 gb",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1066,7 +1066,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-plus-128-gb": {
-      "name": "Apple iPhone 14 Plus 128 GB",
+      "name": "Apple iPhone 14 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 365,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3196,7 +3196,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-256-gb": {
-      "name": "Apple iPhone 12 Pro Max 256 GB",
+      "name": "Apple iPhone 12 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4144,7 +4144,7 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-max-256-gb": {
-      "name": "Apple iPhone 11 Pro Max 256 GB",
+      "name": "Apple iPhone 11 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6682,7 +6682,7 @@
       "updatedAt": null
     },
     "fujifilm-x-e1": {
-      "name": "Fujifilm X-E1",
+      "name": "Fujifilm X E1",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -7618,7 +7618,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-disc-edition-1-tb": {
-      "name": "Sony PlayStation 5 Slim Disc Edition 1 TB",
+      "name": "Sony PlayStation 5 Slim Disc Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -16092,6 +16092,126 @@
     "porst-reflex-c-tl-spiegelreflexkamera": {
       "name": "Porst Reflex C-TL Spiegelreflexkamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-hardfour-4-0": {
+      "name": "Haibike HardFour 4.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "multicycle-expressive-e-bike": {
+      "name": "Multicycle Expressive E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-e8-sport": {
+      "name": "Pegasus Solero E8 sport",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-herren-e-bike-28-zoll-yamaha-motor-500wh-akku": {
+      "name": "Winora Herren E-Bike 28 Zoll Yamaha Motor 500Wh Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-e-bike-akku": {
+      "name": "Specialized E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-alltrail-3-m-e-bike": {
+      "name": "Haibike Alltrail 3 M E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "advanced-trekking-pro-e-bike": {
+      "name": "Advanced Trekking Pro E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "spezialised-turbo-levo-e-bike": {
+      "name": "Spezialised Turbo Levo E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damen-e-bike-28-zoll": {
+      "name": "Damen E-Bike 28\" Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-damenrad-mit-korb": {
+      "name": "E-Bike Damenrad mit Korb",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-250-gb": {
+      "name": "Apple iPhone 17 Pro 250 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-2015-8-gb": {
+      "name": "Apple MacBook Air 13 Zoll 2015 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-2020-16-gb": {
+      "name": "Apple MacBook Air 13 2020 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-inch": {
+      "name": "Apple MacBook Pro 13-inch",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "metal-gear-solid-delta-snake-eater-deluxe-edition": {
+      "name": "Metal Gear Solid Delta: Snake Eater Deluxe Edition",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-se": {
+      "name": "DJI Mini SE",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-karma-drohne": {
+      "name": "GoPro Karma Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-3": {
+      "name": "Sony PlayStation 3",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-sz-10-plus": {
+      "name": "Panasonic Lumix SZ 10 Plus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-firma-fischer": {
+      "name": "E-Bike Firma :Fischer",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     }
