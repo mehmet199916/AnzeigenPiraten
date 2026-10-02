@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T16:49:20.006Z",
+  "updatedAt": "2026-10-02T16:54:16.805Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -52,13 +52,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64gb",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 Gb",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1066,7 +1066,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-plus-128-gb": {
-      "name": "Apple iPhone 14 Plus 128GB",
+      "name": "Apple iPhone 14 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 365,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1084,7 +1084,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-512-gb": {
-      "name": "Apple iPhone 17 512 GB",
+      "name": "Apple iPhone 17 512GB",
       "category": "Smartphones",
       "referencePrice": 800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2080,8 +2080,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-neo-13-8-gb": {
-      "name": "Apple MacBook Neo 13 8 GB",
-      "category": "Computer",
+      "name": "Apple MacBook Neo 13\" 8GB",
+      "category": "Computers",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2447,7 +2447,7 @@
     },
     "apple-iphone-17-pro-max": {
       "name": "Apple iPhone 17 Pro Max",
-      "category": "Computer",
+      "category": "Smartphones",
       "referencePrice": 1100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3952,7 +3952,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max": {
-      "name": "iPhone 17 pro Max",
+      "name": "iPhone 17 Pro Max",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -4384,7 +4384,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-m3-8-gb": {
-      "name": "Apple MacBook Air M3 8 GB",
+      "name": "Apple MacBook Air M3 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -8777,7 +8777,7 @@
     },
     "ea-fifa-27": {
       "name": "EA FIFA 27",
-      "category": "Spielekonsolen",
+      "category": "Spiele",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13643,7 +13643,7 @@
     },
     "zundapp-e-bike": {
       "name": "Zündapp E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14844,6 +14844,138 @@
     "polaroid-supercolor-670af-sofortbildkamera": {
       "name": "Polaroid Supercolor 670AF Sofortbildkamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fatbike-v20-h9-v8-pro-c80-mini-gt2000": {
+      "name": "Fatbike V20 H9 V8 Pro C80 mini GT2000",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bh-lynx-trail-carbon-e-fully-modell-2023": {
+      "name": "BH LYNX Trail Carbon E-Fully Modell 2023",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-victoria-e-bike": {
+      "name": "Bosch Victoria E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-klappen-rad-20zoll": {
+      "name": "e Bike klappen Rad 20zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mit-riemenantrieb": {
+      "name": "E-Bike mit Riemenantrieb",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-ashford-10": {
+      "name": "Raleigh Ashford 10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-500-bbr275-e-bike-akku": {
+      "name": "Bosch PowerPack 500 BBR275 E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-e8r-comfort": {
+      "name": "PEGASUS Premio E8R Comfort",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mobile-klimaanlage-aux-12-000-btu": {
+      "name": "Mobile Klimaanlage AUX 12.000 BTU",
+      "category": "Klimaanlagen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m4-pro-14": {
+      "name": "Apple MacBook Pro M4 Pro 14\"",
+      "category": "Computers",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-8-gb": {
+      "name": "Apple MacBook Pro 13\" 8 GB",
+      "category": "Computers",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-2026-13-zoll": {
+      "name": "Apple MacBook Air M5 2026 13 Zoll",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1650": {
+      "name": "NVIDIA GTX 1650",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-4060-ti-16-gb": {
+      "name": "NVIDIA RTX 4060 Ti 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-5070-ti-gaming-trio": {
+      "name": "NVIDIA GeForce RTX 5070 Ti Gaming Trio",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fotobox-all-inklusive-paket": {
+      "name": "Fotobox ALL-INKLUSIVE-Paket",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "boblov-small-camera": {
+      "name": "BOBLOV Small Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-auto-zoom-814-super-8-filmkamera": {
+      "name": "Canon Auto Zoom 814 Super-8-Filmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dc-fz82": {
+      "name": "Panasonic Lumix DC-FZ82",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-sr-t-303b": {
+      "name": "Minolta SR-T 303b",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-r50": {
+      "name": "Canon EOS R50",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps4-5-switch": {
+      "name": "Ps4/5 Switch",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     }
