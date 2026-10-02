@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T16:39:12.621Z",
+  "updatedAt": "2026-10-02T16:44:15.325Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256 gb",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256GB",
+      "name": "iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -4456,8 +4456,8 @@
       "updatedAt": null
     },
     "amd-radeon-rx-580-8-gb": {
-      "name": "AMD Radeon RX 580 8GB",
-      "category": "Grafikkarten",
+      "name": "AMD Radeon RX 580 8Gb",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14585,6 +14585,138 @@
     },
     "nikon-f3-slr-kamera": {
       "name": "Nikon F3 SLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rose-e-bike-xtra-watt-evo-3-komfort": {
+      "name": "Rose E-Bike XTRA WATT EVO+ 3 Komfort",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "centurion-efire-e-bike": {
+      "name": "Centurion eFire E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-viator-4-0i-damen-e-bike": {
+      "name": "Fischer Viator 4.0i Damen E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-cita-3-3i-damen-e-bike": {
+      "name": "Fischer CITA 3.3i Damen E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-bike": {
+      "name": "Victoria E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-allmtn-e-bike-fully": {
+      "name": "Haibike ALLMTN E-Bike Fully",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-damen-tiefeinsteiger": {
+      "name": "CUBE E-Bike Damen Tiefeinsteiger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "activelo-20-city-e-bike": {
+      "name": "ACTIVELO 20\" City E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-cityrad-damenrad": {
+      "name": "Kalkhoff E-Bike Cityrad Damenrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-mountainbike-aufsteiger-m925-e-bike": {
+      "name": "Telefunken Mountainbike Aufsteiger M925 E Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-pro-max-64-gb": {
+      "name": "Apple iPhone 11 Pro Max 64GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-1-tb": {
+      "name": "Apple iPhone 17 Pro 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-2022": {
+      "name": "Apple MacBook Air M2 (2022)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-rtx-3080-white-edition": {
+      "name": "ASUS ROG Strix GeForce RTX 3080 White Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-max-2-360-kamera": {
+      "name": "GoPro Max 2 360° Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-professional-gic-120-inspektionskamera": {
+      "name": "Bosch Professional GIC 120 Inspektionskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-520-dslr-kamera": {
+      "name": "Olympus E-520 DSLR-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-55-250-mm-objektiv": {
+      "name": "Canon EOS 55-250 mm Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-xg-1-mit-rokkor-1-7-50mm": {
+      "name": "Minolta XG-1 mit Rokkor 1.7/50mm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sea-sea-motor-marine-ii-unterwasserkamera": {
+      "name": "Sea & Sea Motor Marine II Unterwasserkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-5d-mark-iv": {
+      "name": "Canon EOS 5D Mark IV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-t3": {
+      "name": "YASHICA T3",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
