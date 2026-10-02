@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:04:10.323Z",
+  "updatedAt": "2026-10-02T13:09:36.317Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple IPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2674,7 +2674,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128GB",
+      "name": "Apple iPhone 16 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256 GB",
+      "name": "iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256gb",
+      "name": "iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -3604,7 +3604,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-128-gb": {
-      "name": "iPhone 16 Pro 128GB",
+      "name": "iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -3988,7 +3988,7 @@
       "updatedAt": null
     },
     "canon-powershot-g7-x-mark-iii": {
-      "name": "Canon Powershot G7 X Mark III",
+      "name": "Canon PowerShot G7 X Mark III",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -4914,6 +4914,270 @@
     "canon-kamera-konvolut": {
       "name": "Canon Kamera Konvolut",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-e-bike": {
+      "name": "Koga E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-e-teru-universal-eq-e-bike": {
+      "name": "Ghost E-TERU UNIVERSAL EQ E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-asket-advanced-gravelbike": {
+      "name": "Ghost Asket Advanced Gravelbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-akku-pro-max-26v-20ah-520wh": {
+      "name": "GIANT Akku Pro max 26V 20Ah 520Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-bike": {
+      "name": "Stevens E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-chamonix-c7-e-bike": {
+      "name": "Gazelle Chamonix C7 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-premium-e-bike": {
+      "name": "Raleigh Premium E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mondraker-e-bike-carbon": {
+      "name": "Mondraker e Bike Carbon",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-entdecker-e9-6": {
+      "name": "PROPHETE ENTDECKER e9.6",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-e-transhill-cx11-lg": {
+      "name": "Kettler E-TRANSHILL CX11 LG",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "colorway-e-bike-klapprad": {
+      "name": "Colorway E-Bike Klapprad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-5g-256-gb": {
+      "name": "Apple iPhone 16 Pro 5G 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-512-gb": {
+      "name": "Apple MacBook Pro 512gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-16-gb": {
+      "name": "Apple MacBook Air M5 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-anfang-2015": {
+      "name": "Apple MacBook Air 13 Zoll (Anfang 2015)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-4060-ti-stormx-8-gb": {
+      "name": "NVIDIA GeForce RTX 4060 Ti StormX 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-pulse-amd-radeon-rx-6600-xt": {
+      "name": "Sapphire Pulse AMD Radeon RX 6600 XT",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-rtx-3050-dual-8g": {
+      "name": "Palit GeForce RTX 3050 Dual 8G",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ea-fc-27": {
+      "name": "EA FC 27",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-disc-edition": {
+      "name": "Sony PlayStation 5 Slim Disc Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "monty-sd-rohrkamera": {
+      "name": "MONTY SD-ROHRKAMERA",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kerbl-ipcam-sim-fhd": {
+      "name": "Kerbl IPCam SIM FHD",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-c50i-carbon-kamerastativ": {
+      "name": "Rollei C50i Carbon Kamerastativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-600d": {
+      "name": "Canon 600D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "falter-e9-0-rt-wave-trend-7g-shimano-nexus": {
+      "name": "Falter E9.0 RT Wave Trend 7G Shimano Nexus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-e-bike-sinus-9": {
+      "name": "Winora E-Bike Sinus 9",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-mtb-1724": {
+      "name": "Fischer E-Mtb 1724",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-orange-e-bike": {
+      "name": "Gazelle Orange E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-pro-max-256-gb": {
+      "name": "iPhone 14 Pro Max 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-11": {
+      "name": "iPhone 11",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13-pro-128-gb": {
+      "name": "iPhone 13 Pro 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13-mini-128-gb": {
+      "name": "iPhone 13 mini 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-f20-f21-f22-f87-f23-kafas-kamera-spurhalteassistent": {
+      "name": "BMW F20 F21 F22 F87 F23 KaFAS Kamera Spurhalteassistent",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-5": {
+      "name": "GoPro Hero 5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7": {
+      "name": "Sony Alpha 7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-evo-sofortbildkamera": {
+      "name": "Fujifilm Instax Mini Evo Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-nano-128-gb": {
+      "name": "DJI Osmo Nano 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-58": {
+      "name": "Sony Alpha 58",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-5-pro": {
+      "name": "DJI Mini 5 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aoqee-outdoor-wifi-uberwachungskamera-solar-2k": {
+      "name": "AOQEE Outdoor WiFi Überwachungskamera Solar 2K",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-60": {
+      "name": "Canon Ixus 60",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-roller-20-kmh": {
+      "name": "e Roller 20 kmh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "uebler-f-24-anhangerkupplung": {
+      "name": "Uebler F 24 Anhängerkupplung",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-pro-max": {
+      "name": "Apple iPhone 12 Pro Max",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
