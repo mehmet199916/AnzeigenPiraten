@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T00:17:54.241Z",
+  "updatedAt": "2026-10-02T00:22:54.685Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,13 +1054,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256GB",
+      "name": "Apple iPhone 12 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128gb",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4086,6 +4086,36 @@
     "rohrreinigung-abflussreinigung": {
       "name": "Rohrreinigung-Abflussreinigung",
       "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rockrider-e-expl-520s": {
+      "name": "ROCKRIDER E-Expl 520S",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fatbike-v20-pro-v8-ultra-mini-s20-gt2000": {
+      "name": "Fatbike V20 Pro V8 Ultra Mini S20 GT2000",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-pro-max-512-gb": {
+      "name": "iPhone 16 Pro Max 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "powercolor-amd-radeon-rx-6600-xt-red-devil-8-gb": {
+      "name": "PowerColor AMD Radeon RX 6600 XT Red Devil 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x100v": {
+      "name": "Fujifilm X100V",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
