@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:25:33.636Z",
+  "updatedAt": "2026-10-02T13:30:31.319Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 GB",
+      "name": "Apple iPhone 11 64GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -52,13 +52,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64Gb",
+      "name": "Apple iPhone 12 64GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,7 +202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E-Bike",
+      "name": "e-bike",
       "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512GB",
+      "name": "Apple iPhone 15 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256 GB",
+      "name": "Apple iPhone 14 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1427,7 +1427,7 @@
     },
     "kalkhoff-e-bike": {
       "name": "Kalkhoff E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1822,7 +1822,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512 GB",
+      "name": "Apple iPhone 16 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3256,7 +3256,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-256-gb": {
-      "name": "Apple MacBook Air 256GB",
+      "name": "Apple MacBook Air 256 GB",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3340,7 +3340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-mini-128-gb": {
-      "name": "Apple iPhone 12 Mini 128GB",
+      "name": "Apple iPhone 12 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 175,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3922,7 +3922,7 @@
       "updatedAt": null
     },
     "dji-osmo-action-5-pro": {
-      "name": "Dji Osmo Action 5 pro",
+      "name": "DJI Osmo Action 5 Pro",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -6017,6 +6017,264 @@
     },
     "dji-osmo-pocket-4-creator-combo": {
       "name": "DJI Osmo Pocket 4 Creator Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rose-root-miller-plus-2-e-mtb": {
+      "name": "ROSE Root Miller Plus 2 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-sub-tour-eride-e-bike": {
+      "name": "Scott Sub Tour eRide E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-urrun-30": {
+      "name": "Orbea Urrun 30",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-eride": {
+      "name": "SCOTT eRide",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-28-zoll-didi-thurau-edition": {
+      "name": "Prophete E-Bike 28 Zoll Didi Thurau Edition",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-courier-pt5": {
+      "name": "Stevens E-Courier PT5",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-saxonette-28zoll": {
+      "name": "E Bike Saxonette 28zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-rise-h30": {
+      "name": "Orbea Rise H30",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-b270-c-e-bike": {
+      "name": "Winora B270.C E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-integrale-i10": {
+      "name": "Kalkhoff Integrale i10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-e-bike": {
+      "name": "Raleigh E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-xt-e-bike": {
+      "name": "KTM Macina XT E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-stack-1-3-e-bike": {
+      "name": "Prophete Stack 1.3 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-2020-512-gb": {
+      "name": "Apple MacBook Air M1 2020 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-5070-12-gb": {
+      "name": "NVIDIA RTX 5070 12GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-2060-6-gb-dual-oc": {
+      "name": "NVIDIA GeForce RTX 2060 6GB Dual OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-geforce-rtx-grafikkarte": {
+      "name": "ASUS TUF Gaming GeForce RTX Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-4-slim-1-tb": {
+      "name": "PlayStation 4 Slim 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digital": {
+      "name": "Sony PlayStation 5 digital",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "silent-hill-townfall-day-one-edition-steelbook-edition": {
+      "name": "Silent Hill: Townfall Day One Edition SteelBook Edition",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-digital-825-gb": {
+      "name": "Sony PlayStation 5 Slim Digital 825 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-disc": {
+      "name": "Sony PlayStation 5 Slim Disc",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-kamera-mit-objektiven": {
+      "name": "Nikon Kamera mit Objektiven",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-13-black-creator-edition": {
+      "name": "GoPro HERO 13 Black Creator Edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-11": {
+      "name": "Fujifilm Instax mini 11",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-es9-digitalkamera": {
+      "name": "Samsung ES9 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-action-kamera": {
+      "name": "GoPro Hero+ Action Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-10": {
+      "name": "Canon EOS 10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-500": {
+      "name": "Canon EOS 500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a1100-is": {
+      "name": "Canon PowerShot A1100 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-4000d": {
+      "name": "Canon EOS 4000D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ae-1-analog-kamera": {
+      "name": "Canon AE-1 Analog Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-actioncam-s-30-wifi-plus": {
+      "name": "Rollei Actioncam S-30 WiFi Plus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reolink-go-plus-4g-kamera": {
+      "name": "Reolink Go Plus 4G Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "philips-avent-video-babyphone-scd882-26": {
+      "name": "Philips Avent Video Babyphone SCD882/26",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-tz71": {
+      "name": "Panasonic Lumix DMC-TZ71",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-rx100-iv": {
+      "name": "Sony Cyber-Shot DSC-RX100 IV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-15-pro": {
+      "name": "iPhone 15 Pro",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-3gs": {
+      "name": "Apple iPhone 3GS",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-x-64-gb": {
+      "name": "Apple iPhone X 64GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-de-videomic-richtmikrofon": {
+      "name": "RØDE VideoMic Richtmikrofon",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-rx10-iv": {
+      "name": "Sony Cyber-shot DSC-RX10 IV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "alte-photokameras": {
+      "name": "Alte Photokameras",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
