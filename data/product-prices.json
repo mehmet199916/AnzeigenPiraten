@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T15:49:39.909Z",
+  "updatedAt": "2026-10-02T15:54:23.559Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128 GB",
+      "name": "Apple iPhone 15 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256Gb",
+      "name": "Apple iPhone 14 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,8 +1054,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
-      "category": "Smartphones",
+      "name": "Apple iPhone 17 Pro 256 GB",
+      "category": "smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128gb",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,7 +1798,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256 GB",
+      "name": "Apple iPhone 13 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2291,7 +2291,7 @@
     },
     "playstation-5-slim-digital-edition": {
       "name": "PlayStation 5 Slim Digital Edition",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3430,7 +3430,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-128-gb": {
-      "name": "iPhone 15 Pro 128gb",
+      "name": "iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256GB",
+      "name": "iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7516,7 +7516,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-max-512-gb": {
-      "name": "Apple iPhone 14 Pro Max 512GB",
+      "name": "Apple iPhone 14 Pro Max 512gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -12719,6 +12719,210 @@
     },
     "canon-eos-kamera-set": {
       "name": "Canon EOS Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gt2000-fat-bike": {
+      "name": "GT2000 Fat-bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agv-k1-s-e2206-integralhelm": {
+      "name": "AGV K1 S E2206 integralhelm",
+      "category": "Schutzkleidung",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-aeb-990-smart-bosch-cx-85nm-625-wh": {
+      "name": "Velo de Ville AEB 990 Smart Bosch CX 85NM 625 Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-bike-26-zoll": {
+      "name": "VICTORIA E-bike 26 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-campus": {
+      "name": "E-Bike CAMPUS",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-akku-bosch-powerback-400": {
+      "name": "E-Bike Akku Bosch Powerback 400",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-e-bike-hybrid-pro-625": {
+      "name": "CUBE Kathmandu E-Bike Hybrid Pro 625",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-lavida-plus": {
+      "name": "Bulls Lavida Plus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-enduro-170mm-160mm-bosch": {
+      "name": "Cube E-Bike Enduro 170mm/160mm Bosch",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-7-e-bike-shimano-deore-2022": {
+      "name": "Haibike Trekking 7 E-Bike Shimano Deore 2022",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-cento-11-plus-damen-e-bike": {
+      "name": "KTM Cento 11 Plus Damen E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dyu-d3f-mini-elektrofahrrad": {
+      "name": "DYU D3F Mini-Elektrofahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-aspiro-e-bike": {
+      "name": "Giant Aspiro E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-air-512-gb": {
+      "name": "Apple iPhone Air 512 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-5s-12-gb": {
+      "name": "Apple iPhone 5s 12 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-3-8-gb-speicher": {
+      "name": "Apple MacBook Pro 13,3\" 8GB Speicher",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-m3-chip-18-gb": {
+      "name": "Apple MacBook Pro 16\" M3 Chip 18GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-m1-chip-512-gb-ssd": {
+      "name": "Apple MacBook Air 13 Zoll M1 Chip 512 GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-3080-oc-edition-10-gb": {
+      "name": "Asus RTX 3080 OC Edition 10 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-5080-prime-evo-oc": {
+      "name": "Asus RTX 5080 Prime EVO OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-amd-radeon-rx-7900-xtx-oc-edition-24-gb": {
+      "name": "ASUS TUF Gaming AMD Radeon RX 7900 XTX OC Edition 24 Gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "deko-lampe": {
+      "name": "Deko-Lampe",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-l35-af2": {
+      "name": "Nikon L35 AF2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx620-hs": {
+      "name": "Canon PowerShot SX620 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d5300": {
+      "name": "Nikon D5300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asahi-pentax-spotmatic-f": {
+      "name": "Asahi Pentax Spotmatic F",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-35-af": {
+      "name": "Rollei 35 AF",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "socheerfull-2k-wlan-6-uberwachungskamera-ptz": {
+      "name": "Socheerfull 2K WLAN 6 Überwachungskamera PTZ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju-zoom-35-70-point-shot-retro-vintage": {
+      "name": "Olympus mju Zoom 35-70 point&shot Retro Vintage",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "a-kruss-mikroskop-mit-4-objektiven": {
+      "name": "A Krüss Mikroskop mit 4 Objektiven",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-2000d-64-gb": {
+      "name": "Canon EOS 2000D 64gb",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ds126191": {
+      "name": "Canon DS126191",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eyseo-wasserdichte-vario-focal-ir": {
+      "name": "Eyseo Wasserdichte Vario-Focal IR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-fdr-ax33-4k-camcorder": {
+      "name": "Sony FDR-AX33 4K Camcorder",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
