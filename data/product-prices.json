@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:45:14.913Z",
+  "updatedAt": "2026-10-02T13:50:24.594Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,13 +58,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256GB",
+      "name": "Apple iPhone 13 256 GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,7 +202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "e-bike",
+      "name": "E-Bike",
       "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825GB",
+      "name": "Sony PlayStation 5 Disc Edition 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1240,7 +1240,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-825-gb": {
-      "name": "Sony PlayStation 5 Konsole 825 GB",
+      "name": "Sony PlayStation 5 Konsole 825 Gb",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1330,8 +1330,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-pro-2-tb": {
-      "name": "Sony PlayStation 5 Pro 2TB",
-      "category": "Spielekonsolen",
+      "name": "Sony PlayStation 5 Pro 2 TB",
+      "category": "Smartphones",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2483,7 +2483,7 @@
     },
     "nvidia-quadro-rtx-4000": {
       "name": "NVidia Quadro RTX 4000",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256 GB",
+      "name": "Apple iPhone 15 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3964,8 +3964,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-13": {
-      "name": "Apple MacBook Air 13\"",
-      "category": "Computers",
+      "name": "Apple MacBook Air 13",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -4643,7 +4643,7 @@
     },
     "tenways-cgo-compact": {
       "name": "Tenways CGO Compact",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6954,6 +6954,216 @@
     "schmalfilmprojektor-am8": {
       "name": "Schmalfilmprojektor AM8",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grecos-eli-2-5": {
+      "name": "Grecos Eli 2.5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kayza-e-bike": {
+      "name": "Kayza E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sinus-e-bike-damen": {
+      "name": "Sinus E-Bike Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-1401": {
+      "name": "Fischer E-Bike 1401",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-e-bike-stance-e-2-xl-fully-29": {
+      "name": "Giant E-Bike Stance E+ 2 XL Fully 29\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-horizon-fse-expert-772km": {
+      "name": "Bergamont E-Horizon FSE Expert-772km",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-geniesser-2-0-city-e-bike": {
+      "name": "Prophete Geniesser 2.0 City E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-r6": {
+      "name": "E-Bike R6",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-prime-e-e-bike": {
+      "name": "Giant Prime E+ E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga-duo": {
+      "name": "Kettler Quadriga Duo",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-bike": {
+      "name": "Haibike E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-1-tb": {
+      "name": "Apple iPhone 15 Pro 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-wei": {
+      "name": "Apple iPhone 11 Weiß",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-pro-max": {
+      "name": "Apple iPhone 11 Pro Max",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-max-265-gb": {
+      "name": "Apple iPhone 16 Pro Max 265 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-3-8-gb-speicher-touchbar": {
+      "name": "Apple MacBook Pro 13,3\" 8GB Speicher TouchBar",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "inno3d-geforce-gtx-1060-6-gb": {
+      "name": "Inno3D GeForce GTX 1060 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xfx-radeon-rx-580-gts-8-gb": {
+      "name": "XFX Radeon RX 580 GTS 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-5070ti-triple-fan-oc-16-gb-gddr7": {
+      "name": "Nvidia GeForce RTX 5070Ti Triple Fan OC 16GB GDDR7",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aim-controller-scuf": {
+      "name": "Aim Controller scuf",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-spiele": {
+      "name": "PlayStation 5 Spiele",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g29-driving-force-lenkrad-fur-playstation": {
+      "name": "Logitech G29 Driving Force Lenkrad für PlayStation",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tp-link-vigi-c485-kamera": {
+      "name": "TP Link Vigi C485 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-phantom-4-kameradrohne": {
+      "name": "DJI Phantom 4 Kameradrohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-m50-spiegellose-systemkamera": {
+      "name": "Canon EOS M50 Spiegellose Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx60v-32-gb": {
+      "name": "Sony Cyber-shot DSC HX60V 32 GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-cl-kamera": {
+      "name": "Leica CL Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-neo-drohne": {
+      "name": "DJI Neo Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju-iii-115-kompaktkamera": {
+      "name": "Olympus mju: III 115 Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-g6": {
+      "name": "Panasonic DMC-G6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rs-4-mini-combo": {
+      "name": "DJI RS 4 Mini Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-minolta-dynax-7d-dslr-kamera": {
+      "name": "Konica Minolta Dynax 7D DSLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-action-3": {
+      "name": "DJI Osmo Action 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-128-gb": {
+      "name": "Apple iPhone 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-5s": {
+      "name": "Apple iPhone 5S",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
