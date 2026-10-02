@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-10-02T00:48:04.617Z",
+  "generatedAt": "2026-10-02T00:52:58.337Z",
   "engine": "ai:qwen3:4b",
   "count": 600,
   "queries": [
     {
       "id": "ebike",
       "label": "E-Bikes",
-      "count": 111
+      "count": 113
     },
     {
       "id": "gpu",
       "label": "Grafikkarten",
-      "count": 48
+      "count": 49
     },
     {
       "id": "iphone",
       "label": "iPhone",
-      "count": 228
+      "count": 224
     },
     {
       "id": "kamera",
       "label": "Kameras",
-      "count": 99
+      "count": 100
     },
     {
       "id": "console",
@@ -36,97 +36,43 @@
   ],
   "deals": [
     {
-      "id": "3445276908",
+      "id": "3517231363",
       "queryId": "ebike",
       "queryLabel": "E-Bikes",
-      "title": "E-Bike City 28 Zoll EC900 City Nexus Bosch Active Line+",
-      "description": "Marke: RIVERSIDE\nGröße: M\nAbholort: Kaiserslautern.\n\nNEUWARE: Diese Produkte sind voll...",
-      "price": 1900,
-      "priceRaw": "1.900 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "67663 Kaiserslautern-West",
-      "distanceKm": 0,
-      "postedAt": "2026-09-25T12:00:00.000Z",
-      "postedRaw": "25.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6ad3e17a-2ff5-48b5-865b-7ae28f132515?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6ad3e17a-2ff5-48b5-865b-7ae28f132515?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3445276908",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "riverside-e-bike-city-28-zoll-ec900-city-nexus-bosch-active-line",
-        "name": "RIVERSIDE E-Bike City 28 Zoll EC900 City Nexus Bosch Active Line+",
-        "category": "Fahrräder",
-        "variant": "",
-        "confidence": 0.9,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:42:32.924Z"
-      },
-      "firstSeenAt": "2026-10-01T22:42:42.320Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
-      "priceHistory": [
-        {
-          "price": 1900,
-          "at": "2026-10-01T22:42:42.320Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "referencePriceCheck": {
-        "status": "above_reference_price",
-        "productKey": "riverside-e-bike-city-28-zoll-ec900-city-nexus-bosch-active-line",
-        "productName": "RIVERSIDE E-Bike City 28 Zoll EC900 City Nexus Bosch Active Line+",
-        "askingPrice": 1900,
-        "referencePrice": 1000,
-        "difference": -900,
-        "differencePct": -90
-      }
-    },
-    {
-      "id": "3523532598",
-      "queryId": "ebike",
-      "queryLabel": "E-Bikes",
-      "title": "Urtopia Carbon 1 E-Bike Carbon Gr. M – neuwertig",
-      "description": "Verkaufe ein Urtopia Carbon 1 E-Bike in Größe M in optisch nahezu neuwertigem Zustand.\nDas Fahrrad...",
-      "price": 699,
-      "priceRaw": "699 € VB",
+      "title": "Rose E Bike Xtra Watt Herrenrad",
+      "description": "Super Fahrrad mit 11 Gang Gangschaltung\nNur ca. 1800 Kilometer gelaufen, dementsprechend hat der...",
+      "price": 1000,
+      "priceRaw": "1.000 € VB",
       "currency": "EUR",
       "priceTags": {
         "free": false,
         "negotiable": true,
         "trade": false
       },
-      "location": "50735 Niehl",
+      "location": "46414 Rhede",
       "distanceKm": 0,
-      "postedAt": "2026-09-26T12:00:00.000Z",
-      "postedRaw": "26.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c10cd2ca-c602-4ca1-bd25-bc9f6d858640?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c10cd2ca-c602-4ca1-bd25-bc9f6d858640?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3523532598",
+      "postedAt": "2026-09-29T12:00:00.000Z",
+      "postedRaw": "29.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0c56e32-2042-43d9-8c91-7e6e15ca3783?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0c56e32-2042-43d9-8c91-7e6e15ca3783?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3517231363",
       "category": "",
       "attributes": {},
       "product": {
-        "key": "urtopia-carbon-1-e-bike",
-        "name": "Urtopia Carbon 1 E-Bike",
+        "key": "rose-e-bike-xtra-watt",
+        "name": "Rose E Bike Xtra Watt",
         "category": "Fahrräder",
         "variant": "",
         "confidence": 0.95,
         "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-02T00:48:02.265Z"
+        "classifiedAt": "2026-10-02T00:52:58.337Z"
       },
-      "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "firstSeenAt": "2026-10-02T00:52:58.337Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
-          "price": 699,
-          "at": "2026-10-02T00:48:04.617Z"
+          "price": 1000,
+          "at": "2026-10-02T00:52:58.337Z"
         }
       ],
       "priceComparison": {
@@ -135,8 +81,58 @@
       },
       "referencePriceCheck": {
         "status": "reference_price_missing",
-        "productKey": "urtopia-carbon-1-e-bike",
-        "productName": "Urtopia Carbon 1 E-Bike"
+        "productKey": "rose-e-bike-xtra-watt",
+        "productName": "Rose E Bike Xtra Watt"
+      }
+    },
+    {
+      "id": "3497951220",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Winora Tria N8f eco,E-Bike Damen E-Bike, Tiefeinsteiger",
+      "description": "Ich verkaufe mein gepflegtes Winora E-Bike, das sich durch seinen komfortablen...",
+      "price": 1200,
+      "priceRaw": "1.200 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "46284 Dorsten",
+      "distanceKm": 0,
+      "postedAt": "2026-08-29T12:00:00.000Z",
+      "postedRaw": "29.08.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e459016-116b-439f-a9db-e7c38b22b943?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e459016-116b-439f-a9db-e7c38b22b943?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3497951220",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "winora-tria-n8f-eco",
+        "name": "Winora Tria N8f eco",
+        "category": "Fahrräder",
+        "variant": "",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-02T00:52:58.337Z"
+      },
+      "firstSeenAt": "2026-10-02T00:52:58.337Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
+      "priceHistory": [
+        {
+          "price": 1200,
+          "at": "2026-10-02T00:52:58.337Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "reference_price_missing",
+        "productKey": "winora-tria-n8f-eco",
+        "productName": "Winora Tria N8f eco"
       }
     },
     {
@@ -172,7 +168,7 @@
         "classifiedAt": "2026-10-02T00:48:02.265Z"
       },
       "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 380,
@@ -222,7 +218,7 @@
         "classifiedAt": "2026-10-02T00:28:09.046Z"
       },
       "firstSeenAt": "2026-10-02T00:28:09.046Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1650,
@@ -272,7 +268,7 @@
         "classifiedAt": "2026-10-02T00:28:09.046Z"
       },
       "firstSeenAt": "2026-10-02T00:28:09.046Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1299,
@@ -322,7 +318,7 @@
         "classifiedAt": "2026-10-02T00:12:57.052Z"
       },
       "firstSeenAt": "2026-10-02T00:12:58.835Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 598,
@@ -372,7 +368,7 @@
         "classifiedAt": "2026-10-02T00:03:04.697Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 250,
@@ -422,7 +418,7 @@
         "classifiedAt": "2026-10-02T00:03:04.697Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1850,
@@ -472,7 +468,7 @@
         "classifiedAt": "2026-10-01T23:48:00.927Z"
       },
       "firstSeenAt": "2026-10-01T23:48:13.287Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 250,
@@ -522,7 +518,7 @@
         "classifiedAt": "2026-10-01T23:43:06.146Z"
       },
       "firstSeenAt": "2026-10-01T23:43:06.146Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 220,
@@ -572,7 +568,7 @@
         "classifiedAt": "2026-10-01T23:42:59.275Z"
       },
       "firstSeenAt": "2026-10-01T23:43:06.146Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 400,
@@ -622,7 +618,7 @@
         "classifiedAt": "2026-10-01T23:38:08.660Z"
       },
       "firstSeenAt": "2026-10-01T23:38:08.660Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 700,
@@ -672,7 +668,7 @@
         "classifiedAt": "2026-10-01T23:33:07.009Z"
       },
       "firstSeenAt": "2026-10-01T23:33:07.009Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 2000,
@@ -722,7 +718,7 @@
         "classifiedAt": "2026-10-01T23:33:07.009Z"
       },
       "firstSeenAt": "2026-10-01T23:33:07.009Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 350,
@@ -772,7 +768,7 @@
         "classifiedAt": "2026-10-01T23:22:40.593Z"
       },
       "firstSeenAt": "2026-10-01T23:22:40.593Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 277,
@@ -834,7 +830,7 @@
         "classifiedAt": "2026-10-01T23:27:40.705Z"
       },
       "firstSeenAt": "2026-10-01T23:22:40.593Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 400,
@@ -884,7 +880,7 @@
         "classifiedAt": "2026-10-01T23:27:40.705Z"
       },
       "firstSeenAt": "2026-10-01T23:22:40.593Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1200,
@@ -934,7 +930,7 @@
         "classifiedAt": "2026-10-01T23:12:32.436Z"
       },
       "firstSeenAt": "2026-10-01T23:12:34.162Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 330,
@@ -988,7 +984,7 @@
         "classifiedAt": "2026-10-01T23:07:43.583Z"
       },
       "firstSeenAt": "2026-10-01T23:07:43.583Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 700,
@@ -1049,7 +1045,7 @@
         "classifiedAt": "2026-10-01T23:07:34.302Z"
       },
       "firstSeenAt": "2026-10-01T23:07:43.583Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1300,
@@ -1103,7 +1099,7 @@
         "classifiedAt": "2026-10-01T22:57:42.703Z"
       },
       "firstSeenAt": "2026-10-01T22:57:42.703Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 600,
@@ -1157,7 +1153,7 @@
         "classifiedAt": "2026-10-01T22:50:40.717Z"
       },
       "firstSeenAt": "2026-10-01T22:50:40.717Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1000,
@@ -1211,7 +1207,7 @@
         "classifiedAt": "2026-10-01T22:42:42.320Z"
       },
       "firstSeenAt": "2026-10-01T22:42:42.320Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1590,
@@ -1265,7 +1261,7 @@
         "classifiedAt": "2026-10-01T22:42:32.924Z"
       },
       "firstSeenAt": "2026-10-01T22:42:42.320Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 220,
@@ -1326,7 +1322,7 @@
         "classifiedAt": "2026-10-01T22:42:32.924Z"
       },
       "firstSeenAt": "2026-10-01T22:42:42.320Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 700,
@@ -1387,7 +1383,7 @@
         "classifiedAt": "2026-10-01T22:37:43.699Z"
       },
       "firstSeenAt": "2026-10-01T22:37:53.251Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 895,
@@ -1441,7 +1437,7 @@
         "classifiedAt": "2026-10-01T22:37:43.699Z"
       },
       "firstSeenAt": "2026-10-01T22:37:53.251Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1200,
@@ -1463,74 +1459,13 @@
       }
     },
     {
-      "id": "3527816073",
+      "id": "3503294158",
       "queryId": "iphone",
       "queryLabel": "iPhone",
-      "title": "Apple iPhone 14 Pro 128 GB Schwarz – 100% Akku",
-      "description": "Verkauft wird mein Apple iPhone 14 Pro in Space Schwarz mit 128 GB Speicher. Gerät funktioniert...",
-      "price": 350,
-      "priceRaw": "350 € VB",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": true,
-        "trade": false
-      },
-      "location": "04249 Großzschocher",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T06:26:00.000Z",
-      "postedRaw": "Gestern, 08:26",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a196c15b-3f1c-4304-905c-a85a7caf746b?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a196c15b-3f1c-4304-905c-a85a7caf746b?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3527816073",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-iphone-14-pro-128-gb",
-        "name": "Apple iPhone 14 Pro 128 GB",
-        "category": "Smartphones",
-        "variant": "Schwarz",
-        "confidence": 0.98,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-02T00:48:02.265Z"
-      },
-      "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
-      "priceHistory": [
-        {
-          "price": 350,
-          "at": "2026-10-02T00:48:04.617Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 11,
-        "median": 350,
-        "p25": 329,
-        "p75": 385,
-        "min": 200,
-        "max": 449,
-        "differencePct": 0,
-        "minComparables": 3,
-        "status": "within_observed_range"
-      },
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "apple-iphone-14-pro-128-gb",
-        "productName": "Apple iPhone 14 Pro 128GB",
-        "askingPrice": 350,
-        "referencePrice": 425,
-        "difference": 75,
-        "differencePct": 17.6
-      }
-    },
-    {
-      "id": "3525700343",
-      "queryId": "iphone",
-      "queryLabel": "iPhone",
-      "title": "Apple IPhone 16 Pro 5G Akku 90% [512GB,Desert Titanium] • Neuzustand • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:7285",
+      "title": "Apple IPhone 17 Pro 5G [256GB,Cosmic Orange] • NEU&VERSIEGELT • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:7022",
       "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
-      "price": 899,
-      "priceRaw": "899 €",
+      "price": 1049,
+      "priceRaw": "1.049 €",
       "currency": "EUR",
       "priceTags": {
         "free": false,
@@ -1539,38 +1474,110 @@
       },
       "location": "30451 Linden-Limmer",
       "distanceKm": 0,
-      "postedAt": "2026-09-30T22:04:00.000Z",
-      "postedRaw": "Gestern, 00:04",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6d6bd3d-1aa9-495a-975e-166ba5681743?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6d6bd3d-1aa9-495a-975e-166ba5681743?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3525700343",
+      "postedAt": "2026-09-30T22:14:00.000Z",
+      "postedRaw": "Gestern, 00:14",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b862aeff-1a7c-4062-a4a6-2f4543374b32?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b862aeff-1a7c-4062-a4a6-2f4543374b32?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3503294158",
       "category": "",
       "attributes": {},
       "product": {
-        "key": "apple-iphone-16-pro-512-gb",
-        "name": "Apple iPhone 16 Pro 512GB",
+        "key": "apple-iphone-17-pro-256-gb",
+        "name": "Apple iPhone 17 Pro 256GB",
         "category": "Smartphones",
-        "variant": "",
-        "confidence": 0.9,
+        "variant": "5G, , Cosmic Orange",
+        "confidence": 0.95,
         "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T23:34:44.028Z"
+        "classifiedAt": "2026-10-02T00:52:58.337Z"
       },
-      "firstSeenAt": "2026-10-01T23:34:44.028Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "firstSeenAt": "2026-10-02T00:52:58.337Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
-          "price": 899,
-          "at": "2026-10-01T23:34:44.028Z"
+          "price": 1049,
+          "at": "2026-10-02T00:52:58.337Z"
         }
       ],
       "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
+        "comparableCount": 18,
+        "median": 995,
+        "p25": 910,
+        "p75": 1087,
+        "min": 720,
+        "max": 1200,
+        "differencePct": 5,
+        "minComparables": 3,
+        "status": "within_observed_range"
       },
       "referencePriceCheck": {
-        "status": "reference_price_missing",
-        "productKey": "apple-iphone-16-pro-512-gb",
-        "productName": "Apple iPhone 16 Pro 512GB"
+        "status": "above_reference_price",
+        "productKey": "apple-iphone-17-pro-256-gb",
+        "productName": "Apple iPhone 17 Pro 256GB",
+        "askingPrice": 1049,
+        "referencePrice": 1010,
+        "difference": -39,
+        "differencePct": -3.9
+      }
+    },
+    {
+      "id": "3477011146",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Apple IPhone 17 Pro 5G 06/26 Akku 100% [256GB,Cosmic Orange] • Neuzustand • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:5791",
+      "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
+      "price": 1039,
+      "priceRaw": "1.039 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "30451 Linden-Limmer",
+      "distanceKm": 0,
+      "postedAt": "2026-09-30T22:12:00.000Z",
+      "postedRaw": "Gestern, 00:12",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a58ad93a-8bd0-4ffb-879e-cd8c65c0f6e1?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a58ad93a-8bd0-4ffb-879e-cd8c65c0f6e1?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3477011146",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "apple-iphone-17-pro-256-gb",
+        "name": "Apple iPhone 17 Pro 256GB",
+        "category": "Smartphones",
+        "variant": "5G, , Cosmic Orange",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-02T00:52:58.337Z"
+      },
+      "firstSeenAt": "2026-10-02T00:52:58.337Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
+      "priceHistory": [
+        {
+          "price": 1039,
+          "at": "2026-10-02T00:52:58.337Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 18,
+        "median": 995,
+        "p25": 910,
+        "p75": 1087,
+        "min": 720,
+        "max": 1200,
+        "differencePct": 4,
+        "minComparables": 3,
+        "status": "within_observed_range"
+      },
+      "referencePriceCheck": {
+        "status": "above_reference_price",
+        "productKey": "apple-iphone-17-pro-256-gb",
+        "productName": "Apple iPhone 17 Pro 256GB",
+        "askingPrice": 1039,
+        "referencePrice": 1010,
+        "difference": -29,
+        "differencePct": -2.9
       }
     },
     {
@@ -1606,7 +1613,7 @@
         "classifiedAt": "2026-10-02T00:48:02.265Z"
       },
       "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 750,
@@ -1663,7 +1670,7 @@
         "classifiedAt": "2026-10-02T00:48:02.265Z"
       },
       "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 279,
@@ -1724,7 +1731,7 @@
         "classifiedAt": "2026-10-02T00:48:02.265Z"
       },
       "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 850,
@@ -1774,7 +1781,7 @@
         "classifiedAt": "2026-10-02T00:42:55.074Z"
       },
       "firstSeenAt": "2026-10-02T00:42:55.074Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 300,
@@ -1835,7 +1842,7 @@
         "classifiedAt": "2026-10-02T00:42:55.074Z"
       },
       "firstSeenAt": "2026-10-02T00:42:55.074Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 115,
@@ -1896,7 +1903,7 @@
         "classifiedAt": "2026-10-02T00:37:50.952Z"
       },
       "firstSeenAt": "2026-10-02T00:37:50.952Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 400,
@@ -1917,7 +1924,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-15-pro-max-256-gb",
-        "productName": "Apple iPhone 15 Pro Max 256 GB",
+        "productName": "Apple iPhone 15 Pro Max 256GB",
         "askingPrice": 400,
         "referencePrice": 680,
         "difference": 280,
@@ -1957,7 +1964,7 @@
         "classifiedAt": "2026-10-02T00:32:58.165Z"
       },
       "firstSeenAt": "2026-10-02T00:32:58.165Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 650,
@@ -2018,7 +2025,7 @@
         "classifiedAt": "2026-10-02T00:28:09.046Z"
       },
       "firstSeenAt": "2026-10-02T00:28:09.046Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 590,
@@ -2079,7 +2086,7 @@
         "classifiedAt": "2026-10-02T00:28:00.545Z"
       },
       "firstSeenAt": "2026-10-02T00:28:09.046Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 200,
@@ -2140,7 +2147,7 @@
         "classifiedAt": "2026-10-02T00:22:54.685Z"
       },
       "firstSeenAt": "2026-10-02T00:22:54.685Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 800,
@@ -2190,7 +2197,7 @@
         "classifiedAt": "2026-10-02T00:17:54.241Z"
       },
       "firstSeenAt": "2026-10-02T00:17:54.241Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 600,
@@ -2240,7 +2247,7 @@
         "classifiedAt": "2026-10-02T00:12:57.052Z"
       },
       "firstSeenAt": "2026-10-02T00:12:58.835Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 265,
@@ -2290,7 +2297,7 @@
         "classifiedAt": "2026-10-02T00:07:55.016Z"
       },
       "firstSeenAt": "2026-10-02T00:07:55.016Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 350,
@@ -2347,7 +2354,7 @@
         "classifiedAt": "2026-10-02T00:07:55.016Z"
       },
       "firstSeenAt": "2026-10-02T00:07:55.016Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 780,
@@ -2408,7 +2415,7 @@
         "classifiedAt": "2026-10-02T00:07:55.016Z"
       },
       "firstSeenAt": "2026-10-02T00:07:55.016Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1000,
@@ -2458,7 +2465,7 @@
         "classifiedAt": "2026-10-02T00:03:11.990Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 650,
@@ -2519,7 +2526,7 @@
         "classifiedAt": "2026-10-02T00:03:11.990Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 900,
@@ -2569,7 +2576,7 @@
         "classifiedAt": "2026-10-02T00:03:11.990Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 600,
@@ -2630,7 +2637,7 @@
         "classifiedAt": "2026-10-02T00:03:11.990Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 800,
@@ -2691,7 +2698,7 @@
         "classifiedAt": "2026-10-02T00:03:04.697Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 150,
@@ -2752,7 +2759,7 @@
         "classifiedAt": "2026-10-02T00:03:04.697Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 279,
@@ -2813,7 +2820,7 @@
         "classifiedAt": "2026-10-02T00:02:55.340Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 299,
@@ -2874,7 +2881,7 @@
         "classifiedAt": "2026-10-02T00:02:55.340Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 350,
@@ -2935,7 +2942,7 @@
         "classifiedAt": "2026-10-02T00:03:04.697Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 220,
@@ -2996,7 +3003,7 @@
         "classifiedAt": "2026-10-02T00:07:55.016Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 900,
@@ -3025,43 +3032,43 @@
       }
     },
     {
-      "id": "3520244433",
+      "id": "3501109651",
       "queryId": "macbook",
       "queryLabel": "MacBook",
-      "title": "Apple MacBook Pro 13-Inch TouchBar 2 Thunderbolt Erscheinungsjahr 2017 [128GB,Space Gray] • Guter Zustand • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:9480",
-      "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
-      "price": 299,
-      "priceRaw": "299 €",
+      "title": "Apple MacBook Pro 14″ M4 16 GB/1 TB Silber – neu & versiegelt",
+      "description": "Ich verkaufe ein neues, originalverpacktes und noch vollständig versiegeltes Apple MacBook Pro. Der...",
+      "price": 1749,
+      "priceRaw": "1.749 €",
       "currency": "EUR",
       "priceTags": {
         "free": false,
         "negotiable": false,
         "trade": false
       },
-      "location": "30451 Linden-Limmer",
+      "location": "76133 Karlsruhe",
       "distanceKm": 0,
-      "postedAt": "2026-09-30T22:06:00.000Z",
-      "postedRaw": "Gestern, 00:06",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1fde9040-e856-473c-bb8b-0163c0c80b0d?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1fde9040-e856-473c-bb8b-0163c0c80b0d?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3520244433",
+      "postedAt": "2026-09-01T12:00:00.000Z",
+      "postedRaw": "01.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98eb167a-38d4-4570-9750-f584cd422d3a?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98eb167a-38d4-4570-9750-f584cd422d3a?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3501109651",
       "category": "",
       "attributes": {},
       "product": {
-        "key": "apple-macbook-pro-13-inch-2017-128-gb",
-        "name": "Apple MacBook Pro 13-Inch 2017 128GB",
+        "key": "apple-macbook-pro-14-m4-16-gb-1-tb-silber",
+        "name": "Apple MacBook Pro 14″ M4 16 GB/1 TB Silber",
         "category": "Computer",
         "variant": "",
-        "confidence": 0.95,
+        "confidence": 1,
         "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T21:42:17.243Z"
+        "classifiedAt": "2026-10-01T23:22:32.222Z"
       },
-      "firstSeenAt": "2026-09-30T23:53:29.557Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "firstSeenAt": "2026-10-01T23:22:40.593Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
-          "price": 299,
-          "at": "2026-09-30T23:53:29.557Z"
+          "price": 1749,
+          "at": "2026-10-01T23:22:40.593Z"
         }
       ],
       "priceComparison": {
@@ -3070,52 +3077,52 @@
       },
       "referencePriceCheck": {
         "status": "above_reference_price",
-        "productKey": "apple-macbook-pro-13-inch-2017-128-gb",
-        "productName": "Apple MacBook Pro 13-Inch 2017 128GB",
-        "askingPrice": 299,
-        "referencePrice": 280,
-        "difference": -19,
-        "differencePct": -6.8
+        "productKey": "apple-macbook-pro-14-m4-16-gb-1-tb-silber",
+        "productName": "Apple MacBook Pro 14″ M4 16 GB/1 TB Silber",
+        "askingPrice": 1749,
+        "referencePrice": 1400,
+        "difference": -349,
+        "differencePct": -24.9
       }
     },
     {
-      "id": "3522787146",
+      "id": "3526928288",
       "queryId": "macbook",
       "queryLabel": "MacBook",
-      "title": "Apple MacBook Pro 13-Inch Intel Core i5 8GB RAM Erscheinungsjahr 2017 [128GB,Space Gray] • Neuwertig • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:9476",
-      "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
-      "price": 299,
-      "priceRaw": "299 €",
+      "title": "MacBook Pro 13 Zoll M2 (2022) – 8 GB RAM – 256 GB SSD",
+      "description": "Verkaufe mein Apple MacBook Pro 13 Zoll aus 2022 mit M2 Chip.\n\nDas MacBook befindet sich in einem...",
+      "price": 680,
+      "priceRaw": "680 € VB",
       "currency": "EUR",
       "priceTags": {
         "free": false,
-        "negotiable": false,
+        "negotiable": true,
         "trade": false
       },
-      "location": "30451 Linden-Limmer",
+      "location": "75217 Birkenfeld",
       "distanceKm": 0,
-      "postedAt": "2026-09-30T22:04:00.000Z",
-      "postedRaw": "Gestern, 00:04",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30cb6882-f72f-472e-80bf-2ab7791dca9f?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30cb6882-f72f-472e-80bf-2ab7791dca9f?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3522787146",
+      "postedAt": "2026-09-29T12:00:00.000Z",
+      "postedRaw": "29.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba832640-22a1-4776-941d-ca632288dc45?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba832640-22a1-4776-941d-ca632288dc45?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3526928288",
       "category": "",
       "attributes": {},
       "product": {
-        "key": "apple-macbook-pro-13-inch-2017-8-gb",
-        "name": "Apple MacBook Pro 13-Inch 2017 8GB",
+        "key": "apple-macbook-pro-13-zoll-m2-2022-8-gb",
+        "name": "Apple MacBook Pro 13 Zoll M2 (2022) 8 GB",
         "category": "Computer",
-        "variant": "",
-        "confidence": 0.95,
+        "variant": "RAM – 256 GB SSD",
+        "confidence": 0.9,
         "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T21:42:17.243Z"
+        "classifiedAt": "2026-10-01T22:52:31.698Z"
       },
-      "firstSeenAt": "2026-09-30T23:53:29.557Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "firstSeenAt": "2026-10-01T22:52:33.483Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
-          "price": 299,
-          "at": "2026-09-30T23:53:29.557Z"
+          "price": 680,
+          "at": "2026-10-01T22:52:33.483Z"
         }
       ],
       "priceComparison": {
@@ -3123,13 +3130,13 @@
         "status": "insufficient_data"
       },
       "referencePriceCheck": {
-        "status": "above_reference_price",
-        "productKey": "apple-macbook-pro-13-inch-2017-8-gb",
-        "productName": "Apple MacBook Pro 13-Inch 2017 8GB",
-        "askingPrice": 299,
-        "referencePrice": 280,
-        "difference": -19,
-        "differencePct": -6.8
+        "status": "good_price",
+        "productKey": "apple-macbook-pro-13-zoll-m2-2022-8-gb",
+        "productName": "Apple MacBook Pro 13 Zoll M2 (2022) 8 GB",
+        "askingPrice": 680,
+        "referencePrice": 850,
+        "difference": 170,
+        "differencePct": 20
       }
     },
     {
@@ -3165,7 +3172,7 @@
         "classifiedAt": "2026-10-02T00:12:57.052Z"
       },
       "firstSeenAt": "2026-10-02T00:12:58.835Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 300,
@@ -3215,7 +3222,7 @@
         "classifiedAt": "2026-10-01T23:48:13.287Z"
       },
       "firstSeenAt": "2026-10-01T23:48:13.287Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 480,
@@ -3265,7 +3272,7 @@
         "classifiedAt": "2026-10-01T23:38:08.660Z"
       },
       "firstSeenAt": "2026-10-01T23:38:08.660Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 669,
@@ -3330,7 +3337,7 @@
         "classifiedAt": "2026-10-01T23:07:34.302Z"
       },
       "firstSeenAt": "2026-10-01T23:07:43.583Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 350,
@@ -3384,7 +3391,7 @@
         "classifiedAt": "2026-10-01T22:50:40.717Z"
       },
       "firstSeenAt": "2026-10-01T22:50:40.717Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1000,
@@ -3438,7 +3445,7 @@
         "classifiedAt": "2026-10-01T22:50:30.785Z"
       },
       "firstSeenAt": "2026-10-01T22:50:40.717Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1200,
@@ -3499,7 +3506,7 @@
         "classifiedAt": "2026-10-01T22:42:42.319Z"
       },
       "firstSeenAt": "2026-10-01T22:42:42.320Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 180,
@@ -3553,7 +3560,7 @@
         "classifiedAt": "2026-10-01T22:18:49.952Z"
       },
       "firstSeenAt": "2026-10-01T22:18:49.952Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1200,
@@ -3607,7 +3614,7 @@
         "classifiedAt": "2026-10-01T22:18:49.952Z"
       },
       "firstSeenAt": "2026-10-01T22:18:49.952Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1000,
@@ -3661,7 +3668,7 @@
         "classifiedAt": "2026-10-01T22:17:58.011Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1200,
@@ -3715,7 +3722,7 @@
         "classifiedAt": "2026-10-01T22:14:12.036Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 330,
@@ -3776,7 +3783,7 @@
         "classifiedAt": "2026-10-01T22:14:00.504Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1700,
@@ -3830,7 +3837,7 @@
         "classifiedAt": "2026-10-01T22:13:22.538Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1250,
@@ -3884,7 +3891,7 @@
         "classifiedAt": "2026-10-01T22:13:09.616Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 420,
@@ -3938,7 +3945,7 @@
         "classifiedAt": "2026-10-01T22:09:11.570Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 605,
@@ -3999,7 +4006,7 @@
         "classifiedAt": "2026-10-01T22:09:11.570Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1999,
@@ -4053,7 +4060,7 @@
         "classifiedAt": "2026-10-01T22:09:00.604Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 475,
@@ -4107,7 +4114,7 @@
         "classifiedAt": "2026-10-01T22:08:48.668Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 700,
@@ -4161,7 +4168,7 @@
         "classifiedAt": "2026-10-01T22:08:37.435Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 449,
@@ -4222,7 +4229,7 @@
         "classifiedAt": "2026-10-01T22:08:37.435Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 820,
@@ -4276,7 +4283,7 @@
         "classifiedAt": "2026-10-01T22:08:37.435Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 300,
@@ -4337,7 +4344,7 @@
         "classifiedAt": "2026-10-01T22:08:37.435Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 675,
@@ -4391,7 +4398,7 @@
         "classifiedAt": "2026-10-01T22:08:24.906Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 690,
@@ -4445,7 +4452,7 @@
         "classifiedAt": "2026-10-01T22:12:57.793Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 250,
@@ -4506,7 +4513,7 @@
         "classifiedAt": "2026-10-01T22:12:46.959Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 630,
@@ -4525,6 +4532,56 @@
         "referencePrice": 450,
         "difference": -180,
         "differencePct": -40
+      }
+    },
+    {
+      "id": "3512342797",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "ZOTAC GAMING GeForce RTX 3080 Ti AMP HoloBlack – 12 GB",
+      "description": "Verkaufe meine ZOTAC RTX 3080 Ti AMP HoloBlack mit 12 GB GDDR6X.\n\nDie Karte bietet auch heute noch...",
+      "price": 450,
+      "priceRaw": "450 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "79415 Bad Bellingen",
+      "distanceKm": 0,
+      "postedAt": "2026-09-14T12:00:00.000Z",
+      "postedRaw": "14.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/717cfb88-50d5-4d99-a891-a6729ca46ff3?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/717cfb88-50d5-4d99-a891-a6729ca46ff3?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3512342797",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "zotac-gaming-geforce-rtx-3080-ti-amp-holoblack-12-gb",
+        "name": "ZOTAC GAMING GeForce RTX 3080 Ti AMP HoloBlack 12 GB",
+        "category": "Computer",
+        "variant": "",
+        "confidence": 0.98,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-02T00:28:00.545Z"
+      },
+      "firstSeenAt": "2026-10-02T00:28:09.046Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
+      "priceHistory": [
+        {
+          "price": 450,
+          "at": "2026-10-02T00:28:09.046Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "reference_price_missing",
+        "productKey": "zotac-gaming-geforce-rtx-3080-ti-amp-holoblack-12-gb",
+        "productName": "ZOTAC GAMING GeForce RTX 3080 Ti AMP HoloBlack 12 GB"
       }
     },
     {
@@ -4560,7 +4617,7 @@
         "classifiedAt": "2026-10-01T21:42:27.423Z"
       },
       "firstSeenAt": "2026-09-30T23:53:29.557Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 489,
@@ -4582,43 +4639,43 @@
       }
     },
     {
-      "id": "3499306574",
+      "id": "3528579331",
       "queryId": "gpu",
       "queryLabel": "Grafikkarten",
-      "title": "Gigabyte RTX 3080 10GB Aorus Xtreme mit OVP ►Händler◄",
-      "description": "Die Grafikkarte wurde von uns technisch geprüft, gereinigt und umfangreich getestet.\n\nDirekt...",
-      "price": 439,
-      "priceRaw": "439 €",
+      "title": "PNY Rtx 5070 Ti oc",
+      "description": "Vollständig VR-kompatibel mit Quest 3, Pimax Crystal Light, 57 ppd oder Dream Air SE.\n\n- Marke:...",
+      "price": 520,
+      "priceRaw": "520 €",
       "currency": "EUR",
       "priceTags": {
         "free": false,
         "negotiable": false,
         "trade": false
       },
-      "location": "94566 Riedlhütte",
+      "location": "79774 Albbruck",
       "distanceKm": 0,
-      "postedAt": "2026-09-30T12:00:00.000Z",
-      "postedRaw": "30.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de9c34df-72fb-4342-9f27-f829911fc70f?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de9c34df-72fb-4342-9f27-f829911fc70f?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3499306574",
+      "postedAt": "2026-10-02T00:48:00.000Z",
+      "postedRaw": "Heute, 02:48",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/2522a4d7-4660-4d98-9c42-1c2822318264?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/2522a4d7-4660-4d98-9c42-1c2822318264?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528579331",
       "category": "",
       "attributes": {},
       "product": {
-        "key": "gigabyte-rtx-3080-10-gb-aorus-xtreme",
-        "name": "Gigabyte RTX 3080 10GB Aorus Xtreme",
+        "key": "pny-rtx-5070-ti-oc",
+        "name": "PNY RTX 5070 Ti OC",
         "category": "Computer",
         "variant": "",
         "confidence": 0.95,
         "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:07:24.250Z"
+        "classifiedAt": "2026-10-02T00:52:58.337Z"
       },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "firstSeenAt": "2026-10-02T00:52:58.337Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
-          "price": 439,
-          "at": "2026-10-01T22:09:23.063Z"
+          "price": 520,
+          "at": "2026-10-02T00:52:58.337Z"
         }
       ],
       "priceComparison": {
@@ -4626,13 +4683,9 @@
         "status": "insufficient_data"
       },
       "referencePriceCheck": {
-        "status": "above_reference_price",
-        "productKey": "gigabyte-rtx-3080-10-gb-aorus-xtreme",
-        "productName": "Gigabyte RTX 3080 10GB Aorus Xtreme",
-        "askingPrice": 439,
-        "referencePrice": 300,
-        "difference": -139,
-        "differencePct": -46.3
+        "status": "reference_price_missing",
+        "productKey": "pny-rtx-5070-ti-oc",
+        "productName": "PNY RTX 5070 Ti OC"
       }
     },
     {
@@ -4668,7 +4721,7 @@
         "classifiedAt": "2026-10-02T00:48:02.266Z"
       },
       "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 380,
@@ -4718,7 +4771,7 @@
         "classifiedAt": "2026-10-02T00:32:58.165Z"
       },
       "firstSeenAt": "2026-10-02T00:32:58.165Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 100,
@@ -4768,7 +4821,7 @@
         "classifiedAt": "2026-10-02T00:22:54.685Z"
       },
       "firstSeenAt": "2026-10-02T00:22:54.685Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 200,
@@ -4818,7 +4871,7 @@
         "classifiedAt": "2026-10-02T00:03:11.990Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 310,
@@ -4868,7 +4921,7 @@
         "classifiedAt": "2026-10-02T00:03:04.697Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 80,
@@ -4918,7 +4971,7 @@
         "classifiedAt": "2026-10-02T00:03:04.697Z"
       },
       "firstSeenAt": "2026-10-02T00:03:11.990Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 400,
@@ -4968,7 +5021,7 @@
         "classifiedAt": "2026-10-01T23:42:59.275Z"
       },
       "firstSeenAt": "2026-10-01T23:43:06.146Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 197,
@@ -5018,7 +5071,7 @@
         "classifiedAt": "2026-10-01T23:32:59.208Z"
       },
       "firstSeenAt": "2026-10-01T23:33:07.009Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 215,
@@ -5068,7 +5121,7 @@
         "classifiedAt": "2026-10-01T23:27:40.706Z"
       },
       "firstSeenAt": "2026-10-01T23:27:43.494Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 175,
@@ -5118,7 +5171,7 @@
         "classifiedAt": "2026-10-01T23:22:40.593Z"
       },
       "firstSeenAt": "2026-10-01T23:22:40.593Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 270,
@@ -5172,7 +5225,7 @@
         "classifiedAt": "2026-10-01T22:50:30.785Z"
       },
       "firstSeenAt": "2026-10-01T22:50:40.717Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 250,
@@ -5226,7 +5279,7 @@
         "classifiedAt": "2026-10-01T22:42:42.319Z"
       },
       "firstSeenAt": "2026-10-01T22:42:42.320Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 200,
@@ -5280,7 +5333,7 @@
         "classifiedAt": "2026-10-01T22:32:56.395Z"
       },
       "firstSeenAt": "2026-10-01T22:33:02.038Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 65,
@@ -5334,7 +5387,7 @@
         "classifiedAt": "2026-10-01T22:18:42.922Z"
       },
       "firstSeenAt": "2026-10-01T22:14:23.805Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 1400,
@@ -5388,7 +5441,7 @@
         "classifiedAt": "2026-10-01T22:18:31.010Z"
       },
       "firstSeenAt": "2026-10-01T22:14:23.805Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 480,
@@ -5442,7 +5495,7 @@
         "classifiedAt": "2026-10-01T22:13:35.191Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 110,
@@ -5496,7 +5549,7 @@
         "classifiedAt": "2026-10-01T22:13:22.538Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 80,
@@ -5550,7 +5603,7 @@
         "classifiedAt": "2026-10-01T22:09:00.604Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 535,
@@ -5604,7 +5657,7 @@
         "classifiedAt": "2026-10-01T22:12:57.794Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 600,
@@ -5658,7 +5711,7 @@
         "classifiedAt": "2026-10-01T22:08:48.668Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 199,
@@ -5712,7 +5765,7 @@
         "classifiedAt": "2026-10-01T22:08:48.668Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 200,
@@ -5766,7 +5819,7 @@
         "classifiedAt": "2026-10-01T22:08:37.435Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 200,
@@ -5820,7 +5873,7 @@
         "classifiedAt": "2026-10-01T22:08:37.435Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 170,
@@ -5874,7 +5927,7 @@
         "classifiedAt": "2026-10-01T22:08:37.435Z"
       },
       "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 235,
@@ -5893,60 +5946,6 @@
         "referencePrice": 220,
         "difference": -15,
         "differencePct": -6.8
-      }
-    },
-    {
-      "id": "3528553766",
-      "queryId": "gpu",
-      "queryLabel": "Grafikkarten",
-      "title": "Asus Dual Geforce GTX 1660 Super - 6GB",
-      "description": "Die Grafikkarte funktioniert einwandfrei und war bis zum 23.09 in meinem PC eingebaut.\n\nIch...",
-      "price": 120,
-      "priceRaw": "120 € VB",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": true,
-        "trade": false
-      },
-      "location": "45143 Essen-West",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T21:03:00.000Z",
-      "postedRaw": "Gestern, 23:03",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a24b4802-8bb0-4d6c-8b2d-ca0c837cbdf7?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a24b4802-8bb0-4d6c-8b2d-ca0c837cbdf7?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3528553766",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "asus-geforce-gtx-1660-super-6-gb",
-        "name": "Asus GeForce GTX 1660 Super 6GB",
-        "category": "Grafikkarten",
-        "variant": "",
-        "confidence": 0.95,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:08:37.435Z"
-      },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
-      "priceHistory": [
-        {
-          "price": 120,
-          "at": "2026-10-01T22:09:23.063Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "referencePriceCheck": {
-        "status": "above_reference_price",
-        "productKey": "asus-geforce-gtx-1660-super-6-gb",
-        "productName": "Asus GeForce GTX 1660 Super 6GB",
-        "askingPrice": 120,
-        "referencePrice": 100,
-        "difference": -20,
-        "differencePct": -20
       }
     },
     {
@@ -5982,7 +5981,7 @@
         "classifiedAt": "2026-10-01T21:49:25.584Z"
       },
       "firstSeenAt": "2026-09-30T23:53:29.557Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 149,
@@ -6004,57 +6003,64 @@
       }
     },
     {
-      "id": "3250188009",
+      "id": "3376775136",
       "queryId": "console",
       "queryLabel": "Konsolen",
-      "title": "PS5 Reparatur – HDMI, Reinigung, Laufwerk, USB, Diagnose",
-      "description": "PS5 Reparatur – HDMI, Reinigung, Laufwerk, Diagnose | Andernach&#x2F;Koblenz&#x2F;Neuwied\n\nDeine...",
-      "price": 70,
-      "priceRaw": "70 € VB",
+      "title": "Playstation 5  HDMI-Port Reparatur",
+      "description": "HDMI-Port Reparatur – PS5 &#x2F; PS4\nKein Bild &#x2F; Wackelkontakt &#x2F; HDMI-Anschluss...",
+      "price": 80,
+      "priceRaw": "80 €",
       "currency": "EUR",
       "priceTags": {
         "free": false,
-        "negotiable": true,
+        "negotiable": false,
         "trade": false
       },
-      "location": "56626 Andernach",
+      "location": "32139 Spenge",
       "distanceKm": 0,
-      "postedAt": "2026-09-15T12:00:00.000Z",
-      "postedRaw": "15.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47cc4a5f-9109-4e0d-a56e-2f7038675700?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47cc4a5f-9109-4e0d-a56e-2f7038675700?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3250188009",
+      "postedAt": "2026-08-15T12:00:00.000Z",
+      "postedRaw": "15.08.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbca3345-6e7e-453e-8220-fbb345af74fa?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbca3345-6e7e-453e-8220-fbb345af74fa?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3376775136",
       "category": "",
       "attributes": {},
       "product": {
-        "key": "ps5-reparatur",
-        "name": "PS5 Reparatur",
-        "category": "Dienstleistungen",
+        "key": "sony-playstation-5-konsole",
+        "name": "Sony PlayStation 5 Konsole",
+        "category": "Spielekonsolen",
         "variant": "",
         "confidence": 0.95,
         "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:12:34.785Z"
+        "classifiedAt": "2026-10-01T22:17:35.203Z"
       },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "firstSeenAt": "2026-10-01T22:18:49.952Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
-          "price": 70,
-          "at": "2026-10-01T22:09:23.063Z"
+          "price": 80,
+          "at": "2026-10-01T22:18:49.952Z"
         }
       ],
       "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
+        "comparableCount": 27,
+        "median": 400,
+        "p25": 315,
+        "p75": 500,
+        "min": 50,
+        "max": 680,
+        "differencePct": -80,
+        "minComparables": 3,
+        "status": "below_observed_range"
       },
       "referencePriceCheck": {
         "status": "good_price",
-        "productKey": "ps5-reparatur",
-        "productName": "PS5 Reparatur",
-        "askingPrice": 70,
-        "referencePrice": 100,
-        "difference": 30,
-        "differencePct": 30
+        "productKey": "sony-playstation-5-konsole",
+        "productName": "Sony PlayStation 5 Konsole",
+        "askingPrice": 80,
+        "referencePrice": 350,
+        "difference": 270,
+        "differencePct": 77.1
       }
     },
     {
@@ -6090,7 +6096,7 @@
         "classifiedAt": "2026-10-02T00:48:04.617Z"
       },
       "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 400,
@@ -6151,7 +6157,7 @@
         "classifiedAt": "2026-10-02T00:42:55.074Z"
       },
       "firstSeenAt": "2026-10-02T00:42:55.074Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 50,
@@ -6212,7 +6218,7 @@
         "classifiedAt": "2026-10-02T00:42:55.074Z"
       },
       "firstSeenAt": "2026-10-02T00:42:55.074Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 100,
@@ -6273,7 +6279,7 @@
         "classifiedAt": "2026-10-02T00:32:58.165Z"
       },
       "firstSeenAt": "2026-10-02T00:32:58.165Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 500,
@@ -6334,7 +6340,7 @@
         "classifiedAt": "2026-10-02T00:28:09.046Z"
       },
       "firstSeenAt": "2026-10-02T00:28:09.046Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 520,
@@ -6395,7 +6401,7 @@
         "classifiedAt": "2026-10-01T23:48:00.927Z"
       },
       "firstSeenAt": "2026-10-01T23:48:13.287Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 250,
@@ -6445,7 +6451,7 @@
         "classifiedAt": "2026-10-01T23:38:08.660Z"
       },
       "firstSeenAt": "2026-10-01T23:38:08.660Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 450,
@@ -6495,7 +6501,7 @@
         "classifiedAt": "2026-10-01T23:38:00.862Z"
       },
       "firstSeenAt": "2026-10-01T23:38:08.660Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 230,
@@ -6545,7 +6551,7 @@
         "classifiedAt": "2026-10-01T23:32:59.208Z"
       },
       "firstSeenAt": "2026-10-01T23:33:07.009Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 120,
@@ -6595,7 +6601,7 @@
         "classifiedAt": "2026-10-01T23:27:40.706Z"
       },
       "firstSeenAt": "2026-10-01T23:27:43.494Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 500,
@@ -6656,7 +6662,7 @@
         "classifiedAt": "2026-10-01T23:17:40.423Z"
       },
       "firstSeenAt": "2026-10-01T23:17:40.423Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 400,
@@ -6717,7 +6723,7 @@
         "classifiedAt": "2026-10-01T23:12:32.436Z"
       },
       "firstSeenAt": "2026-10-01T23:12:34.162Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 530,
@@ -6778,7 +6784,7 @@
         "classifiedAt": "2026-10-01T23:07:43.583Z"
       },
       "firstSeenAt": "2026-10-01T23:07:43.583Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 495,
@@ -6839,7 +6845,7 @@
         "classifiedAt": "2026-10-01T23:02:45.037Z"
       },
       "firstSeenAt": "2026-10-01T23:02:46.761Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 500,
@@ -6900,7 +6906,7 @@
         "classifiedAt": "2026-10-01T22:52:33.483Z"
       },
       "firstSeenAt": "2026-10-01T22:52:33.483Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 460,
@@ -6961,7 +6967,7 @@
         "classifiedAt": "2026-10-01T22:50:40.717Z"
       },
       "firstSeenAt": "2026-10-01T22:50:40.717Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 229,
@@ -7022,7 +7028,7 @@
         "classifiedAt": "2026-10-01T22:37:53.251Z"
       },
       "firstSeenAt": "2026-10-01T22:37:53.251Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 89,
@@ -7080,7 +7086,7 @@
         "classifiedAt": "2026-10-01T22:37:53.250Z"
       },
       "firstSeenAt": "2026-10-01T22:37:53.251Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 50,
@@ -7134,7 +7140,7 @@
         "classifiedAt": "2026-10-01T22:32:56.395Z"
       },
       "firstSeenAt": "2026-10-01T22:33:02.038Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 100,
@@ -7195,7 +7201,7 @@
         "classifiedAt": "2026-10-01T22:32:34.164Z"
       },
       "firstSeenAt": "2026-10-01T22:28:16.364Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 55,
@@ -7256,7 +7262,7 @@
         "classifiedAt": "2026-10-01T22:28:13.112Z"
       },
       "firstSeenAt": "2026-10-01T22:28:16.364Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 475,
@@ -7310,7 +7316,7 @@
         "classifiedAt": "2026-10-01T22:28:01.153Z"
       },
       "firstSeenAt": "2026-10-01T22:28:16.364Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 50,
@@ -7364,7 +7370,7 @@
         "classifiedAt": "2026-10-01T22:28:01.153Z"
       },
       "firstSeenAt": "2026-10-01T22:28:16.364Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 50,
@@ -7418,7 +7424,7 @@
         "classifiedAt": "2026-10-01T22:28:01.153Z"
       },
       "firstSeenAt": "2026-10-01T22:28:16.364Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 700,
@@ -7472,7 +7478,7 @@
         "classifiedAt": "2026-10-01T22:18:49.952Z"
       },
       "firstSeenAt": "2026-10-01T22:18:49.952Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 469,
@@ -7501,43 +7507,151 @@
       }
     },
     {
-      "id": "3526403982",
+      "id": "3525656339",
       "queryId": "kamera",
       "queryLabel": "Kameras",
-      "title": "Leica Lux Grip",
-      "description": "Dieses Zubehör verbessert die Handhabung deiner IPhone Kamera deutlich und sorgt für einen sicheren...",
+      "title": "Canon EOS 1200D Spiegelreflexkamera + 2 Objektive & Zubehör",
+      "description": "Ich verkaufe meine Canon EOS 1200D Spiegelreflexkamera als umfangreiches Komplettset mit zwei...",
       "price": 250,
-      "priceRaw": "250 €",
+      "priceRaw": "250 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "74177 Bad Friedrichshall",
+      "distanceKm": 0,
+      "postedAt": "2026-09-28T12:00:00.000Z",
+      "postedRaw": "28.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/8796c2d4-75dc-4040-b146-f0ea4c5ffddf?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/8796c2d4-75dc-4040-b146-f0ea4c5ffddf?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3525656339",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "canon-eos-1200d-spiegelreflexkamera",
+        "name": "Canon EOS 1200D Spiegelreflexkamera",
+        "category": "Kameras",
+        "variant": "2 Objektive & Zubehör",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T22:12:34.786Z"
+      },
+      "firstSeenAt": "2026-10-01T22:14:23.805Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
+      "priceHistory": [
+        {
+          "price": 250,
+          "at": "2026-10-01T22:14:23.805Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "above_reference_price",
+        "productKey": "canon-eos-1200d-spiegelreflexkamera",
+        "productName": "Canon EOS 1200D Spiegelreflexkamera",
+        "askingPrice": 250,
+        "referencePrice": 150,
+        "difference": -100,
+        "differencePct": -66.7
+      }
+    },
+    {
+      "id": "3455749678",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Ausgefallene Custom Design Deko-Lampe Retro Leuchte Kamera",
+      "description": "Aus einem originalen antiken Fotoapparat entstand ein einzigartiges Designobjekt, das Vergangenheit...",
+      "price": 175,
+      "priceRaw": "175 €",
       "currency": "EUR",
       "priceTags": {
         "free": false,
         "negotiable": false,
         "trade": false
       },
-      "location": "12247 Steglitz",
+      "location": "40477 Golzheim",
       "distanceKm": 0,
-      "postedAt": "2026-09-29T12:00:00.000Z",
-      "postedRaw": "29.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02231394-554f-4e85-8266-5a3b3e7a8e59?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02231394-554f-4e85-8266-5a3b3e7a8e59?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3526403982",
+      "postedAt": "2026-10-01T22:52:00.000Z",
+      "postedRaw": "Heute, 00:52",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3b410eb-44c6-42c7-8457-5b8d3942769d?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3b410eb-44c6-42c7-8457-5b8d3942769d?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3455749678",
       "category": "",
       "attributes": {},
       "product": {
-        "key": "leica-lux-grip",
-        "name": "Leica Lux Grip",
-        "category": "Zubehör",
+        "key": "ausgefallene-custom-design-deko-lampe",
+        "name": "Ausgefallene Custom Design Deko-Lampe",
+        "category": "Lampen",
         "variant": "",
-        "confidence": 0.9,
+        "confidence": 0.8,
         "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-02T00:48:02.265Z"
+        "classifiedAt": "2026-10-01T22:32:34.164Z"
       },
-      "firstSeenAt": "2026-10-02T00:48:04.617Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "firstSeenAt": "2026-10-01T22:33:02.038Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
-          "price": 250,
-          "at": "2026-10-02T00:48:04.617Z"
+          "price": 175,
+          "at": "2026-10-01T22:33:02.038Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "above_reference_price",
+        "productKey": "ausgefallene-custom-design-deko-lampe",
+        "productName": "Ausgefallene Custom Design Deko-Lampe",
+        "askingPrice": 175,
+        "referencePrice": 70,
+        "difference": -105,
+        "differencePct": -150
+      }
+    },
+    {
+      "id": "3528579336",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Objektivplatine für Grossfomatkamera Globica II -Atelierkamera",
+      "description": "Original Globica Objektivplatine\nNeuware\nMahagoni und Messing\nFür alle passenden Objektive zur...",
+      "price": 70,
+      "priceRaw": "70 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "84347 Pfarrkirchen",
+      "distanceKm": 0,
+      "postedAt": "2026-10-02T00:48:00.000Z",
+      "postedRaw": "Heute, 02:48",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66950817-164b-4a6c-a30f-34763cc217f3?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66950817-164b-4a6c-a30f-34763cc217f3?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528579336",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "globica-ii-atelierkamera",
+        "name": "Globica II Atelierkamera",
+        "category": "Kameras",
+        "variant": "",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-02T00:52:58.337Z"
+      },
+      "firstSeenAt": "2026-10-02T00:52:58.337Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
+      "priceHistory": [
+        {
+          "price": 70,
+          "at": "2026-10-02T00:52:58.337Z"
         }
       ],
       "priceComparison": {
@@ -7546,69 +7660,8 @@
       },
       "referencePriceCheck": {
         "status": "reference_price_missing",
-        "productKey": "leica-lux-grip",
-        "productName": "Leica Lux Grip"
-      }
-    },
-    {
-      "id": "3523846790",
-      "queryId": "kamera",
-      "queryLabel": "Kameras",
-      "title": "DJI Osmo Pocket 3 Gebraucht",
-      "description": "Zustand Gebraucht - Sehr gut.\n\nLieferumfang wie auf Fotos. Guter Zustand.\n\nVersand innerhalb von 24...",
-      "price": 230,
-      "priceRaw": "230 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "86179 Augsburg",
-      "distanceKm": 0,
-      "postedAt": "2026-09-26T12:00:00.000Z",
-      "postedRaw": "26.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66044e5e-545c-49a8-b95b-a2f17df4f6d1?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66044e5e-545c-49a8-b95b-a2f17df4f6d1?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3523846790",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "dji-osmo-pocket-3",
-        "name": "DJI Osmo Pocket 3",
-        "category": "Kameras",
-        "variant": "",
-        "confidence": 0.98,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T23:07:34.302Z"
-      },
-      "firstSeenAt": "2026-10-01T23:07:43.583Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
-      "priceHistory": [
-        {
-          "price": 230,
-          "at": "2026-10-01T23:07:43.583Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 1,
-        "median": 229,
-        "p25": 229,
-        "p75": 229,
-        "min": 229,
-        "max": 229,
-        "differencePct": 0,
-        "minComparables": 3,
-        "status": "insufficient_data"
-      },
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "dji-osmo-pocket-3",
-        "productName": "DJI Osmo Pocket 3",
-        "askingPrice": 230,
-        "referencePrice": 350,
-        "difference": 120,
-        "differencePct": 34.3
+        "productKey": "globica-ii-atelierkamera",
+        "productName": "Globica II Atelierkamera"
       }
     },
     {
@@ -7644,7 +7697,7 @@
         "classifiedAt": "2026-10-02T00:28:00.545Z"
       },
       "firstSeenAt": "2026-10-02T00:28:09.046Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 450,
@@ -7701,7 +7754,7 @@
         "classifiedAt": "2026-10-02T00:12:58.835Z"
       },
       "firstSeenAt": "2026-10-02T00:12:58.835Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 90,
@@ -7751,7 +7804,7 @@
         "classifiedAt": "2026-10-01T23:58:10.613Z"
       },
       "firstSeenAt": "2026-10-01T23:58:10.613Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 300,
@@ -7801,7 +7854,7 @@
         "classifiedAt": "2026-10-01T23:58:10.613Z"
       },
       "firstSeenAt": "2026-10-01T23:58:10.613Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 280,
@@ -7851,7 +7904,7 @@
         "classifiedAt": "2026-10-01T23:58:03.069Z"
       },
       "firstSeenAt": "2026-10-01T23:58:10.613Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 200,
@@ -7901,7 +7954,7 @@
         "classifiedAt": "2026-10-01T23:53:06.810Z"
       },
       "firstSeenAt": "2026-10-01T23:53:06.810Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 480,
@@ -7951,7 +8004,7 @@
         "classifiedAt": "2026-10-01T23:53:06.810Z"
       },
       "firstSeenAt": "2026-10-01T23:53:06.810Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 90,
@@ -8001,7 +8054,7 @@
         "classifiedAt": "2026-10-01T23:53:01.280Z"
       },
       "firstSeenAt": "2026-10-01T23:53:06.810Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 290,
@@ -8062,7 +8115,7 @@
         "classifiedAt": "2026-10-01T23:48:13.287Z"
       },
       "firstSeenAt": "2026-10-01T23:48:13.287Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 290,
@@ -8123,7 +8176,7 @@
         "classifiedAt": "2026-10-01T23:48:13.287Z"
       },
       "firstSeenAt": "2026-10-01T23:48:13.287Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 170,
@@ -8173,7 +8226,7 @@
         "classifiedAt": "2026-10-01T23:48:13.287Z"
       },
       "firstSeenAt": "2026-10-01T23:48:13.287Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 100,
@@ -8223,7 +8276,7 @@
         "classifiedAt": "2026-10-01T23:48:13.287Z"
       },
       "firstSeenAt": "2026-10-01T23:48:13.287Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 60,
@@ -8273,7 +8326,7 @@
         "classifiedAt": "2026-10-01T23:48:00.927Z"
       },
       "firstSeenAt": "2026-10-01T23:48:13.287Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 220,
@@ -8334,7 +8387,7 @@
         "classifiedAt": "2026-10-01T23:43:06.146Z"
       },
       "firstSeenAt": "2026-10-01T23:43:06.146Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 480,
@@ -8384,7 +8437,7 @@
         "classifiedAt": "2026-10-01T23:33:07.009Z"
       },
       "firstSeenAt": "2026-10-01T23:33:07.009Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 120,
@@ -8434,7 +8487,7 @@
         "classifiedAt": "2026-10-01T23:27:43.494Z"
       },
       "firstSeenAt": "2026-10-01T23:27:43.494Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 50,
@@ -8484,7 +8537,7 @@
         "classifiedAt": "2026-10-01T23:17:40.423Z"
       },
       "firstSeenAt": "2026-10-01T23:17:40.423Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 350,
@@ -8538,7 +8591,7 @@
         "classifiedAt": "2026-10-01T23:07:43.583Z"
       },
       "firstSeenAt": "2026-10-01T23:07:43.583Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 120,
@@ -8592,7 +8645,7 @@
         "classifiedAt": "2026-10-01T23:02:45.038Z"
       },
       "firstSeenAt": "2026-10-01T23:02:46.761Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 50,
@@ -8646,7 +8699,7 @@
         "classifiedAt": "2026-10-01T23:02:34.250Z"
       },
       "firstSeenAt": "2026-10-01T22:57:42.703Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 295,
@@ -8665,60 +8718,6 @@
         "referencePrice": 70,
         "difference": -225,
         "differencePct": -321.4
-      }
-    },
-    {
-      "id": "3455749678",
-      "queryId": "kamera",
-      "queryLabel": "Kameras",
-      "title": "Ausgefallene Custom Design Deko-Lampe Retro Leuchte Kamera",
-      "description": "Aus einem originalen antiken Fotoapparat entstand ein einzigartiges Designobjekt, das Vergangenheit...",
-      "price": 175,
-      "priceRaw": "175 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "40477 Golzheim",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T22:52:00.000Z",
-      "postedRaw": "Heute, 00:52",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3b410eb-44c6-42c7-8457-5b8d3942769d?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3b410eb-44c6-42c7-8457-5b8d3942769d?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3455749678",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "ausgefallene-custom-design-deko-lampe",
-        "name": "Ausgefallene Custom Design Deko-Lampe",
-        "category": "Lampen",
-        "variant": "",
-        "confidence": 0.8,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:32:34.164Z"
-      },
-      "firstSeenAt": "2026-10-01T22:33:02.038Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
-      "priceHistory": [
-        {
-          "price": 175,
-          "at": "2026-10-01T22:33:02.038Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "referencePriceCheck": {
-        "status": "above_reference_price",
-        "productKey": "ausgefallene-custom-design-deko-lampe",
-        "productName": "Ausgefallene Custom Design Deko-Lampe",
-        "askingPrice": 175,
-        "referencePrice": 70,
-        "difference": -105,
-        "differencePct": -150
       }
     },
     {
@@ -8754,7 +8753,7 @@
         "classifiedAt": "2026-10-01T21:43:49.110Z"
       },
       "firstSeenAt": "2026-09-30T23:52:06.204Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 165,
@@ -8808,7 +8807,7 @@
         "classifiedAt": "2026-10-01T22:50:40.717Z"
       },
       "firstSeenAt": "2026-10-01T22:50:40.717Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 360,
@@ -8869,7 +8868,7 @@
         "classifiedAt": "2026-10-01T22:50:30.785Z"
       },
       "firstSeenAt": "2026-10-01T22:50:40.717Z",
-      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:52:58.337Z",
       "priceHistory": [
         {
           "price": 190,
@@ -8889,6 +8888,613 @@
         "difference": -40,
         "differencePct": -26.7
       }
+    },
+    {
+      "id": "3445276908",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "E-Bike City 28 Zoll EC900 City Nexus Bosch Active Line+",
+      "description": "Marke: RIVERSIDE\nGröße: M\nAbholort: Kaiserslautern.\n\nNEUWARE: Diese Produkte sind voll...",
+      "price": 1900,
+      "priceRaw": "1.900 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "67663 Kaiserslautern-West",
+      "distanceKm": 0,
+      "postedAt": "2026-09-25T12:00:00.000Z",
+      "postedRaw": "25.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6ad3e17a-2ff5-48b5-865b-7ae28f132515?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6ad3e17a-2ff5-48b5-865b-7ae28f132515?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3445276908",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "riverside-e-bike-city-28-zoll-ec900-city-nexus-bosch-active-line",
+        "name": "RIVERSIDE E-Bike City 28 Zoll EC900 City Nexus Bosch Active Line+",
+        "category": "Fahrräder",
+        "variant": "",
+        "confidence": 0.9,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T22:42:32.924Z"
+      },
+      "firstSeenAt": "2026-10-01T22:42:42.320Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 1900,
+          "at": "2026-10-01T22:42:42.320Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "above_reference_price",
+        "productKey": "riverside-e-bike-city-28-zoll-ec900-city-nexus-bosch-active-line",
+        "productName": "RIVERSIDE E-Bike City 28 Zoll EC900 City Nexus Bosch Active Line+",
+        "askingPrice": 1900,
+        "referencePrice": 1000,
+        "difference": -900,
+        "differencePct": -90
+      },
+      "stale": true
+    },
+    {
+      "id": "3523532598",
+      "queryId": "ebike",
+      "queryLabel": "E-Bikes",
+      "title": "Urtopia Carbon 1 E-Bike Carbon Gr. M – neuwertig",
+      "description": "Verkaufe ein Urtopia Carbon 1 E-Bike in Größe M in optisch nahezu neuwertigem Zustand.\nDas Fahrrad...",
+      "price": 699,
+      "priceRaw": "699 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "50735 Niehl",
+      "distanceKm": 0,
+      "postedAt": "2026-09-26T12:00:00.000Z",
+      "postedRaw": "26.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c10cd2ca-c602-4ca1-bd25-bc9f6d858640?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c10cd2ca-c602-4ca1-bd25-bc9f6d858640?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3523532598",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "urtopia-carbon-1-e-bike",
+        "name": "Urtopia Carbon 1 E-Bike",
+        "category": "Fahrräder",
+        "variant": "",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-02T00:48:02.265Z"
+      },
+      "firstSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 699,
+          "at": "2026-10-02T00:48:04.617Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "reference_price_missing",
+        "productKey": "urtopia-carbon-1-e-bike",
+        "productName": "Urtopia Carbon 1 E-Bike"
+      },
+      "stale": true
+    },
+    {
+      "id": "3527816073",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Apple iPhone 14 Pro 128 GB Schwarz – 100% Akku",
+      "description": "Verkauft wird mein Apple iPhone 14 Pro in Space Schwarz mit 128 GB Speicher. Gerät funktioniert...",
+      "price": 350,
+      "priceRaw": "350 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "04249 Großzschocher",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T06:26:00.000Z",
+      "postedRaw": "Gestern, 08:26",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a196c15b-3f1c-4304-905c-a85a7caf746b?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a196c15b-3f1c-4304-905c-a85a7caf746b?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3527816073",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "apple-iphone-14-pro-128-gb",
+        "name": "Apple iPhone 14 Pro 128 GB",
+        "category": "Smartphones",
+        "variant": "Schwarz",
+        "confidence": 0.98,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-02T00:48:02.265Z"
+      },
+      "firstSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 350,
+          "at": "2026-10-02T00:48:04.617Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 11,
+        "median": 350,
+        "p25": 329,
+        "p75": 385,
+        "min": 200,
+        "max": 449,
+        "differencePct": 0,
+        "minComparables": 3,
+        "status": "within_observed_range"
+      },
+      "referencePriceCheck": {
+        "status": "good_price",
+        "productKey": "apple-iphone-14-pro-128-gb",
+        "productName": "Apple iPhone 14 Pro 128GB",
+        "askingPrice": 350,
+        "referencePrice": 425,
+        "difference": 75,
+        "differencePct": 17.6
+      },
+      "stale": true
+    },
+    {
+      "id": "3525700343",
+      "queryId": "iphone",
+      "queryLabel": "iPhone",
+      "title": "Apple IPhone 16 Pro 5G Akku 90% [512GB,Desert Titanium] • Neuzustand • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:7285",
+      "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
+      "price": 899,
+      "priceRaw": "899 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "30451 Linden-Limmer",
+      "distanceKm": 0,
+      "postedAt": "2026-09-30T22:04:00.000Z",
+      "postedRaw": "Gestern, 00:04",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6d6bd3d-1aa9-495a-975e-166ba5681743?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6d6bd3d-1aa9-495a-975e-166ba5681743?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3525700343",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "apple-iphone-16-pro-512-gb",
+        "name": "Apple iPhone 16 Pro 512GB",
+        "category": "Smartphones",
+        "variant": "",
+        "confidence": 0.9,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T23:34:44.028Z"
+      },
+      "firstSeenAt": "2026-10-01T23:34:44.028Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 899,
+          "at": "2026-10-01T23:34:44.028Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "reference_price_missing",
+        "productKey": "apple-iphone-16-pro-512-gb",
+        "productName": "Apple iPhone 16 Pro 512GB"
+      },
+      "stale": true
+    },
+    {
+      "id": "3520244433",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "Apple MacBook Pro 13-Inch TouchBar 2 Thunderbolt Erscheinungsjahr 2017 [128GB,Space Gray] • Guter Zustand • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:9480",
+      "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
+      "price": 299,
+      "priceRaw": "299 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "30451 Linden-Limmer",
+      "distanceKm": 0,
+      "postedAt": "2026-09-30T22:06:00.000Z",
+      "postedRaw": "Gestern, 00:06",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1fde9040-e856-473c-bb8b-0163c0c80b0d?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1fde9040-e856-473c-bb8b-0163c0c80b0d?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3520244433",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "apple-macbook-pro-13-inch-2017-128-gb",
+        "name": "Apple MacBook Pro 13-Inch 2017 128GB",
+        "category": "Computer",
+        "variant": "",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T21:42:17.243Z"
+      },
+      "firstSeenAt": "2026-09-30T23:53:29.557Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 299,
+          "at": "2026-09-30T23:53:29.557Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "above_reference_price",
+        "productKey": "apple-macbook-pro-13-inch-2017-128-gb",
+        "productName": "Apple MacBook Pro 13-Inch 2017 128GB",
+        "askingPrice": 299,
+        "referencePrice": 280,
+        "difference": -19,
+        "differencePct": -6.8
+      },
+      "stale": true
+    },
+    {
+      "id": "3522787146",
+      "queryId": "macbook",
+      "queryLabel": "MacBook",
+      "title": "Apple MacBook Pro 13-Inch Intel Core i5 8GB RAM Erscheinungsjahr 2017 [128GB,Space Gray] • Neuwertig • Rechnung • GARANTIE • Mobilfunkshop • sofort verfügbar • Art.-Nr:9476",
+      "description": "**✨ Willkommen beim Pantech Store Hannover – seit 2010 Ihr Spezialist für neue & gebrauchte...",
+      "price": 299,
+      "priceRaw": "299 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "30451 Linden-Limmer",
+      "distanceKm": 0,
+      "postedAt": "2026-09-30T22:04:00.000Z",
+      "postedRaw": "Gestern, 00:04",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30cb6882-f72f-472e-80bf-2ab7791dca9f?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30cb6882-f72f-472e-80bf-2ab7791dca9f?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3522787146",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "apple-macbook-pro-13-inch-2017-8-gb",
+        "name": "Apple MacBook Pro 13-Inch 2017 8GB",
+        "category": "Computer",
+        "variant": "",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T21:42:17.243Z"
+      },
+      "firstSeenAt": "2026-09-30T23:53:29.557Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 299,
+          "at": "2026-09-30T23:53:29.557Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "above_reference_price",
+        "productKey": "apple-macbook-pro-13-inch-2017-8-gb",
+        "productName": "Apple MacBook Pro 13-Inch 2017 8GB",
+        "askingPrice": 299,
+        "referencePrice": 280,
+        "difference": -19,
+        "differencePct": -6.8
+      },
+      "stale": true
+    },
+    {
+      "id": "3499306574",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "Gigabyte RTX 3080 10GB Aorus Xtreme mit OVP ►Händler◄",
+      "description": "Die Grafikkarte wurde von uns technisch geprüft, gereinigt und umfangreich getestet.\n\nDirekt...",
+      "price": 439,
+      "priceRaw": "439 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "94566 Riedlhütte",
+      "distanceKm": 0,
+      "postedAt": "2026-09-30T12:00:00.000Z",
+      "postedRaw": "30.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de9c34df-72fb-4342-9f27-f829911fc70f?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de9c34df-72fb-4342-9f27-f829911fc70f?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3499306574",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "gigabyte-rtx-3080-10-gb-aorus-xtreme",
+        "name": "Gigabyte RTX 3080 10GB Aorus Xtreme",
+        "category": "Computer",
+        "variant": "",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T22:07:24.250Z"
+      },
+      "firstSeenAt": "2026-10-01T22:09:23.063Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 439,
+          "at": "2026-10-01T22:09:23.063Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "above_reference_price",
+        "productKey": "gigabyte-rtx-3080-10-gb-aorus-xtreme",
+        "productName": "Gigabyte RTX 3080 10GB Aorus Xtreme",
+        "askingPrice": 439,
+        "referencePrice": 300,
+        "difference": -139,
+        "differencePct": -46.3
+      },
+      "stale": true
+    },
+    {
+      "id": "3528553766",
+      "queryId": "gpu",
+      "queryLabel": "Grafikkarten",
+      "title": "Asus Dual Geforce GTX 1660 Super - 6GB",
+      "description": "Die Grafikkarte funktioniert einwandfrei und war bis zum 23.09 in meinem PC eingebaut.\n\nIch...",
+      "price": 120,
+      "priceRaw": "120 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "45143 Essen-West",
+      "distanceKm": 0,
+      "postedAt": "2026-10-01T21:03:00.000Z",
+      "postedRaw": "Gestern, 23:03",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a24b4802-8bb0-4d6c-8b2d-ca0c837cbdf7?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a24b4802-8bb0-4d6c-8b2d-ca0c837cbdf7?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3528553766",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "asus-geforce-gtx-1660-super-6-gb",
+        "name": "Asus GeForce GTX 1660 Super 6GB",
+        "category": "Grafikkarten",
+        "variant": "",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T22:08:37.435Z"
+      },
+      "firstSeenAt": "2026-10-01T22:09:23.063Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 120,
+          "at": "2026-10-01T22:09:23.063Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "above_reference_price",
+        "productKey": "asus-geforce-gtx-1660-super-6-gb",
+        "productName": "Asus GeForce GTX 1660 Super 6GB",
+        "askingPrice": 120,
+        "referencePrice": 100,
+        "difference": -20,
+        "differencePct": -20
+      },
+      "stale": true
+    },
+    {
+      "id": "3250188009",
+      "queryId": "console",
+      "queryLabel": "Konsolen",
+      "title": "PS5 Reparatur – HDMI, Reinigung, Laufwerk, USB, Diagnose",
+      "description": "PS5 Reparatur – HDMI, Reinigung, Laufwerk, Diagnose | Andernach&#x2F;Koblenz&#x2F;Neuwied\n\nDeine...",
+      "price": 70,
+      "priceRaw": "70 € VB",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": true,
+        "trade": false
+      },
+      "location": "56626 Andernach",
+      "distanceKm": 0,
+      "postedAt": "2026-09-15T12:00:00.000Z",
+      "postedRaw": "15.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47cc4a5f-9109-4e0d-a56e-2f7038675700?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47cc4a5f-9109-4e0d-a56e-2f7038675700?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3250188009",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "ps5-reparatur",
+        "name": "PS5 Reparatur",
+        "category": "Dienstleistungen",
+        "variant": "",
+        "confidence": 0.95,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T22:12:34.785Z"
+      },
+      "firstSeenAt": "2026-10-01T22:09:23.063Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 70,
+          "at": "2026-10-01T22:09:23.063Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "good_price",
+        "productKey": "ps5-reparatur",
+        "productName": "PS5 Reparatur",
+        "askingPrice": 70,
+        "referencePrice": 100,
+        "difference": 30,
+        "differencePct": 30
+      },
+      "stale": true
+    },
+    {
+      "id": "3526403982",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "Leica Lux Grip",
+      "description": "Dieses Zubehör verbessert die Handhabung deiner IPhone Kamera deutlich und sorgt für einen sicheren...",
+      "price": 250,
+      "priceRaw": "250 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "12247 Steglitz",
+      "distanceKm": 0,
+      "postedAt": "2026-09-29T12:00:00.000Z",
+      "postedRaw": "29.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02231394-554f-4e85-8266-5a3b3e7a8e59?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02231394-554f-4e85-8266-5a3b3e7a8e59?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3526403982",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "leica-lux-grip",
+        "name": "Leica Lux Grip",
+        "category": "Zubehör",
+        "variant": "",
+        "confidence": 0.9,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-02T00:48:02.265Z"
+      },
+      "firstSeenAt": "2026-10-02T00:48:04.617Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 250,
+          "at": "2026-10-02T00:48:04.617Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 0,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "reference_price_missing",
+        "productKey": "leica-lux-grip",
+        "productName": "Leica Lux Grip"
+      },
+      "stale": true
+    },
+    {
+      "id": "3523846790",
+      "queryId": "kamera",
+      "queryLabel": "Kameras",
+      "title": "DJI Osmo Pocket 3 Gebraucht",
+      "description": "Zustand Gebraucht - Sehr gut.\n\nLieferumfang wie auf Fotos. Guter Zustand.\n\nVersand innerhalb von 24...",
+      "price": 230,
+      "priceRaw": "230 €",
+      "currency": "EUR",
+      "priceTags": {
+        "free": false,
+        "negotiable": false,
+        "trade": false
+      },
+      "location": "86179 Augsburg",
+      "distanceKm": 0,
+      "postedAt": "2026-09-26T12:00:00.000Z",
+      "postedRaw": "26.09.2026",
+      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66044e5e-545c-49a8-b95b-a2f17df4f6d1?rule=$_1.AUTO",
+      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66044e5e-545c-49a8-b95b-a2f17df4f6d1?rule=$_1.AUTO",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3523846790",
+      "category": "",
+      "attributes": {},
+      "product": {
+        "key": "dji-osmo-pocket-3",
+        "name": "DJI Osmo Pocket 3",
+        "category": "Kameras",
+        "variant": "",
+        "confidence": 0.98,
+        "engine": "ai:qwen3:4b",
+        "classifiedAt": "2026-10-01T23:07:34.302Z"
+      },
+      "firstSeenAt": "2026-10-01T23:07:43.583Z",
+      "lastSeenAt": "2026-10-02T00:48:04.617Z",
+      "priceHistory": [
+        {
+          "price": 230,
+          "at": "2026-10-01T23:07:43.583Z"
+        }
+      ],
+      "priceComparison": {
+        "comparableCount": 1,
+        "median": 229,
+        "p25": 229,
+        "p75": 229,
+        "min": 229,
+        "max": 229,
+        "differencePct": 0,
+        "minComparables": 3,
+        "status": "insufficient_data"
+      },
+      "referencePriceCheck": {
+        "status": "good_price",
+        "productKey": "dji-osmo-pocket-3",
+        "productName": "DJI Osmo Pocket 3",
+        "askingPrice": 230,
+        "referencePrice": 350,
+        "difference": 120,
+        "differencePct": 34.3
+      },
+      "stale": true
     },
     {
       "id": "3528572349",
@@ -8942,7 +9548,8 @@
         "referencePrice": 250,
         "difference": 80,
         "differencePct": 32
-      }
+      },
+      "stale": true
     },
     {
       "id": "1200329997",
@@ -9159,7 +9766,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1000,
         "referencePrice": 1160,
         "difference": 160,
@@ -10355,57 +10962,6 @@
       "stale": true
     },
     {
-      "id": "3512342797",
-      "queryId": "gpu",
-      "queryLabel": "Grafikkarten",
-      "title": "ZOTAC GAMING GeForce RTX 3080 Ti AMP HoloBlack – 12 GB",
-      "description": "Verkaufe meine ZOTAC RTX 3080 Ti AMP HoloBlack mit 12 GB GDDR6X.\n\nDie Karte bietet auch heute noch...",
-      "price": 450,
-      "priceRaw": "450 € VB",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": true,
-        "trade": false
-      },
-      "location": "79415 Bad Bellingen",
-      "distanceKm": 0,
-      "postedAt": "2026-09-14T12:00:00.000Z",
-      "postedRaw": "14.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/717cfb88-50d5-4d99-a891-a6729ca46ff3?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/717cfb88-50d5-4d99-a891-a6729ca46ff3?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3512342797",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "zotac-gaming-geforce-rtx-3080-ti-amp-holoblack-12-gb",
-        "name": "ZOTAC GAMING GeForce RTX 3080 Ti AMP HoloBlack 12 GB",
-        "category": "Computer",
-        "variant": "",
-        "confidence": 0.98,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-02T00:28:00.545Z"
-      },
-      "firstSeenAt": "2026-10-02T00:28:09.046Z",
-      "lastSeenAt": "2026-10-02T00:37:50.952Z",
-      "priceHistory": [
-        {
-          "price": 450,
-          "at": "2026-10-02T00:28:09.046Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "referencePriceCheck": {
-        "status": "reference_price_missing",
-        "productKey": "zotac-gaming-geforce-rtx-3080-ti-amp-holoblack-12-gb",
-        "productName": "ZOTAC GAMING GeForce RTX 3080 Ti AMP HoloBlack 12 GB"
-      },
-      "stale": true
-    },
-    {
       "id": "3526375478",
       "queryId": "gpu",
       "queryLabel": "Grafikkarten",
@@ -10457,68 +11013,6 @@
         "referencePrice": 250,
         "difference": -89,
         "differencePct": -35.6
-      },
-      "stale": true
-    },
-    {
-      "id": "3376775136",
-      "queryId": "console",
-      "queryLabel": "Konsolen",
-      "title": "Playstation 5  HDMI-Port Reparatur",
-      "description": "HDMI-Port Reparatur – PS5 &#x2F; PS4\nKein Bild &#x2F; Wackelkontakt &#x2F; HDMI-Anschluss...",
-      "price": 80,
-      "priceRaw": "80 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "32139 Spenge",
-      "distanceKm": 0,
-      "postedAt": "2026-08-15T12:00:00.000Z",
-      "postedRaw": "15.08.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbca3345-6e7e-453e-8220-fbb345af74fa?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbca3345-6e7e-453e-8220-fbb345af74fa?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3376775136",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "sony-playstation-5-konsole",
-        "name": "Sony PlayStation 5 Konsole",
-        "category": "Spielekonsolen",
-        "variant": "",
-        "confidence": 0.95,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:17:35.203Z"
-      },
-      "firstSeenAt": "2026-10-01T22:18:49.952Z",
-      "lastSeenAt": "2026-10-02T00:37:50.952Z",
-      "priceHistory": [
-        {
-          "price": 80,
-          "at": "2026-10-01T22:18:49.952Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 27,
-        "median": 400,
-        "p25": 315,
-        "p75": 500,
-        "min": 50,
-        "max": 680,
-        "differencePct": -80,
-        "minComparables": 3,
-        "status": "below_observed_range"
-      },
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "sony-playstation-5-konsole",
-        "productName": "Sony PlayStation 5 Konsole",
-        "askingPrice": 80,
-        "referencePrice": 350,
-        "difference": 270,
-        "differencePct": 77.1
       },
       "stale": true
     },
@@ -10970,7 +11464,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1149,
         "referencePrice": 1160,
         "difference": 11,
@@ -12210,61 +12704,6 @@
       "stale": true
     },
     {
-      "id": "3526928288",
-      "queryId": "macbook",
-      "queryLabel": "MacBook",
-      "title": "MacBook Pro 13 Zoll M2 (2022) – 8 GB RAM – 256 GB SSD",
-      "description": "Verkaufe mein Apple MacBook Pro 13 Zoll aus 2022 mit M2 Chip.\n\nDas MacBook befindet sich in einem...",
-      "price": 680,
-      "priceRaw": "680 € VB",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": true,
-        "trade": false
-      },
-      "location": "75217 Birkenfeld",
-      "distanceKm": 0,
-      "postedAt": "2026-09-29T12:00:00.000Z",
-      "postedRaw": "29.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba832640-22a1-4776-941d-ca632288dc45?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba832640-22a1-4776-941d-ca632288dc45?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3526928288",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-macbook-pro-13-zoll-m2-2022-8-gb",
-        "name": "Apple MacBook Pro 13 Zoll M2 (2022) 8 GB",
-        "category": "Computer",
-        "variant": "RAM – 256 GB SSD",
-        "confidence": 0.9,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:52:31.698Z"
-      },
-      "firstSeenAt": "2026-10-01T22:52:33.483Z",
-      "lastSeenAt": "2026-10-02T00:22:54.685Z",
-      "priceHistory": [
-        {
-          "price": 680,
-          "at": "2026-10-01T22:52:33.483Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "apple-macbook-pro-13-zoll-m2-2022-8-gb",
-        "productName": "Apple MacBook Pro 13 Zoll M2 (2022) 8 GB",
-        "askingPrice": 680,
-        "referencePrice": 850,
-        "difference": 170,
-        "differencePct": 20
-      },
-      "stale": true
-    },
-    {
       "id": "3519158324",
       "queryId": "gpu",
       "queryLabel": "Grafikkarten",
@@ -12862,7 +13301,7 @@
       "referencePriceCheck": {
         "status": "above_reference_price",
         "productKey": "apple-iphone-15-pro-max-256-gb",
-        "productName": "Apple iPhone 15 Pro Max 256 GB",
+        "productName": "Apple iPhone 15 Pro Max 256GB",
         "askingPrice": 699,
         "referencePrice": 680,
         "difference": -19,
@@ -13280,20 +13719,20 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 980,
-        "p25": 900,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 995,
+        "p25": 910,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": 7,
+        "differencePct": 5,
         "minComparables": 3,
         "status": "within_observed_range"
       },
       "referencePriceCheck": {
         "status": "above_reference_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 1049,
         "referencePrice": 1010,
         "difference": -39,
@@ -13355,7 +13794,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1019,
         "referencePrice": 1160,
         "difference": 141,
@@ -13799,20 +14238,20 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 980,
-        "p25": 900,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 995,
+        "p25": 910,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": 7,
+        "differencePct": 5,
         "minComparables": 3,
         "status": "within_observed_range"
       },
       "referencePriceCheck": {
         "status": "above_reference_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 1049,
         "referencePrice": 1010,
         "difference": -39,
@@ -14544,20 +14983,20 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 995,
-        "p25": 930,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 1020,
+        "p25": 947,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": -15,
+        "differencePct": -17,
         "minComparables": 3,
         "status": "below_observed_range"
       },
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 850,
         "referencePrice": 1010,
         "difference": 160,
@@ -16011,61 +16450,6 @@
       "stale": true
     },
     {
-      "id": "3525656339",
-      "queryId": "kamera",
-      "queryLabel": "Kameras",
-      "title": "Canon EOS 1200D Spiegelreflexkamera + 2 Objektive & Zubehör",
-      "description": "Ich verkaufe meine Canon EOS 1200D Spiegelreflexkamera als umfangreiches Komplettset mit zwei...",
-      "price": 250,
-      "priceRaw": "250 € VB",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": true,
-        "trade": false
-      },
-      "location": "74177 Bad Friedrichshall",
-      "distanceKm": 0,
-      "postedAt": "2026-09-28T12:00:00.000Z",
-      "postedRaw": "28.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/8796c2d4-75dc-4040-b146-f0ea4c5ffddf?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/8796c2d4-75dc-4040-b146-f0ea4c5ffddf?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3525656339",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "canon-eos-1200d-spiegelreflexkamera",
-        "name": "Canon EOS 1200D Spiegelreflexkamera",
-        "category": "Kameras",
-        "variant": "2 Objektive & Zubehör",
-        "confidence": 0.95,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:12:34.786Z"
-      },
-      "firstSeenAt": "2026-10-01T22:14:23.805Z",
-      "lastSeenAt": "2026-10-01T23:58:10.613Z",
-      "priceHistory": [
-        {
-          "price": 250,
-          "at": "2026-10-01T22:14:23.805Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "referencePriceCheck": {
-        "status": "above_reference_price",
-        "productKey": "canon-eos-1200d-spiegelreflexkamera",
-        "productName": "Canon EOS 1200D Spiegelreflexkamera",
-        "askingPrice": 250,
-        "referencePrice": 150,
-        "difference": -100,
-        "differencePct": -66.7
-      },
-      "stale": true
-    },
-    {
       "id": "3527861209",
       "queryId": "ebike",
       "queryLabel": "E-Bikes",
@@ -16462,7 +16846,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 900,
         "referencePrice": 1160,
         "difference": 260,
@@ -17021,7 +17405,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-15-pro-max-256-gb",
-        "productName": "Apple iPhone 15 Pro Max 256 GB",
+        "productName": "Apple iPhone 15 Pro Max 256GB",
         "askingPrice": 580,
         "referencePrice": 680,
         "difference": 100,
@@ -17145,7 +17529,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1039,
         "referencePrice": 1160,
         "difference": 121,
@@ -17715,7 +18099,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1150,
         "referencePrice": 1160,
         "difference": 10,
@@ -17777,7 +18161,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-15-pro-max-256-gb",
-        "productName": "Apple iPhone 15 Pro Max 256 GB",
+        "productName": "Apple iPhone 15 Pro Max 256GB",
         "askingPrice": 639,
         "referencePrice": 680,
         "difference": 41,
@@ -17901,7 +18285,7 @@
       "referencePriceCheck": {
         "status": "above_reference_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1199,
         "referencePrice": 1160,
         "difference": -39,
@@ -18831,20 +19215,20 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 995,
-        "p25": 900,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 1020,
+        "p25": 910,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": -3,
+        "differencePct": -5,
         "minComparables": 3,
         "status": "within_observed_range"
       },
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 969,
         "referencePrice": 1010,
         "difference": 41,
@@ -18906,7 +19290,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1130,
         "referencePrice": 1160,
         "difference": 30,
@@ -20259,20 +20643,20 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 995,
-        "p25": 930,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 1020,
+        "p25": 947,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": -15,
+        "differencePct": -17,
         "minComparables": 3,
         "status": "below_observed_range"
       },
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 849,
         "referencePrice": 1010,
         "difference": 161,
@@ -21034,20 +21418,20 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 980,
-        "p25": 900,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 1015,
+        "p25": 910,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": 2,
+        "differencePct": -1,
         "minComparables": 3,
         "status": "within_observed_range"
       },
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 1000,
         "referencePrice": 1010,
         "difference": 10,
@@ -21171,66 +21555,11 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1100,
         "referencePrice": 1160,
         "difference": 60,
         "differencePct": 5.2
-      },
-      "stale": true
-    },
-    {
-      "id": "3501109651",
-      "queryId": "macbook",
-      "queryLabel": "MacBook",
-      "title": "Apple MacBook Pro 14″ M4 16 GB/1 TB Silber – neu & versiegelt",
-      "description": "Ich verkaufe ein neues, originalverpacktes und noch vollständig versiegeltes Apple MacBook Pro. Der...",
-      "price": 1749,
-      "priceRaw": "1.749 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "76133 Karlsruhe",
-      "distanceKm": 0,
-      "postedAt": "2026-09-01T12:00:00.000Z",
-      "postedRaw": "01.09.2026",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98eb167a-38d4-4570-9750-f584cd422d3a?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98eb167a-38d4-4570-9750-f584cd422d3a?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3501109651",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-macbook-pro-14-m4-16-gb-1-tb-silber",
-        "name": "Apple MacBook Pro 14″ M4 16 GB/1 TB Silber",
-        "category": "Computer",
-        "variant": "",
-        "confidence": 1,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T23:22:32.222Z"
-      },
-      "firstSeenAt": "2026-10-01T23:22:40.593Z",
-      "lastSeenAt": "2026-10-01T23:22:40.593Z",
-      "priceHistory": [
-        {
-          "price": 1749,
-          "at": "2026-10-01T23:22:40.593Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "referencePriceCheck": {
-        "status": "above_reference_price",
-        "productKey": "apple-macbook-pro-14-m4-16-gb-1-tb-silber",
-        "productName": "Apple MacBook Pro 14″ M4 16 GB/1 TB Silber",
-        "askingPrice": 1749,
-        "referencePrice": 1400,
-        "difference": -349,
-        "differencePct": -24.9
       },
       "stale": true
     },
@@ -21983,7 +22312,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1100,
         "referencePrice": 1160,
         "difference": 60,
@@ -22575,7 +22904,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 949,
         "referencePrice": 1160,
         "difference": 211,
@@ -24658,20 +24987,20 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 995,
-        "p25": 930,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 1020,
+        "p25": 947,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": -10,
+        "differencePct": -12,
         "minComparables": 3,
         "status": "below_observed_range"
       },
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 899,
         "referencePrice": 1010,
         "difference": 111,
@@ -26205,20 +26534,20 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 995,
-        "p25": 930,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 1020,
+        "p25": 947,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": -10,
+        "differencePct": -12,
         "minComparables": 3,
         "status": "below_observed_range"
       },
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 900,
         "referencePrice": 1010,
         "difference": 110,
@@ -28600,7 +28929,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-15-pro-max-256-gb",
-        "productName": "Apple iPhone 15 Pro Max 256 GB",
+        "productName": "Apple iPhone 15 Pro Max 256GB",
         "askingPrice": 590,
         "referencePrice": 680,
         "difference": 90,
@@ -28965,7 +29294,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1100,
         "referencePrice": 1160,
         "difference": 60,
@@ -29192,13 +29521,13 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 995,
-        "p25": 900,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 1020,
+        "p25": 917,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": -6,
+        "differencePct": -8,
         "minComparables": 3,
         "status": "within_observed_range"
       },
@@ -29206,7 +29535,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 940,
         "referencePrice": 1010,
         "difference": 70,
@@ -30466,7 +30795,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-15-pro-max-256-gb",
-        "productName": "Apple iPhone 15 Pro Max 256 GB",
+        "productName": "Apple iPhone 15 Pro Max 256GB",
         "askingPrice": 590,
         "referencePrice": 680,
         "difference": 90,
@@ -31261,13 +31590,13 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 980,
-        "p25": 900,
-        "p75": 1062,
+        "comparableCount": 18,
+        "median": 995,
+        "p25": 910,
+        "p75": 1049,
         "min": 720,
         "max": 1200,
-        "differencePct": 12,
+        "differencePct": 11,
         "minComparables": 3,
         "status": "above_observed_range"
       },
@@ -31275,7 +31604,7 @@
       "referencePriceCheck": {
         "status": "above_reference_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 1100,
         "referencePrice": 1010,
         "difference": -90,
@@ -31523,7 +31852,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 850,
         "referencePrice": 1160,
         "difference": 310,
@@ -31819,7 +32148,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-15-pro-max-256-gb",
-        "productName": "Apple iPhone 15 Pro Max 256 GB",
+        "productName": "Apple iPhone 15 Pro Max 256GB",
         "askingPrice": 450,
         "referencePrice": 680,
         "difference": 230,
@@ -31881,7 +32210,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 979,
         "referencePrice": 1160,
         "difference": 181,
@@ -31991,13 +32320,13 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 980,
-        "p25": 900,
-        "p75": 1062,
+        "comparableCount": 18,
+        "median": 995,
+        "p25": 910,
+        "p75": 1049,
         "min": 720,
         "max": 1200,
-        "differencePct": 12,
+        "differencePct": 10,
         "minComparables": 3,
         "status": "above_observed_range"
       },
@@ -32005,7 +32334,7 @@
       "referencePriceCheck": {
         "status": "above_reference_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 1099,
         "referencePrice": 1010,
         "difference": -89,
@@ -32067,7 +32396,7 @@
       "referencePriceCheck": {
         "status": "above_reference_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1170,
         "referencePrice": 1160,
         "difference": -10,
@@ -32246,7 +32575,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1150,
         "referencePrice": 1160,
         "difference": 10,
@@ -32876,13 +33205,13 @@
         }
       ],
       "priceComparison": {
-        "comparableCount": 16,
-        "median": 995,
-        "p25": 900,
-        "p75": 1099,
+        "comparableCount": 18,
+        "median": 1020,
+        "p25": 910,
+        "p75": 1087,
         "min": 720,
         "max": 1200,
-        "differencePct": -3,
+        "differencePct": -5,
         "minComparables": 3,
         "status": "within_observed_range"
       },
@@ -32890,7 +33219,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
+        "productName": "Apple iPhone 17 Pro 256GB",
         "askingPrice": 969,
         "referencePrice": 1010,
         "difference": 41,
@@ -32952,7 +33281,7 @@
       "referencePriceCheck": {
         "status": "good_price",
         "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
+        "productName": "Apple iPhone 17 Pro Max 256GB",
         "askingPrice": 1099,
         "referencePrice": 1160,
         "difference": 61,
@@ -33900,364 +34229,6 @@
         "referencePrice": 760,
         "difference": -90,
         "differencePct": -11.8
-      }
-    },
-    {
-      "id": "3528566791",
-      "queryId": "iphone",
-      "queryLabel": "iPhone",
-      "title": "Apple iPhone 17 Pro Max 256 GB Cosmic Orange",
-      "description": "!! IST AB DIENSTAG ZUVERKAUFEN !!\n\nIch biete hier mein iPhone 17 Pro Max in der auffälligen Farbe...",
-      "price": 900,
-      "priceRaw": "900 € VB",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": true,
-        "trade": false
-      },
-      "location": "24143 Gaarden",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T21:58:00.000Z",
-      "postedRaw": "Gestern, 23:58",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90c93984-5b6a-4ffe-a36d-1f98afe96ea8?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90c93984-5b6a-4ffe-a36d-1f98afe96ea8?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3528566791",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-iphone-17-pro-max-256-gb",
-        "name": "Apple iPhone 17 Pro Max 256 GB",
-        "category": "Smartphones",
-        "variant": "Cosmic Orange",
-        "confidence": 0.9,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:14:12.036Z"
-      },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-01T22:09:23.063Z",
-      "priceHistory": [
-        {
-          "price": 900,
-          "at": "2026-10-01T22:09:23.063Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 21,
-        "median": 1100,
-        "p25": 1000,
-        "p75": 1149,
-        "min": 850,
-        "max": 1199,
-        "differencePct": -18,
-        "minComparables": 3,
-        "status": "below_observed_range"
-      },
-      "stale": true,
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "apple-iphone-17-pro-max-256-gb",
-        "productName": "Apple iPhone 17 Pro Max 256 GB",
-        "askingPrice": 900,
-        "referencePrice": 1160,
-        "difference": 260,
-        "differencePct": 22.4
-      }
-    },
-    {
-      "id": "3528566691",
-      "queryId": "iphone",
-      "queryLabel": "iPhone",
-      "title": "iPhone 17 Pro 265GB Orange Neuzustand OVP Rechnung",
-      "description": "Ich biete hier mein iPhone 17 Pro mit 256GB Speicher in der Farbe Orange an.\n\nDas Gerät weist...",
-      "price": 990,
-      "priceRaw": "990 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "61231 Bad Nauheim",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T21:58:00.000Z",
-      "postedRaw": "Gestern, 23:58",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5a3019f-9ce4-40e2-93c6-50cd4c4e4c9b?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5a3019f-9ce4-40e2-93c6-50cd4c4e4c9b?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3528566691",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-iphone-17-pro-256-gb",
-        "name": "Apple iPhone 17 Pro 256 GB",
-        "category": "Smartphones",
-        "variant": "Orange",
-        "confidence": 0.9,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:14:12.036Z"
-      },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-01T22:09:23.063Z",
-      "priceHistory": [
-        {
-          "price": 990,
-          "at": "2026-10-01T22:09:23.063Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 16,
-        "median": 985,
-        "p25": 900,
-        "p75": 1099,
-        "min": 720,
-        "max": 1200,
-        "differencePct": 1,
-        "minComparables": 3,
-        "status": "within_observed_range"
-      },
-      "stale": true,
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "apple-iphone-17-pro-256-gb",
-        "productName": "Apple iPhone 17 Pro 256 GB",
-        "askingPrice": 990,
-        "referencePrice": 1010,
-        "difference": 20,
-        "differencePct": 2
-      }
-    },
-    {
-      "id": "3528566594",
-      "queryId": "iphone",
-      "queryLabel": "iPhone",
-      "title": "iPhone 16 Pro Max 256 GB | gepflegt | Schwarz",
-      "description": "Verkaufe mein iPhone 16 Pro Max mit 256 GB Speicher.\n\nDas Gerät befindet sich in einem guten...",
-      "price": 680,
-      "priceRaw": "680 € VB",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": true,
-        "trade": false
-      },
-      "location": "42859 Remscheid",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T21:57:00.000Z",
-      "postedRaw": "Gestern, 23:57",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0029f41-5c8e-4994-b334-e53dcdde66b7?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0029f41-5c8e-4994-b334-e53dcdde66b7?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3528566594",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-iphone-16-pro-max-256-gb",
-        "name": "Apple iPhone 16 Pro Max 256 GB",
-        "category": "Smartphones",
-        "variant": "",
-        "confidence": 1,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:14:12.036Z"
-      },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-01T22:09:23.063Z",
-      "priceHistory": [
-        {
-          "price": 680,
-          "at": "2026-10-01T22:09:23.063Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 10,
-        "median": 745,
-        "p25": 649,
-        "p75": 788,
-        "min": 500,
-        "max": 889,
-        "differencePct": -9,
-        "minComparables": 3,
-        "status": "within_observed_range"
-      },
-      "stale": true,
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "apple-iphone-16-pro-max-256-gb",
-        "productName": "Apple iPhone 16 Pro Max 256 GB",
-        "askingPrice": 680,
-        "referencePrice": 810,
-        "difference": 130,
-        "differencePct": 16
-      }
-    },
-    {
-      "id": "3528566590",
-      "queryId": "iphone",
-      "queryLabel": "iPhone",
-      "title": "iPhone 11 Pro",
-      "description": "Ich biete hier mein iPhone 11 Pro mit 256 GB Speicherplatz zum Verkauf an. Das Gerät befindet sich...",
-      "price": 110,
-      "priceRaw": "110 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "27568 Bremerhaven",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T21:57:00.000Z",
-      "postedRaw": "Gestern, 23:57",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98537f3e-d2f3-4ec2-a7c5-ba85ea2a20b7?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98537f3e-d2f3-4ec2-a7c5-ba85ea2a20b7?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3528566590",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-iphone-11-pro-256-gb",
-        "name": "Apple iPhone 11 Pro 256 GB",
-        "category": "Smartphones",
-        "variant": "",
-        "confidence": 1,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:14:12.036Z"
-      },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-01T22:09:23.063Z",
-      "priceHistory": [
-        {
-          "price": 110,
-          "at": "2026-10-01T22:09:23.063Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "stale": true,
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "apple-iphone-11-pro-256-gb",
-        "productName": "Apple iPhone 11 Pro 256 GB",
-        "askingPrice": 110,
-        "referencePrice": 240,
-        "difference": 130,
-        "differencePct": 54.2
-      }
-    },
-    {
-      "id": "3528566583",
-      "queryId": "iphone",
-      "queryLabel": "iPhone",
-      "title": "iPhone 15 Pro MAX 256GB",
-      "description": "Verkauft wird hier das iPhone 15Pro Max. Es hat Gebrauchsspuren auf dem Display, diese sieht man...",
-      "price": 600,
-      "priceRaw": "600 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "26789 Leer (Ostfriesland)",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T21:57:00.000Z",
-      "postedRaw": "Gestern, 23:57",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/deaa8f07-505c-44d1-affa-2574a072a22e?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/deaa8f07-505c-44d1-affa-2574a072a22e?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3528566583",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-iphone-15-pro-max-256-gb",
-        "name": "Apple iPhone 15 Pro Max 256 GB",
-        "category": "Smartphones",
-        "variant": "",
-        "confidence": 1,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:14:12.036Z"
-      },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-01T22:09:23.063Z",
-      "priceHistory": [
-        {
-          "price": 600,
-          "at": "2026-10-01T22:09:23.063Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 13,
-        "median": 580,
-        "p25": 450,
-        "p75": 599,
-        "min": 400,
-        "max": 699,
-        "differencePct": 3,
-        "minComparables": 3,
-        "status": "above_observed_range"
-      },
-      "stale": true,
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "apple-iphone-15-pro-max-256-gb",
-        "productName": "Apple iPhone 15 Pro Max 256 GB",
-        "askingPrice": 600,
-        "referencePrice": 680,
-        "difference": 80,
-        "differencePct": 11.8
-      }
-    },
-    {
-      "id": "3528566453",
-      "queryId": "iphone",
-      "queryLabel": "iPhone",
-      "title": "iPhone 15 Pro 256 Gb",
-      "description": "Hi ich verkaufe mein iPhone 15 Pro da ich ein neues gekauft habe\nLäuft einwandfrei und sieht super...",
-      "price": 519,
-      "priceRaw": "519 €",
-      "currency": "EUR",
-      "priceTags": {
-        "free": false,
-        "negotiable": false,
-        "trade": false
-      },
-      "location": "33689 Sennestadt",
-      "distanceKm": 0,
-      "postedAt": "2026-10-01T21:56:00.000Z",
-      "postedRaw": "Gestern, 23:56",
-      "image": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c0519b2-fcc6-4385-b221-8373ffbc54e9?rule=$_1.AUTO",
-      "imageLarge": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c0519b2-fcc6-4385-b221-8373ffbc54e9?rule=$_1.AUTO",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3528566453",
-      "category": "",
-      "attributes": {},
-      "product": {
-        "key": "apple-iphone-15-pro-256-gb",
-        "name": "Apple iPhone 15 Pro 256 GB",
-        "category": "Smartphones",
-        "variant": "",
-        "confidence": 0.95,
-        "engine": "ai:qwen3:4b",
-        "classifiedAt": "2026-10-01T22:14:00.504Z"
-      },
-      "firstSeenAt": "2026-10-01T22:09:23.063Z",
-      "lastSeenAt": "2026-10-01T22:09:23.063Z",
-      "priceHistory": [
-        {
-          "price": 519,
-          "at": "2026-10-01T22:09:23.063Z"
-        }
-      ],
-      "priceComparison": {
-        "comparableCount": 0,
-        "status": "insufficient_data"
-      },
-      "stale": true,
-      "referencePriceCheck": {
-        "status": "good_price",
-        "productKey": "apple-iphone-15-pro-256-gb",
-        "productName": "Apple iPhone 15 Pro 256 GB",
-        "askingPrice": 519,
-        "referencePrice": 560,
-        "difference": 41,
-        "differencePct": 7.3
       }
     }
   ]
