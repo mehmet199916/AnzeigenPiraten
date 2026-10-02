@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:50:24.594Z",
+  "updatedAt": "2026-10-02T13:55:35.605Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128gb",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,13 +340,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128GB",
+      "name": "Apple iPhone 11 128 GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5104,7 +5104,7 @@
       "updatedAt": null
     },
     "iphone-13-mini-128-gb": {
-      "name": "iPhone 13 mini 128GB",
+      "name": "iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7164,6 +7164,282 @@
     "apple-iphone-5s": {
       "name": "Apple iPhone 5S",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-charger-vario-bj-2019": {
+      "name": "Riese&Müller Charger Vario Bj 2019",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hoheacht-lumo-tereno-diamant-gr-l-56-cm": {
+      "name": "HoheAcht Lumo Tereno Diamant Gr. L /56 cm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-tb300-e-bike": {
+      "name": "Winora TB300 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-bike": {
+      "name": "Bulls E Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-miss-grace-c7-hmb-e-pedelec-lastenrad-28": {
+      "name": "GAZELLE Miss Grace C7+ HMB E-Pedelec Lastenrad 28\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "29-zoll-blaues-e-mountainbike": {
+      "name": "29 Zoll Blaues E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-6-0-trekking": {
+      "name": "Haibike Sduro 6.0 Trekking",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-akku-18-ah": {
+      "name": "E-Bike Akku 18 Ah",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-tour-cx": {
+      "name": "KTM Macina Tour CX",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-zundapp": {
+      "name": "E - Bike Zündapp",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-dice-2-0-hardtail-e-m-t-e-bike": {
+      "name": "Prophete dice 2.0 hardtail E M T e Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diamant-zouma-e-bike-shimano-alivio-2023": {
+      "name": "Diamant Zouma+ E-Bike Shimano Alivio 2023",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-crux-e5-singlespeed-cyclocross": {
+      "name": "Specialized Crux E5 Singlespeed Cyclocross",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-mountainbike": {
+      "name": "Cube E-Bike Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mondraker-crafty-r": {
+      "name": "Mondraker Crafty R",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-ny-pro-wave-e-bike": {
+      "name": "KTM MACINA STYLE NY PRO WAVE E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "carver-strict-e-510-in-blue-metallic": {
+      "name": "Carver Strict E.510 in blue metallic",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-1-tb": {
+      "name": "Apple iPhone 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-plus": {
+      "name": "Apple iPhone 16 Plus",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-2022": {
+      "name": "Apple iPhone SE 2022",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m4-16-gb-1-tb": {
+      "name": "Apple MacBook Pro 14″ M4 16 GB/1 TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-m1-256-gb": {
+      "name": "Apple MacBook Pro 13\" M1 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1070-8-gb": {
+      "name": "NVIDIA GeForce GTX 1070 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-nvidia-geforce-rtx-4070-ti-12-gb": {
+      "name": "ASUS TUF GAMING NVIDIA GeForce RTX 4070 Ti 12 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grafikkarte-750": {
+      "name": "Grafikkarte 750",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dualsense-edge-controller-fur-playstation-5": {
+      "name": "Sony DualSense Edge Controller für PlayStation 5",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-spiele": {
+      "name": "PS5 Spiele",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "marvels-wolverine-ps5": {
+      "name": "Marvels Wolverine PS5",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gothic-remake-ps5": {
+      "name": "Gothic Remake PS5",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-neo-mini-drohne": {
+      "name": "DJI Neo Mini Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-om-1": {
+      "name": "Olympus OM-1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ddr-praktica-kamera-set": {
+      "name": "DDR Praktica Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktika-iv-f": {
+      "name": "Praktika IV F",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-xa2": {
+      "name": "Olympus XA2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-200d-komplettset": {
+      "name": "Canon EOS 200D Komplettset",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-m9": {
+      "name": "Leica M9",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-vsl-3-e-spiegelreflexkamera": {
+      "name": "Voigtländer VSL 3-E Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ulanzi-bp09-kamerarucksack": {
+      "name": "Ulanzi BP09 Kamerarucksack",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-tough-tg-5": {
+      "name": "Olympus Tough TG-5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-avata": {
+      "name": "DJI Avata",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mamiya-rb67": {
+      "name": "Mamiya RB67",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d5000": {
+      "name": "Nikon D5000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-450": {
+      "name": "Olympus E-450",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xplorer-grip-pro-kit-fur-insta360-ace-pro-2": {
+      "name": "Xplorer Grip Pro Kit für Insta360 Ace Pro 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-ncm-20-zoll-faltrad-anthrazit-paris": {
+      "name": "E-Bike NCM 20 Zoll Faltrad Anthrazit Paris",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elektronische-smart-brille-mit-kamerafunktion": {
+      "name": "Elektronische Smart-Brille mit Kamerafunktion",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
