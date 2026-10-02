@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T00:03:11.990Z",
+  "updatedAt": "2026-10-02T00:07:55.016Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512 GB",
+      "name": "Apple iPhone 15 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1144,7 +1144,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m5-512-gb": {
-      "name": "Apple MacBook Air M5 512GB",
+      "name": "Apple MacBook Air m5 512gb",
       "category": "Computer",
       "referencePrice": 1000,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3989,6 +3989,24 @@
     },
     "canon-powershot-g7-x-mark-iii": {
       "name": "Canon Powershot G7 X Mark III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-z101-e-klapprad": {
+      "name": "Zündapp Z101 E-Klapprad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-max-512-gb": {
+      "name": "iPhone 17 Pro Max 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-m10-ef-m15-45-is-stm-kit": {
+      "name": "Canon EOS M10+EF-M15-45 IS STM Kit",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
