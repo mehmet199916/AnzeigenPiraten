@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T14:09:39.127Z",
+  "updatedAt": "2026-10-02T14:14:38.936Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128gb",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -400,8 +400,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-13-2020-8-gb": {
-      "name": "Apple MacBook Air 13\" 2020 8 GB",
-      "category": "Laptops",
+      "name": "Apple MacBook Air 13\" 2020 8GB",
+      "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 gb",
+      "name": "Apple iPhone 17 256 GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4217,7 +4217,7 @@
     },
     "leica-lux-grip": {
       "name": "Leica Lux Grip",
-      "category": "Zubehör",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -4720,7 +4720,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-16-gb": {
-      "name": "Apple MacBook Pro 13\" 16 Gb",
+      "name": "Apple MacBook Pro 13\" 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -6130,7 +6130,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital": {
-      "name": "Sony PlayStation 5 digital",
+      "name": "Sony PlayStation 5 Digital",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -8123,6 +8123,270 @@
     },
     "bmw-f15-au-enspiegel-rechts": {
       "name": "BMW F15 Außenspiegel rechts",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga-town-country-p10": {
+      "name": "KETTLER Quadriga Town & Country P10",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "staiger-cb100": {
+      "name": "Staiger CB100",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-e-bike": {
+      "name": "Pegasus E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-jam2-plus-ltd": {
+      "name": "Focus JAM2 PLUS LTD",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-140-hpc-race-750-emtb-ebike": {
+      "name": "Cube Stereo Hybrid 140 HPC Race 750 Emtb Ebike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-e-bike-bk28-fatbike": {
+      "name": "Hitway E-Bike BK28 Fatbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blaupunkt-frida-falt-e-bike": {
+      "name": "Blaupunkt FRIDA Falt-E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-dover-e-bike": {
+      "name": "Raleigh Dover E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-tria-n7-e-bike-bosch": {
+      "name": "Winora Tria N7 E-bike Bosch",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-klapprad-20-zoll": {
+      "name": "Fischer Klapprad 20 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-mountainbike": {
+      "name": "Bulls E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "isinwheel-u4-e-bike-klappfahrrad": {
+      "name": "ISINWHEEL U4 E-Bike Klappfahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-cita-5-8-i": {
+      "name": "Fischer Cita 5,8 i",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-hybrid-one-800": {
+      "name": "Cube Kathmandu Hybrid ONE 800",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-entice-5-wave-advance": {
+      "name": "Kalkhoff Entice 5 Wave + Advance",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-pro": {
+      "name": "KTM Macina Style Pro",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-ella-hybrid": {
+      "name": "Cube Ella Hybrid",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-crossray-e-6-0-wave": {
+      "name": "Raymon CrossRay E 6.0 (Wave)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "colnago-concept-carbon": {
+      "name": "Colnago Concept Carbon",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "shimano-dura-ace-fc-r9100": {
+      "name": "Shimano Dura Ace FC-R9100",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-max-1-tb": {
+      "name": "Apple iPhone 14 Pro Max 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-zoll-2022-1-tb": {
+      "name": "Apple MacBook Pro 14 Zoll 2022 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-gtx-960-ssc-4-gb": {
+      "name": "EVGA GTX 960 SSC 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-gtx-980-super-jetstream-4-gb": {
+      "name": "Palit GeForce GTX 980 Super JetStream 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-gtx-1650-strix-4-gb": {
+      "name": "ASUS GTX 1650 STRIX 4 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-4": {
+      "name": "Sony PlayStation 4",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-g2-kit-14-42mm": {
+      "name": "Panasonic Lumix DMC-G2 Kit (14-42mm)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x4-air-nd-filter": {
+      "name": "Insta360 X4 Air ND Filter",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-200d": {
+      "name": "Canon EOS 200D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-om-d-e-m1-mark-ii": {
+      "name": "Olympus OM-D E-M1 Mark II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dcm-fx37": {
+      "name": "Panasonic LUMIX DCM-FX37",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mamiya-645-mittelformatkamera": {
+      "name": "Mamiya 645 Mittelformatkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ihagee-exa-dresden": {
+      "name": "Ihagee EXA Dresden",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-pen-e-pl10": {
+      "name": "Olympus PEN E-PL10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-p510": {
+      "name": "Nikon Coolpix P510",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-600": {
+      "name": "Canon EOS 600",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-a-1-analoge-spiegelreflexkamera": {
+      "name": "Canon A-1 analoge Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "film-foto-lampe": {
+      "name": "Film Foto Lampe",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-w5-digitalkamera": {
+      "name": "Sony Cyber-shot DSC-W5 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-hdr-cx-240e-camcorder": {
+      "name": "Sony HDR-CX 240E Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-k-30-spiegelreflexkamera": {
+      "name": "Pentax K-30 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "padelec-raleigh-stoker-x1-e-bike": {
+      "name": "Padelec Raleigh Stoker X1 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-max-265-gb": {
+      "name": "Apple iPhone 15 Pro Max 265 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "360-video-booth-360-kamera": {
+      "name": "360 Video booth 360 Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
