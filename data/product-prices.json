@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T14:04:29.369Z",
+  "updatedAt": "2026-10-02T14:09:39.127Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 gb",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256 gb",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,7 +1798,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max (256 GB)",
+      "name": "Apple iPhone 13 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2680,7 +2680,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-256-gb": {
-      "name": "Apple iPhone 11 Pro (256 GB)",
+      "name": "Apple iPhone 11 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512 GB",
+      "name": "Apple iPhone 17 Pro Max 512 Gb",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,13 +3592,13 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256 GB",
+      "name": "iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
     "apple-iphone-15-pro-512-gb": {
-      "name": "Apple iPhone 15 Pro (512 GB)",
+      "name": "Apple iPhone 15 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -4121,7 +4121,7 @@
     },
     "stealth-bomber-e-bike": {
       "name": "Stealth Bomber E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7877,6 +7877,252 @@
     },
     "kameras-von-nikon-canon-minolta": {
       "name": "Kameras von Nikon, Canon, Minolta",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e": {
+      "name": "Giant Explore E+",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-eth-1401": {
+      "name": "Fischer ETH-1401",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-sonic-evo-am-1": {
+      "name": "Bulls Sonic Evo Am 1",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "i-sy-premium-isy-kompaktrad-e-bike-pedelec-bosch-400wh": {
+      "name": "i:SY Premium ISY Kompaktrad E-Bike Pedelec Bosch 400Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "falter-e-9-4-se-rt": {
+      "name": "Falter E 9.4 SE RT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-cento-10-plus-2023": {
+      "name": "KTM CENTO 10 PLUS 2023",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-power-pack-400-e-bike-akku": {
+      "name": "Bosch Power Pack 400 E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga-town-country-e-bike-wave": {
+      "name": "Kettler Quadriga Town & Country E-Bike Wave",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bottcher-friends-e-bike-28-zoll-damen": {
+      "name": "Böttcher Friends E-Bike 28 Zoll Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "centurion-lhasa-r2700i-e-mtb": {
+      "name": "Centurion Lhasa R2700i E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-citybike-damenrad-tiefeinsteiger-400wh": {
+      "name": "E Citybike Damenrad Tiefeinsteiger 400Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-pro-allroad-750-29-zoll-e-mountainbike": {
+      "name": "Cube Reaction Hybrid Pro Allroad 750 29 Zoll E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-alltrail-3-l": {
+      "name": "Haibike AllTrail 3 L",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "union-e-lite": {
+      "name": "Union E-Lite",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rayvolt-ringo": {
+      "name": "Rayvolt Ringo",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-700-active-36v-20ah": {
+      "name": "Bosch PowerPack 700 Active 36V/20Ah",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lastenrad-adore-cargo-straight": {
+      "name": "Lastenrad Adore Cargo Straight",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-tr-3-8": {
+      "name": "CONWAY Cairon TR 3.8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-tokee-street-20": {
+      "name": "Bulls Tokee Street 20",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-tesoro-neo-x2": {
+      "name": "Cannondale Tesoro Neo X2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-roadlite-on-7": {
+      "name": "Canyon Roadlite ON 7",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-max-1-tb": {
+      "name": "iPhone 17 Pro Max 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17e-256-gb": {
+      "name": "iPhone 17e 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-128-gb": {
+      "name": "iPhone 14 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-air-256-gb": {
+      "name": "Apple iPhone Air 256gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-8-gb": {
+      "name": "Apple MacBook Air 13 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-8-gb": {
+      "name": "Apple MacBook Pro 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3060-ti-12-gb": {
+      "name": "NVIDIA GeForce RTX 3060 Ti 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-benz-sprinter-907-w910-ruckfahrkamera": {
+      "name": "Mercedes-Benz Sprinter 907 W910 Rückfahrkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-140-hd-digitalkamera": {
+      "name": "Canon IXUS 140 HD Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-hvl-f46rm-blitz-kamera": {
+      "name": "Sony HVL-F46RM Blitz Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-zs10-digitalkamera": {
+      "name": "Casio Exilim EX-ZS10 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "audi-q7-4m-au-enspiegel-rechts-15pin-kamera-16pin-4m1857410bm": {
+      "name": "Audi Q7 4M Außenspiegel rechts 15Pin + Kamera 16Pin 4M1857410BM",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-xperia-kamera-reparatur": {
+      "name": "Sony Xperia Kamera Reparatur",
+      "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-neo-2-fly-more-combo": {
+      "name": "DJI Neo 2 Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "contax-t2-titanium-silver": {
+      "name": "Contax T2 Titanium Silver",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz72": {
+      "name": "Panasonic Lumix DMC-FZ72",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-now-sofortbildkamera": {
+      "name": "Polaroid Now Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-ace-pro-2": {
+      "name": "Insta360 Ace Pro 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-ex-zs15": {
+      "name": "Casio EX-ZS15",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-f15-au-enspiegel-rechts": {
+      "name": "BMW F15 Außenspiegel rechts",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
