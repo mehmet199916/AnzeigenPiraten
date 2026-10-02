@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T17:55:04.491Z",
+  "updatedAt": "2026-10-02T17:59:22.458Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 Gb",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64 GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -304,7 +304,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e": {
-      "name": "Apple iPhone 16E",
+      "name": "Apple iPhone 16e",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2447,7 +2447,7 @@
     },
     "apple-iphone-17-pro-max": {
       "name": "Apple iPhone 17 Pro Max",
-      "category": "Smartphones",
+      "category": "Computer",
       "referencePrice": 1100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -5458,7 +5458,7 @@
       "updatedAt": null
     },
     "iphone-13-128-gb": {
-      "name": "iPhone 13 128GB",
+      "name": "iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6082,14 +6082,14 @@
       "updatedAt": null
     },
     "raleigh-e-bike": {
-      "name": "Raleigh E Bike",
+      "name": "Raleigh E-Bike",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
     "ktm-macina-xt-e-bike": {
       "name": "KTM Macina XT E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7186,7 +7186,7 @@
       "updatedAt": null
     },
     "bulls-e-bike": {
-      "name": "Bulls E Bike",
+      "name": "BULLS E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -14050,7 +14050,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-16-gb": {
-      "name": "Apple MacBook Air 13\" 16 GB",
+      "name": "Apple MacBook Air 13\" 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -16781,6 +16781,144 @@
     },
     "rockmachine-crossride-e400": {
       "name": "RockMachine Crossride e400",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rose-root-miller-plus-2": {
+      "name": "ROSE Root Miller Plus 2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "qio-bosch-performance-20-zoll": {
+      "name": "QIO Bosch Performance 20 zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-atura-28-zoll-tiefeinsteiger": {
+      "name": "Prophete Atura 28 Zoll Tiefeinsteiger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-rose-extra-watt": {
+      "name": "E–Bike ROSÉ EXTRA WATT",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-5-b-advance": {
+      "name": "Kalkhoff Endeavour 5.B Advance",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-5-b-xxl": {
+      "name": "Kalkhoff Endeavour 5.B XXL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-tretwerk-commander-plus": {
+      "name": "E-Bike Tretwerk Commander Plus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28-er-von-hercules": {
+      "name": "E Bike 28 er von Hercules",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damen-e-bike-fischer": {
+      "name": "Damen E - Bike Fischer",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-e-bike-carbon-fully-mountainbike-fox-36-kashima": {
+      "name": "Raymon E-Bike Carbon Fully Mountainbike Fox 36 Kashima",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-pathlite-on-5-e-bike": {
+      "name": "Canyon Pathlite:ON 5 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eufab-premium-2-ahk-trager": {
+      "name": "EUFAB Premium 2 AHK-Träger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-kathmandu-hybrid-pro-625": {
+      "name": "Cube E-Bike Kathmandu Hybrid Pro 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-touring-hybrid-exc-625": {
+      "name": "Cube E-Bike Touring Hybrid EXC 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13": {
+      "name": "iPhone 13",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-3-8-gb": {
+      "name": "Apple MacBook Pro 13,3\" 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "inno3d-grafikkarte": {
+      "name": "Inno3D Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-edition-1-tb": {
+      "name": "Sony PlayStation 5 Slim Edition 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "k618-max-drohne": {
+      "name": "K618 MAX Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-sr-t-303b-spiegelreflexkamera": {
+      "name": "Minolta SR-T 303b Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-rp-systemkamera": {
+      "name": "Canon EOS RP Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reolink-e1-wifi-kameras": {
+      "name": "Reolink E1 Wifi Kameras",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "babboe-go-mountain": {
+      "name": "Babboe Go Mountain",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
