@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T15:29:34.744Z",
+  "updatedAt": "2026-10-02T15:34:34.946Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256 Gb",
+      "name": "Apple iPhone 17 Air 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256gb",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -694,7 +694,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim": {
-      "name": "Sony PlayStation 5 slim",
+      "name": "Sony PlayStation 5 Slim",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256Gb",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1090,7 +1090,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro": {
-      "name": "Apple iPhone 16 Pro",
+      "name": "Apple iPhone 16 PRO",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1828,7 +1828,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128GB",
+      "name": "Apple iPhone 12 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2776,7 +2776,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-64-gb": {
-      "name": "Apple iPhone 11 Pro 64GB",
+      "name": "Apple iPhone 11 Pro 64gb",
       "category": "Smartphones",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2819,7 +2819,7 @@
     },
     "gigabyte-aorus-rtx-3090-gaming-box-24-gb": {
       "name": "GIGABYTE AORUS RTX 3090 Gaming Box 24GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128 GB",
+      "name": "Apple iPhone 13 Mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256 GB",
+      "name": "Apple iPhone 15 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10223,7 +10223,7 @@
     },
     "raleigh-damen-e-bike-26-zoll": {
       "name": "Raleigh Damen E-Bike 26 Zoll",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -11754,6 +11754,252 @@
     "nikon-z6-ii": {
       "name": "Nikon Z6 II",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trenoli-tanaro-classico-bosch-active-line-plus-bes3-625wh-e-bike": {
+      "name": "Trenoli Tanaro Classico Bosch Active Line Plus Bes3 625Wh E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-400-500-zellentausch": {
+      "name": "Bosch Powerpack 400 500 Zellentausch",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-e-bike-28-zoll": {
+      "name": "Kreidler E-Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-damen": {
+      "name": "Kalkhoff E Bike Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-alltrack-7-29-e-mtb": {
+      "name": "Haibike AllTrack 7 29\" E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-race-625": {
+      "name": "CUBE Reaction Hybrid Race 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ortler-kompaktrad-e-bike": {
+      "name": "Ortler Kompaktrad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nuvinci-n-360-hinterrad-fur-e-bike": {
+      "name": "Nuvinci N 360 Hinterrad für E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-mit-britax-romer-kindersitz": {
+      "name": "Cube E-Bike mit Britax Römer Kindersitz",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-turbo-vado-3-0-e-bike": {
+      "name": "Specialized Turbo Vado 3.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-4-high-e-bike": {
+      "name": "Haibike Trekking 4 High E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-ewme-429-e-mtb": {
+      "name": "Conway eWME 429 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cowboy-4-e-bike-c4-mattschwarz": {
+      "name": "Cowboy 4+ E-Bike (C4) Mattschwarz",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stilus-trail-e-bike": {
+      "name": "Stilus Trail E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-damenrad": {
+      "name": "Fischer E-Bike Damenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-hardray-e-mountainbike": {
+      "name": "Raymon Hardray E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "triumph-e-bird": {
+      "name": "Triumph E-Bird",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "allegro-comfort-suv-3-plus-522": {
+      "name": "Allegro Comfort SUV 3 Plus 522",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "axess-mountainbike": {
+      "name": "Axess Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-max-1-tb": {
+      "name": "Apple iPhone 16 Pro Max 1 TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-5g-256-gb": {
+      "name": "Apple iPhone 16 5G 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-cosmic-orange": {
+      "name": "Apple iPhone 16 Pro Cosmic Orange",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-265-gb": {
+      "name": "Apple iPhone 17 Pro 265GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-14-128-gb": {
+      "name": "Apple iPhone 14 14,128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-pro-konsole-2-tb": {
+      "name": "Sony PlayStation 5 Pro Konsole 2 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-828-gb": {
+      "name": "Sony PlayStation 5 Slim 828gb",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-avata-2-fly-more-combo": {
+      "name": "DJI Avata 2 Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6300-komplettset": {
+      "name": "Sony Alpha 6300 Komplettset",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a630": {
+      "name": "Canon PowerShot A630",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-digitalkamera-cx-z100": {
+      "name": "Casio Exilim Digitalkamera CX Z100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d3500": {
+      "name": "Nikon D3500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lowepro-fotorucksack-protactic-bp-350-aw-ii": {
+      "name": "Lowepro Fotorucksack ProTactic BP 350 AW II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-video-doorbell": {
+      "name": "Blink Video Doorbell",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-kamera": {
+      "name": "AGFA Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-v-lux-1": {
+      "name": "Leica V-LUX 1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "2-wenig-gefahrene-e-bike": {
+      "name": "2 wenig gefahrene E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cyrusher-fatbike": {
+      "name": "Cyrusher Fatbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-stream-evo-tr1-27-5": {
+      "name": "Bulls E-Stream EVO TR1 27.5",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-hybrid-one": {
+      "name": "Cube Kathmandu Hybrid ONE",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-evo-8r": {
+      "name": "Pegasus Solero EVO 8R",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-1-tb": {
+      "name": "Apple iPhone 14 Pro 1TB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
