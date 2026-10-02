@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T15:04:40.385Z",
+  "updatedAt": "2026-10-02T15:09:43.123Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 gb",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -203,7 +203,7 @@
     },
     "e-bike": {
       "name": "E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128GB",
+      "name": "Apple iPhone 13 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128gb",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256 GB",
+      "name": "Apple iPhone 15 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3935,7 +3935,7 @@
     },
     "fischer-fahrrad-faltrad-fr18": {
       "name": "Fischer Fahrrad Faltrad FR18",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -4384,7 +4384,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-m3-8-gb": {
-      "name": "Apple MacBook Air M3 8GB",
+      "name": "Apple MacBook Air M3 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -4768,8 +4768,8 @@
       "updatedAt": null
     },
     "playstation-5-825-gb": {
-      "name": "PlayStation 5 825GB",
-      "category": "Konsolen",
+      "name": "PlayStation 5 825 GB",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro Max 256GB",
+      "name": "iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10583,6 +10583,282 @@
     },
     "suntek-novabot-mahroboter-4300": {
       "name": "Suntek/Novabot Mähroboter 4300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-tracking-rad": {
+      "name": "E- Tracking Rad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike": {
+      "name": "prophete e bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "falter-hybrid-preformance-9-8": {
+      "name": "Falter Hybrid Preformance 9.8",
+      "category": "e-bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-1-b-move-city-e-trekking-e-bike": {
+      "name": "Kalkhoff Endeavour 1.B Move City E-Trekking E-Bike",
+      "category": "e-bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-strada-sport-m": {
+      "name": "Atera Strada Sport M",
+      "category": "e-bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-trekkingrad-28-zoll": {
+      "name": "Fischer E-Bike Trekkingrad 28 Zoll",
+      "category": "e-bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-fly-03-35s-20-1ah-36v-750wh-e-bike-akku": {
+      "name": "Flyer FLY-03-35S 20.1Ah/36V 750Wh e-Bike Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-damen-e-bike-26-zoll": {
+      "name": "Kalkhoff Damen E-Bike 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "u3-klapprad-wei": {
+      "name": "U3 Klapprad weiß",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-sport-sl-e-bike": {
+      "name": "Hercules Sport SL E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mit-gepacktragerkorb-rot": {
+      "name": "E-Bike mit Gepäckträgerkorb rot",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-tresalo-7": {
+      "name": "VICTORIA TRESALO 7",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-green-4-0": {
+      "name": "Zündapp Green 4.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-cysalo-13": {
+      "name": "VICTORIA CYSALO 13",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-28-zoll": {
+      "name": "Kalkhoff E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "laufrad-28er": {
+      "name": "Laufrad 28er",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-dailytour-e-2-lds": {
+      "name": "Giant DailyTour E+ 2 LDS",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-tasman": {
+      "name": "Kalkhoff Tasman",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "2025-gazelle-chamonix-c5": {
+      "name": "2025 Gazelle Chamonix C5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-cube-aim-ex-29-27-5-zoll": {
+      "name": "Cube Cube Aim EX 29 27,5 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "urtopia-carbon-1": {
+      "name": "Urtopia Carbon 1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-slt-625": {
+      "name": "Cube Reaction Hybrid SLT 625",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-18-pro-max-256-gb": {
+      "name": "Apple iPhone 18 Pro Max 256gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-1-tb": {
+      "name": "Apple MacBook Pro 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-mid-2012-i7-2-3-ghz-16-gb-ram-1-tb": {
+      "name": "Apple MacBook Pro 15\" Mid 2012 i7 2,3 GHz 16GB RAM 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m4": {
+      "name": "Apple MacBook Pro 14 M4",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-prime-geforce-rtx-5060-8-gb-gddr7": {
+      "name": "ASUS PRIME GeForce RTX 5060 8GB GDDR7",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-pulse-amd-radeon-rx-7800-xt-grafikkarte": {
+      "name": "Sapphire Pulse AMD Radeon RX 7800 XT Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-gtx-1650-super-4-gb": {
+      "name": "PALIT GeForce GTX 1650 SUPER 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digital-slim-edition": {
+      "name": "Sony PlayStation 5 Digital Slim Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-spiel-the-blood-of-dawnwalker": {
+      "name": "PlayStation 5 Spiel The Blood of Dawnwalker",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blackmagic-pocket-4k-kamera": {
+      "name": "Blackmagic Pocket 4K Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fx30": {
+      "name": "Panasonic Lumix DMC-FX30",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "willytec-follow-focus": {
+      "name": "WILLYTEC Follow Focus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fuji-x-h1": {
+      "name": "Fuji X-H1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prixton-xplorer-dv900": {
+      "name": "Prixton Xplorer DV900",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-r-7": {
+      "name": "Leica R 7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "contax-139-quartz": {
+      "name": "Contax 139 Quartz",
+      "category": "kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikkormat-ft": {
+      "name": "Nikkormat FT",
+      "category": "kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-stylus-sh-60": {
+      "name": "Olympus Stylus SH-60",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "modernhunter-hunter-4g-mini-wildkamera": {
+      "name": "MODERNHUNTER Hunter 4G Mini Wildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-pen-e-pl8": {
+      "name": "Olympus Pen E-PL8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-passat-b8-3g-fas-frontkamera-steuermodul": {
+      "name": "VW Passat B8 3G FAS Frontkamera Steuermodul",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-compact-analogkamera": {
+      "name": "Agfa Compact Analogkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kerbl-ipcam-360-fhd-compact": {
+      "name": "Kerbl IPCam 360 FHD Compact",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apeman-h70-trail-camera": {
+      "name": "Apeman H70 Trail Camera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
