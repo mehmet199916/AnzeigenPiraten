@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T16:44:15.325Z",
+  "updatedAt": "2026-10-02T16:49:20.006Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 gb",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 gb",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256gb",
+      "name": "Apple iPhone 17 Pro Max 256 Gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1060,7 +1060,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256GB",
+      "name": "Apple iPhone 12 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3143,7 +3143,7 @@
     },
     "asus-rtx-3060-12-gb-oc": {
       "name": "Asus RTX 3060 12 GB OC",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256 GB",
+      "name": "iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3683,7 +3683,7 @@
     },
     "e-bike-suv-mtb-ghost-e-teru-universal-eq": {
       "name": "E-Bike SUV MTB Ghost E-TERU UNIVERSAL EQ",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 mini 64 GB",
+      "name": "Apple iPhone 12 mini 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8734,7 +8734,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-1-tb": {
-      "name": "Apple iPhone 16 Pro 1 TB",
+      "name": "Apple iPhone 16 Pro 1TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13666,7 +13666,7 @@
       "updatedAt": null
     },
     "playstation-5-slim-disc-1-tb": {
-      "name": "PlayStation 5 Slim Disc 1TB",
+      "name": "PlayStation 5 Slim Disc 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -14717,6 +14717,132 @@
     },
     "yashica-t3": {
       "name": "YASHICA T3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-5": {
+      "name": "HAIBIKE Trekking 5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-cross-710": {
+      "name": "KTM MACINA CROSS 710",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leopard-e-mtb-29": {
+      "name": "Leopard E-MTB 29\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-kalkhoff-28-mittelmotor-80-nm-impulse-evo": {
+      "name": "E-Bike Kalkhoff 28 Mittelmotor 80 NM Impulse EVO",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-liq-rock-diamant-eqp-625-performance-line-cx-625wh": {
+      "name": "E-Bike LIQ ROCK Diamant EQP 625 Performance Line CX 625Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-allmtn-8-0-e-mountainbike": {
+      "name": "Haibike AllMtn 8.0 E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-zemo-ze-8-damenrad": {
+      "name": "E-Bike Zemo ZE 8 Damenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16e": {
+      "name": "iPhone 16e",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-15-pro-max-1-tb": {
+      "name": "iPhone 15 Pro Max 1 Tb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-13-m2-8-gb-256-gb": {
+      "name": "MacBook Air 13 M2 8GB 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-dual-geforce-rtx-2060-super-o8g-evo-8-gb": {
+      "name": "ASUS DUAL GeForce RTX 2060 SUPER O8G EVO 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-nitro-amd-radeon-rx-470-8-gb": {
+      "name": "Sapphire Nitro+ AMD Radeon RX 470 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-prime-rx-9070-xt-16-gb": {
+      "name": "ASUS Prime RX 9070 XT 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-7-v": {
+      "name": "Sony 7 V",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-supercolor-se-635": {
+      "name": "Polaroid Supercolor SE 635",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-electro-35-gsn": {
+      "name": "Yashica Electro 35 GSN",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-revue-sc4-35mm-analog-slr": {
+      "name": "Pentax Revue SC4 35mm Analog SLR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-11": {
+      "name": "Canon 11",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-z2x": {
+      "name": "Leica Z2X",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zenit-122": {
+      "name": "Zenit 122",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-supercolor-670af-sofortbildkamera": {
+      "name": "Polaroid Supercolor 670AF Sofortbildkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
