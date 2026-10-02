@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:20:07.211Z",
+  "updatedAt": "2026-10-02T13:25:33.636Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64Gb",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512 GB",
+      "name": "Apple iPhone 15 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2476,7 +2476,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-neo-256-gb": {
-      "name": "Apple MacBook Neo 256gb",
+      "name": "Apple MacBook Neo 256GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128 GB",
+      "name": "Apple iPhone 11 128GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3382,7 +3382,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-512-gb": {
-      "name": "Apple iPhone 12 Pro Max 512GB",
+      "name": "Apple iPhone 12 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 340,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3604,7 +3604,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-128-gb": {
-      "name": "iPhone 16 Pro 128GB",
+      "name": "iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -3700,7 +3700,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-512-gb": {
-      "name": "Apple iPhone 16 Pro 512 GB",
+      "name": "Apple iPhone 16 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -3832,7 +3832,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-1-tb": {
-      "name": "Sony PlayStation 5 Slim Digital 1TB",
+      "name": "Sony PlayStation 5 Slim Digital 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -5760,6 +5760,264 @@
     "iphone-16-pro-256-gb": {
       "name": "iPhone 16 Pro 256 GB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-sub-cross-eride-10-lady-e-bike": {
+      "name": "Scott Sub Cross eRIDE 10 Lady E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hpa": {
+      "name": "CUBE STEREO HPA",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-haibike-sduro-6-0-xl": {
+      "name": "e-Haibike SDuro 6.0 XL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-etrekking-12-9": {
+      "name": "Victoria eTrekking 12.9",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-sparta": {
+      "name": "E-bike Sparta",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-e-nova-500-watt": {
+      "name": "Koga E-Nova 500 Watt",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-levo-comp": {
+      "name": "Specialized LEVO COMP",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-t-500-trekkingrad": {
+      "name": "Conway Cairon T 500 Trekkingrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yamaha-e-bike-pedelec-akku-pasb6-x1r-10-500-wh": {
+      "name": "Yamaha E-Bike Pedelec Akku PASB6 X1R-10 500 Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-neuron-on-8-e-fully": {
+      "name": "Canyon Neuron:ON 8 E-Fully",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mammut-edit-sport-cx-28": {
+      "name": "Mammut Edit Sport CX 28",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agattu-city-28-zoll-impulse-2": {
+      "name": "Kalkhoff Agattu City 28 Zoll Impulse 2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-montis-2-1-mtb": {
+      "name": "Fischer Montis 2.1 MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-emtb-hc8": {
+      "name": "Husqvarna eMTB HC8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "simplon-chenoa-uni-47-carbon": {
+      "name": "Simplon Chenoa UNI 47 Carbon",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-28-zoll-e-bike": {
+      "name": "Gazelle 28 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "saxonette-kobold-20-zoll-e-klapprader": {
+      "name": "Saxonette Kobold 20 Zoll E-Klappräder",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-flyer-ts-7-30": {
+      "name": "E - Bike \"Flyer\" TS 7.30",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-damenrad-prophete": {
+      "name": "E-Bike Damenrad Prophete",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-gazelle-arroyo-c7": {
+      "name": "E Bike Gazelle Arroyo C7+",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-16-m3-max-36-gb-1-tb": {
+      "name": "MacBook Pro 16\" M3 Max 36GB/1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3080-ti-gaming-oc": {
+      "name": "Gigabyte RTX 3080 Ti Gaming OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3090": {
+      "name": "Gigabyte RTX 3090",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-rtx-3090-oc-24-gb": {
+      "name": "ASUS TUF Gaming RTX 3090 OC 24GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1080-ti-gaming-x-11-gb": {
+      "name": "MSI GeForce GTX 1080 Ti Gaming X 11GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-geforce-rtx-3060-ti-8-gb": {
+      "name": "ASUS TUF Gaming GeForce RTX 3060 Ti 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-1-tb": {
+      "name": "PlayStation 5 Slim 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-pro-konsole-512-gb": {
+      "name": "Sony PlayStation 5 Pro Konsole 512 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-disk-edition-1-tb": {
+      "name": "PlayStation 5 Disk Edition 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "beton-garage-mit-sicherheitskonzept": {
+      "name": "Beton-Garage mit Sicherheitskonzept",
+      "category": "Gebäude",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-s10": {
+      "name": "Fujifilm X-S10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-5d-mark-iii": {
+      "name": "Canon 5D Mark III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-hs-ex-zr300": {
+      "name": "Casio EXILIM HS EX-ZR300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "razer-kiyo-pro-usb-webcam": {
+      "name": "Razer Kiyo Pro USB Webcam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta-360-x4-256-gb": {
+      "name": "Insta 360 X4 256gb",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "instax-mini-8": {
+      "name": "Instax Mini 8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-cube-reaction-hybrid-pro": {
+      "name": "Bosch Cube Reaction Hybrid Pro",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-d-burst-m8tb": {
+      "name": "Bosch d-Burst M8Tb",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16e-256-gb": {
+      "name": "Apple iPhone 16e 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-11-travel-set": {
+      "name": "Fujifilm Instax Mini 11 Travel Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7-iii": {
+      "name": "Sony Alpha 7 III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d200": {
+      "name": "Nikon D200",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-pocket-4-creator-combo": {
+      "name": "DJI Osmo Pocket 4 Creator Combo",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
