@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T12:59:32.897Z",
+  "updatedAt": "2026-10-02T13:04:10.323Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -695,7 +695,7 @@
     },
     "sony-playstation-5-slim": {
       "name": "Sony PlayStation 5 Slim",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1066,7 +1066,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-plus-128-gb": {
-      "name": "Apple iPhone 14 Plus 128 GB",
+      "name": "Apple iPhone 14 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 365,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2674,7 +2674,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128 GB",
+      "name": "Apple iPhone 16 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3430,7 +3430,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-128-gb": {
-      "name": "iPhone 15 Pro 128gb",
+      "name": "iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4637,6 +4637,282 @@
     },
     "canon-ixus-285-hs": {
       "name": "Canon IXUS 285 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-cgo-compact": {
+      "name": "Tenways CGO Compact",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "triumph-e-bird-ultra-500": {
+      "name": "Triumph E-Bird-Ultra-500",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-vitality-eco-10-di55-xt-10-gang": {
+      "name": "Kreidler Vitality Eco 10 Di55 XT 10-Gang",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-talon-e-gen2": {
+      "name": "Giant Talon E+ Gen2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-tranzx-e-bike": {
+      "name": "Victoria TranzX E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mokwheel-obsidian-all-terrain-e-bike": {
+      "name": "Mokwheel Obsidian All-terrain e-bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elops-e-bike-city-bike-28-zoll-herren": {
+      "name": "Elops E-Bike City Bike 28 Zoll Herren",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-city-e-bike": {
+      "name": "ZÜNDAPP City E‑Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eskute-myt28": {
+      "name": "Eskute MYT28",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-e8": {
+      "name": "Pegasus Solero E8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "wallis-e-enduro-carbon-shimano-ep8-fox-gr-s": {
+      "name": "Wallis E-Enduro Carbon Shimano EP8 FOX Gr. S",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-culture-automatic-rh50": {
+      "name": "Riese & Müller Culture automatic RH50",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-x-vert-rock": {
+      "name": "Corratec X-Vert Rock",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-16-gb": {
+      "name": "Apple MacBook Pro 13\" 16 Gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-zoll": {
+      "name": "Apple MacBook Pro 15 Zoll",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1660-gaming-oc-6-gb": {
+      "name": "NVIDIA GeForce GTX 1660 Gaming OC 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-rtx-5060-ti-16-gb": {
+      "name": "Zotac Gaming RTX 5060 Ti 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-3060-asus-rog-strix": {
+      "name": "Nvidia RTX 3060 Asus Rog Strix",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-5070-ti-16-gb": {
+      "name": "MSI GeForce RTX 5070 Ti 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dualsense-controller": {
+      "name": "Sony DualSense Controller",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g733-gaming-headset": {
+      "name": "Logitech G733 Gaming Headset",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-825-gb": {
+      "name": "PlayStation 5 825GB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-blu-ray-edition-1-tb": {
+      "name": "Sony PlayStation 5 Slim (Blu-ray Edition) 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-ps5-disk-version-825-gb": {
+      "name": "Sony PlayStation 5 PS5 Disk Version 825GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "segway-navimow-mahroboter": {
+      "name": "Segway Navimow Mähroboter",
+      "category": "Gartengeräte",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx50-hs": {
+      "name": "Canon PowerShot SX50 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "philips-avent-connected-babyphone": {
+      "name": "Philips Avent Connected Babyphone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d80-digitalkamera": {
+      "name": "Nikon D80 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "runcam-thumb-2-hd-action-cam-128-gb": {
+      "name": "RunCam Thumb 2 HD Action-Cam 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "philips-avent-babyphone-mit-kamera": {
+      "name": "Philips AVENT Babyphone mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-af-1-twin-kompaktkamera": {
+      "name": "Olympus AF-1 Twin Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "viltrox-135mm-f-1-8-lab-objektiv": {
+      "name": "Viltrox 135mm f/1.8 LAB Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-s6500-digital-kompaktzoom": {
+      "name": "Nikon S6500 Digital Kompaktzoom",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-m100-systemkamera": {
+      "name": "Canon EOS M100 Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-zr100-bk": {
+      "name": "Casio Exilim EX-ZR100 BK",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-fs11-digital-kamera": {
+      "name": "Panasonic Lumix FS11 Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-gen2-active-line-cruise-motor": {
+      "name": "Bosch Gen2 Active Line Cruise Motor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-fahrrad": {
+      "name": "Haibike Fahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "keskin-c-bike-1": {
+      "name": "Keskin C-Bike 1",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-greens-bexhill": {
+      "name": "E-Bike Greens Bexhill",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-spectral-on-cf-7-e-mtb-carbon-xl": {
+      "name": "Canyon Spectral:ON CF 7 E-MTB Carbon XL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-herren-xl-60-impulse": {
+      "name": "Kalkhoff E-Bike Herren XL 60 Impulse",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-talon-e-gen2-m": {
+      "name": "Giant Talon E+ Gen2 M",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-29-zoll-bosch-performance-line": {
+      "name": "E-Bike 29 Zoll Bosch Performance Line",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-500-spiegelreflexkamera": {
+      "name": "Canon EOS 500 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-kamera-konvolut": {
+      "name": "Canon Kamera Konvolut",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
