@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T14:30:02.417Z",
+  "updatedAt": "2026-10-02T14:34:36.439Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256gb",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1822,13 +1822,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512GB",
+      "name": "Apple iPhone 16 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128GB",
+      "name": "Apple iPhone 12 Pro Max 128Gb",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1894,7 +1894,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "canon-eos-2000d": {
-      "name": "Canon EOS 2000d",
+      "name": "Canon EOS 2000D",
       "category": "Kameras",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3161,7 +3161,7 @@
     },
     "playstation-5-spiel": {
       "name": "PlayStation 5 Spiel",
-      "category": "Spielekonsolen",
+      "category": "Spiele",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -7042,7 +7042,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-max-265-gb": {
-      "name": "Apple iPhone 16 Pro Max 265 GB",
+      "name": "Apple iPhone 16 Pro Max 265 gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7810,7 +7810,7 @@
       "updatedAt": null
     },
     "insta360-x4": {
-      "name": "Insta360 X4",
+      "name": "Insta360 x4",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -9132,6 +9132,222 @@
     "iphone": {
       "name": "iPhone",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-evo-11-lite-750wh": {
+      "name": "Pegasus Premio Evo 11 Lite 750WH",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ben-e-bike-e-power-pro-24": {
+      "name": "ben-e-bike E-Power Pro 24\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fahrrad-28-zoll-damenrad-e-bike": {
+      "name": "Fahrrad (28 Zoll Damenrad E-Bike)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-bosch-performance-line-cx": {
+      "name": "KTM E-bike Bosch Performance line CX",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-pedelec-impuls-2-0": {
+      "name": "Victoria Pedelec Impuls 2.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-mtc-12s": {
+      "name": "CORRATEC MTC 12S",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "alu-e-bike-prophete-genie-er-e2-2": {
+      "name": "Alu E-Bike Prophete Genießer e2.2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-performance-line-e-bike-motor": {
+      "name": "Bosch Performance Line E-Bike Motor",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "maxtron-trekking-e-bike-damenrad": {
+      "name": "Maxtron Trekking E-Bike Damenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bafang-bbs02-48v-750w-100-mm-uart-mittelmotor-komplettset": {
+      "name": "Bafang BBS02 48V / 750W 100 mm UART Mittelmotor Komplettset",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-multitalent-rc-870-mittelmotor-e-bike-28-zoll": {
+      "name": "Telefunken Multitalent RC 870 Mittelmotor E-Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-pro-128-gb": {
+      "name": "iPhone 14 Pro 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-15": {
+      "name": "iPhone 15",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-15-256-gb": {
+      "name": "iPhone 15 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-inch-128-gb": {
+      "name": "Apple MacBook Pro 13-Inch 128GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-2017": {
+      "name": "Apple MacBook 2017",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-250-69-gb": {
+      "name": "Apple MacBook Pro 13 Zoll 250,69GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-zoll-256-gb": {
+      "name": "Apple MacBook Air 15 Zoll 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-8-gb": {
+      "name": "Apple MacBook Pro M1 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-4070": {
+      "name": "NVIDIA GeForce RTX 4070",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-pro-w5500-8-gb": {
+      "name": "AMD Radeon Pro W5500 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-geforce-rtx-3070-ti-ftw3-ultra-8-gb": {
+      "name": "EVGA GeForce RTX 3070 Ti FTW3 Ultra 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-4-slim-1-tb": {
+      "name": "Sony PlayStation 4 Slim 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g923-racing-wheel": {
+      "name": "Logitech G923 Racing Wheel",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-account": {
+      "name": "PlayStation Account",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digitale-edition-825-gb": {
+      "name": "Sony PlayStation 5 Digitale Edition 825GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-portal-remote-player": {
+      "name": "Sony PlayStation Portal Remote Player",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ausgefallene-custom-design-filmkamera": {
+      "name": "Ausgefallene Custom Design Filmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d7000": {
+      "name": "Nikon D7000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-gh1": {
+      "name": "Panasonic Lumix DMC-GH1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-450": {
+      "name": "Sony alpha 450",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-phantom-3-advanced-drone": {
+      "name": "DJI Phantom 3 Advanced Drone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-620-digital-camera": {
+      "name": "Olympus E-620 Digital Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d3100": {
+      "name": "Nikon D3100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dsc-rx100m2": {
+      "name": "Sony DSC-RX100M2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arri-scheinwerfer": {
+      "name": "Arri Scheinwerfer",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
