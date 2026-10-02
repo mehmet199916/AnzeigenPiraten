@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T14:14:38.936Z",
+  "updatedAt": "2026-10-02T14:19:47.623Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64 GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128Gb",
+      "name": "Apple iPhone 16 128gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,19 +328,19 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256gb",
+      "name": "Apple iPhone 14 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825 GB",
+      "name": "Sony PlayStation 5 Disc Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128gb",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3263,7 +3263,7 @@
     },
     "amd-radeon-rx-6700-xt-12-gb": {
       "name": "AMD Radeon RX 6700 XT 12GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 250,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3988,7 +3988,7 @@
       "updatedAt": null
     },
     "canon-powershot-g7-x-mark-iii": {
-      "name": "Canon PowerShot G7 X Mark III",
+      "name": "Canon Powershot G7 X Mark III",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -4757,7 +4757,7 @@
     },
     "sony-dualsense-controller": {
       "name": "Sony DualSense Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8388,6 +8388,258 @@
     "360-video-booth-360-kamera": {
       "name": "360 Video booth 360 Kamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dynamics-powerdrive-27-5-e-mountainbike": {
+      "name": "Dynamics Powerdrive 27.5+ E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike": {
+      "name": "KTM E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-e-mountainbike": {
+      "name": "Focus E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-sport-9-a-5-e-bike": {
+      "name": "KTM Macina Sport 9 A+5 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-damen-velo-de-ville": {
+      "name": "E-Bike Damen Velo de Ville",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-grenoble-c7": {
+      "name": "Gazelle E Bike Grenoble C7",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-klapprad-20-zoll": {
+      "name": "E bike klapprad 20 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "radon-zr-team-hybrid-e-mtb": {
+      "name": "Radon ZR Team Hybrid E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-macina-joy": {
+      "name": "KTM E-Bike Macina Joy",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-5b-belt-performance-line": {
+      "name": "Kalkhoff Image 5B Belt Performance Line",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-e-bike-27-5-zoll": {
+      "name": "Telefunken E-Bike 27.5 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-fahrrad": {
+      "name": "e Fahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-crossray-e-5-5": {
+      "name": "Raymon CrossRay E 5.5",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gezelle-e-bike": {
+      "name": "Gezelle E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-e-bike": {
+      "name": "Giant E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-stereo-120-pro": {
+      "name": "Cube E-Bike Stereo 120 Pro",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-deep-purple": {
+      "name": "Apple iPhone 14 Pro Deep Purple",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-polarwei-128-gb": {
+      "name": "Apple iPhone 13 Polarweiß 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-max-schwarz": {
+      "name": "Apple iPhone 14 Pro Max Schwarz",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-18-pro-max-256-gb": {
+      "name": "iPhone 18 Pro Max 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-15-zoll-512-gb": {
+      "name": "Apple MacBook Air M2 15 Zoll 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-4060-8-gb-vram": {
+      "name": "NVIDIA RTX 4060 8GB VRAM",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ea-sports-fc-27-ps5": {
+      "name": "EA Sports FC 27 PS5",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arlo-uberwachungskameras": {
+      "name": "Arlo Überwachungskameras",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-power-shot-a2300-hd": {
+      "name": "Canon Power Shot A2300 HD",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-top-view-kamera": {
+      "name": "BMW Top View Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-go-3s-retro-bundle-special-edition-128-gb": {
+      "name": "Insta360 GO 3S Retro Bundle Special Edition 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-h1": {
+      "name": "Fujifilm X-H1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6100": {
+      "name": "Sony Alpha 6100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-square": {
+      "name": "Fujifilm Instax Square",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "wandrd-crossbody-kameratasche": {
+      "name": "WANDRD Crossbody Kameratasche",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-5100": {
+      "name": "Sony Alpha 5100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ef-s-18-55mm-f-4-5-6-is-stm-objektiv": {
+      "name": "Canon EF-S 18-55mm f/4-5.6 IS STM Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "duluvulu-4k-digitalkamera": {
+      "name": "Duluvulu 4K Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-t30": {
+      "name": "Fujifilm X-T30",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-analog-kamera-set": {
+      "name": "Canon Analog-Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju-zoom-130": {
+      "name": "Olympus Mju Zoom 130",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-strong-e8r": {
+      "name": "Pegasus Strong E8R",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-touring-one": {
+      "name": "Cube Touring One",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-gotour2-5-01r": {
+      "name": "FLYER Gotour2 5.01R",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-lt-performance-e-mountainbike": {
+      "name": "Bulls LT Performance E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-max-256-gb": {
+      "name": "iPhone 17 Pro Max 256GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
