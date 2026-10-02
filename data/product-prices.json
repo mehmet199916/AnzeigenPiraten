@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:35:22.748Z",
+  "updatedAt": "2026-10-02T13:40:23.237Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64 GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -280,7 +280,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-512-gb": {
-      "name": "Apple iPhone 17 Pro 512 GB",
+      "name": "Apple iPhone 17 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825 GB",
+      "name": "Sony PlayStation 5 Disc Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256gb",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1427,13 +1427,13 @@
     },
     "kalkhoff-e-bike": {
       "name": "Kalkhoff E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "ktm-herren-e-bike-macina-ultimate-pro": {
       "name": "KTM Herren E-Bike Macina Ultimate Pro",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 2200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -5098,7 +5098,7 @@
       "updatedAt": null
     },
     "iphone-13-pro-128-gb": {
-      "name": "iPhone 13 Pro 128 GB",
+      "name": "iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6491,6 +6491,234 @@
     },
     "apple-iphone-12-mini-64-gb": {
       "name": "Apple iPhone 12 mini 64GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-xyron-s-7-9-carbon": {
+      "name": "Conway Xyron S 7.9 Carbon",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-talon-e-ex": {
+      "name": "Giant Talon e+ EX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-grail-on-cf-8": {
+      "name": "Canyon Grail:ON CF 8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "greenstreed-westend-city-bike": {
+      "name": "Greenstreed Westend City Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-7-b-move-750": {
+      "name": "Kalkhoff Endeavour 7.B Move+ 750",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-ewme-427-e-mountainbike": {
+      "name": "Conway eWME 427 E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-damen-e-bike": {
+      "name": "Velo de Ville Damen E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-pedelec-28-zoll": {
+      "name": "Kalkhoff Pedelec 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-730-h": {
+      "name": "KTM Macina Style 730 H",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike": {
+      "name": "Gazelle E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bionx-display-fur-e-bike": {
+      "name": "BionX Display für E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-256-gb": {
+      "name": "Apple iPhone 15 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-128-gb-dunkelblau": {
+      "name": "Apple iPhone 14 128 GB dunkelblau",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-512-gb": {
+      "name": "Apple MacBook Air 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-8-gb": {
+      "name": "Apple MacBook Air 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-15": {
+      "name": "Apple MacBook Air M5 15\"",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-2060-6-gb-gddr6": {
+      "name": "ZOTAC Gaming GeForce RTX 2060 6GB GDDR6",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-6800-gx": {
+      "name": "NVIDIA GeForce 6800 GX",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-radeon-rx-6750-xt-mech-2x-12g-oc-12-gb": {
+      "name": "MSI Radeon RX 6750 XT MECH 2X 12G OC 12GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-limited-edition": {
+      "name": "PlayStation 5 Slim Limited Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "007-first-light": {
+      "name": "007 First Light",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vr2-brille-fur-playstation-5": {
+      "name": "VR2 Brille für PlayStation 5",
+      "category": "Gadgets",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-disk-edition": {
+      "name": "PlayStation 5 Disk Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-sl": {
+      "name": "Fujifilm FinePix SL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-7": {
+      "name": "GoPro 7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-s10": {
+      "name": "Casio Exilim EX-S10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-om-d-e-m10-ii": {
+      "name": "Olympus OM-D E-M10 II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-6d-mark-ii": {
+      "name": "Canon EOS 6D Mark II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-x300-spiegelreflexkamera": {
+      "name": "Minolta x300 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mamiya-rb67-pro-s": {
+      "name": "Mamiya RB67 Pro S",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-m3-kit": {
+      "name": "Canon EOS M3 Kit",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-e1": {
+      "name": "Fujifilm X-E1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju-1": {
+      "name": "OLYMPUS mju 1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-pocket-vlog-combo": {
+      "name": "DJI Osmo Pocket Vlog Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ef-analoge-spiegelreflexkamera-mit-50mm-f-1-8-objektiv": {
+      "name": "Canon EF analoge Spiegelreflexkamera mit 50mm F/1.8 Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-18-pro-256-gb": {
+      "name": "Apple iPhone 18 Pro 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-mini": {
+      "name": "Apple iPhone 12 Mini",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-pro-512-gb": {
+      "name": "Apple iPhone 11 Pro 512 gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
