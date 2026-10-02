@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T16:04:39.462Z",
+  "updatedAt": "2026-10-02T16:09:55.816Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512GB",
+      "name": "Apple iPhone 15 Pro Max 512gb",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -641,7 +641,7 @@
     },
     "sony-playstation-5-konsole": {
       "name": "Sony PlayStation 5 Konsole",
-      "category": "spielekonsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2135,7 +2135,7 @@
     },
     "gigabyte-rtx-3080-10-gb-aorus-xtreme": {
       "name": "Gigabyte RTX 3080 10GB Aorus Xtreme",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3700,7 +3700,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-512-gb": {
-      "name": "Apple iPhone 16 Pro 512 GB",
+      "name": "Apple iPhone 16 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 Mini 64GB",
+      "name": "Apple iPhone 12 mini 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7079,7 +7079,7 @@
     },
     "playstation-5-spiele": {
       "name": "PlayStation 5 Spiele",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8032,7 +8032,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13 8GB",
+      "name": "Apple MacBook Air 13\" 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -13289,6 +13289,294 @@
     },
     "sony-handycam-dvd-camcorder": {
       "name": "Sony Handycam DVD Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-ny-pro-wave": {
+      "name": "KTM MACINA STYLE NY PRO WAVE",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-inception-am-8-7-2-gtf-s": {
+      "name": "Stevens E-INCEPTION AM 8.7.2 GTF \"S\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ego-movement-galvani-herren-e-bike": {
+      "name": "Ego Movement Galvani Herren E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "urtopia-carbon-fold-2-e-bike": {
+      "name": "Urtopia Carbon Fold 2 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "centurion-backfire-e-r750i": {
+      "name": "CENTURION Backfire E R750i",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-36v-13-2ah-e-bike-akku": {
+      "name": "Panasonic 36V 13,2ah E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bbf-estreetrider-1-7": {
+      "name": "BBF eStreetrider 1.7",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-wei": {
+      "name": "E-Bike weiß",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gasgas-tra4": {
+      "name": "GasGas TRA4",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "maxcycles-elite2": {
+      "name": "MAXCYCLES ELITE2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ridley-ignite-gtx-carbon": {
+      "name": "Ridley Ignite GTX Carbon",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-600-active-36v-15ah-540wh": {
+      "name": "Bosch PowerPack 600 Active 36V/15Ah-540Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "radpowerbikes-e-bike": {
+      "name": "radpowerbikes E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-9-evo": {
+      "name": "Pegasus Solero 9 EVO",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-hardnine-8-0": {
+      "name": "Haibike SDURO HardNine 8.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liqbike-cityrad": {
+      "name": "LIQBIKE Cityrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-horizon-6": {
+      "name": "Bergamont E-Horizon 6",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fahrradtrager-sd260": {
+      "name": "Fahrradträger SD260",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "joystar-elektrofahrrad-20-zoll": {
+      "name": "JOYSTAR Elektrofahrrad 20\"zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekkingrad": {
+      "name": "Haibike Trekkingrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-e-mountainbike-ems-429": {
+      "name": "Conway E-Mountainbike EMS 429",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-copperhead-fsx1": {
+      "name": "Bulls Copperhead FSX1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xiaomi-6-lite-e-scooter": {
+      "name": "Xiaomi 6 Lite E-Scooter",
+      "category": "E-Scooters",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-retina-8-gb": {
+      "name": "Apple MacBook Air 13\" Retina 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2019-32-gb": {
+      "name": "Apple MacBook Pro 2019 32GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3050-dual": {
+      "name": "NVIDIA GeForce RTX 3050 Dual",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-gtx-1650-4-gb": {
+      "name": "ASUS GeForce GTX 1650 4 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-version": {
+      "name": "Sony PlayStation 5 Disc Version",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-mit-ladestationhalter": {
+      "name": "Sony PlayStation 5 mit Ladestationhalter",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-limited-edition": {
+      "name": "Sony PlayStation 5 Slim Limited Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-digital-edition-1-tb": {
+      "name": "Sony PlayStation 5 Slim Digital Edition 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-c-w205-frontkamera": {
+      "name": "Mercedes C W205 Frontkamera",
+      "category": "Autoteile",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-x5-e70-lci-x6-f71-frontkamera": {
+      "name": "BMW X5 E70 & LCI X6 F71 Frontkamera",
+      "category": "Autoteile",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-kamera": {
+      "name": "Polaroid Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fs28": {
+      "name": "Panasonic Lumix DMC-FS28",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-m3": {
+      "name": "Leica M3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a9-iii": {
+      "name": "Sony A9 III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-m10": {
+      "name": "Leica M10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mg4": {
+      "name": "MG4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "siedle-kamera-bcm-653-03-ag": {
+      "name": "SIEDLE Kamera BCM 653-03 AG",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "digitalkamera-4k-64mp-mit-wlan": {
+      "name": "Digitalkamera 4K 64MP mit WLAN",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-evo": {
+      "name": "FUJIFILM instax mini Evo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-xz-1": {
+      "name": "Olympus XZ 1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-z400": {
+      "name": "Casio Exilim EX Z400",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-mz-7-spiegelreflex": {
+      "name": "PENTAX MZ-7 Spiegelreflex",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "akaso-v50-x-action-kamera-64-gb": {
+      "name": "Akaso V50 X Action Kamera 64GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-a110-kleinstbildkamera": {
+      "name": "Rollei A110 Kleinstbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "frontkamera-mercedes-w166": {
+      "name": "Frontkamera Mercedes W166",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
