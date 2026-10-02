@@ -1,16 +1,16 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:55:35.605Z",
+  "updatedAt": "2026-10-02T13:59:29.535Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128gb",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 GB",
+      "name": "Apple iPhone 11 64GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256gb",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128 GB",
+      "name": "Apple iPhone 13 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1822,7 +1822,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512GB",
+      "name": "Apple iPhone 16 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128 gb",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3502,7 +3502,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-5g-256-gb": {
-      "name": "Apple iPhone 17 Pro 5G 256 GB",
+      "name": "Apple iPhone 17 Pro 5G 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7439,6 +7439,246 @@
     },
     "elektronische-smart-brille-mit-kamerafunktion": {
       "name": "Elektronische Smart-Brille mit Kamerafunktion",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-500": {
+      "name": "Bosch Powerpack 500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-500-e-bike-akku": {
+      "name": "Bosch PowerPack 500 E-Bike Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lapierre-e-sensium-3-2-e-rennrad": {
+      "name": "Lapierre e-Sensium 3.2 E-Rennrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-1-ltd-e-bike": {
+      "name": "Giant Explore E+ 1 LTD E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "coboc-e-bike": {
+      "name": "Coboc E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-3-rad": {
+      "name": "E bike 3 Rad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-mavaro-performance-3": {
+      "name": "Cannondale Mavaro Performance 3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mountainbike-dice-3-0": {
+      "name": "E-Bike Mountainbike Dice 3.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scootertrike-e-dreirad-e-bike-pfau-tec": {
+      "name": "Scootertrike E-Dreirad E Bike Pfau Tec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "malaguti-cortina-trt-5-2-e-bike": {
+      "name": "Malaguti Cortina TRT 5.2 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-vitality-eco-28-zoll": {
+      "name": "Kreidler Vitality Eco+ 28 zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-alltrack-6-xl": {
+      "name": "HAIBIKE AllTrack 6 XL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-max-512-gb": {
+      "name": "Apple iPhone 14 Pro Max 512 Gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-128-gb": {
+      "name": "Apple MacBook Air 128 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-mini-256-gb": {
+      "name": "Apple iPhone 13 mini 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-pro-256-gb": {
+      "name": "iPhone 14 Pro 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-xr-64-gb": {
+      "name": "Apple iPhone XR 64 gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-inch-8-gb": {
+      "name": "Apple MacBook Pro 13-Inch 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-2019-16-gb": {
+      "name": "Apple MacBook Pro 16\" (2019) 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-2021-32-gb": {
+      "name": "Apple MacBook Pro 14\" (2021) 32 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-gb": {
+      "name": "Apple MacBook Pro 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-late-2018": {
+      "name": "MacBook Air late 2018",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-gtx-970-4-gb": {
+      "name": "MSI GTX 970 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-6500-xt-4-gb": {
+      "name": "AMD Radeon RX 6500 XT 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-amd-radeon-rx-9070-xt-taichi-16-gb": {
+      "name": "ASRock AMD Radeon RX 9070 XT Taichi 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3060-ti-tuf-8-gb": {
+      "name": "Nvidia GeForce RTX 3060 Ti TUF 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-ghost-of-yotei-gold-limited-edition": {
+      "name": "Sony PlayStation 5 Ghost of Yōtei Gold Limited Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-1-tb": {
+      "name": "Sony PlayStation 5 1tb",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-spiel-the-blood-of-dawnwalker": {
+      "name": "Sony PlayStation 5 Spiel The Blood of Dawnwalker",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-disc-edition-1-tb": {
+      "name": "Sony PlayStation 5 Slim Disc Edition 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-key-fur-ea-fc-27": {
+      "name": "PlayStation 5 Key für EA FC 27",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "autodarts-komplettsystem": {
+      "name": "Autodarts Komplettsystem",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z6-ii-64-gb": {
+      "name": "Nikon Z6 ii 64 GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-400": {
+      "name": "Olympus E-400",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-100-is": {
+      "name": "Canon IXUS 100 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rs-4-gimbal": {
+      "name": "DJI RS 4 Gimbal",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7-ii": {
+      "name": "Sony Alpha 7 II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "edixa-prismat-ttl": {
+      "name": "Edixa Prismat TTL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a6700": {
+      "name": "Sony a6700",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-ex-z40": {
+      "name": "Casio EX Z40",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
