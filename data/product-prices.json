@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T16:54:16.805Z",
+  "updatedAt": "2026-10-02T16:59:18.047Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128GB",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,13 +1048,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256GB",
+      "name": "Apple iPhone 14 Pro 256 Gb",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1918,7 +1918,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nikon-d3200": {
-      "name": "NIKON D3200",
+      "name": "Nikon D3200",
       "category": "Kameras",
       "referencePrice": 150,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2885,7 +2885,7 @@
     },
     "dji-mini-4-pro": {
       "name": "DJI Mini 4 Pro",
-      "category": "Kameras",
+      "category": "Drohnen",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3196,7 +3196,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-256-gb": {
-      "name": "Apple iPhone 12 Pro Max 256GB",
+      "name": "Apple iPhone 12 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8399,7 +8399,7 @@
     },
     "ktm-e-bike": {
       "name": "KTM E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9136,7 +9136,7 @@
       "updatedAt": null
     },
     "pegasus-premio-evo-11-lite-750wh": {
-      "name": "Pegasus Premio Evo 11 Lite 750WH",
+      "name": "PEGASUS Premio Evo 11 Lite 750WH",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -12941,7 +12941,7 @@
     },
     "fischer-e-bike": {
       "name": "Fischer E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14976,6 +14976,126 @@
     "ps4-5-switch": {
       "name": "Ps4/5 Switch",
       "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-prophete-8-3": {
+      "name": "E-Bike Prophete 8.3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-120-pro-bosch-smart-system-750wh-e-bike": {
+      "name": "Cube Stereo Hybrid 120 Pro Bosch Smart System 750Wh E Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fiido": {
+      "name": "E Bike Fiido",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "heinemann-klapprad": {
+      "name": "Heinemann Klapprad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gudereit-et-7-herren-e-bike": {
+      "name": "Gudereit ET 7 Herren E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "qwic-e-bike": {
+      "name": "QWIC E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-entice-5-b-advance": {
+      "name": "Kalkhoff Entice 5.B Advance+",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-28-mittelmotor-impulse-derby": {
+      "name": "Raleigh 28 Mittelmotor Impulse Derby",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-desert-titanium-128-gb": {
+      "name": "Apple iPhone 16 Pro Desert Titanium 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-retina-2018-8-gb": {
+      "name": "Apple MacBook Air 13\" Retina 2018 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-2070-grafikkarte": {
+      "name": "MSI GeForce RTX 2070 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "marvel-s-wolverine": {
+      "name": "Marvel's Wolverine",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-30th-anniversary": {
+      "name": "Sony PlayStation 5 30th Anniversary",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-400d": {
+      "name": "Canon 400D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-vp-w70": {
+      "name": "Samsung VP-W70",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-side-view-kamera-f36": {
+      "name": "BMW Side-View-Kamera F36",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-pocket-3-256-gb": {
+      "name": "DJI Osmo Pocket 3 256GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-760d": {
+      "name": "Canon EOS 760D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-impulse-af-sofortbildkamera": {
+      "name": "Polaroid Impulse AF Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-650d": {
+      "name": "Canon EOS 650D",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
