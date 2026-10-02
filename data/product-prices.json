@@ -1,16 +1,16 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T18:29:00.411Z",
+  "updatedAt": "2026-10-02T18:34:06.938Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64gb",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,7 +1798,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256GB",
+      "name": "Apple iPhone 13 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7631,7 +7631,7 @@
     },
     "autodarts-komplettsystem": {
       "name": "Autodarts Komplettsystem",
-      "category": "Kameras",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9214,7 +9214,7 @@
       "updatedAt": null
     },
     "iphone-15-256-gb": {
-      "name": "iPhone 15 256GB",
+      "name": "iPhone 15 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -9869,7 +9869,7 @@
     },
     "dji-mavic-2-pro": {
       "name": "DJI Mavic 2 Pro",
-      "category": "Kameras",
+      "category": "Drone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17771,6 +17771,132 @@
     },
     "sony-alpha-a6100": {
       "name": "Sony Alpha A6100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-3-move": {
+      "name": "Kalkhoff ENDEAVOUR 3 MOVE",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-3-s-lease-7-e-bike": {
+      "name": "Kalkhoff Image 3.S Lease 7 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "decathlon-btwin-e-fold-500": {
+      "name": "Decathlon BTWIN E-Fold 500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-s4-0": {
+      "name": "Conway Cairon S4.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "smart-ec-smart-ec-elektro-herrenrad": {
+      "name": "Smart EC Smart EC Elektro Herrenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-cross-e-bike": {
+      "name": "Haibike Sduro Cross E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-bosch-active-line-e-bike": {
+      "name": "Raleigh Bosch Active Line E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-strike-e-ride-940": {
+      "name": "Scott Strike E-Ride 940",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aux-mobile-klimaanlage-12-000-btu": {
+      "name": "AUX Mobile Klimaanlage 12.000 BTU",
+      "category": "Klimaanlagen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-256-gb": {
+      "name": "Apple iPhone 12 256gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-8-gb": {
+      "name": "Apple MacBook Air M2 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-2080-super-11-gb": {
+      "name": "Asus RTX 2080 Super 11GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nettar-zeis-ikon-kamera": {
+      "name": "NETTAR ZEIS IKON KAMERA",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "akaso-brave-7-action-kamera": {
+      "name": "Akaso Brave 7 Action Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "weltaflex-spiegelreflexkamera": {
+      "name": "Weltaflex Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arenti-petcam-1t": {
+      "name": "Arenti Petcam 1T",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "n7-mini-action-camera-64-gb": {
+      "name": "N7 Mini Action Camera 64GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-a1": {
+      "name": "Fujifilm X-A1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-psp-300-go-cam-kamera": {
+      "name": "Sony PSP-300 Go!Cam Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-sx600-hs": {
+      "name": "Canon SX600 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-em-analogkamera": {
+      "name": "Nikon EM Analogkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
