@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T13:40:23.237Z",
+  "updatedAt": "2026-10-02T13:45:14.913Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -407,7 +407,7 @@
     },
     "apple-macbook-air-m4": {
       "name": "Apple MacBook Air M4",
-      "category": "Laptops",
+      "category": "Computer",
       "referencePrice": 750,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1108,7 +1108,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m1-8-gb": {
-      "name": "Apple MacBook Air M1 8GB",
+      "name": "Apple MacBook Air M1 8 GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128 GB",
+      "name": "Apple iPhone 12 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128 GB",
+      "name": "Apple iPhone 13 Mini 128 gb",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5452,7 +5452,7 @@
       "updatedAt": null
     },
     "iphone-15-pro-256-gb": {
-      "name": "iPhone 15 Pro 256 GB",
+      "name": "iPhone 15 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6720,6 +6720,240 @@
     "apple-iphone-11-pro-512-gb": {
       "name": "Apple iPhone 11 Pro 512 gb",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-mc2-e-bike": {
+      "name": "Husqvarna MC2 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "btwin-e-bike-city-bike-28-zoll-ld-920e-automatic-owuru-lf": {
+      "name": "BTWIN E-Bike City-Bike 28 Zoll LD 920E Automatic Owuru LF",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sparta-entree-26-zoll": {
+      "name": "Sparta Entree 26 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "batavus-altura-ego-cruise-active-line-rh53": {
+      "name": "Batavus Altura Ego Cruise Active Line Rh53",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elekgo-e-bike-26-zoll": {
+      "name": "ELEKGO E-Bike 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-imulse-e-bike": {
+      "name": "Kalkhoff Imulse e-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "engwe-l20-3-0-boost": {
+      "name": "ENGWE L20 3.0 Boost",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "campus-e-bike-city-pedelec-af3": {
+      "name": "Campus E Bike City-Pedelec AF3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-hardtail-reaction-hybrid-race-625-xl": {
+      "name": "CUBE E-Bike Hardtail Reaction Hybrid Race 625 XL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "coboc-kallio-cmf-damen": {
+      "name": "Coboc Kallio CMF Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-touring-pro": {
+      "name": "Cube e Bike Touring pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "crivit-urban-e-bike-x-2": {
+      "name": "Crivit Urban E-Bike X.2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winther-kangaroo-deluxe-e-lastenrad": {
+      "name": "Winther Kangaroo Deluxe E-Lastenrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-elektrofahrrad-liqbike-bosch-mittelmotor": {
+      "name": "E-Bike Elektrofahrrad LIQBIKE Bosch Mittelmotor",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-turbo-vado-4-0": {
+      "name": "SPECIALIZED Turbo Vado 4.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-mountainbike-zundapp-z808": {
+      "name": "E-Mountainbike Zündapp Z808",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-46-s-mit-bosch-motor-7-gang": {
+      "name": "Kalkhoff E-Bike 46/S mit Bosch Motor 7 Gang",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-midnight-blue": {
+      "name": "Apple iPhone 14 Midnight Blue",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2019": {
+      "name": "Apple MacBook Air 2019",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "predator-bifrost-intel-arc-a770-oc-16-gb": {
+      "name": "Predator BiFrost Intel ARC A770 OC 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-3060-12-gb-ventus-2x-oc": {
+      "name": "NVIDIA RTX 3060 12GB Ventus 2x OC",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-rtx-2060-6-gb": {
+      "name": "MSI RTX 2060 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-rtx-3070-ti-oc-8-gb": {
+      "name": "ASUS TUF Gaming RTX 3070 Ti OC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-edge-controller": {
+      "name": "PlayStation 5 Edge Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digital-edition-825-gb": {
+      "name": "Sony PlayStation 5 Digital Edition 825GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "star-wars-tales-from-the-galaxy-s-edge-enhanced-edition": {
+      "name": "Star Wars Tales from the Galaxy's Edge Enhanced Edition",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-825-gb": {
+      "name": "Sony PlayStation 5 825 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sanitarmontage-rohrreinigung-24-7-in-ganz-nrw": {
+      "name": "Sanitärmontage-Rohrreinigung 24/7 in ganz NRW",
+      "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fs6": {
+      "name": "Panasonic Lumix DMC-FS6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-mobile-3": {
+      "name": "DJI Osmo Mobile 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "contax-t-kompaktkamera": {
+      "name": "Contax T Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-om-d-e-m10-mark-ii": {
+      "name": "Olympus OM-D E-M10 Mark II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-kamerarucksack": {
+      "name": "Rollei Kamerarucksack",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-4-pro-fly-more-combo": {
+      "name": "DJI Mini 4 Pro Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-r4-spiegelreflexkamera": {
+      "name": "Leica R4 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d3300": {
+      "name": "Nikon D3300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-k-70-slr-digitalkamera": {
+      "name": "Pentax K-70 SLR-Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-4k": {
+      "name": "DJI Mini 4K",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "schmalfilmprojektor-am8": {
+      "name": "Schmalfilmprojektor AM8",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
