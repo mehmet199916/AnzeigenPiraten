@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T15:39:34.200Z",
+  "updatedAt": "2026-10-02T15:44:30.455Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128gb",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128GB",
+      "name": "Apple iPhone 15 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512GB",
+      "name": "Apple iPhone 15 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -280,7 +280,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-512-gb": {
-      "name": "Apple iPhone 17 Pro 512GB",
+      "name": "Apple iPhone 17 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1043,7 +1043,7 @@
     },
     "apple-iphone-14-pro-max": {
       "name": "Apple iPhone 14 Pro Max",
-      "category": "Smartphones",
+      "category": "smartphones",
       "referencePrice": 470,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2692,7 +2692,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-512-gb": {
-      "name": "iPhone 17 Pro 512 GB",
+      "name": "iPhone 17 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512 GB",
+      "name": "Apple iPhone 17 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -9412,7 +9412,7 @@
       "updatedAt": null
     },
     "apple-iphone-13-pro-max-512-gb": {
-      "name": "Apple iPhone 13 Pro Max 512GB",
+      "name": "Apple iPhone 13 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10619,7 +10619,7 @@
     },
     "fischer-e-bike-trekkingrad-28-zoll": {
       "name": "Fischer E-Bike Trekkingrad 28 Zoll",
-      "category": "fahrräder",
+      "category": "e-bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -12252,6 +12252,222 @@
     "6-kameras": {
       "name": "6 Kameras",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-carbon-stereo-hybrid-160-hpc-race-625": {
+      "name": "CUBE Carbon Stereo Hybrid 160 HPC Race 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-hybrid-one-625": {
+      "name": "Cube Kathmandu Hybrid One 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-graveler-21": {
+      "name": "Prophete Graveler 21",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "swemo-alu-e-bike": {
+      "name": "Swemo Alu E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-bike": {
+      "name": "Scott E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sinus-e-bike-damenrad": {
+      "name": "Sinus E-Bike Damenrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kindermotorrad-e-bike-injusa": {
+      "name": "Kindermotorrad E Bike INJUSA",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-cita-5-8i": {
+      "name": "Fischer CITA 5.8i",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "centurion-lhasa-e-r760": {
+      "name": "Centurion LHASA E R760",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "myatu-e-bike-faltrad": {
+      "name": "Myatu E-Bike Faltrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-5-e-bike": {
+      "name": "Haibike Trekking 5 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-120-sl-750-xl": {
+      "name": "Cube Stereo Hybrid 120 SL 750 XL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-bluelabel-cruiser": {
+      "name": "Riese & Müller blueLABEL Cruiser",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-jam2-6-8-e-bike": {
+      "name": "Focus Jam² 6.8+ E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vankel-e-bike-cityrad-e6-2-0": {
+      "name": "Vankel E-Bike Cityrad E6-2.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-benz-e-bike": {
+      "name": "Mercedes-Benz E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-midnight-128-gb": {
+      "name": "iPhone 14 Midnight 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2024-16-gb": {
+      "name": "Apple MacBook Air 2024 16 Gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-13-16-gb": {
+      "name": "Apple MacBook Pro M1 13\" 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m4-16-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Air 13 M4 16GB RAM 256GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3060-ti-gaming-oc": {
+      "name": "Gigabyte RTX 3060 Ti Gaming OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-rtx-3090-tuf-gaming-oc-24-gb": {
+      "name": "ASUS GeForce RTX 3090 TUF GAMING OC 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-4k-drohne": {
+      "name": "DJI Mini 4K Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-me-super-kamera": {
+      "name": "Pentax ME Super Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mavic-4-pro": {
+      "name": "DJI Mavic 4 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-nikonos-iv-a": {
+      "name": "Nikon Nikonos IV-A",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-300": {
+      "name": "Canon EOS 300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta-360-one-x2": {
+      "name": "Insta 360 one x2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-kiss-digital-x": {
+      "name": "Canon EOS Kiss Digital X",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dsc-rx10-iv": {
+      "name": "Sony DSC-RX10 IV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "holdfast-moneymaker-kamera-doppelgurt": {
+      "name": "Holdfast MoneyMaker Kamera Doppelgurt",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-760d": {
+      "name": "Canon 760D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-tz10-digitalkamera": {
+      "name": "Panasonic TZ10 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1300d-spiegelreflexkamera": {
+      "name": "Canon EOS 1300D Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "abus-hausuberwachung-set-mit-2-kameras-und-monitor": {
+      "name": "ABUS Hausüberwachung Set mit 2 Kameras und Monitor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28-zoll-7-gang": {
+      "name": "E-Bike 28 Zoll 7 Gang",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
