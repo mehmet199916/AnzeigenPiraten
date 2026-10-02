@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T16:09:55.816Z",
+  "updatedAt": "2026-10-02T16:14:57.759Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128GB",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -280,7 +280,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-512-gb": {
-      "name": "Apple iPhone 17 Pro 512 GB",
+      "name": "Apple iPhone 17 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 gb",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,13 +1048,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256GB",
+      "name": "Apple iPhone 14 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3250,7 +3250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-pro-13-2020-16-gb": {
-      "name": "Apple MacBook Pro 13\" 2020 16 GB",
+      "name": "Apple MacBook Pro 13\" 2020 16GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3598,7 +3598,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-pro-512-gb": {
-      "name": "Apple iPhone 15 Pro 512 GB",
+      "name": "Apple iPhone 15 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5032,7 +5032,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-disc-edition": {
-      "name": "Sony PlayStation 5 Slim (Disc Edition)",
+      "name": "Sony PlayStation 5 Slim Disc Edition",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -6688,7 +6688,7 @@
       "updatedAt": null
     },
     "olympus-mju-1": {
-      "name": "OLYMPUS mju 1",
+      "name": "Olympus mju-1",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -13578,6 +13578,174 @@
     "frontkamera-mercedes-w166": {
       "name": "Frontkamera Mercedes W166",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-tresalo-e-bike": {
+      "name": "Victoria Tresalo E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rose-e-bike-xtra-watt-herrenrad": {
+      "name": "Rose E Bike Xtra Watt Herrenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-liv-vall-e-pro-e-mountainbike": {
+      "name": "Giant Liv Vall E+ Pro E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-28-zoll-660km": {
+      "name": "Velo de Ville 28 Zoll 660km",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eskute-202-e-bike": {
+      "name": "Eskute 202 e-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-rad-cube-nature-hybrid-500-allroad-2020": {
+      "name": "E-Rad Cube Nature Hybrid 500 Allroad 2020",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-inception-ed-8-7-e-mountainbike": {
+      "name": "Stevens Inception ED 8.7 E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-bk29-e-bike": {
+      "name": "Hitway BK29 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fully-mountainbike": {
+      "name": "E-Bike Fully Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "urban-arrow-e-lastenrad": {
+      "name": "Urban Arrow E-Lastenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-e-bike": {
+      "name": "Zündapp E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m1": {
+      "name": "MacBook Air M1",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-pro-titan-128-gb": {
+      "name": "iPhone 16 Pro Titan 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-512-gb": {
+      "name": "Apple iPhone 14 Pro 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-disc-1-tb": {
+      "name": "PlayStation 5 Slim Disc 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-retina": {
+      "name": "Apple MacBook Pro 13-Zoll Retina",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-laufwerk": {
+      "name": "Sony PlayStation 5 Slim Laufwerk",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hollyland-venusliv-v2-1-tb": {
+      "name": "Hollyland VenusLiv V2 1TB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-l23-digitalkamera": {
+      "name": "Nikon Coolpix L23 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z6-iii": {
+      "name": "Nikon Z6 iii",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-xa-1": {
+      "name": "Olympus XA 1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "berlebach-holzstativ-mulda": {
+      "name": "Berlebach Holzstativ Mulda",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx80": {
+      "name": "Sony Cyber-shot DSC-HX80",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-f30-f31-au-enspiegel": {
+      "name": "BMW F30 F31 Außenspiegel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "philips-avent-scd843-26-digitales-video-babyphone": {
+      "name": "Philips Avent SCD843/26 Digitales Video-Babyphone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixy-50": {
+      "name": "Canon IXY 50",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mobotix-m16-ip-kamera": {
+      "name": "Mobotix M16 IP-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-display": {
+      "name": "Apple iPhone 17 Display",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
