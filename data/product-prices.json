@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T15:59:24.294Z",
+  "updatedAt": "2026-10-02T16:04:39.462Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 gb",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128GB",
+      "name": "Apple iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -641,7 +641,7 @@
     },
     "sony-playstation-5-konsole": {
       "name": "Sony PlayStation 5 Konsole",
-      "category": "Spielekonsolen",
+      "category": "spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2524,7 +2524,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-disc-1-tb": {
-      "name": "Sony PlayStation 5 Slim Disc 1tb",
+      "name": "Sony PlayStation 5 Slim Disc 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 400,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128GB",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3965,7 +3965,7 @@
     },
     "apple-macbook-air-13": {
       "name": "Apple MacBook Air 13",
-      "category": "Smartphones",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7516,7 +7516,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-max-512-gb": {
-      "name": "Apple iPhone 14 Pro Max 512gb",
+      "name": "Apple iPhone 14 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8032,7 +8032,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13\" 8GB",
+      "name": "Apple MacBook Air 13 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -11057,7 +11057,7 @@
     },
     "nikon-d40": {
       "name": "Nikon D40",
-      "category": "kameras",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13115,6 +13115,180 @@
     },
     "rolleiflex-slx-kamera-set": {
       "name": "Rolleiflex SLX Kamera-Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-grenoble-c8": {
+      "name": "GAZELLE GRENOBLE C8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "engwe-e-bike-boost": {
+      "name": "Engwe E-Bike Boost",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-e-city-bike-intero-i-r8": {
+      "name": "Hercules E- City Bike Intero I-R8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "moustache-off-kid-bosch-400wh-kinder-mtb-e-bike": {
+      "name": "Moustache OFF KID Bosch 400WH Kinder MTB e-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-gohst-fur-damen": {
+      "name": "E-Bike Gohst für Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liqbike-e-bike-mit-bosch-mittelmotor": {
+      "name": "LIQBIKE E-Bike mit Bosch Mittelmotor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-mtb-macina-team-892": {
+      "name": "KTM E -MTB Macina Team 892",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-aufsteiger-m925": {
+      "name": "Telefunken Aufsteiger M925",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ortler-montreux-ebike": {
+      "name": "Ortler Montreux ebike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-turbo-vado-4-0-e-bike-gr-m": {
+      "name": "Specialized Turbo Vado 4.0 E-Bike Gr. M",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-gotour6-7-03": {
+      "name": "Flyer Gotour6 7.03",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-seb-890-suv-e-bike": {
+      "name": "VELO DE VILLE SEB 890 SUV E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-turbo-levo-sl-carbon": {
+      "name": "Specialized Turbo Levo sl Carbon",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-mtc-12s-trinity-tube": {
+      "name": "Corratec E-Power MTC 12S Trinity Tube",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-pro-max-1-tb": {
+      "name": "Apple iPhone 13 Pro Max 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-16-gb": {
+      "name": "Apple iPhone SE 16GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-2021-16-gb": {
+      "name": "Apple MacBook Pro 14\" 2021 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m3-16-gb": {
+      "name": "MacBook Air M3 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m4-16-gb": {
+      "name": "Apple MacBook Air 13\" M4 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m5-16-gb": {
+      "name": "Apple MacBook Pro M5 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-3060-12-gb": {
+      "name": "Asus RTX 3060 12 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1080ti-11-gb": {
+      "name": "NVIDIA GeForce GTX 1080Ti 11GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-disc-edition-1-tb": {
+      "name": "PlayStation 5 Slim Disc Edition 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-vr-brillen-fur-playstation-5": {
+      "name": "Sony VR Brillen für PlayStation 5",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a7-iii": {
+      "name": "Sony A7 III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zeiss-secacam-5": {
+      "name": "ZEISS SECACAM 5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-digital-ixus-50": {
+      "name": "Canon Digital IXUS 50",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju1-analoge-kompaktkamera": {
+      "name": "Olympus Mju1 analoge Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-handycam-dvd-camcorder": {
+      "name": "Sony Handycam DVD Camcorder",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
