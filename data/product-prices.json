@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-02T14:54:33.709Z",
+  "updatedAt": "2026-10-02T14:59:53.436Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128GB",
+      "name": "Apple iPhone 15 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -203,7 +203,7 @@
     },
     "e-bike": {
       "name": "E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128gb",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128gb",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128Gb",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -376,7 +376,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m4-16-gb": {
-      "name": "Apple MacBook Air M4 16GB",
+      "name": "Apple MacBook Air M4 16 GB",
       "category": "Computer",
       "referencePrice": 750,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1306,7 +1306,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-256-gb": {
-      "name": "iPhone 17 256gb",
+      "name": "iPhone 17 256 GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1871,7 +1871,7 @@
     },
     "sony-playstation-5-slim-digital": {
       "name": "Sony PlayStation 5 Slim Digital",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512 Gb",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2776,7 +2776,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-64-gb": {
-      "name": "Apple iPhone 11 Pro 64 GB",
+      "name": "Apple iPhone 11 Pro 64GB",
       "category": "Smartphones",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128GB",
+      "name": "Apple iPhone 11 128 GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3700,7 +3700,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-512-gb": {
-      "name": "Apple iPhone 16 Pro 512GB",
+      "name": "Apple iPhone 16 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10121,6 +10121,258 @@
     },
     "konvolut-handys-digitalkameras-smartwatch-und-ladekabel": {
       "name": "Konvolut Handys, Digitalkameras, SmartWatch, und Ladekabel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rose-e-bike-sneak-plus-eq": {
+      "name": "Rose E-Bike Sneak Plus EQ",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "falter-e-9-5-rt": {
+      "name": "Falter E 9.5 RT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-damen-e-bike": {
+      "name": "KTM Damen E-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "univega-e-bike": {
+      "name": "Univega E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hollandrad-e-bike-damen-28-zoll": {
+      "name": "Hollandrad E-Bike Damen 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-730-e-bike": {
+      "name": "KTM Macina Style 730 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-gran-720-e-bike": {
+      "name": "KTM Macina Gran 720 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-sport-cx750-ltd64": {
+      "name": "KTM Macina Sport CX750 LTD64",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-ride-571-street": {
+      "name": "KTM Macina Ride 571 Street",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-aera-p571-street": {
+      "name": "KTM Macina Aera P571 Street",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-vitality-eco-10-sport": {
+      "name": "Kreidler Vitality Eco 10 Sport",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-euro-power-915": {
+      "name": "THULE Euro Power 915",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-venice-plus-e-bike": {
+      "name": "NCM Venice Plus E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-gran-urban-6-e-bike": {
+      "name": "Husqvarna Gran Urban 6 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-ride-591": {
+      "name": "KTM Macina Ride 591",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-sport-720": {
+      "name": "KTM Macina Sport 720",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-damen-e-bike-26-zoll": {
+      "name": "Raleigh Damen E-Bike 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rau-en-r7-steps-ep6-e-bike": {
+      "name": "Raußen R7-Steps EP6 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ouxi-v8-fatbike-e-bike": {
+      "name": "OUXI V8 Fatbike E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-entice-7-b-move": {
+      "name": "Kalkhoff Entice 7.B Move+",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fantic-living-city": {
+      "name": "Fantic Living City",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-hollandrad": {
+      "name": "Gazelle Hollandrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-metric-8-4": {
+      "name": "Bergamont Metric 8.4",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-pro-1-tb": {
+      "name": "Apple iPhone 13 Pro 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-16-gb": {
+      "name": "Apple MacBook Air 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-2070-super": {
+      "name": "Gigabyte GeForce RTX 2070 Super",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-3070-fe": {
+      "name": "NVIDIA RTX 3070 FE",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-7900-xtx-phantom-gaming-24-gb-oc-edition": {
+      "name": "AMD Radeon RX 7900 XTX Phantom Gaming 24GB OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xfx-speedster-qick-319-amd-radeon-rx-6700-xt": {
+      "name": "XFX Speedster QICK 319 AMD Radeon RX 6700 XT",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-pro": {
+      "name": "Sony Playstation Pro",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d500": {
+      "name": "Nikon D500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fotobox-all-inklusive": {
+      "name": "Fotobox All-Inklusive",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim": {
+      "name": "Casio Exilim",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-q-typ-116": {
+      "name": "Leica Q (Typ 116)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-115-hs": {
+      "name": "Canon IXUS 115 Hs",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "digital-kamera": {
+      "name": "Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-liplay-sofortbildkamera": {
+      "name": "Fujifilm Instax mini LiPlay Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-fs7": {
+      "name": "Panasonic FS7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-sl-2s": {
+      "name": "Leica SL 2S",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "digitalkamera": {
+      "name": "Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hikmicro-b10-thermografiekamera": {
+      "name": "Hikmicro B10 Thermografiekamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-ace-pro-2-512-gb": {
+      "name": "Insta360 Ace Pro 2 512GB",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
