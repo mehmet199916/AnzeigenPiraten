@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T14:25:08.242Z",
+  "updatedAt": "2026-10-03T14:30:19.764Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2284,8 +2284,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1TB",
-      "category": "Konsolen",
+      "name": "Sony PlayStation 5 Slim 1 TB",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2837,7 +2837,7 @@
     },
     "sony-playstation-5-disc-edition": {
       "name": "Sony PlayStation 5 Disc Edition",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128 GB",
+      "name": "Apple iPhone 13 mini 128 gb",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128 Gb",
+      "name": "Apple iPhone 11 128 GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3598,7 +3598,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-pro-512-gb": {
-      "name": "Apple iPhone 15 Pro 512Gb",
+      "name": "Apple iPhone 15 Pro 512 Gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -3700,7 +3700,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-512-gb": {
-      "name": "Apple iPhone 16 Pro 512 GB",
+      "name": "Apple iPhone 16 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -14650,7 +14650,7 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-max-64-gb": {
-      "name": "Apple iPhone 11 Pro Max 64GB",
+      "name": "Apple iPhone 11 Pro Max 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -22703,6 +22703,216 @@
     },
     "mercedes-frontkamera-steuergerat": {
       "name": "Mercedes Frontkamera Steuergerät",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-cx-625wh-mtb": {
+      "name": "Bosch CX 625Wh MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ouxi-fatbike-e-bikes": {
+      "name": "OUXI Fatbike E-Bikes",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m2-2022-256-gb": {
+      "name": "Apple MacBook Air 13 (M2, 2022, 256GB)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro": {
+      "name": "MacBook Pro",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-powercolor-red-devil-rx-6600-xt-8-gb": {
+      "name": "AMD PowerColor Red Devil RX 6600 XT 8 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-radeon-rx-570-oc-8-gb": {
+      "name": "ASUS ROG Strix Radeon RX 570 OC 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-9070-xt-challanger": {
+      "name": "ASRock 9070 XT Challanger",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-980-4096-gb": {
+      "name": "NVIDIA GeForce GTX 980 4096GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-4070-ti-super-gaming-oc-16-gb": {
+      "name": "Gigabyte GeForce RTX 4070 Ti SUPER GAMING OC 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-rtx-3090-24-gb": {
+      "name": "ASUS ROG Strix GeForce RTX 3090 24GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-portable": {
+      "name": "Sony PlayStation Portable",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-e-mountainbike": {
+      "name": "Conway E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-modell-8061": {
+      "name": "FISCHER E-Bike Modell 8061",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-powerfly-5-xl": {
+      "name": "Trek Powerfly 5 XL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-gotour6-3-40": {
+      "name": "FLYER Gotour6 3.40",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "engwe-m20": {
+      "name": "Engwe M20",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-e-bike": {
+      "name": "Pegasus Premio E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "greens-comfort-e-bike": {
+      "name": "Greens comfort E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-5d-mark-ii": {
+      "name": "Canon EOS 5D Mark II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "desview-r6-ii": {
+      "name": "DESVIEW R6 II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pvy-z20-1000-plus-e-bike": {
+      "name": "PVY Z20 1000 PLUS E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-t-2-0-e-bike": {
+      "name": "CONWAY Cairon T 2.0 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agattu-4-b-e-bike": {
+      "name": "Kalkhoff Agattu 4.B E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-bridgekamera": {
+      "name": "Panasonic Lumix Bridgekamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-mtl-5b-slr-kamera": {
+      "name": "Praktica MTL 5B SLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-e5": {
+      "name": "Fujifilm X-E5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta-360-x3-action-kamera": {
+      "name": "Insta 360 X3 Action Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jsa-nightlux-ta-435-warmebild-kamera": {
+      "name": "JSA Nightlux TA 435 Wärmebild Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rs-3-gimbal": {
+      "name": "DJI RS 3 Gimbal",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dwm-mctz10": {
+      "name": "Panasonic DWM-MCTZ10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-hc-v270-videokamera": {
+      "name": "Panasonic HC-V270 Videokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "makinon-24-50mm-f3-3-4-5-objektiv": {
+      "name": "Makinon 24-50mm f3.3-4.5 Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-jv110-digitalkamera": {
+      "name": "Fujifilm FinePix JV110 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z-fc-kamera": {
+      "name": "Nikon Z fc Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-fotoapparat": {
+      "name": "Minolta Fotoapparat",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
