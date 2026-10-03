@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T15:59:08.005Z",
+  "updatedAt": "2026-10-03T16:04:07.819Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128gb",
@@ -202,8 +202,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E-Bike",
-      "category": "E-Bikes",
+      "name": "E Bike",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,13 +340,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 gb",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128GB",
+      "name": "Apple iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -478,7 +478,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-rtx-3080-ti-12-gb": {
-      "name": "NVIDIA RTX 3080 Ti 12GB",
+      "name": "NVIDIA RTX 3080 TI 12GB",
       "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Konsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 Gb",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2890,7 +2890,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-max-256-gb": {
-      "name": "iPhone 15 Pro Max 256gb",
+      "name": "iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128 GB",
+      "name": "Apple iPhone 13 Mini 128GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5086,7 +5086,7 @@
       "updatedAt": null
     },
     "iphone-14-pro-max-256-gb": {
-      "name": "iPhone 14 Pro Max 256 GB",
+      "name": "iPhone 14 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5458,7 +5458,7 @@
       "updatedAt": null
     },
     "iphone-13-128-gb": {
-      "name": "iPhone 13 128 GB",
+      "name": "iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5939,7 +5939,7 @@
     },
     "beton-garage-mit-sicherheitskonzept": {
       "name": "Beton-Garage mit Sicherheitskonzept",
-      "category": "Garage",
+      "category": "Gebäude",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7558,7 +7558,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-14-2021-32-gb": {
-      "name": "Apple MacBook Pro 14\" (2021) 32 GB",
+      "name": "Apple MacBook Pro 14\" 2021 32GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -26681,6 +26681,258 @@
     },
     "olympus-om-2n": {
       "name": "Olympus OM-2n",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-anyway": {
+      "name": "E-Bike Anyway",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-air-512-gb": {
+      "name": "iPhone Air 512 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1080-8-gb": {
+      "name": "NVIDIA GeForce GTX 1080 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5-disk-edition-825-gb": {
+      "name": "Sony PS5 Disk Edition 825 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-geforce-rtx-2060-sc": {
+      "name": "EVGA GeForce RTX 2060 SC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-750d": {
+      "name": "Canon EOS 750D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eufy-4g-lte-cam-s330": {
+      "name": "Eufy 4G LTE Cam S330",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tp-link-tapo-c420s2-smart-security-camera-system": {
+      "name": "TP-Link Tapo C420S2 Smart Security Camera System",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x10": {
+      "name": "Fujifilm X10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ricoh-xr-p": {
+      "name": "Ricoh XR-P",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos2000d": {
+      "name": "Canon EOS2000D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zenit-12-xp": {
+      "name": "Zenit 12 XP",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta-360-ace-pro": {
+      "name": "Insta 360 Ace Pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-nuride-hybrid-sl-750-allroad-e-bike": {
+      "name": "Cube Nuride Hybrid SL 750 Allroad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-aeb-890-e-bike": {
+      "name": "Velo de Ville AEB 890 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-siena-e7f": {
+      "name": "Pegasus Siena e7f",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agattu-28-zoll": {
+      "name": "Kalkhoff AGATTU 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-geniesser-2-0-2-4": {
+      "name": "Prophete E Bike Geniesser 2.0(2.4)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sehr-stark-ncm-e-bike-27-5": {
+      "name": "Sehr Stark NCM E-Bike 27,5\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "spezialized-allez-comp-e5-slx": {
+      "name": "Spezialized Allez Comp E5 SLX",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-10": {
+      "name": "Haibike Trekking 10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-urban-3-1": {
+      "name": "Victoria e-Urban 3.1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-race-26-zoll-e-bike": {
+      "name": "KTM Macina Race 26 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sparta-f8-e-bike": {
+      "name": "Sparta F8 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-culture-fully": {
+      "name": "Riese & Müller Culture Fully",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-entdecker-4-8": {
+      "name": "Prophete E Bike Entdecker 4.8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-turbo-creo-sl-5e-comp-flo": {
+      "name": "Specialized Turbo Creo SL 5E Comp flo",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damenrad-e-bike-28-zoll-winora-tranz-x": {
+      "name": "Damenrad E-Bike 28 Zoll Winora Tranz X",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-chamonix-t10-hms-e-bike": {
+      "name": "Gazelle Chamonix T10 HMS E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "acv-frontkamera-system": {
+      "name": "ACV Frontkamera System",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero5-black": {
+      "name": "GoPro HERO5 Black",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "linhof-super-rollex-6x9-rollfilmkassette": {
+      "name": "Linhof Super Rollex 6x9 Rollfilmkassette",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reolink-solar-uberwachungskamera-set": {
+      "name": "Reolink Solar Überwachungskamera-Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-image-system-kamera": {
+      "name": "Polaroid Image System Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-350d": {
+      "name": "Canon EOS 350D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentacon-six": {
+      "name": "Pentacon SIX",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dashcam": {
+      "name": "Dashcam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x4-air": {
+      "name": "Insta360 X4 Air",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vecocraft-athena-8-e-trekking-bike": {
+      "name": "VECOCRAFT Athena 8 E-Trekking Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-copperhead-evo-am-1-e-mountainbike": {
+      "name": "Bulls Copperhead EVO AM 1 E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-mv900-camcorder": {
+      "name": "Canon MV900 CAMCORDER",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "porst-reflex-spiegelreflexkamera": {
+      "name": "Porst Reflex Spiegelreflexkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
