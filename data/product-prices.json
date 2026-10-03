@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T16:24:16.373Z",
+  "updatedAt": "2026-10-03T16:29:18.039Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256gb",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1427,7 +1427,7 @@
     },
     "kalkhoff-e-bike": {
       "name": "Kalkhoff E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1828,7 +1828,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128 GB",
+      "name": "Apple iPhone 12 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3202,7 +3202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-256-gb": {
-      "name": "Apple iPhone 16 256gb",
+      "name": "Apple iPhone 16 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7565,7 +7565,7 @@
     },
     "apple-macbook-pro-16-gb": {
       "name": "Apple MacBook Pro 16 GB",
-      "category": "Computers",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8908,7 +8908,7 @@
       "updatedAt": null
     },
     "bulls-copperhead-evo-2": {
-      "name": "Bulls Copperhead Evo 2",
+      "name": "BULLS Copperhead Evo 2",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -12389,7 +12389,7 @@
     },
     "dji-mini-4k-drohne": {
       "name": "DJI Mini 4K Drohne",
-      "category": "Drohnen",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13102,7 +13102,7 @@
       "updatedAt": null
     },
     "kodak-pixpro-fz55": {
-      "name": "Kodak Pixpro FZ55",
+      "name": "Kodak PixPro FZ55",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -18352,7 +18352,7 @@
       "updatedAt": null
     },
     "panasonic-lumix-dmc-tz8": {
-      "name": "Panasonic Lumix DMC-TZ8",
+      "name": "Panasonic Lumix DMC TZ8",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -19457,7 +19457,7 @@
     },
     "e-bike-damenrad": {
       "name": "E-Bike Damenrad",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -27756,6 +27756,180 @@
     "canon-eos-1100d-16-gb": {
       "name": "Canon EOS 1100D 16GB",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2016": {
+      "name": "Apple MacBook Pro 2016",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-phoenix-geforce-rtx-3060-12-gb-v2": {
+      "name": "ASUS Phoenix GeForce RTX 3060 12GB V2",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-pci-e-ultimat-hd-4670-512-mb-gdr3": {
+      "name": "Sapphire PCI-e Ultimat HD 4670 512 MB GDR3",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-digital-edition-slim-1-tb": {
+      "name": "PlayStation 5 Digital-Edition (Slim) 1 TB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-mtb-27-5": {
+      "name": "Prophete E-Bike MTB 27,5\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-x-vert-rock": {
+      "name": "Corratec E-Power X-Vert Rock",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cortina-e-u1": {
+      "name": "Cortina E-U1",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "creme-cycles-caferacer-lady-solo": {
+      "name": "Creme Cycles Caferacer Lady Solo",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thinktank-backlight-36l-slate-black": {
+      "name": "thinkTank BackLight 36L Slate Black",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-sz3-digital-kamera": {
+      "name": "Panasonic Lumix DMC-SZ3 Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ouxi-q8-fatbike": {
+      "name": "Ouxi Q8 Fatbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-raymon-e-nine-8-0-l-b-15190": {
+      "name": "R Raymon E-Nine 8.0\" L B-15190",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-evo": {
+      "name": "Pegasus Evo",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "abus-airbreaker": {
+      "name": "Abus Airbreaker",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-bike-28-zoll": {
+      "name": "Scott E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-tour-p-510": {
+      "name": "KTM Macina Tour P 510",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-paris-c8-hmb": {
+      "name": "Gazelle Paris C8 HMB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-mitternachtblau-128-gb": {
+      "name": "Apple iPhone 13 Mitternachtblau 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-t6-1-frontkamera": {
+      "name": "VW T6.1 Frontkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dcr-vx1000e": {
+      "name": "Sony DCR-VX1000E",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx220-hs": {
+      "name": "Canon PowerShot SX220 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "welta-perle-645": {
+      "name": "Welta Perle 645",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dcr-trv900e": {
+      "name": "Sony DCR-TRV900E",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentaflex-sl-agfa-optima-i": {
+      "name": "Pentaflex SL Agfa Optima I",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju-ii-35-mm-2-8-gold": {
+      "name": "Olympus Mju II 35 mm 2.8 Gold",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-g20-g21-aussenspiegel-spiegel-rechts-links-kamera-full-9-pin": {
+      "name": "BMW G20 G21 Aussenspiegel Spiegel rechts links Kamera FULL 9 Pin",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "faltkamera-mit-pronto-verschluss-und-vidanar-objektiv": {
+      "name": "Faltkamera mit PRONTO Verschluss und Vidanar Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "villette-e-bike-29-zoll": {
+      "name": "VILLETTE E-Bike 29 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-600-e-bike-akku-36v": {
+      "name": "Bosch PowerTube 600 E-Bike Akku (36V)",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     }
