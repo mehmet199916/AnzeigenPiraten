@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T16:29:18.039Z",
+  "updatedAt": "2026-10-03T16:34:20.272Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128GB",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128Gb",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256GB",
+      "name": "Apple iPhone 14 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256gb",
+      "name": "Apple iPhone 16 Pro 256 gb",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -677,7 +677,7 @@
     },
     "sony-playstation-5-dualsense-controller": {
       "name": "Sony PlayStation 5 DualSense Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128Gb",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2543,7 +2543,7 @@
     },
     "playstation-5-disc-edition": {
       "name": "PlayStation 5 Disc Edition",
-      "category": "Computer",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2680,13 +2680,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-256-gb": {
-      "name": "Apple iPhone 11 Pro 256 gb",
+      "name": "Apple iPhone 11 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256 Gb",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3754,7 +3754,7 @@
       "updatedAt": null
     },
     "insta360-x5-256-gb": {
-      "name": "Insta360 X5 (256 GB)",
+      "name": "Insta360 X5 256 GB",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -4060,7 +4060,7 @@
       "updatedAt": null
     },
     "apple-iphone-17-pro-5g-256-gb-cosmic-orange": {
-      "name": "Apple iPhone 17 Pro 5G [256GB,Cosmic Orange]",
+      "name": "Apple iPhone 17 Pro 5G 256GB Cosmic Orange",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5423,7 +5423,7 @@
     },
     "gazelle-arroyo-c7": {
       "name": "Gazelle Arroyo C7",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7618,8 +7618,8 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-disc-edition-1-tb": {
-      "name": "Sony PlayStation 5 Slim Disc Edition 1TB",
-      "category": "Konsolen",
+      "name": "Sony PlayStation 5 Slim Disc Edition 1Tb",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -11374,8 +11374,8 @@
       "updatedAt": null
     },
     "cube-stereo-hybrid-140-hpc-pro": {
-      "name": "Cube Stereo Hybrid 140 HPC Pro",
-      "category": "Fahrräder",
+      "name": "CUBE Stereo Hybrid 140 HPC Pro",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -11872,7 +11872,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-max-1-tb": {
-      "name": "Apple iPhone 16 Pro Max 1 TB",
+      "name": "Apple iPhone 16 Pro Max 1TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -23446,7 +23446,7 @@
       "updatedAt": null
     },
     "canon-xh-a1-hdv-camcorder": {
-      "name": "Canon XH A1 HDV-Camcorder",
+      "name": "Canon XH A1 HDV Camcorder",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -27930,6 +27930,246 @@
     "bosch-powertube-600-e-bike-akku-36v": {
       "name": "Bosch PowerTube 600 E-Bike Akku (36V)",
       "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grecos-eli-2-5-e-bike": {
+      "name": "Grecos Eli 2.5 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-7-720wh-m-e-trekking-e-bike": {
+      "name": "HAIBIKE Trekking 7 - 720WH - M - E-Trekking E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-zoll-m1": {
+      "name": "Apple MacBook Pro 16 Zoll M1",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-3-zoll-mit-m4-chip": {
+      "name": "Apple MacBook Air 15.3 Zoll mit M4 Chip",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-3-zoll-16-gb-ram-500-gb-ssd-space-grau": {
+      "name": "Apple MacBook Air 13.3 Zoll 16GB RAM 500GB SSD Space Grau",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2018-8-gb": {
+      "name": "Apple MacBook Air 2018 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2019-512-gb": {
+      "name": "Apple MacBook Pro 2019 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-970-gaming-4-gb": {
+      "name": "NVIDIA GeForce GTX 970 Gaming 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-gpu-6670-1-gb": {
+      "name": "Sapphire GPU 6670 1 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-bosch-powerpack-400-500-zellentausch": {
+      "name": "E-Bike Bosch Powerpack 400 500 Zellentausch",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-husqvarna-lt2-trekking-e-bike": {
+      "name": "e bike Husqvarna LT2 Trekking E-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-140-slx-tm-750-e-bike": {
+      "name": "Cube Stereo Hybrid 140 SLX TM 750 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "greens-bromley-e-bike": {
+      "name": "Greens Bromley E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-vr2-pc-adapter": {
+      "name": "Sony PlayStation VR2 PC-Adapter",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-aw100": {
+      "name": "Nikon Coolpix AW100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-sf-7": {
+      "name": "Pentax SF-7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-elph-110-hs": {
+      "name": "Canon PowerShot ELPH 110 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-action-5-pro-adventure-combo": {
+      "name": "DJI Osmo Action 5 Pro Adventure Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-grenoble-c-380": {
+      "name": "GAZELLE Grenoble C 380",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-iconic-evo-1": {
+      "name": "Bulls Iconic Evo 1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-fullnine-7-0": {
+      "name": "Haibike SDURO FullNine 7.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-trekkingrad-schwarz-mit-gepacktrager": {
+      "name": "KTM E-Bike Trekkingrad schwarz mit Gepäckträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damen-e-bike-fahrrad-kalkhof-26-zoll": {
+      "name": "DAMEN E BIKE FAHRRAD KALKHOF 26 ZOLL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-mountain-cross-mc2": {
+      "name": "Husqvarna Mountain Cross MC2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "26-zoll-klapp-e-bike": {
+      "name": "26 Zoll Klapp-E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-cento-plus-10": {
+      "name": "KTM Cento Plus 10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-cross-s6": {
+      "name": "Stevens CROSS S6",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "babyphone-mit-kamera-5-zoll": {
+      "name": "Babyphone mit Kamera 5 Zoll",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "medion-videokamera-camcorder": {
+      "name": "Medion Videokamera Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arlo-kamera-set": {
+      "name": "ARLO Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mavic-pro-platinum": {
+      "name": "DJI Mavic Pro Platinum",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-super-zoom-140-af-analogkamera": {
+      "name": "Praktica Super Zoom 140 AF Analogkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz28-digital-kamera": {
+      "name": "Panasonic Lumix DMC FZ28 Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-video-doorbell-blink-outdoor-4-kamera-set": {
+      "name": "Blink Video Doorbell & Blink Outdoor 4 Kamera-Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eufy-security-wall-light-cam-s100": {
+      "name": "eufy Security Wall Light Cam S100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-vision-panasonic-akku-deluxe": {
+      "name": "E-Bike Vision Panasonic Akku Deluxe",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga": {
+      "name": "Kettler Quadriga",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "guerciotti-gravel-brera-ltd-edition": {
+      "name": "Guerciotti Gravel Brera LTD Edition",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hercules-nos-1-1-rh-49": {
+      "name": "E Bike Hercules Nos 1.1 Rh 49",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-xperia-x": {
+      "name": "Sony Xperia X",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
