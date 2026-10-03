@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T13:34:25.422Z",
+  "updatedAt": "2026-10-03T13:40:31.044Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -58,13 +58,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256gb",
+      "name": "Apple iPhone 13 256 GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1102,7 +1102,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-256-gb": {
-      "name": "Apple iPhone 13 Pro 256GB",
+      "name": "Apple iPhone 13 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 390,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1331,7 +1331,7 @@
     },
     "sony-playstation-5-pro-2-tb": {
       "name": "Sony PlayStation 5 Pro 2TB",
-      "category": "Spielekonsolen",
+      "category": "Smartphones",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16e 128 gb",
+      "name": "Apple iPhone 16e 128GB",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128gb",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2351,7 +2351,7 @@
     },
     "zundapp-z808-e-mountainbike": {
       "name": "Zündapp Z808 E-Mountainbike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128 GB",
+      "name": "Apple iPhone 11 128 Gb",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3263,7 +3263,7 @@
     },
     "amd-radeon-rx-6700-xt-12-gb": {
       "name": "AMD Radeon RX 6700 XT 12GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 250,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3316,7 +3316,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nikon-kamera": {
-      "name": "Nikon Kamera",
+      "name": "Nikon-Kamera",
       "category": "Kameras",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4265,7 +4265,7 @@
     },
     "playstation-portal-remote-player": {
       "name": "PlayStation Portal Remote Player",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -4577,7 +4577,7 @@
     },
     "playstation-spiele": {
       "name": "PlayStation Spiele",
-      "category": "Spielekonsolen",
+      "category": "Spiele",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6365,7 +6365,7 @@
     },
     "retro-e-bike": {
       "name": "Retro E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13834,7 +13834,7 @@
       "updatedAt": null
     },
     "apple-macbook-neo-13-256-gb": {
-      "name": "Apple MacBook Neo 13 256GB",
+      "name": "Apple MacBook Neo 13\" 256GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -20447,6 +20447,216 @@
     },
     "ruckspiegelkamera": {
       "name": "Rückspiegelkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-entice-1-move-725wh": {
+      "name": "Kalkhoff ENTICE 1 MOVE 725Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-2017-8-gb": {
+      "name": "Apple MacBook Pro 13\" 2017 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-5070-ti-windorce-oc-16-gb": {
+      "name": "Gigabyte RTX 5070 Ti Windorce OC 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-proart-rtx-4080-super-16-gb": {
+      "name": "ASUS ProArt RTX 4080 SUPER 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rx-580-8-gb": {
+      "name": "ASUS RX 580 8 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-geforce-rtx-4070-super-twin-edge-12-gb": {
+      "name": "Zotac GeForce RTX 4070 SUPER Twin Edge 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-spider-man-edition": {
+      "name": "Sony PlayStation 5 Spider-Man Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-impulse-e-bike": {
+      "name": "Raleigh Impulse E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-flyer-upstreet1-5-00": {
+      "name": "E Bike FLYER UPSTREET1 5.00",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-qio-eins-ap-8r": {
+      "name": "E-Bike QIO \"EINS AP-8R\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-tria-10-gr-46-e-bike": {
+      "name": "Winora tria 10 Gr.46 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "i-sy-lastenrad-e-bike": {
+      "name": "i:sy Lastenrad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-e-bike": {
+      "name": "Hitway E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ninebot-c20-kinder-jugend-e-scooter": {
+      "name": "Ninebot C20 Kinder / Jugend-E-Scooter",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-orange-e-line-impulse-e-bike": {
+      "name": "Gazelle Orange E-Line Impulse E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-damenrad-retro": {
+      "name": "Fischer Damenrad RETRO",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-eadventure-12-8-e-bike": {
+      "name": "Victoria eADVENTURE 12.8 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-klapprad-greenstreet-gs1": {
+      "name": "E-Bike Klapprad Greenstreet GS1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "curtis-e-bike": {
+      "name": "Curtis E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jeep-mhr-7000-mountain-e-bike": {
+      "name": "Jeep MHR 7000 Mountain E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-europower-915-fahrradtrager": {
+      "name": "Thule EuroPower 915 Fahrradträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-400-fl": {
+      "name": "Velo de Ville 400 FL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-t4": {
+      "name": "Fujifilm X-T4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "babyphone-mit-5-zoll-hd-lcd-bildschirm-und-kamera": {
+      "name": "Babyphone mit 5 Zoll HD LCD Bildschirm und Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "morrison-e7-wave-e-bike": {
+      "name": "Morrison E7 Wave E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-watch-se-generation-2": {
+      "name": "Apple Watch SE Generation 2",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-ace-pro-action-kamera": {
+      "name": "Insta360 Ace Pro Action-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-lumix-fz150-32-gb": {
+      "name": "Olympus Lumix FZ150 32 GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f-301-analoge-spiegelreflexkamera": {
+      "name": "Nikon F-301 analoge Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a58-dslr-kamera": {
+      "name": "Sony Alpha a58 DSLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aosu-solarcam-p1se-system-32-gb": {
+      "name": "Aosu SolarCam P1SE System 32GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-auto-110-slr-kamera": {
+      "name": "Pentax auto 110 SLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-edition-inkl-controller": {
+      "name": "Sony PlayStation 5 [Disc Edition, inkl. Controller]",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-fg": {
+      "name": "Nikon FG",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-7000-analogkamera": {
+      "name": "Minolta 7000 Analogkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
