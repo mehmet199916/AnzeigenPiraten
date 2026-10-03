@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T16:19:15.543Z",
+  "updatedAt": "2026-10-03T16:24:16.373Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -76,8 +76,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "ktm-e-mtb": {
-      "name": "KTM E-MTB",
-      "category": "Fahrräder",
+      "name": "KTM E -MTB",
+      "category": "E-Bikes",
       "referencePrice": 1300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1240,7 +1240,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-825-gb": {
-      "name": "Sony PlayStation 5 Konsole 825GB",
+      "name": "Sony PlayStation 5 Konsole 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128gb",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4000,7 +4000,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-512-gb": {
-      "name": "iPhone 17 Pro Max 512GB",
+      "name": "iPhone 17 Pro Max 512Gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256 GB",
+      "name": "Apple iPhone 15 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -11926,7 +11926,7 @@
       "updatedAt": null
     },
     "canon-powershot-a630": {
-      "name": "Canon PowerShot A630",
+      "name": "Canon Powershot A630",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -13900,7 +13900,7 @@
       "updatedAt": null
     },
     "nikon-coolpix-p1100": {
-      "name": "Nikon COOLPIX p1100",
+      "name": "Nikon Coolpix P1100",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -18694,7 +18694,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-15-16-gb": {
-      "name": "Apple MacBook Pro 15 16 GB",
+      "name": "Apple MacBook Pro 15\" 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -20710,7 +20710,7 @@
       "updatedAt": null
     },
     "liqbike-e-bike": {
-      "name": "Liqbike E-Bike",
+      "name": "LIQBIKE E-Bike",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -27521,6 +27521,240 @@
     },
     "sony-cyber-shot-dsc-hx60-32-gb": {
       "name": "Sony Cyber-shot DSC-HX60 32GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-15-2018-16-gb": {
+      "name": "MacBook Pro 15\" 2018 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-12-8-gb": {
+      "name": "Apple MacBook 12\" 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1060-gaming-6-gb": {
+      "name": "MSI GeForce GTX 1060 Gaming 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-konsole-disc-edition-1-tb": {
+      "name": "Sony PlayStation 5 Slim Konsole Disc Edition 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-2": {
+      "name": "Sony PlayStation 2",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-cs-ls-35": {
+      "name": "Nikon CS-LS 35",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "feelworld-t7": {
+      "name": "FEELWORLD T7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-z40": {
+      "name": "Casio Exilim EX-Z40",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orig-vw-t6-1-kamera-heckklappe": {
+      "name": "Orig VW T6.1 Kamera Heckklappe",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-140-hpc-race-625": {
+      "name": "CUBE Stereo Hybrid 140 HPC Race 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pedelec-klapprad-city-e-bike": {
+      "name": "Pedelec Klapprad City E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-e-8-e-bike": {
+      "name": "Pegasus Premio e-8 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-slt-e-bike": {
+      "name": "Cube Kathmandu SLT E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-crossray-e-3-0-e-bike": {
+      "name": "Raymon CrossRay E 3.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-bike-29-zoll": {
+      "name": "Bulls E-Bike 29 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "alber-hinterradmotor-e-bike": {
+      "name": "Alber Hinterradmotor E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-hybritec-city": {
+      "name": "Kettler Hybritec City",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-pagasus-primerio": {
+      "name": "E-Bike Pagasus Primerio",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-xs": {
+      "name": "Apple iPhone XS",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-rosa-pink-128-gb": {
+      "name": "Apple iPhone 13 rosa/pink 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-pro-max-64-gb-schwarz": {
+      "name": "Apple iPhone 11 Pro Max 64 GB schwarz",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-pro-256-gb-grun": {
+      "name": "Apple iPhone 11 Pro 256 GB grün",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-256-gb-titan-natur": {
+      "name": "Apple iPhone 16 Pro 256 GB Titan Natur",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-3": {
+      "name": "DJI Mini 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-k-200-d": {
+      "name": "Pentax K-200-D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-500-kit": {
+      "name": "Canon EOS 500 Kit",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x5-mit-foldable-2in1-selfie-stick": {
+      "name": "Insta360 X5 mit Foldable 2in1 Selfie Stick",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-gf7": {
+      "name": "Panasonic DMC GF7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "osmo-action-6": {
+      "name": "Osmo Action 6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1d-x-mark-ii": {
+      "name": "Canon EOS-1D X Mark II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "huawei-p20-pro": {
+      "name": "Huawei P20 Pro",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-share-sp3": {
+      "name": "Fujifilm instax share SP3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mic-mini-2": {
+      "name": "Dji Mic Mini 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-6s-plus-16-gb": {
+      "name": "Apple iPhone 6s Plus 16Gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-4-1-tb": {
+      "name": "Sony PlayStation 4 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-2-se": {
+      "name": "DJI Mini 2 SE",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-3-black-edition": {
+      "name": "GoPro Hero 3+ Black Edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ashahi-pentax-es-35mm-slr": {
+      "name": "Ashahi Pentax ES 35mm SLR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1100d-16-gb": {
+      "name": "Canon EOS 1100D 16GB",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
