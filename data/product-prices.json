@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T01:54:40.130Z",
+  "updatedAt": "2026-10-03T01:59:18.750Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -479,7 +479,7 @@
     },
     "nvidia-rtx-3080-ti-12-gb": {
       "name": "NVIDIA RTX 3080 TI 12GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -491,7 +491,7 @@
     },
     "palit-rtx-2070-super-gamerock-premium-edition-8-gb": {
       "name": "Palit RTX 2070 Super GameRock Premium Edition 8GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1084,7 +1084,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-512-gb": {
-      "name": "Apple iPhone 17 512GB",
+      "name": "Apple iPhone 17 512 GB",
       "category": "Smartphones",
       "referencePrice": 800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512GB",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -13474,7 +13474,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-edition-1-tb": {
-      "name": "Sony PlayStation 5 Slim Digital Edition 1 TB",
+      "name": "Sony PlayStation 5 Slim Digital Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -16018,7 +16018,7 @@
       "updatedAt": null
     },
     "apple-iphone-x-256-gb": {
-      "name": "Apple iPhone X 256GB",
+      "name": "Apple iPhone X 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -18197,6 +18197,192 @@
     },
     "sony-handycam-camcorder": {
       "name": "Sony Handycam Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "econic-one-adventure-29-zoll-e-mtb": {
+      "name": "Econic ONE Adventure 29 Zoll E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-viator-6-0i": {
+      "name": "FISCHER E-Bike Viator 6.0i",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-500-akku": {
+      "name": "Bosch powertube 500 Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "didi-thurau-prophete-e-bike": {
+      "name": "Didi Thurau Prophete E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "carver-strict-e400": {
+      "name": "Carver Strict e400",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hochwertiges-flyer-e-bike-mit-mittelmotor-panasonic-540w": {
+      "name": "Hochwertiges Flyer E-Bike mit Mittelmotor Panasonic 540W",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-damen-e-bike-bosch-rucktritt-rh50cm": {
+      "name": "Winora Damen E-Bike - Bosch - Rücktritt - RH50cm",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-moterra-neo-s1-e-mountainbike": {
+      "name": "Cannondale Moterra Neo S1 E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-velolite-2": {
+      "name": "Thule Velolite 2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero": {
+      "name": "Pegasus Solero",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-plus-5g-128-gb": {
+      "name": "Apple iPhone 15 Plus 5G 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-retouren-box": {
+      "name": "Apple Retouren Box",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-retina-8-gb-ram": {
+      "name": "Apple MacBook Air 13\" Retina 8GB RAM",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-13": {
+      "name": "MacBook Air 13",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-4070-kfa2": {
+      "name": "NVIDIA RTX 4070 KFA2",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-prime-amd-radeon-rx-9060-xt-grafikkarte-8-gb": {
+      "name": "ASUS Prime AMD Radeon RX 9060 XT Grafikkarte 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1080-gaming-x-8g": {
+      "name": "MSI GeForce GTX 1080 GAMING X 8G",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-4070-kfa2": {
+      "name": "NVIDIA GeForce RTX 4070 KFA2",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-4080-super-aero-oc": {
+      "name": "Gigabyte GeForce RTX 4080 Super Aero OC",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disk-edition-slim-1-tb": {
+      "name": "Sony PlayStation 5 Disk Edition (Slim) 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-sonderedition": {
+      "name": "Sony PlayStation 5 Sonderedition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-fat-disc-edition-fw-12-20-firmware-jb-fahig-ps5": {
+      "name": "PLAYSTATION 5 FAT Disc Edition FW 12.20 Firmware JB-fähig PS5",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-portal": {
+      "name": "PlayStation Portal",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "frontkamera-fur-vw-audi-c110702-c1107-c1108-touareg-a6-q7": {
+      "name": "Frontkamera für VW Audi C110702 C1107 C1108 Touareg A6 Q7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d7500-64-gb": {
+      "name": "Nikon D7500 64gb",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-tz8": {
+      "name": "Panasonic Lumix DMC-TZ8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-phantom-4": {
+      "name": "DJI Phantom 4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-go-generation-2": {
+      "name": "Polaroid Go Generation 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-400d": {
+      "name": "Canon EOS 400D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero4-silver": {
+      "name": "GoPro HERO4 Silver",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-one-x2": {
+      "name": "Insta360 ONE X2",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
