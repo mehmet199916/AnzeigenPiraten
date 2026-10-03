@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T02:38:06.573Z",
+  "updatedAt": "2026-10-03T02:43:04.113Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -2885,7 +2885,7 @@
     },
     "dji-mini-4-pro": {
       "name": "DJI Mini 4 Pro",
-      "category": "Drohnen",
+      "category": "Kameras",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -18540,6 +18540,30 @@
     "bosch-pedelec-city-trekking-mtb": {
       "name": "Bosch Pedelec City Trekking MTB",
       "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-kompaktrad-qio-bosch-performance-20-zoll": {
+      "name": "E Bike Kompaktrad QIO Bosch Performance 20 zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-riese-muller-charger-vario": {
+      "name": "E Bike Riese&Müller Charger Vario",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-hybrid-touring-pro-625-e-bike": {
+      "name": "Cube Hybrid Touring Pro 625 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-max-265-gb": {
+      "name": "Apple iPhone 17 Pro Max 265GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
