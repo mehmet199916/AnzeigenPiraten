@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T15:29:10.751Z",
+  "updatedAt": "2026-10-03T15:34:08.512Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128Gb",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -203,7 +203,7 @@
     },
     "e-bike": {
       "name": "E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128 GB",
+      "name": "Apple iPhone 13 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256Gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128 GB",
+      "name": "Apple iPhone 13 mini 128GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256 GB",
+      "name": "iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4091,7 +4091,7 @@
     },
     "rockrider-e-expl-520s": {
       "name": "ROCKRIDER E-Expl 520S",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -4456,8 +4456,8 @@
       "updatedAt": null
     },
     "amd-radeon-rx-580-8-gb": {
-      "name": "AMD Radeon RX 580 8Gb",
-      "category": "Computer",
+      "name": "AMD Radeon RX 580 8GB",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10595,7 +10595,7 @@
     },
     "prophete-e-bike": {
       "name": "Prophete E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -25428,6 +25428,228 @@
     "olympus-fl-600r": {
       "name": "Olympus FL-600R",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-miss-grace-c7-hmb": {
+      "name": "GAZELLE Miss Grace C7+ HMB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-980-ti-g1-gaming-6-gb": {
+      "name": "Gigabyte GeForce GTX 980 Ti G1 Gaming 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-sapphire-nitro-rx-480-oc-4-gb": {
+      "name": "AMD RADEON Sapphire NITRO+ RX 480 OC 4 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-gtx-1650-gp-4-gb-gddr6": {
+      "name": "Palit GeForce GTX 1650 GP 4GB GDDR6",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-geforce-gtx-2080-ti-amp-edition": {
+      "name": "Zotac GeForce GTX 2080 TI AMP Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "llobe-bullrock-city-alu-mountainbike-26": {
+      "name": "LLOBE Bullrock City Alu Mountainbike 26\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz38": {
+      "name": "Panasonic Lumix DMC-FZ38",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-turbo-vado-4-0-e-bike": {
+      "name": "Specialized Turbo Vado 4.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diamant-mandara-deluxe-e-bike": {
+      "name": "Diamant Mandara Deluxe+ E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "urtopia-carbon-one-e-bike": {
+      "name": "Urtopia Carbon One E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-urban-28-ap5-8sc": {
+      "name": "Corratec E-Power Urban 28 AP5 8SC",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-m922-27-5-zoll": {
+      "name": "Telefunken M922 27.5 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mofa-28zoll": {
+      "name": "Mofa 28zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gudereit-ec-5": {
+      "name": "GUDEREIT EC 5",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hollandrad-cortina-500-wh-28-zoll": {
+      "name": "Hollandrad Cortina 500 Wh 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-cysalo-13-545wh-riemenantrieb": {
+      "name": "VICTORIA CYSALO 13 545Wh Riemenantrieb",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-asx-160-essential-e-mountainbike": {
+      "name": "Ghost ASX 160 Essential E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-e-bike-bosch-performance-line-cx-xl": {
+      "name": "KTM Macina E-Bike Bosch Performance Line CX XL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-strike-eride-940": {
+      "name": "Scott Strike eRIDE 940",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-heavy-duty-c7-hmb-e-bike": {
+      "name": "Gazelle Heavy Duty C7+HMB E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-cross-e-bike-bionx": {
+      "name": "KTM e Cross E-Bike Bionx",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-tresalo-14-e-bike-trekking": {
+      "name": "VICTORIA Tresalo 14 E-Bike Trekking",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-vef400": {
+      "name": "Velo de Ville VEF400",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-mtc-cx8": {
+      "name": "Corratec E Power MTC CX8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "b-ware-zundapp-x700": {
+      "name": "B-Ware Zündapp X700",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "b-ware-zundapp-z505": {
+      "name": "B-WARE Zündapp Z505",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rc-n3-fernsteuerung": {
+      "name": "DJI RC-N3 Fernsteuerung",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-faltkamera-vintage": {
+      "name": "Kodak Faltkamera Vintage",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-innenkamera-smart-home-eyes-ii": {
+      "name": "Bosch Innenkamera Smart Home Eyes II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-9": {
+      "name": "Fujifilm Instax Mini 9",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-electro-8-ld-6": {
+      "name": "Yashica Electro 8 LD-6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-em-slr": {
+      "name": "Nikon EM SLR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "35-rabatt-trecking-elektro-fahrrad": {
+      "name": "35% Rabatt Trecking Elektro Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koolux-e-bike": {
+      "name": "koolux E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-city-bike-28": {
+      "name": "Fischer E-Bike City Bike 28\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "compur-faltkamera": {
+      "name": "Compur Faltkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "3-rad-e-trike": {
+      "name": "3 Rad E-Trike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
