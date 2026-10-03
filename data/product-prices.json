@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T13:45:12.029Z",
+  "updatedAt": "2026-10-03T13:50:20.224Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 Gb",
+      "name": "Apple iPhone 17 Pro Max 256 gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256gb",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128gb",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1871,7 +1871,7 @@
     },
     "sony-playstation-5-slim-digital": {
       "name": "Sony PlayStation 5 Slim Digital",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256 GB",
+      "name": "Apple iPhone 15 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2885,7 +2885,7 @@
     },
     "dji-mini-4-pro": {
       "name": "DJI Mini 4 Pro",
-      "category": "Kameras",
+      "category": "Drohnen",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 pro 256 GB",
+      "name": "iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3443,7 +3443,7 @@
     },
     "stiga-a8v-mahroboter": {
       "name": "STIGA A8V Mähroboter",
-      "category": "Kameras",
+      "category": "Gartengeräte",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3935,7 +3935,7 @@
     },
     "fischer-fahrrad-faltrad-fr18": {
       "name": "Fischer Fahrrad Faltrad FR18",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8141,7 +8141,7 @@
     },
     "pegasus-e-bike": {
       "name": "Pegasus E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10834,7 +10834,7 @@
       "updatedAt": null
     },
     "olympus-pen-e-pl8": {
-      "name": "Olympus Pen E-PL8",
+      "name": "Olympus PEN E-PL8",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -20886,6 +20886,264 @@
     "canon-powershot-sx230hs-8-gb": {
       "name": "Canon PowerShot SX230HS 8GB",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-13-zoll": {
+      "name": "MacBook Pro 13 Zoll",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-16-zoll-m4-2024-24-gb": {
+      "name": "MacBook Pro 16 Zoll m4 2024 24 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m1-13-zoll": {
+      "name": "MacBook Air M1 13 Zoll",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "3dfx-voodoo-5-5500-grafikkarte": {
+      "name": "3dfx voodoo 5 5500 Grafikkarte",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1060-6-gb": {
+      "name": "NVIDIA GeForce GTX 1060 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-nitro-radeon-rx-9070-xt-16-gb": {
+      "name": "Sapphire Nitro+ Radeon RX 9070 XT 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-pro-1-tb": {
+      "name": "PlayStation 5 Pro 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leader-fox-saga-e-bike": {
+      "name": "Leader Fox Saga E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damen-fahrrad-e-bike-zoll-28": {
+      "name": "Damen Fahrrad E Bike Zoll 28",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "totem-carry-e-bike-fully-27-5": {
+      "name": "Totem Carry E-Bike Fully 27,5\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vivi-e-bike-mit-handgas": {
+      "name": "Vivi E-Bike mit Handgas",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "isinwheel-u1-ultraleicht-faltbares-e-bike": {
+      "name": "Isinwheel U1 Ultraleicht Faltbares E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-e-bike": {
+      "name": "Riese&Müller E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-avignon-c380-e-bike-komfort-57": {
+      "name": "Gazelle Avignon C380 E-Bike Komfort 57",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-bike-29-zoll-rader": {
+      "name": "Haibike E-Bike 29-Zoll-Räder",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sinus-staiger-e-bike-bt60": {
+      "name": "Sinus Staiger E-Bike BT60",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "resident-evil-5-tricell-messenger-bag": {
+      "name": "Resident Evil 5 Tricell Messenger Bag",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reparatur-frontkamera-vw-audi-c110702-c1107-c1108-touareg-a6-q7": {
+      "name": "Reparatur Frontkamera VW Audi C110702 C1107 C1108 Touareg A6 Q7",
+      "category": "Reparatur",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-2": {
+      "name": "GoPro Hero 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fuji-x-t2": {
+      "name": "FUJI X-T2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rixe-e-bike-28-zoll-bosch-plus": {
+      "name": "Rixe E-Bike 28 Zoll Bosch Plus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tounis-3-0-e-bike": {
+      "name": "Tounis 3.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-allmt-4-800wh-100nm": {
+      "name": "Haibike Allmt 4 800Wh 100Nm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-e-imperial-150-8": {
+      "name": "Hercules E-Imperial 150-8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rcb-rk29-e-bike": {
+      "name": "RCB RK29 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rondo-ruut-al-2": {
+      "name": "Rondo Ruut AL 2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-performance-500-e-bike": {
+      "name": "Cube Reaction Hybrid Performance 500 E-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kmz-zorky-1e": {
+      "name": "KMZ Zorky 1e",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-s100": {
+      "name": "Canon PowerShot S100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "siedle-bus-kamera-130": {
+      "name": "Siedle Bus-Kamera 130",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-3-drone": {
+      "name": "DJI Mini 3 Drone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jvc-gr-dv1-mini-dv-kamera": {
+      "name": "JVC GR-DV1 Mini DV Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "archos-av500-mobile-dvr": {
+      "name": "Archos AV500 Mobile DVR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "4k-kamera": {
+      "name": "4k Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-action-5-pro": {
+      "name": "DJI Action 5 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yesimom-babyphone-mit-kamera": {
+      "name": "Yesimom Babyphone mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zcam-e2-s6-6k-cinema-camera": {
+      "name": "ZCam E2-S6 6K Cinema Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d5100-dslr-kamera": {
+      "name": "Nikon D5100 DSLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-250d-dslr-kamera": {
+      "name": "Canon EOS 250D DSLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-handycam-dcr-sx21": {
+      "name": "Sony Handycam DCR-SX21",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eumig-c3m-schmalfilmkamera": {
+      "name": "Eumig C3m Schmalfilmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "valki-linkcam-b104-4-kamera-solar-uberwachungssystem": {
+      "name": "Valki LinkCam B104 4-Kamera Solar Überwachungssystem",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-slim": {
+      "name": "PS5 Slim",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     }
