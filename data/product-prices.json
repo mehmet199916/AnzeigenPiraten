@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T14:14:53.943Z",
+  "updatedAt": "2026-10-03T14:20:22.059Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -58,13 +58,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256 GB",
+      "name": "Apple iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -479,7 +479,7 @@
     },
     "nvidia-rtx-3080-ti-12-gb": {
       "name": "NVIDIA RTX 3080 TI 12GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -695,7 +695,7 @@
     },
     "sony-playstation-5-slim": {
       "name": "Sony PlayStation 5 Slim",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16e 128GB",
+      "name": "Apple iPhone 16e 128gb",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2543,7 +2543,7 @@
     },
     "playstation-5-disc-edition": {
       "name": "PlayStation 5 Disc Edition",
-      "category": "Spielekonsolen",
+      "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128GB",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4223,7 +4223,7 @@
     },
     "rose-e-bike-xtra-watt": {
       "name": "Rose E Bike Xtra Watt",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6430,7 +6430,7 @@
       "updatedAt": null
     },
     "fujifilm-instax-mini-12": {
-      "name": "Fujifilm Instax mini 12",
+      "name": "Fujifilm Instax Mini 12",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 Mini 64GB",
+      "name": "Apple iPhone 12 mini 64Gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7786,7 +7786,7 @@
       "updatedAt": null
     },
     "gainward-geforce-rtx-3060-ghost-12-gb": {
-      "name": "Gainward GeForce RTX 3060 Ghost 12 GB",
+      "name": "Gainward GeForce RTX 3060 Ghost 12GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -11344,8 +11344,8 @@
       "updatedAt": null
     },
     "cube-nuride-hybrid-pro-750-allroad-e-bike": {
-      "name": "Cube Nuride Hybrid Pro 750 Allroad E-Bike",
-      "category": "E-Bikes",
+      "name": "CUBE Nuride Hybrid Pro 750 Allroad E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17008,8 +17008,8 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-16-gb": {
-      "name": "Apple MacBook Pro 16\" 16 GB",
-      "category": "computers",
+      "name": "Apple MacBook Pro 16 16GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -22247,6 +22247,252 @@
     },
     "balda-kamera": {
       "name": "Balda Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-e-bike": {
+      "name": "Giant Explore E+ E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-2019-256-gb": {
+      "name": "Apple MacBook Pro 13\" 2019 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-2022-8-gb": {
+      "name": "Apple MacBook Air 13 2022 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gtx-1660-super-8-gb": {
+      "name": "Zotac GTX 1660 Super 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "powercolor-radeon-rx-5700-xt-red-devil-8-gb": {
+      "name": "PowerColor Radeon RX 5700 XT Red Devil 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-4070-ti-12-gb": {
+      "name": "NVIDIA GeForce RTX 4070 Ti 12 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-4060-aero-oc-8g": {
+      "name": "Gigabyte GeForce RTX 4060 AERO OC 8G",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xfx-mercury-radeon-rx-9070-xt": {
+      "name": "XFX Mercury Radeon RX 9070 XT",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ufc6-fur-playstation-5": {
+      "name": "UFC6 für PlayStation 5",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-mit-laufwerk-825-gb": {
+      "name": "Sony PlayStation 5 mit Laufwerk 825 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-tria-10": {
+      "name": "Winora Tria 10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-diem-30-m": {
+      "name": "Orbea DIEM 30 M",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "electra-townie-commute-go-5i-eq": {
+      "name": "Electra Townie Commute Go! 5i EQ",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-exc-750": {
+      "name": "Cube Reaction Hybrid EXC 750",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-fullray-e5-0": {
+      "name": "Raymon Fullray E5.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damen-e-bike-28-zoll-50-cm-ramenhohe": {
+      "name": "Damen E Bike 28 Zoll 50 cm Ramenhöhe",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-iride-pure-x10-high-gr-l-bosch-sx-55nm-400wh-e-bike": {
+      "name": "Winora Iride Pure X10 High Gr.L Bosch SX 55NM 400Wh E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-bike-7-9-48-city-trecking-bike-damen": {
+      "name": "Victoria E-Bike 7.9 48\"| City/Trecking Bike | Damen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-servo-8m-e-bike-trapezrahmen-rh46": {
+      "name": "KTM Servo 8M E-Bike Trapezrahmen Rh46",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-performance-500-xl-e-mtb": {
+      "name": "CUBE Reaction Hybrid Performance 500 XL E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z-5-vollformat-gehause": {
+      "name": "Nikon Z 5 Vollformat Gehäuse",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-r10-kamera-set": {
+      "name": "Canon EOS R10 Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-foto-paket-2-objektive-speedlite-430ex-blitz": {
+      "name": "Canon Foto Paket 2 Objektive + Speedlite 430EX Blitz",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-dslr-kamera-set-mit-zwei-objektiven-und-tasche": {
+      "name": "Nikon DSLR Kamera Set mit zwei Objektiven und Tasche",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-t5": {
+      "name": "Fujifilm X-T5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-iconic-evo-tr1-e-bike-e-trekking": {
+      "name": "Bulls Iconic EVO TR1 E-BIKE E-Trekking",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "feldmeier-fe-12t-e-mtb": {
+      "name": "Feldmeier FE 12T E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-race-625-e-mtb": {
+      "name": "CUBE Reaction Hybrid Race 625 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vecocraft-hermes-e-mtb": {
+      "name": "Vecocraft Hermes E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sinus-e-bike-28-zoll": {
+      "name": "Sinus E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damen-e-bike-mit-rucktrittbremse": {
+      "name": "Damen E-Bike mit Rücktrittbremse",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-29-zoll": {
+      "name": "Prophete E-Bike 29 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-town-hybrid-sl-500-iridium": {
+      "name": "CUBE Town Hybrid SL 500 iridium",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bresser-biolux-nv-mikroskop": {
+      "name": "Bresser Biolux NV Mikroskop",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-t6-multivan-transporter-ruckfahrkamera": {
+      "name": "VW T6 Multivan Transporter Rückfahrkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "autodarts-kamera-imx179": {
+      "name": "Autodarts Kamera IMX179",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minox-c-kamera": {
+      "name": "Minox c Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-easyshare-cx7330-digitalkamera": {
+      "name": "Kodak EasyShare CX7330 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-7d-mark-ii-spiegelreflexkamera": {
+      "name": "Canon EOS 7D Mark II Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-fx30-cinema-line-video-kamera": {
+      "name": "Sony FX30 Cinema Line Video Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-xt2-kamera": {
+      "name": "Blink XT2 Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
