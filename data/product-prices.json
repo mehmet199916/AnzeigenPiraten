@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T14:59:14.460Z",
+  "updatedAt": "2026-10-03T15:04:03.907Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -203,7 +203,7 @@
     },
     "e-bike": {
       "name": "E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512 GB",
+      "name": "Apple iPhone 15 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,13 +1048,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro (256 GB)",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2135,7 +2135,7 @@
     },
     "gigabyte-rtx-3080-10-gb-aorus-xtreme": {
       "name": "Gigabyte RTX 3080 10GB Aorus Xtreme",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3034,7 +3034,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-se-2022-128-gb": {
-      "name": "Apple iPhone SE 2022 128 GB",
+      "name": "Apple iPhone SE 2022 128GB",
       "category": "Smartphones",
       "referencePrice": 225,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4757,7 +4757,7 @@
     },
     "sony-dualsense-controller": {
       "name": "Sony DualSense Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5422,8 +5422,8 @@
       "updatedAt": null
     },
     "gazelle-arroyo-c7": {
-      "name": "Gazelle Arroyo C7+",
-      "category": "E-Bikes",
+      "name": "Gazelle Arroyo C7",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5668,7 +5668,7 @@
       "updatedAt": null
     },
     "gopro-hero-13-black": {
-      "name": "GoPro HERO 13 Black",
+      "name": "GoPro Hero 13 Black",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -6880,8 +6880,8 @@
       "updatedAt": null
     },
     "sony-playstation-5-825-gb": {
-      "name": "Sony PlayStation 5 825 GB",
-      "category": "Spielekonsolen",
+      "name": "Sony PlayStation 5 825GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8477,7 +8477,7 @@
     },
     "giant-e-bike": {
       "name": "Giant E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9202,7 +9202,7 @@
       "updatedAt": null
     },
     "iphone-14-pro-128-gb": {
-      "name": "iPhone 14 Pro 128GB",
+      "name": "iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -11146,8 +11146,8 @@
       "updatedAt": null
     },
     "kalkhoff-agattu-e-bike": {
-      "name": "Kalkhoff Agattu E bike",
-      "category": "E-Bikes",
+      "name": "Kalkhoff Agattu E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13540,7 +13540,7 @@
       "updatedAt": null
     },
     "fujifilm-instax-mini-evo": {
-      "name": "FUJIFILM instax mini Evo",
+      "name": "Fujifilm Instax Mini Evo",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -15862,7 +15862,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-1-tb": {
-      "name": "Sony PlayStation 5 Digital Edition 1 TB",
+      "name": "Sony PlayStation 5 Digital Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -24161,6 +24161,186 @@
     },
     "dji-osmo-pocket": {
       "name": "DJI Osmo Pocket",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-e-teru-universal-eq": {
+      "name": "Ghost E-TERU UNIVERSAL EQ",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-24-gb": {
+      "name": "Apple MacBook Pro 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-claw-8-ai-a2vm": {
+      "name": "MSI Claw 8 AI+ A2VM",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thrustmaster-t-flight-hotas-4": {
+      "name": "Thrustmaster T.Flight Hotas 4",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-laufwerk": {
+      "name": "Sony PlayStation 5 Laufwerk",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-konsole-disc-edition": {
+      "name": "Sony PlayStation 5 Konsole Disc Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ewa-marine-u-b-100-unterwassergehause": {
+      "name": "ewa-marine U-B 100 Unterwassergehäuse",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grundig-ecb-28-e-citybike": {
+      "name": "Grundig ECB 28 E-Citybike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-e-bike-roberta-8-comp": {
+      "name": "Hercules E Bike Roberta 8 Comp",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-e-bike-damen": {
+      "name": "Kettler E-Bike Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "colorway-e-bike": {
+      "name": "Colorway E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-e-bike-elektrofahrrad-damen-zundapp": {
+      "name": "Pegasus E-Bike Elektrofahrrad Damen Zündapp",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-e-bike-ets200": {
+      "name": "Conway E-Bike eTS200",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-e8-sport-cx": {
+      "name": "Pegasus Solero E8-Sport CX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zazawork-cf-26-max": {
+      "name": "Zazawork CF 26 MAX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-26er": {
+      "name": "E-Bike 26er",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-ultimate-t10-hmb-damen-e-bike": {
+      "name": "Gazelle Ultimate T10 HMB Damen E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-evo-10-cross-street": {
+      "name": "Pegasus Premio Evo 10 Cross Street",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-hardnine-5-5": {
+      "name": "Haibike Sduro Hardnine 5.5",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-eth-1806-trekking-e-bike": {
+      "name": "FISCHER ETH 1806 Trekking E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dynamics-e-bike-stadtrad": {
+      "name": "Dynamics E-Bike Stadtrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-1-generation": {
+      "name": "iPhone 1 Generation",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-retina-ii": {
+      "name": "Kodak Retina II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a3100-is": {
+      "name": "Canon Powershot A3100 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-spiegelreflexkamera": {
+      "name": "Canon Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exakta-varex-2a": {
+      "name": "Exakta Varex 2a",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "osmo-pocket-3": {
+      "name": "Osmo Pocket 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-265-hs": {
+      "name": "Canon IXUS 265 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "laserliner-videoscope-xxl-inspektionskamera": {
+      "name": "Laserliner VideoScope XXL Inspektionskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7iii": {
+      "name": "Sony Alpha 7III",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
