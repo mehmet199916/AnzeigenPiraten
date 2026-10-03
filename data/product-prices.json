@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T15:19:09.169Z",
+  "updatedAt": "2026-10-03T15:24:10.058Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128gb",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 gb",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -400,7 +400,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-13-2020-8-gb": {
-      "name": "Apple MacBook Air 13 2020 8GB",
+      "name": "Apple MacBook Air 13\" 2020 8 GB",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -478,14 +478,14 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-rtx-3080-ti-12-gb": {
-      "name": "NVIDIA RTX 3080 Ti 12GB",
+      "name": "NVIDIA RTX 3080 TI 12GB",
       "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "asus-rtx-3070-8-gb-rog-strix-gaming-oc": {
       "name": "Asus RTX 3070 8GB ROG Strix Gaming OC",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,19 +1048,19 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256GB",
+      "name": "Apple iPhone 12 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1240,7 +1240,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-825-gb": {
-      "name": "Sony PlayStation 5 Konsole 825 GB",
+      "name": "Sony PlayStation 5 Konsole 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2279,13 +2279,13 @@
     },
     "sony-playstation-5": {
       "name": "Sony PlayStation 5",
-      "category": "Smartphones",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
       "name": "Sony PlayStation 5 Slim 1TB",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256GB",
+      "name": "iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3359,7 +3359,7 @@
     },
     "reparatur-frontkamera": {
       "name": "Reparatur Frontkamera",
-      "category": "Dienstleistungen",
+      "category": "Kameras",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256GB",
+      "name": "iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -3689,7 +3689,7 @@
     },
     "tomahawk-e-series-i-c-e-indoor-cycling-bike": {
       "name": "Tomahawk E-Series I.C.E. Indoor Cycling Bike",
-      "category": "Kameras",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -3832,7 +3832,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-1-tb": {
-      "name": "Sony PlayStation 5 Slim Digital 1 TB",
+      "name": "Sony PlayStation 5 Slim Digital 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7186,7 +7186,7 @@
       "updatedAt": null
     },
     "bulls-e-bike": {
-      "name": "BULLS E-Bike",
+      "name": "Bulls E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro Max 256GB",
+      "name": "iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10445,7 +10445,7 @@
     },
     "fischer-e-bike-28-zoll": {
       "name": "Fischer E-Bike 28 Zoll",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -21046,8 +21046,8 @@
       "updatedAt": null
     },
     "cube-reaction-hybrid-performance-500-e-bike": {
-      "name": "Cube Reaction Hybrid Performance 500 E-bike",
-      "category": "E-Bikes",
+      "name": "CUBE Reaction Hybrid Performance 500 E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -25032,6 +25032,228 @@
     "xiaomi-13-t-pro-512-gb": {
       "name": "Xiaomi 13 T Pro 512 GB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16pro-256-gb": {
+      "name": "iPhone 16Pro 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-1-tb-16-gb": {
+      "name": "Apple MacBook Air M5 1TB 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m4-2025-16-gb": {
+      "name": "Apple MacBook Air 13\" M4 2025 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2020-500-gb": {
+      "name": "Apple MacBook Air 2020 500GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-13-6-zoll-8-gb": {
+      "name": "Apple MacBook Air M2 13,6 Zoll 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-2020-8-gb": {
+      "name": "Apple MacBook Pro 13\" (2020) 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-5060-ti-16-gb": {
+      "name": "MSI GeForce RTX 5060 Ti 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xfx-speedster-swft210-radeon-rx-7600xt-16-gb": {
+      "name": "XFX SPEEDSTER SWFT210 RADEON RX 7600XT 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-gtx-1080-ti-11g": {
+      "name": "ASUS GeForce GTX 1080 Ti 11G",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-rtx-5070-ti-16-gb-gddr7-oc-edition": {
+      "name": "ASUS ROG Strix GeForce RTX 5070 Ti 16GB GDDR7 OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-6950-xt-16-gb": {
+      "name": "AMD Radeon 6950 XT 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-ps1-und-ps2": {
+      "name": "Sony PlayStation PS1 und PS2",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-konsole-500-gb": {
+      "name": "PlayStation 5 Konsole 500 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digital-edition-konsole": {
+      "name": "Sony PlayStation 5 Digital Edition Konsole",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-arroyo-c8-hmb-e-bike": {
+      "name": "Gazelle Arroyo C8 HMB E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mit-28-zoll-radern": {
+      "name": "E-Bike mit 28-Zoll-Rädern",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-mtc-12s-gent-ebike": {
+      "name": "Corratec E-Power MTC 12S Gent Ebike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fantic-issimo-e-bike": {
+      "name": "FANTIC ISSIMO E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "urlife-f1l-e-bike": {
+      "name": "URLIFE F1L E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-cgo600-pro-e-bike": {
+      "name": "Tenways CGO600 Pro E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mountainbike": {
+      "name": "E-Bike Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-870-is-digitalkamera": {
+      "name": "Canon IXUS 870 IS Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx7v-digitalkamera": {
+      "name": "Sony Cyber-shot DSC-HX7V Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ae-1-sammler-set": {
+      "name": "Canon AE-1 Sammler-Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-l810": {
+      "name": "Nikon Coolpix L810",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-moma-edition-sofortbildkamera": {
+      "name": "Polaroid MoMA Edition Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vivitar-sigma-zoom-75-260": {
+      "name": "Vivitar Sigma zoom 75-260",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arlo-komplettset": {
+      "name": "Arlo Komplettset",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-6-e-bike": {
+      "name": "Haibike Trekking 6 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-e-bike-traveller": {
+      "name": "Kettler E-Bike Traveller",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-plus-256-gb": {
+      "name": "Apple iPhone 15 Plus 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-7-128-gb": {
+      "name": "Apple iPhone 7 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-11-64-gb": {
+      "name": "iPhone 11 64 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ricoh-px-16mp-digitale-kompaktkamera": {
+      "name": "Ricoh PX 16MP digitale Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "volvo-elektrisch-kamera": {
+      "name": "VOLVO ELEKTRISCH KAMERA",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-action-4-zubehor": {
+      "name": "DJI Osmo Action 4 Zubehör",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mansfield-eye-tronic-vintage-analogkamera-40mm-f-2-8": {
+      "name": "Mansfield Eye-Tronic Vintage Analogkamera 40mm f/2.8",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
