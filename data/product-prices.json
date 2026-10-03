@@ -1,16 +1,16 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T13:50:20.224Z",
+  "updatedAt": "2026-10-03T13:55:14.007Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 GB",
+      "name": "Apple iPhone 11 64gb",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,13 +328,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256 GB",
+      "name": "Apple iPhone 14 Pro Max 256 Gb",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 gb",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256gb",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1060,7 +1060,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256GB",
+      "name": "Apple iPhone 12 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1211,7 +1211,7 @@
     },
     "sapphire-pulse-radeon-rx-9070-xt-16-gb": {
       "name": "Sapphire Pulse Radeon RX 9070 XT 16GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1798,7 +1798,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256GB",
+      "name": "Apple iPhone 13 Pro Max 256 gb",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1822,7 +1822,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512 GB",
+      "name": "Apple iPhone 16 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256GB",
+      "name": "iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6779,7 +6779,7 @@
     },
     "coboc-kallio-cmf-damen": {
       "name": "Coboc Kallio CMF Damen",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -21144,6 +21144,162 @@
     "ps5-slim": {
       "name": "PS5 Slim",
       "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-radeon-rx-9070-xt-oc-edition-16-gb": {
+      "name": "ASUS Radeon RX 9070 XT OC Edition 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g923-truforce-gaming-lenkrad": {
+      "name": "Logitech G923 TruForce Gaming Lenkrad",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "autodarts-kamera-halterung": {
+      "name": "AUTODARTS Kamera Halterung",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-cross-5-0": {
+      "name": "Haibike SDURO Cross 5.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "escute-e-bike": {
+      "name": "Escute E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liemke-keiler-13-pro": {
+      "name": "Liemke Keiler-13 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-ilce-6400": {
+      "name": "Sony Alpha ILCE-6400",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-s1-is": {
+      "name": "Canon PowerShot S1 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-990": {
+      "name": "Nikon Coolpix 990",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-2": {
+      "name": "DJI MINI 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-nx300": {
+      "name": "Samsung NX300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-77d": {
+      "name": "Canon EOS 77D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-mini-me-24-zoll": {
+      "name": "KTM Macina Mini Me 24 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-20-zoll-faltrad": {
+      "name": "NCM 20 Zoll Faltrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rotwild-r-c1": {
+      "name": "Rotwild R.C1",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-im-moped-design": {
+      "name": "E-Bike im Moped-Design",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-fun-9p4-he-51": {
+      "name": "KTM Macina Fun 9P4 He 51",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-28er": {
+      "name": "Prophete E-Bike 28er",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-como-e-bike": {
+      "name": "Specialized Como E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "maxtron-lira-e-bike": {
+      "name": "Maxtron Lira E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-vg-c3em-batteriegriff": {
+      "name": "Sony VG-C3EM Batteriegriff",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-leicina-8sv": {
+      "name": "Leica Leicina 8SV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-fz-1000": {
+      "name": "Panasonic DMC FZ 1000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a80": {
+      "name": "Canon Powershot A80",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a57": {
+      "name": "Sony Alpha A57",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-13-hero-black-action-cam": {
+      "name": "GoPro 13 Hero Black Action Cam",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
