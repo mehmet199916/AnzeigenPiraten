@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T02:03:21.409Z",
+  "updatedAt": "2026-10-03T02:07:58.939Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2476,14 +2476,14 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-neo-256-gb": {
-      "name": "Apple MacBook Neo 256GB",
+      "name": "Apple MacBook Neo 256 GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-quadro-rtx-4000": {
-      "name": "NVidia Quadro RTX 4000",
-      "category": "Grafikkarten",
+      "name": "NVIDIA Quadro RTX 4000",
+      "category": "Computer",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -14249,7 +14249,7 @@
     },
     "deko-lampe-retro-leuchte-kamera": {
       "name": "Deko-Lampe Retro Leuchte Kamera",
-      "category": "Lampen",
+      "category": "Elektronik",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18432,6 +18432,24 @@
     "minolta-riva-zoom-115-35mm-kompaktkamera": {
       "name": "Minolta Riva Zoom 115 35mm Kompaktkamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-powertube-500-625-750-ebike-akku": {
+      "name": "Bosch PowerPack PowerTube 500/625/750 eBike Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-5g-128-gb": {
+      "name": "Apple iPhone 14 Pro 5G 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grafikkarten-pool": {
+      "name": "Grafikkarten pool",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     }
