@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T15:04:03.907Z",
+  "updatedAt": "2026-10-03T15:09:07.159Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -707,7 +707,7 @@
     },
     "sony-playstation-5-slim-digital-edition": {
       "name": "Sony PlayStation 5 Slim Digital Edition",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro (256 GB)",
+      "name": "Apple iPhone 14 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1060,7 +1060,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256 GB",
+      "name": "Apple iPhone 12 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,7 +1798,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256 GB",
+      "name": "Apple iPhone 13 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2279,7 +2279,7 @@
     },
     "sony-playstation-5": {
       "name": "Sony PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Smartphones",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2836,7 +2836,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition": {
-      "name": "Sony PlayStation 5 disc edition",
+      "name": "Sony PlayStation 5 Disc Edition",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3868,7 +3868,7 @@
       "updatedAt": null
     },
     "iphone-12-pro-128-gb": {
-      "name": "iPhone 12 Pro 128GB",
+      "name": "iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8032,7 +8032,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13 8GB",
+      "name": "Apple MacBook Air 13\" 8GB",
       "category": "Laptops",
       "referencePrice": null,
       "updatedAt": null
@@ -10871,7 +10871,7 @@
     },
     "stevens-e-inception-am-8-7-2-gtf": {
       "name": "Stevens E-INCEPTION AM 8.7.2 GTF",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13054,7 +13054,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-disk-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disk Edition 825 GB",
+      "name": "Sony PlayStation 5 Disk Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -24342,6 +24342,216 @@
     "sony-alpha-7iii": {
       "name": "Sony Alpha 7III",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "econic-one-adventure": {
+      "name": "Econic ONE Adventure",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-13": {
+      "name": "Apple MacBook 13",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-8-gb-256-gb-ssd": {
+      "name": "Apple MacBook Air M1 8GB/256GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-24-gb": {
+      "name": "Apple MacBook Air 15\" 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-dual-rtx-2080-ti-grafikkarte": {
+      "name": "ASUS Dual RTX 2080 Ti Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-2070-8-gb": {
+      "name": "ZOTAC GAMING GeForce RTX 2070 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-gtx-660-2-gb": {
+      "name": "MSI GTX 660 2 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-aorus-geforce-rtx-3070-master-8-gb": {
+      "name": "Gigabyte AORUS GeForce RTX 3070 Master 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grafikkarten": {
+      "name": "Grafikkarten",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-konsole-2-tb": {
+      "name": "Sony PlayStation 5 Konsole 2TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "monza-legend-e-bike": {
+      "name": "Monza Legend E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "enduro-bc260-fahrradtrager": {
+      "name": "ENDURO BC260 Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-trekkingrad": {
+      "name": "STEVENS E Trekkingrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bodywel-m16-e-fatbike": {
+      "name": "Bodywel M16 E-Fatbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hansa-damen-e-bike": {
+      "name": "Hansa Damen E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-world-traveller-trekking-e-bike": {
+      "name": "Koga World Traveller Trekking E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-access-hybrid-ex": {
+      "name": "Cube Access Hybrid EX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agutta-e-bike": {
+      "name": "Kalkhoff Agutta E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yamaha-e-bike-motor": {
+      "name": "Yamaha E-Bike Motor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-bosch-800wh-akku-120nm": {
+      "name": "Corratec E-Power Bosch 800WH Akku 120NM",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-3-b-advance-5-g": {
+      "name": "Kalkhoff Image 3.B Advance 5-G",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-pro-750": {
+      "name": "Cube Reaction Hybrid Pro 750",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-bike-damenrad-pedelec": {
+      "name": "Victoria E-Bike Damenrad Pedelec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-e3": {
+      "name": "Fujifilm X-E3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-kompaktkamera": {
+      "name": "Sony Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-super-mini": {
+      "name": "Panasonic Super Mini",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "holy-stone-hs700-drohne": {
+      "name": "Holy Stone HS700 Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-g70": {
+      "name": "Panasonic DMC G70",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lego-disney-100-kamera": {
+      "name": "Lego Disney 100 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-g1": {
+      "name": "Sony Cyber-shot DSC G1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmc-alpenchallenge-amp-cross-one-2019": {
+      "name": "BMC Alpenchallenge AMP Cross One 2019",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-strada-fahrradtrager": {
+      "name": "Atera Strada Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-damen-e-bike-first-forward": {
+      "name": "Kreidler Damen E Bike First Forward",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-e-bike-eagle-500": {
+      "name": "Cube Reaction Hybrid E-Bike Eagle 500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-128-gb-space-schwarz": {
+      "name": "Apple iPhone 14 Pro 128 GB Space Schwarz",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
