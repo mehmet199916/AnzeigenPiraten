@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T15:14:09.893Z",
+  "updatedAt": "2026-10-03T15:19:09.169Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128GB",
+      "name": "Apple iPhone 15 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128gb",
+      "name": "Apple iPhone 13 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 gb",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -478,7 +478,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-rtx-3080-ti-12-gb": {
-      "name": "NVIDIA RTX 3080 TI 12GB",
+      "name": "NVIDIA RTX 3080 Ti 12GB",
       "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,12 +647,12 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
-      "name": "Sony PlayStation 5 Konsole 1TB",
+      "name": "Sony PlayStation 5 Konsole 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1102,7 +1102,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-256-gb": {
-      "name": "Apple iPhone 13 Pro 256 GB",
+      "name": "Apple iPhone 13 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 390,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2068,7 +2068,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-pro-16-zoll-2019-32-gb": {
-      "name": "Apple MacBook Pro 16 Zoll 2019 32 GB",
+      "name": "Apple MacBook Pro 16 Zoll 2019 32GB",
       "category": "Computer",
       "referencePrice": 400,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2776,7 +2776,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-64-gb": {
-      "name": "Apple iPhone 11 Pro 64 GB",
+      "name": "Apple iPhone 11 Pro 64GB",
       "category": "Smartphones",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2890,7 +2890,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-max-256-gb": {
-      "name": "iPhone 15 Pro Max 256GB",
+      "name": "iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256 GB",
+      "name": "iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5530,7 +5530,7 @@
       "updatedAt": null
     },
     "e-bike-26-zoll": {
-      "name": "E Bike 26 Zoll",
+      "name": "E-Bike 26 Zoll",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -9484,8 +9484,8 @@
       "updatedAt": null
     },
     "hiland-e-bike": {
-      "name": "Hiland E-Bike",
-      "category": "Fahrräder",
+      "name": "hiland E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -12940,7 +12940,7 @@
       "updatedAt": null
     },
     "fischer-e-bike": {
-      "name": "Fischer E Bike",
+      "name": "Fischer E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -18676,8 +18676,8 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-2017": {
-      "name": "Apple MacBook Pro 13\" 2017",
-      "category": "Computer",
+      "name": "Apple MacBook Pro 13\" (2017)",
+      "category": "Laptops",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -24774,6 +24774,264 @@
     "sony-cyber-shot-dsc-w380": {
       "name": "Sony Cyber-shot DSC-W380",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-town-hybrid-sl-500": {
+      "name": "Cube Town Hybrid SL 500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-cross-610": {
+      "name": "KTM MACINA CROSS 610",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-m1-pro-16-gb-512-gb": {
+      "name": "Apple MacBook Pro 16\" M1 Pro 16GB 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-500-gb": {
+      "name": "Apple MacBook Pro 500 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-2017-256-gb": {
+      "name": "Apple MacBook Pro 13\" (2017) 256 GB",
+      "category": "Laptops",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scuf-reflex-controller-fur-playstation-5": {
+      "name": "Scuf Reflex Controller für PlayStation 5",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-28-zoll-damen": {
+      "name": "Fischer E-Bike 28 Zoll Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "twinny-load-e-carrier-ii": {
+      "name": "Twinny Load E-Carrier II",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-race-750-29-e-mtb-hardtail": {
+      "name": "CUBE Reaction Hybrid Race 750 29\" E-MTB Hardtail",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-zeg-cento-10-us-46cm": {
+      "name": "KTM ZEG CENTO 10 US 46cm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zellentausch-24-25-26-36v": {
+      "name": "Zellentausch 24, 25, 26, 36V",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-22696-strada-sport-e-bike-xl": {
+      "name": "Atera 22696 Strada Sport E-Bike XL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-mountainbike-29-zoll-rahmen-xl": {
+      "name": "Haibike E-Mountainbike 29 Zoll Rahmen XL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-trekking-7-5c": {
+      "name": "Victoria e.trekking 7.5C",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-precede-on-cf-8": {
+      "name": "Canyon Precede:ON CF 8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-fahrrad": {
+      "name": "Fischer e bike Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-tour-cx-610-nyon-e-bike-trekkingrad": {
+      "name": "KTM Macina Tour CX 610 NYON E-Bike Trekkingrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-cross-rider-evo-1-e-bike": {
+      "name": "Bulls Cross Rider Evo 1 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-nike-e-bike": {
+      "name": "Victoria E-Nike E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "propheten-graveler-kinder-e-bike-24-zoll": {
+      "name": "Propheten Graveler Kinder E-Bike 24 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-e-bike-28-zoll": {
+      "name": "Telefunken E-Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-256-gb-black-titanium": {
+      "name": "Apple iPhone 15 Pro 256GB Black Titanium",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7-iv-kit": {
+      "name": "Sony Alpha 7 IV Kit",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-500n-analoge-spiegelreflexkamera": {
+      "name": "Canon EOS 500N analoge Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz18-bridge-kamera": {
+      "name": "Panasonic Lumix DMC-FZ18 Bridge-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d800e": {
+      "name": "NIKON D800E",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vintage-klappkamera-mit-rodenstock-objektiv-und-compur-verschluss": {
+      "name": "Vintage Klappkamera mit Rodenstock Objektiv und Compur Verschluss",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-zeiss-vario-tessar-t-fe-24-70mm-f4-za-oss": {
+      "name": "Sony Zeiss Vario-Tessar T* FE 24-70mm F4 ZA OSS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-ei-2000-digital-camera-kit": {
+      "name": "Pentax EI-2000 Digital Camera Kit",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-s3100": {
+      "name": "Nikon Coolpix S3100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-galaxy-camera-gc110": {
+      "name": "Samsung Galaxy Camera GC110",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "holy-stone-hs175d-faltbar-gps-drohne": {
+      "name": "Holy Stone HS175D Faltbar GPS Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-canosound-514xl-s-super-8-tonfilmkamera": {
+      "name": "Canon Canosound 514XL-S Super 8 Tonfilmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dsc-w350-digitalkamera": {
+      "name": "Sony DSC-W350 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero3": {
+      "name": "GoPro Hero3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-3-drohne": {
+      "name": "DJI Mini 3 Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-4-session": {
+      "name": "GoPro Hero 4 Session",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-mountainbike": {
+      "name": "Cube E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-liv-e-bike": {
+      "name": "Giant Liv E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-trekking-e-bike": {
+      "name": "Prophete Trekking E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fatbike-20-zoll": {
+      "name": "E bike fatbike 20 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-2-generation": {
+      "name": "Apple iPhone SE 2. Generation",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xiaomi-13-t-pro-512-gb": {
+      "name": "Xiaomi 13 T Pro 512 GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
