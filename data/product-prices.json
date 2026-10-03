@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T16:34:20.272Z",
+  "updatedAt": "2026-10-03T16:39:17.817Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128Gb",
+      "name": "Apple iPhone 13 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -203,7 +203,7 @@
     },
     "e-bike": {
       "name": "E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -694,7 +694,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim": {
-      "name": "Sony PlayStation 5 slim",
+      "name": "Sony PlayStation 5 Slim",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256 Gb",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2692,7 +2692,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-512-gb": {
-      "name": "iPhone 17 Pro 512GB",
+      "name": "iPhone 17 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7516,7 +7516,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-max-512-gb": {
-      "name": "Apple iPhone 14 Pro Max 512 GB",
+      "name": "Apple iPhone 14 Pro Max 512gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13781,7 +13781,7 @@
     },
     "ortler-e-bike": {
       "name": "Ortler E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13799,7 +13799,7 @@
     },
     "winora-sinus-n5": {
       "name": "Winora Sinus N5",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -28170,6 +28170,198 @@
     "sony-xperia-x": {
       "name": "Sony Xperia X",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-16-m4-pro-14c-20c-24-gb-ram-512-gb-ssd": {
+      "name": "MacBook Pro 16\" M4 Pro 14C/20C 24GB RAM 512GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-2060-dual-evo-6-gb": {
+      "name": "ASUS RTX 2060 Dual EVO 6GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-tesla-v100-32-gb-vram": {
+      "name": "Nvidia Tesla V100 32 GB VRAM",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rogstrix-rx-6650-xt": {
+      "name": "Asus RogStrix RX 6650 XT",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-2070-8-gb": {
+      "name": "MSI GeForce RTX 2070 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-dualsense-wireless-controller": {
+      "name": "Sony PlayStation 5 DualSense Wireless Controller",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-audi-frontkamera": {
+      "name": "VW Audi Frontkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scuf-ps5-edge-controller": {
+      "name": "Scuf PS5 Edge Controller",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-bike-sduro-e-mtb-mountainbike": {
+      "name": "Haibike E-Bike Sduro E-MTB Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28-zoll-centurion-e-fire-sport-r750": {
+      "name": "E Bike 28 Zoll Centurion e-Fire Sport R750",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-160-race": {
+      "name": "CUBE Stereo Hybrid 160 Race",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-arroyo-28-zoll": {
+      "name": "Gazelle Arroyo 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-xs": {
+      "name": "KTM XS",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalthoff-e-bike": {
+      "name": "Kalthoff E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-e-bike-28-zoll": {
+      "name": "Zundapp E-Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rcb-rk15-pro-e-bike": {
+      "name": "RCB RK15 PRO E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ebike-victoria": {
+      "name": "Ebike Victoria",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-zoomate-105": {
+      "name": "Yashica Zoomate 105",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero9": {
+      "name": "GoPro HERO9",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hikvision-ds-2de2a404iw-de3": {
+      "name": "Hikvision DS-2DE2A404IW-DE3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-rx100-v": {
+      "name": "Sony RX100 V",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fablekids-5kn-kinder-dreirad": {
+      "name": "FableKids 5kn Kinder-Dreirad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mavic-mini": {
+      "name": "DJI Mavic Mini",
+      "category": "Drohnen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lt-boulevard-luxe": {
+      "name": "LT Boulevard Luxe",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-geniesser-4-0": {
+      "name": "Prophete Geniesser 4.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-sub-tour-20-eride": {
+      "name": "Scott Sub Tour 20 eRIDE",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "adore-enforce-e-mountainbike": {
+      "name": "Adore Enforce E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-z898": {
+      "name": "Zündapp Z898",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13-midnight-blue": {
+      "name": "iPhone 13 Midnight Blue",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-r6-ii": {
+      "name": "Canon R6 II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-qx10": {
+      "name": "Sony Cyber-Shot DSC-QX10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xmr-c-m11-turbo-4k-drone": {
+      "name": "XMR/C M11 Turbo 4K Drone",
+      "category": "Drone",
       "referencePrice": null,
       "updatedAt": null
     }
