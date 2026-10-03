@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T14:05:26.751Z",
+  "updatedAt": "2026-10-03T14:09:47.776Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128gb",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2482,7 +2482,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-quadro-rtx-4000": {
-      "name": "NVidia Quadro RTX 4000",
+      "name": "NVIDIA Quadro RTX 4000",
       "category": "Grafikkarten",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256 GB",
+      "name": "Apple iPhone 15 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2776,7 +2776,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-64-gb": {
-      "name": "Apple iPhone 11 Pro 64GB",
+      "name": "Apple iPhone 11 Pro 64 GB",
       "category": "Smartphones",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2819,7 +2819,7 @@
     },
     "gigabyte-aorus-rtx-3090-gaming-box-24-gb": {
       "name": "GIGABYTE AORUS RTX 3090 Gaming Box 24GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256 GB",
+      "name": "iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3598,7 +3598,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-pro-512-gb": {
-      "name": "Apple iPhone 15 Pro 512GB",
+      "name": "Apple iPhone 15 Pro 512Gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -4787,7 +4787,7 @@
     },
     "segway-navimow-mahroboter": {
       "name": "Segway Navimow Mähroboter",
-      "category": "Gartengeräte",
+      "category": "Mähroboter",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5939,7 +5939,7 @@
     },
     "beton-garage-mit-sicherheitskonzept": {
       "name": "Beton-Garage mit Sicherheitskonzept",
-      "category": "Gebäude",
+      "category": "Garage",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6142,7 +6142,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-825-gb": {
-      "name": "Sony PlayStation 5 Slim Digital 825 GB",
+      "name": "Sony PlayStation 5 Slim Digital 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -6256,7 +6256,7 @@
       "updatedAt": null
     },
     "apple-iphone-x-64-gb": {
-      "name": "Apple iPhone X 64 GB",
+      "name": "Apple iPhone X 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6497,7 +6497,7 @@
     },
     "conway-xyron-s-7-9-carbon": {
       "name": "Conway Xyron S 7.9 Carbon",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10330,7 +10330,7 @@
       "updatedAt": null
     },
     "canon-ixus-115-hs": {
-      "name": "Canon IXUS 115 Hs",
+      "name": "Canon Ixus 115 HS",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -21797,6 +21797,186 @@
     },
     "playstation-3-eyetoy-kamera": {
       "name": "PlayStation 3 EyeToy Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cone-esuv-in-ltd-625": {
+      "name": "CONE eSUV IN LTD 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-1-tb": {
+      "name": "Apple MacBook Air M5 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-18-gb": {
+      "name": "Apple MacBook Pro 14\" 18 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-12-2017": {
+      "name": "Apple MacBook 12\" 2017",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-2026-512-gb": {
+      "name": "Apple MacBook Air 15\" (2026) 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-m1-2020-16-gb": {
+      "name": "Apple MacBook Pro 13\" M1 (2020) 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-m1-pro-32-gb": {
+      "name": "Apple MacBook Pro 16\" M1 Pro 32 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-2080-super-gaming-trio": {
+      "name": "MSI GeForce RTX 2080 Super Gaming Trio",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-jam2-6-9-nine-sky-grey-xl-e-mountainbike": {
+      "name": "Focus Jam2 6,9 Nine Sky Grey XL E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-performance": {
+      "name": "Cube Reaction Hybrid Performance",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yamaha-e-bike-akku-630wh": {
+      "name": "Yamaha E-Bike Akku 630Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga-e-bike": {
+      "name": "Kettler Quadriga E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-aventura2-e-bike": {
+      "name": "Focus Aventura² E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "milesight-ms-c5361-hepb-ptz-ip-uberwachungskamera": {
+      "name": "Milesight MS-C5361-HEPB PTZ IP Überwachungskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktina-iia": {
+      "name": "Praktina IIA",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zeiss-stemi-305": {
+      "name": "Zeiss Stemi 305",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-5": {
+      "name": "Canon EOS 5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-mv900-mini-dv-camcorder": {
+      "name": "Canon MV900 Mini DV Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-k-1000": {
+      "name": "Pentax K-1000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-9-9-systemkamera": {
+      "name": "Sony Alpha 9 (α9) Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "viltrox-dc-a1-7-kameramonitor": {
+      "name": "Viltrox DC-A1 7\" Kameramonitor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-lumix-dmc-tz71-digitalkamera": {
+      "name": "Olympus Lumix DMC-TZ71 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx720-hs": {
+      "name": "Canon PowerShot SX720 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-3": {
+      "name": "GoPro Hero 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikkormat-el-schwarz": {
+      "name": "Nikkormat EL Schwarz",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arlo-fhd-uberwachungskamera": {
+      "name": "Arlo FHD Überwachungskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "medion-md-9021-digitaler-stereo-camcorder": {
+      "name": "Medion MD 9021 Digitaler Stereo Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ray-ban-meta-smart-glasses": {
+      "name": "Ray-Ban Meta Smart Glasses",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps3-zubehor-set": {
+      "name": "PS3 Zubehör Set",
+      "category": "Zubehör",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentacon-six-tl-mittelformat-6x6-bodies": {
+      "name": "Pentacon Six TL Mittelformat 6x6 Bodies",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
