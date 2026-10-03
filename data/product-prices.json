@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T02:07:58.939Z",
+  "updatedAt": "2026-10-03T02:12:53.935Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -1102,7 +1102,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-256-gb": {
-      "name": "Apple iPhone 13 Pro 256GB",
+      "name": "Apple iPhone 13 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 390,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2776,7 +2776,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-64-gb": {
-      "name": "Apple iPhone 11 Pro 64 GB",
+      "name": "Apple iPhone 11 Pro 64GB",
       "category": "Smartphones",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -18450,6 +18450,24 @@
     "grafikkarten-pool": {
       "name": "Grafikkarten pool",
       "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-c-advance": {
+      "name": "Kalkhoff Image C+ Advance",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-scooter-kukurini-g4": {
+      "name": "E-Scooter kukurini g4",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-display": {
+      "name": "iPhone 17 Pro Display",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
