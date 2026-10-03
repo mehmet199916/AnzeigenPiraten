@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T13:01:26.798Z",
+  "updatedAt": "2026-10-03T13:04:15.827Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -802,7 +802,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "dji-osmo-pocket-4p": {
-      "name": "DJI Osmo Pocket 4P",
+      "name": "Dji Osmo Pocket 4P",
       "category": "Kameras",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -947,7 +947,7 @@
     },
     "hercules-e-bike": {
       "name": "Hercules E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 900,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2284,8 +2284,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 (Slim) 1TB",
-      "category": "Spielenkonsolen",
+      "name": "Sony PlayStation 5 Slim 1TB",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2297,7 +2297,7 @@
     },
     "playstation-5-controller": {
       "name": "PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 40,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3443,7 +3443,7 @@
     },
     "stiga-a8v-mahroboter": {
       "name": "STIGA A8V Mähroboter",
-      "category": "Gartengeräte",
+      "category": "Kameras",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7540,7 +7540,7 @@
       "updatedAt": null
     },
     "apple-iphone-xr-64-gb": {
-      "name": "Apple iPhone XR 64GB",
+      "name": "Apple iPhone XR 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8830,7 +8830,7 @@
       "updatedAt": null
     },
     "canon-eos-600d": {
-      "name": "Canon EOS 600d",
+      "name": "Canon EOS 600D",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -10984,7 +10984,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-256-gb": {
-      "name": "Apple iPhone 12 Mini 256GB",
+      "name": "Apple iPhone 12 mini 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -18876,6 +18876,246 @@
     "sony-playstation-5-slim-konsole-825-gb": {
       "name": "Sony PlayStation 5 Slim Konsole 825 GB",
       "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-mountainbike-s-duro": {
+      "name": "Haibike E-Mountainbike S-duro",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-strada-evo-2-fahrradtrager": {
+      "name": "Atera Strada EVO 2 Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-2025": {
+      "name": "E Bike 2025",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samebike-klapprad-e-bike": {
+      "name": "SAMEBIKE Klapprad E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cowboy-c3-e-bike": {
+      "name": "Cowboy C3 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yamaha-r-raymon-crossray-e-3-0-2022": {
+      "name": "Yamaha R Raymon CrossRay E 3.0 (2022)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-crossrider-e-bike": {
+      "name": "Bulls Crossrider E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "campus-bfm18": {
+      "name": "Campus BFM18",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fatbike-45-kmh-mountainbike": {
+      "name": "E-bike fatbike 45 kmh Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-e-bike": {
+      "name": "BMW E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-128-gb": {
+      "name": "Apple iPhone SE 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m1-8-gb": {
+      "name": "Apple MacBook Air 13\" M1 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-2-16-gb": {
+      "name": "Apple MacBook Pro 16,2 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-2017": {
+      "name": "Apple MacBook Air 13 Zoll (2017)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2016-16-gb": {
+      "name": "Apple MacBook Pro 13 Zoll (2016) 16 Gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-sapphire-rx-570": {
+      "name": "AMD Radeon Sapphire RX 570",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-rtx-4070-dual-12-gb": {
+      "name": "Palit GeForce RTX 4070 Dual 12 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-spiel-football-manager-26": {
+      "name": "PlayStation 5 Spiel Football Manager 26",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g29-driving-force-racing-set": {
+      "name": "Logitech G29 Driving Force Racing-Set",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mortal-shell-revered-edition": {
+      "name": "Mortal Shell Revered Edition",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-e-leica": {
+      "name": "R-E Leica",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-retina-1a": {
+      "name": "Kodak Retina 1a",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-bike-pedelec": {
+      "name": "Haibike E-Bike Pedelec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-160-hpc-tm-625-27-5": {
+      "name": "Cube Stereo Hybrid 160 HPC TM 625 27.5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-cujo-neo-e-mtb-fully": {
+      "name": "Cannondale Cujo Neo E–MTB Fully",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nicolai-e-bike": {
+      "name": "Nicolai E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-8x-tour": {
+      "name": "Stevens E-8X Tour",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-j1-fotokamera": {
+      "name": "Nikon J1 Fotokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-sfx-spiegelreflexkamera": {
+      "name": "Pentax SFX Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xiaomi-11t-pro-128-gb": {
+      "name": "Xiaomi 11T Pro 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a-300": {
+      "name": "Sony Alpha A 300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-zoom-date-125-s": {
+      "name": "Fujifilm Zoom Date 125 S",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iroad-t10-dashcam": {
+      "name": "IROAD T10 Dashcam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "otokop-3-agfa-box-bilora-box-fotoapparate-gomz-balkenkamera": {
+      "name": "otokop 3 Agfa Box Bilora Box Fotoapparate GOMZ Balkenkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dsc-f828": {
+      "name": "Sony DSC-F828",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "instax-mini-12": {
+      "name": "Instax Mini 12",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-powerflex-10x-digitalkamera-64-gb": {
+      "name": "Rollei Powerflex 10x Digitalkamera 64 GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zenit-12xp-spiegelreflexkamera": {
+      "name": "Zenit 12XP Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a6700": {
+      "name": "Sony Alpha A6700",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ring-spotlight-cam-plus": {
+      "name": "Ring Spotlight Cam Plus",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
