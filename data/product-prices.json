@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-03T02:22:55.614Z",
+  "updatedAt": "2026-10-03T02:27:58.456Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -874,7 +874,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "raymon-tourray-e-5-0-e-bike": {
-      "name": "Raymon Tourray E 5.0 E-Bike",
+      "name": "Raymon Tourray E 5.0 E-BIKE",
       "category": "Fahrräder",
       "referencePrice": 1300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -18486,6 +18486,18 @@
     "apple-iphone-16-pink-128-gb": {
       "name": "Apple iPhone 16 Pink 128GB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-goutor-5-e-bike": {
+      "name": "Flyer Goutor 5 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-grenoble-c8-bosch-e-bike": {
+      "name": "GAZELLE GRENOBLE C8 BOSCH E-BIKE",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
