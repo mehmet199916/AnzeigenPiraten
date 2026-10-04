@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:42:32.757Z",
+  "updatedAt": "2026-10-04T17:49:15.402Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,13 +1235,13 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-825-gb": {
-      "name": "Sony PlayStation 5 Konsole 825GB",
-      "category": "Spielekonsolen",
+      "name": "Sony PlayStation 5 Konsole 825 GB",
+      "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3695,7 +3695,7 @@
     },
     "e-bike-victoria-28-zoll": {
       "name": "E Bike Victoria 28 Zoll",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6869,7 +6869,7 @@
     },
     "sony-playstation-5-digital-edition-825-gb": {
       "name": "Sony PlayStation 5 Digital Edition 825GB",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13859,7 +13859,7 @@
     },
     "sony-playstation-5-slim-digital-edition-825-gb": {
       "name": "Sony PlayStation 5 Slim Digital Edition 825GB",
-      "category": "Spielekonsolen",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -16373,7 +16373,7 @@
     },
     "e-bike-outlet-bad-segeberg": {
       "name": "E-Bike Outlet Bad Segeberg",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -24004,8 +24004,8 @@
       "updatedAt": null
     },
     "msi-geforce-rtx-4070-super": {
-      "name": "MSI GeForce RTX 4070 SUPER",
-      "category": "Computer",
+      "name": "MSI GeForce RTX 4070 Super",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26956,7 +26956,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-32-gb": {
-      "name": "Apple MacBook Pro 16\" 32 GB",
+      "name": "Apple MacBook Pro 16\" 32GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -32231,6 +32231,132 @@
     },
     "greyp-g6-3-offroad": {
       "name": "Greyp G6.3 Offroad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lenovo-v15-12-gb": {
+      "name": "Lenovo V15 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blackmagic-design-decklink-mini-monitor-4k": {
+      "name": "Blackmagic Design DeckLink Mini Monitor 4K",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-nvidia-geforce-gtx-960-4-gb": {
+      "name": "Gigabyte NVIDIA GeForce GTX 960 4GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-turbo-geforce-rtx-2070-super-8-gb": {
+      "name": "ASUS Turbo GeForce RTX 2070 Super 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1660-6-gb-grafikkarte": {
+      "name": "NVIDIA GTX 1660 6GB Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-8-gb": {
+      "name": "Apple MacBook Pro 14 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-16-gb": {
+      "name": "Apple MacBook Air M2 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-editor-slx-400x-fe": {
+      "name": "Cube Editor SLX 400X FE",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exakta-tl500": {
+      "name": "Exakta TL500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-bessa-ii": {
+      "name": "Voigtländer Bessa II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-courier-luxe": {
+      "name": "Stevens E-Courier Luxe",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "emotion-e-bike-damen": {
+      "name": "Emotion E-Bike Damen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-skutta-e-scooter": {
+      "name": "Husqvarna Skutta e-scooter",
+      "category": "E-Scooter",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hnf-nicolai-sd3-urban-e-bike": {
+      "name": "HNF-NICOLAI SD3 Urban E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "deruiz-dolomit-mtb-e-bike": {
+      "name": "Deruiz Dolomit MTB E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fiido-e-bike": {
+      "name": "Fiido E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28zoll-damen-batavus-fritz-ltd": {
+      "name": "E Bike 28Zoll Damen BATAVUS Fritz LTD",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "urbanbiker-berna-24-kompaktes-e-bike": {
+      "name": "UrbanBiker Berna 24\" Kompaktes E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-allant-7-lowstep-2025-gr-s": {
+      "name": "TREK Allant+ 7 Lowstep 2025 Gr. S",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-kemen-mid-40-gr-m": {
+      "name": "ORBEA Kemen MID 40 Gr. M",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-milano-26-zoll-e-bike": {
+      "name": "NCM Milano 26 Zoll E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
