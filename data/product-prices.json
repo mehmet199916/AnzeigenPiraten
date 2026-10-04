@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T16:44:26.936Z",
+  "updatedAt": "2026-10-04T16:49:27.257Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -202,7 +202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E-bike",
+      "name": "E bike",
       "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2135,7 +2135,7 @@
     },
     "gigabyte-rtx-3080-10-gb-aorus-xtreme": {
       "name": "Gigabyte RTX 3080 10GB Aorus Xtreme",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825GB",
+      "name": "Sony PlayStation 5 Digital Edition 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro Max 256GB",
+      "name": "iPhone 17 Pro MAX 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -16246,7 +16246,7 @@
       "updatedAt": null
     },
     "haibike-trekking-7": {
-      "name": "Haibike Trekking 7",
+      "name": "HAIBIKE Trekking 7",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -29207,7 +29207,7 @@
     },
     "bergamont-e-revox-c-8-0-29-rh-l-bosch-500wh": {
       "name": "Bergamont E-Revox C 8.0 29\" RH L Bosch 500Wh",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -30623,6 +30623,168 @@
     },
     "e-mountainbike-rockrider": {
       "name": "E-Mountainbike rockrider",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cowboy-2-e-bike": {
+      "name": "Cowboy 2 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-max-5g-128-gb": {
+      "name": "Apple iPhone 14 Pro Max 5G 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-14-zoll-m4-24-gb-1-tb": {
+      "name": "MacBook Pro 14 Zoll M4 24GB 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-16-gb-256-gb": {
+      "name": "Apple MacBook Air M2 16GB 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-2017-256-gb": {
+      "name": "Apple MacBook Air 13 Zoll 2017 256GB",
+      "category": "Computers",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-zoll-late-2013-16-gb": {
+      "name": "Apple MacBook Pro 15 Zoll (Late 2013) 16 GB",
+      "category": "Computers",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-2020-8-gb": {
+      "name": "Apple MacBook Air 13 Zoll 2020 8 GB",
+      "category": "Computers",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-16-gb": {
+      "name": "Apple MacBook Pro M1 16gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m5-16-gb": {
+      "name": "Apple MacBook Pro 14\" M5 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-256-gb": {
+      "name": "Apple MacBook Air M2 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-2015-8-gb": {
+      "name": "MacBook Pro 2015 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-grafikkarte-1060": {
+      "name": "ASUS Grafikkarte 1060",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-1660-super-grafikkarten": {
+      "name": "GTX 1660 Super Grafikkarten",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-regular-edition-825-gb": {
+      "name": "PlayStation 5 Regular Edition 825GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-pulse-elite-wireless": {
+      "name": "Sony PlayStation Pulse Elite Wireless",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-portal-remote-player-fur-ps5": {
+      "name": "Sony PlayStation Portal Remote-Player für PS5",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pc": {
+      "name": "PC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-cube-reaction-hybrid-pro-625-allroad": {
+      "name": "E Bike Cube Reaction Hybrid Pro 625 Allroad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sparta-ion-gl-grande-luxe-e-bike-28-zoll": {
+      "name": "Sparta ION GL Grande Luxe E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-mountainbike-29-zoll": {
+      "name": "Cube E-Mountainbike 29 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-endurace-on-7": {
+      "name": "Canyon Endurace:ON 7",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-om-5ii": {
+      "name": "Olympus OM-5ii",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "technibike-votaro-e-mountainbike": {
+      "name": "Technibike Votaro E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-allgrouund-evo-750-e-rad": {
+      "name": "Bulls Allgrouund Evo 750 E Rad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "herren-e-bike-kayza-sapric-4-mit-bosch-akku": {
+      "name": "Herren E-bike Kayza Sapric 4 mit Bosch Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-mit-bosch-500-wh-akku": {
+      "name": "Kalkhoff E-Bike mit Bosch 500 Wh Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-cube-reaction-hybrid-eagle": {
+      "name": "E Bike Cube Reaction Hybrid Eagle",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
