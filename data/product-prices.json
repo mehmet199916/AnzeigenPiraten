@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T13:09:16.541Z",
+  "updatedAt": "2026-10-04T16:44:26.936Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2482,7 +2482,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-quadro-rtx-4000": {
-      "name": "Nvidia Quadro RTX 4000",
+      "name": "NVidia Quadro RTX 4000",
       "category": "Computer",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6880,7 +6880,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-825-gb": {
-      "name": "Sony PlayStation 5 825 GB",
+      "name": "Sony PlayStation 5 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7810,7 +7810,7 @@
       "updatedAt": null
     },
     "insta360-x4": {
-      "name": "Insta360 x4",
+      "name": "Insta360 X4",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -12940,8 +12940,8 @@
       "updatedAt": null
     },
     "fischer-e-bike": {
-      "name": "Fischer E Bike",
-      "category": "E-Bikes",
+      "name": "Fischer E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13858,7 +13858,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Slim Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Slim Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -30431,6 +30431,198 @@
     },
     "e-bike-26er-50km-reichweite-mittelmotor": {
       "name": "E- Bike– 26er – 50km Reichweite - Mittelmotor",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-team-29-zoll": {
+      "name": "KTM Macina TEAM 29 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-desert-titanium-256-gb": {
+      "name": "Apple iPhone 16 Pro Desert titanium 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-city-28-zoll-ec900-city-nexus-bosch-active-line": {
+      "name": "E-Bike City 28 Zoll EC900 City Nexus Bosch Active Line+",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-quadro-m4000-8-gb": {
+      "name": "Nvidia Quadro M4000 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-digital-edition-konsole": {
+      "name": "Sony PlayStation 5 Slim Digital Edition Konsole",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digital-edition-slim-1-tb": {
+      "name": "Sony PlayStation 5 Digital Edition (Slim) 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-512-gb": {
+      "name": "Apple MacBook Pro 16 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-2019-512-gb": {
+      "name": "Apple MacBook Pro 16\" 2019 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-200-gb": {
+      "name": "Apple MacBook Pro 200GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "top-rose-xtra-watt-e-bike": {
+      "name": "Top Rose Xtra Watt E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bianchi-e-vertic-t-type-x5-x7-9s-400": {
+      "name": "Bianchi E-VERTIC T TYPE X5/X7 9S 400",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-140-tm-500": {
+      "name": "Cube Stereo Hybrid 140 TM 500",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-scooter": {
+      "name": "E-Scooter",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-aspect-930-e-ride": {
+      "name": "Scott Aspect 930 e-Ride",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "penta-e-bike": {
+      "name": "PENTA E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riverside-city-e-bike-nexus-8-active-plus": {
+      "name": "Riverside City E-Bike Nexus 8 Active Plus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-ancura-e8-r-disc": {
+      "name": "Pegasus Ancura E8 R Disc",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-ktm-trekking-fahrrad": {
+      "name": "E-Bike KTM Trekking Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-e-bike-bosch-cx": {
+      "name": "Focus E Bike Bosch CX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cortina-e-bike-hollandrad": {
+      "name": "Cortina e-bike Hollandrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-x700": {
+      "name": "Minolta X700",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-40d": {
+      "name": "Canon EOS 40D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z6": {
+      "name": "Nikon Z6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-fz50": {
+      "name": "Panasonic DMC-FZ50",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d750-spiegelreflexkamera": {
+      "name": "Nikon D750 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-digitalkamera-d50": {
+      "name": "Nikon Digitalkamera D50",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "midland-bike-guardian": {
+      "name": "Midland Bike Guardian",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-gravelbike": {
+      "name": "E Gravelbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "chrisson-e-gent": {
+      "name": "CHRISSON E-Gent",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-e-bike-damen-zundapp": {
+      "name": "Pegasus E-Bike Damen Zündapp",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-city-e-bike-rc-657": {
+      "name": "Telefunken City E Bike RC 657",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-mountainbike-rockrider": {
+      "name": "E-Mountainbike rockrider",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
