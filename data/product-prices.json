@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T16:49:27.257Z",
+  "updatedAt": "2026-10-04T16:54:24.972Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128gb",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3713,7 +3713,7 @@
     },
     "e-bike-stevens-e-antelao": {
       "name": "E-Bike Stevens E-Antelao",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10672,7 +10672,7 @@
       "updatedAt": null
     },
     "kalkhoff-e-bike-28-zoll": {
-      "name": "Kalkhoff E-Bike 28 Zoll",
+      "name": "Kalkhoff E Bike 28 Zoll",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -10720,7 +10720,7 @@
       "updatedAt": null
     },
     "apple-iphone-18-pro-max-256-gb": {
-      "name": "Apple iPhone 18 Pro Max 256GB",
+      "name": "Apple iPhone 18 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -28871,7 +28871,7 @@
     },
     "apple-iphone-18-pro-pro-max-512-gb": {
       "name": "Apple iPhone 18 Pro & Pro Max 512GB",
-      "category": "Computer",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -30785,6 +30785,138 @@
     },
     "e-bike-cube-reaction-hybrid-eagle": {
       "name": "E Bike Cube Reaction Hybrid Eagle",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "volvo-thule-easyfold-xt-2-f-f2-fix4bike-fahrradtrager": {
+      "name": "Volvo Thule EasyFold XT 2 F F2 Fix4Bike Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-512-gb": {
+      "name": "Apple MacBook Air M1 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m2-2023-15": {
+      "name": "MacBook Air M2 (2023) 15\"",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-radeon-rx-6650-xt-8-gb": {
+      "name": "MSI RADEON RX 6650 XT 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "powercolor-red-dragon-radeon-rx-vega-56-8-gb": {
+      "name": "PowerColor Red Dragon Radeon RX Vega 56 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-titan-x": {
+      "name": "NVIDIA GeForce GTX Titan X",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-3070-gaming-oc-8g": {
+      "name": "Gigabyte GeForce RTX 3070 Gaming OC 8G",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-4070-windforce-oc-v2-12-gb": {
+      "name": "Gigabyte GeForce RTX 4070 WINDFORCE OC V2 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-performance-500-allroad": {
+      "name": "CUBE Reaction Hybrid Performance 500 Allroad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-milano-max-n8c": {
+      "name": "NCM Milano MAX N8C",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-habit-neo-1": {
+      "name": "Cannondale Habit neo 1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-750": {
+      "name": "Bosch PowerTube 750",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-bk5-e-bike": {
+      "name": "Hitway BK5 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agattu-wave-i7r-hs": {
+      "name": "Kalkhoff Agattu Wave I7R HS",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-gravelray-e-7-0": {
+      "name": "Raymon Gravelray E 7.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canondale-mavaro-e-bike": {
+      "name": "Canondale Mavaro e-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-aventura2-6-7-rh48-bj-2021": {
+      "name": "Focus Aventura2 6.7 RH48 BJ 2021",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-herren-e-bike-28-zoll": {
+      "name": "FISCHER Herren E-Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-e-bike-29zoll-und-27-5-zoll": {
+      "name": "Giant E-Bike 29Zoll und 27,5 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-eco-e-bike": {
+      "name": "Kreidler Eco E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-hpa-sl-500-e-bike": {
+      "name": "Cube Reaction Hybrid HPA SL 500 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-alu-e-bike": {
+      "name": "Prophete Alu E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
