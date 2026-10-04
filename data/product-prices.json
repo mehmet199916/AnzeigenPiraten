@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T19:14:28.896Z",
+  "updatedAt": "2026-10-04T19:19:20.776Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64 GB",
+      "name": "Apple iPhone 12 64GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -64,7 +64,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256 GB",
+      "name": "Apple iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 gb",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -760,7 +760,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-a6400": {
-      "name": "Sony a6400",
+      "name": "Sony A6400",
       "category": "Kameras",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1013,7 +1013,7 @@
     },
     "cube-e-bike": {
       "name": "Cube E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256GB",
+      "name": "Apple iPhone 14 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2267,7 +2267,7 @@
     },
     "playstation-5-slim": {
       "name": "PlayStation 5 Slim",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128 GB",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128 GB",
+      "name": "Apple iPhone 11 128GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5452,7 +5452,7 @@
       "updatedAt": null
     },
     "iphone-15-pro-256-gb": {
-      "name": "iPhone 15 Pro 256 GB",
+      "name": "iPhone 15 Pro 256Gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -20458,7 +20458,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-2017-8-gb": {
-      "name": "Apple MacBook Pro 13\" (2017) 8GB",
+      "name": "Apple MacBook Pro 13” 2017 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -35286,6 +35286,174 @@
     "iphone-14-pro-1-tb": {
       "name": "iPhone 14 Pro 1TB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-stevens-e-courier-luxe": {
+      "name": "E-Bike Stevens E-Courier Luxe",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-cube-town-hybrid-sl": {
+      "name": "E-Bike Cube Town Hybrid SL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2017-8-gb": {
+      "name": "Apple MacBook Pro 2017 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-4-gb": {
+      "name": "Apple MacBook Air 13 Zoll 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-13-2017-16-gb": {
+      "name": "MacBook Pro 13\" (2017) 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-retina-2020-8-gb": {
+      "name": "Apple MacBook Air 13\" Retina 2020 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "geforce-rtx-4070-kfa2-3-lufter": {
+      "name": "GeForce RTX 4070 KFA2 3 Lüfter",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-rtx-5060-ti-infinity-3-16-gb": {
+      "name": "Palit GeForce RTX 5060 Ti Infinity 3 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-quadro-p4000-8-gb": {
+      "name": "Nvidia Quadro P4000 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-stereo-hybrid": {
+      "name": "Cube E-Bike Stereo Hybrid",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lobe-hollandrad-e-bike": {
+      "name": "Lobe Hollandrad E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-grandurance-7-e-gravel": {
+      "name": "Bergamont E-Grandurance 7 E-Gravel",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-pathlite-on-7": {
+      "name": "Canyon Pathlite:ON 7",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-manufaktur-8-gang": {
+      "name": "E Bike Manufaktur 8 Gang",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-mountainbike-stereo-hybrid-120-race": {
+      "name": "Cube Mountainbike Stereo Hybrid 120 Race",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-analog-kamera": {
+      "name": "Yashica Analog Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-one-rs": {
+      "name": "Insta360 One RS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kinder-fotoapparat-digital-kamera": {
+      "name": "Kinder Fotoapparat Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx9v": {
+      "name": "Sony Cyber-shot DSC-HX9V",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "akaso-action-kamera": {
+      "name": "Akaso Action Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-2016-64-gb": {
+      "name": "Apple iPhone SE 2016 64gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-max-258-gb": {
+      "name": "Apple iPhone 15 Pro Max 258 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17pro-256-gb": {
+      "name": "Apple iPhone 17Pro 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a55-slt-55v": {
+      "name": "Sony A55 (SLT-55V)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "unterwasserkamera-4k-64mp-16ft-wasserdichte-digitalkamera": {
+      "name": "Unterwasserkamera 4K 64MP 16FT wasserdichte Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-now-generation-3": {
+      "name": "Polaroid Now Generation 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-em": {
+      "name": "Nikon EM",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "foscam-uberwachungskamera-16-gb": {
+      "name": "FOSCAM Überwachungskamera 16GB",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
