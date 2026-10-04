@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T16:54:24.972Z",
+  "updatedAt": "2026-10-04T16:59:23.025Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -413,7 +413,7 @@
     },
     "apple-macbook-pro-2019": {
       "name": "Apple MacBook Pro 2019",
-      "category": "Laptops",
+      "category": "Computer",
       "referencePrice": 400,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -647,13 +647,13 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
       "name": "Sony PlayStation 5 Konsole 1TB",
-      "category": "Spielekonsolen",
+      "category": "Smartphones",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3551,7 +3551,7 @@
     },
     "nokia-x10-6-gb": {
       "name": "Nokia X10 6GB",
-      "category": "Kameras",
+      "category": "Smartphones",
       "referencePrice": 90,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256GB",
+      "name": "Apple iPhone 15 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10594,7 +10594,7 @@
       "updatedAt": null
     },
     "prophete-e-bike": {
-      "name": "Prophete E-Bike",
+      "name": "Prophete E Bike",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -11231,7 +11231,7 @@
     },
     "telefunken-e-bike": {
       "name": "Telefunken E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13834,8 +13834,8 @@
       "updatedAt": null
     },
     "apple-macbook-neo-13-256-gb": {
-      "name": "Apple MacBook Neo 13\" 256GB",
-      "category": "Computer",
+      "name": "Apple MacBook Neo 13 256 GB",
+      "category": "Computers",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -15772,7 +15772,7 @@
       "updatedAt": null
     },
     "gopro-hero-9-black": {
-      "name": "GoPro Hero 9 Black",
+      "name": "GoPro HERO 9 Black",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -25391,7 +25391,7 @@
     },
     "cube-reaction-pro-hybrid-e-bike-xl-29-800wh": {
       "name": "Cube Reaction Pro Hybrid E-Bike XL 29\" 800Wh",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -30917,6 +30917,156 @@
     },
     "prophete-alu-e-bike": {
       "name": "Prophete Alu E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-5-s-advance": {
+      "name": "Kalkhoff Image 5.S Advance",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-sevenray-1-0": {
+      "name": "Raymon SevenRay 1.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "28-zoll-herren-e-bike-trekking-fahrrad-nova-bosch-500wh-10s-deore": {
+      "name": "28 Zoll Herren E-Bike Trekking Fahrrad NOVA BOSCH 500Wh 10s DEORE",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lastenrad-e-bike": {
+      "name": "Lastenrad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-512-gb": {
+      "name": "Apple MacBook Air M2 512gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-24-gb": {
+      "name": "Apple MacBook Air M3 24 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elsa-erazor-x2-a32": {
+      "name": "ELSA ERAZOR X² A32",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-rx-9060-xt-16-gb": {
+      "name": "AMD RX 9060 XT 16 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-geforce-gtx-1080-ti": {
+      "name": "EVGA GeForce GTX 1080 Ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-970-grafikkarte-4-gb": {
+      "name": "Nvidia GTX 970 Grafikkarte 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz60-digitalkamera": {
+      "name": "Panasonic Lumix DMC-FZ60 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-l820": {
+      "name": "Nikon Coolpix L820",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kyehuy-digitalkamera": {
+      "name": "Kyehuy Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-t2-graphite-silver-edition": {
+      "name": "Fujifilm X-T2 graphite silver edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bauer-c3-xl-super-8-filmkamera": {
+      "name": "Bauer C3 XL Super 8 Filmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "foto-kamera": {
+      "name": "Foto Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rolleicord-v": {
+      "name": "Rolleicord V",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-28er-damen": {
+      "name": "Prophete E-Bike 28er Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gudereit-ec-3-e-bike": {
+      "name": "Gudereit EC 3 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-1-0-speed-rc-team-serie-carbon-alu-bike": {
+      "name": "KTM 1.0 Speed RC Team Serie Carbon/Alu Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-dailytour-e": {
+      "name": "Giant DailyTour E+",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-e-bike-mountainbike": {
+      "name": "CONWAY E-Bike Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-bike-twenty9-evo-xt": {
+      "name": "Bulls E-Bike Twenty9 Evo XT",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-copperhead-evo-am-1": {
+      "name": "BULLS Copperhead EVO AM 1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-super-v700": {
+      "name": "Cannondale Super V700",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
