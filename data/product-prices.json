@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:14:14.089Z",
+  "updatedAt": "2026-10-04T17:19:07.425Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -16,7 +16,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-512-gb": {
-      "name": "Apple iPhone 13 Pro 512GB",
+      "name": "Apple iPhone 13 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": 430,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1331,7 +1331,7 @@
     },
     "sony-playstation-5-pro-2-tb": {
       "name": "Sony PlayStation 5 Pro 2TB",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2021,7 +2021,7 @@
     },
     "emt-e-bike": {
       "name": "EMT e bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1 TB",
+      "name": "Sony PlayStation 5 Slim 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3964,7 +3964,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13": {
-      "name": "Apple MacBook Air 13",
+      "name": "Apple MacBook Air 13\"",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -7709,7 +7709,7 @@
     },
     "bosch-powerpack-500-akku": {
       "name": "Bosch Powerpack 500 Akku",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -30472,7 +30472,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-512-gb": {
-      "name": "Apple MacBook Pro 16 512GB",
+      "name": "Apple MacBook Pro 16\" 512GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -31686,6 +31686,120 @@
     "corratec-e-power-x-vert-elite": {
       "name": "CORRATEC E-Power X-Vert Elite",
       "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-rise-m20": {
+      "name": "Orbea Rise M20",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2022-8-gb": {
+      "name": "Apple MacBook Pro 13 Zoll (2022) 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-15-zoll-1-tb": {
+      "name": "Apple MacBook Air M5 15 Zoll 1 Tb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2020-16-gb": {
+      "name": "Apple MacBook Pro 13 Zoll (2020) 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-5070-ti-16-gb": {
+      "name": "Gigabyte GeForce RTX 5070 Ti 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-rtx-3080-10-gb": {
+      "name": "ASUS TUF Gaming RTX 3080 10GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-3": {
+      "name": "PlayStation 3",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-pulse-explor-wireless-ohrhorer": {
+      "name": "Sony PULSE Explor Wireless-Ohrhörer",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-cyco": {
+      "name": "E Bike Cyco",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damenfahrrad-typ-ze-8": {
+      "name": "Damenfahrrad Typ ZE-8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-120-pro-625": {
+      "name": "CUBE Stereo Hybrid 120 Pro 625",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e9-6-e-bike": {
+      "name": "Prophete e9.6 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "keskin-e-bike-28-zoll": {
+      "name": "KESKIN E-Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-ht500-e-bike-surron-talaria-e-moto-mofa-e-ride-pro": {
+      "name": "Hitway ht500 e bike surron talaria e moto Mofa e ride pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-hybride-square-gro-e-l-bosch-cx-e-bike-500-wh-600-km": {
+      "name": "Ghost Hybride Square Größe L Bosch CX E Bike 500 Wh 600 km",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-cityrad": {
+      "name": "Kalkhoff E-Bike Cityrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fahrradtrager-eufab-urlaub-camping-e-bike": {
+      "name": "Fahrradträger Eufab Urlaub Camping e Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-damen": {
+      "name": "E-Bike Damen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-season-5-b": {
+      "name": "Kalkhoff Endeavour Season 5 B",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
