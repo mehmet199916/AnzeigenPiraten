@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:49:15.402Z",
+  "updatedAt": "2026-10-04T17:54:13.065Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -695,7 +695,7 @@
     },
     "sony-playstation-5-slim": {
       "name": "Sony PlayStation 5 Slim",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1013,7 +1013,7 @@
     },
     "cube-e-bike": {
       "name": "Cube E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128GB",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 PRO 256GB",
+      "name": "iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7522,7 +7522,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-128-gb": {
-      "name": "Apple MacBook Air 128 GB",
+      "name": "Apple MacBook Air 128GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -8038,7 +8038,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-8-gb": {
-      "name": "Apple MacBook Pro 8GB",
+      "name": "Apple MacBook Pro 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -11746,7 +11746,7 @@
       "updatedAt": null
     },
     "sony-alpha-7ii": {
-      "name": "Sony Alpha 7II",
+      "name": "Sony Alpha 7ii",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -12527,7 +12527,7 @@
     },
     "zundapp-e-mountainbike": {
       "name": "Zündapp E-Mountainbike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13456,7 +13456,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-disc-version": {
-      "name": "Sony PlayStation 5 disc version",
+      "name": "Sony PlayStation 5 Disc Version",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -32357,6 +32357,156 @@
     },
     "ncm-milano-26-zoll-e-bike": {
       "name": "NCM Milano 26 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-7-b-advance-m": {
+      "name": "Kalkhoff Endeavour 7.B Advance M",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-5700-dd-ultra": {
+      "name": "AMD Radeon RX 5700 DD Ultra",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-2070-super-8-gb": {
+      "name": "Gigabyte RTX 2070 Super 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-480-gtr-8-gb": {
+      "name": "AMD Radeon RX 480 GTR 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-3070-ti-suprim": {
+      "name": "NVIDIA RTX 3070 Ti Suprim",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air": {
+      "name": "MacBook Air",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-custom-controller": {
+      "name": "PS5 Custom Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bike-manufaktur-tailwind-plus-e-bike": {
+      "name": "Bike Manufaktur Tailwind Plus E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-gran-610-e-bike": {
+      "name": "KTM Macina Gran 610 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-vitality-pedelec": {
+      "name": "Kreidler Vitality Pedelec",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-sl-e-bike": {
+      "name": "Cube Reaction Hybrid SL E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hoheacht-pasia-tereno-e-bike": {
+      "name": "HoheAcht Pasia Tereno E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "volspeed-e-bike-tuning-fur-bosch-smart-system": {
+      "name": "VOLspeed E-Bike Tuning für Bosch Smart System",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lupus-uberwachungskamera": {
+      "name": "LUPUS Überwachungskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-goggles-2": {
+      "name": "DJI Goggles 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-swing-vario-e-bike-rh-51-cm": {
+      "name": "Riese & Müller Swing vario E-Bike RH 51 cm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rabeneick-tx-e-bike-28-zoll-rh-50": {
+      "name": "Rabeneick TX-E Bike 28 Zoll RH 50",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-metrix-eride": {
+      "name": "Scott Metrix eRide",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-scout-272-lfc": {
+      "name": "KTM MACINA SCOUT 272 LFC",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-z80s": {
+      "name": "Zündapp Z80S",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-730": {
+      "name": "KTM MACINA STYLE 730",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-paul-e-eq-falt-e-bike": {
+      "name": "Bergamont Paul-E EQ Falt E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-mavaro-neo-sl2": {
+      "name": "Cannondale Mavaro Neo SL2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-aeb-990-smart": {
+      "name": "Velo de Ville AEB 990 SMART",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "varstrom-e-bike-28-zoll-7-gange": {
+      "name": "VARSTROM E-Bike 28 Zoll 7 Gänge",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
