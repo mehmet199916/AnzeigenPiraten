@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T18:15:02.841Z",
+  "updatedAt": "2026-10-04T18:19:55.767Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,12 +647,12 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
-      "name": "Sony PlayStation 5 Konsole 1 TB",
+      "name": "Sony PlayStation 5 Konsole 1tb",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128 GB",
+      "name": "Apple iPhone 12 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2129,7 +2129,7 @@
     },
     "sapphire-pulse-radeon-rx-5600-xt-be-oc-6-gb": {
       "name": "Sapphire Pulse Radeon RX 5600 XT BE OC 6GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 120,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512GB",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4564,7 +4564,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-825-gb": {
-      "name": "Sony PlayStation 5 Slim 825GB",
+      "name": "Sony PlayStation 5 Slim 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7156,7 +7156,7 @@
       "updatedAt": null
     },
     "apple-iphone-128-gb": {
-      "name": "Apple iPhone 128 GB",
+      "name": "Apple iPhone 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -19366,7 +19366,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-15-16-gb": {
-      "name": "Apple MacBook Air 15\" 16GB",
+      "name": "Apple MacBook Air 15 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -33125,6 +33125,162 @@
     },
     "insta-360-x3-x4": {
       "name": "Insta 360 x3/x4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "neu-m9-20-zoll-retro-e-bike": {
+      "name": "NEU M9 20 Zoll Retro-E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-triton-pt5": {
+      "name": "Stevens E-Triton PT5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-5g-256-gb": {
+      "name": "Apple iPhone 13 5G 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1050-ti-g1-4-gb": {
+      "name": "Gigabyte GeForce GTX 1050 Ti G1 4 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-titan-xp-12-gb": {
+      "name": "Nvidia Titan Xp 12 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-gx80-gx85": {
+      "name": "Panasonic Lumix GX80/GX85",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-proline-evo-e-bike-trekking-28": {
+      "name": "Fischer Proline EVO E-Bike Trekking 28\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-trekking-28-zoll": {
+      "name": "Prophete E-Bike Trekking 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-e-bike-akku-bl-0336v": {
+      "name": "Winora E-Bike Akku BL 0336V",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-alu-city-28": {
+      "name": "Prophete Alu City 28\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pininfarina-e-voluzione": {
+      "name": "Pininfarina E-Voluzione",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-vr-brille": {
+      "name": "PS5 VR Brille",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-360-umfeldkamera": {
+      "name": "VW 360° Umfeldkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grundig-s-vs-120": {
+      "name": "Grundig S-VS 120",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "instax-wide-sofortbildkamera": {
+      "name": "Instax Wide Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gku-d300-4k-dashcam": {
+      "name": "GKU D300 4K Dashcam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-11-black": {
+      "name": "GoPro Hero 11 Black",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-lumix-g2-digitalkamera": {
+      "name": "Olympus Lumix G2 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "osmo-action-5-pro": {
+      "name": "Osmo Action 5 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-action-standard-combo": {
+      "name": "DJI Osmo Action Standard Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "instax-mini-11": {
+      "name": "Instax Mini 11",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "babboe-lastenrad": {
+      "name": "Babboe Lastenrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-entdecker-28": {
+      "name": "Prophete Entdecker 28\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-motor-rh-45-7-gang": {
+      "name": "Bosch Motor RH 45 7 Gang",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-e-bike-citybike-28-zoll": {
+      "name": "Zündapp E-Bike Citybike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-dslr-a100": {
+      "name": "Sony Alpha DSLR-A100",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
