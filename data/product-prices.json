@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T12:39:19.522Z",
+  "updatedAt": "2026-10-04T12:44:23.071Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3982,8 +3982,8 @@
       "updatedAt": null
     },
     "nvidia-rtx-4060-ti-8-gb": {
-      "name": "NVIDIA RTX 4060 Ti 8GB",
-      "category": "Computer",
+      "name": "NVIDIA RTX 4060 TI 8 GB",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5531,7 +5531,7 @@
     },
     "e-bike-26-zoll": {
       "name": "E-Bike 26 Zoll",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9412,7 +9412,7 @@
       "updatedAt": null
     },
     "apple-iphone-13-pro-max-512-gb": {
-      "name": "Apple iPhone 13 Pro Max 512gb",
+      "name": "Apple iPhone 13 Pro Max 512 gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -17614,7 +17614,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-pro-512-gb": {
-      "name": "Apple iPhone 12 Pro 512gb",
+      "name": "Apple iPhone 12 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -19223,7 +19223,7 @@
     },
     "ncm-milano-e-bike": {
       "name": "NCM Milano E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19366,7 +19366,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-15-16-gb": {
-      "name": "Apple MacBook Air 15 16 GB",
+      "name": "Apple MacBook Air 15\" 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -29255,6 +29255,276 @@
     },
     "rc-auto-mit-kamera": {
       "name": "RC-Auto mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-akku": {
+      "name": "iPhone Akku",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pny-geforce-rtx-5070-ti-16-gb": {
+      "name": "PNY GeForce RTX 5070 Ti 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-4070-12-gb": {
+      "name": "NVIDIA GeForce RTX 4070 12 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-6900xt-halo-infinite": {
+      "name": "AMD Radeon RX 6900XT Halo Infinite",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "geforce-rtx-2070-8-gb": {
+      "name": "GeForce RTX 2070 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "razer-core-x-v2-egpu": {
+      "name": "Razer Core X V2 eGPU",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "powercolor-red-devil-amd-radeon-rx-580-8-gb": {
+      "name": "PowerColor Red Devil AMD Radeon RX 580 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2017-256-gb": {
+      "name": "Apple MacBook Pro 13 Zoll 2017 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-intel-i5-2020-512-gb": {
+      "name": "Apple MacBook Pro 13\" Intel i5 2020 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grafikkarte": {
+      "name": "Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "seagate-game-drive-2-tb": {
+      "name": "Seagate Game Drive 2TB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "seagate-game-drive-fur-ps4-ps5-2-tb": {
+      "name": "Seagate Game Drive für PS4/PS5 2TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jbl-headset": {
+      "name": "Jbl Headset",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2021": {
+      "name": "Apple MacBook Pro 2021",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g29-gaming-lenkrad": {
+      "name": "Logitech G29 Gaming Lenkrad",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-stevens-pt5-gent-61": {
+      "name": "E-Bike Stevens PT5 Gent 61",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-agattu-premium": {
+      "name": "Kalkhoff E-Bike Agattu Premium",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gudereit-et-3-evo-e-bike": {
+      "name": "Gudereit ET 3 Evo E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-mountainbike": {
+      "name": "KTM E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-rail5-gen-3-deore-2023": {
+      "name": "Trek Rail5 Gen 3 Deore (2023)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-falter-26": {
+      "name": "E-Bike Falter 26\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-sport-pro-bosch-e-bike": {
+      "name": "Cube Sport Pro Bosch E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ecorush-eco-r3-all-terrain-e-bike": {
+      "name": "ECORUSH ECO R3 All-Terrain E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-atb-29-terra-5-5-i": {
+      "name": "Fischer E-Bike ATB 29 Terra 5.5 I",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-radeon-rx5700xt-8-gb": {
+      "name": "Asus ROG Strix Radeon RX5700XT 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-zenbook-laptop": {
+      "name": "ASUS ZenBook Laptop",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-spiegelreflex-sx-70-land-camera": {
+      "name": "Polaroid Spiegelreflex SX 70 Land Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-28-e-bike": {
+      "name": "Kreidler 28\" E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cityblitz-dynabike-20-e-bike": {
+      "name": "Cityblitz Dynabike 20\" E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-5-s-advance-e-bike": {
+      "name": "Kalkhoff Image 5.S Advance E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-pro-625-e-bike": {
+      "name": "Cube Reaction Hybrid Pro 625 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-z70": {
+      "name": "Fujifilm FinePix Z70",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rolleiflex-tlr": {
+      "name": "Rolleiflex TLR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dsc-w530": {
+      "name": "Sony DSC-W530",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-dynax-404si": {
+      "name": "Minolta Dynax 404si",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "edelkrone-wing-kamera-slider": {
+      "name": "Edelkrone Wing Kamera-Slider",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "philips-observation-monitor-crt-tv": {
+      "name": "Philips Observation Monitor CRT TV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "luxonis-oak-d-lite": {
+      "name": "Luxonis OAK-D Lite",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "udssr-cccp-lubitel-166-fotokamera": {
+      "name": "UdSSR CCCP LUBITEL 166 Fotokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-snap-instantkamera-32-gb": {
+      "name": "Polaroid Snap Instantkamera 32GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tamron-for-nikon": {
+      "name": "Tamron for Nikon",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "chubory-a-77-drohne": {
+      "name": "Chubory A-77 Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "holdfast-moneymaker-leder": {
+      "name": "HoldFast MoneyMaker Leder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-x-42-digitalkamera": {
+      "name": "Olympus X-42 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-l-pentagon": {
+      "name": "Praktica L Pentagon",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
