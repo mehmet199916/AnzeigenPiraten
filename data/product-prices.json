@@ -1,16 +1,16 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:19:07.425Z",
+  "updatedAt": "2026-10-04T17:24:10.173Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 GB",
+      "name": "Apple iPhone 11 64GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 gb",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128gb",
+      "name": "Apple iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2267,7 +2267,7 @@
     },
     "playstation-5-slim": {
       "name": "PlayStation 5 Slim",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2890,7 +2890,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-max-256-gb": {
-      "name": "iPhone 15 Pro Max 256GB",
+      "name": "iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5458,7 +5458,7 @@
       "updatedAt": null
     },
     "iphone-13-128-gb": {
-      "name": "iPhone 13 128GB",
+      "name": "iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7300,7 +7300,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-gtx-1070-8-gb": {
-      "name": "NVIDIA GeForce GTX 1070 8GB",
+      "name": "Nvidia GeForce GTX 1070 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -11788,8 +11788,8 @@
       "updatedAt": null
     },
     "cube-reaction-hybrid-race-625": {
-      "name": "CUBE Reaction Hybrid Race 625",
-      "category": "E-Bikes",
+      "name": "Cube Reaction Hybrid Race 625",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18719,7 +18719,7 @@
     },
     "msi-geforce-rtx-3060-ti-trio": {
       "name": "MSI GeForce RTX 3060 Ti Trio",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19708,8 +19708,8 @@
       "updatedAt": null
     },
     "gazelle-grenoble-c7": {
-      "name": "Gazelle Grenoble C7+",
-      "category": "Fahrräder",
+      "name": "Gazelle Grenoble C7",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -31799,6 +31799,114 @@
     },
     "kalkhoff-endeavour-season-5-b": {
       "name": "Kalkhoff Endeavour Season 5 B",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-vam2-8-7": {
+      "name": "FOCUS VAM² 8.7",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-m1-pro-32-gb": {
+      "name": "MacBook Pro M1 Pro 32 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-13-2017-8-gb": {
+      "name": "MacBook Pro 13” 2017 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-15-m5-16-gb-ram-512-gb-ssd": {
+      "name": "MacBook Air 15\" M5 16GB RAM 512GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-geforce-rtx-3080-ftw3-ultra-gaming-10-gb": {
+      "name": "EVGA GeForce RTX 3080 FTW3 Ultra Gaming 10 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-3070-ti": {
+      "name": "Gigabyte GeForce RTX 3070 Ti",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-500-gb": {
+      "name": "PlayStation 5 500 GB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-custom-controller": {
+      "name": "PlayStation 5 Custom Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-e-mountainbike-29-zoll": {
+      "name": "Cannondale E-Mountainbike 29 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-e-bike-rahme": {
+      "name": "KTM MACINA E-Bike Rahme",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-r-e-spiegelreflexkamera": {
+      "name": "Leica R-E Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "audi-a6-limousine-2024-au-enspiegel-rechts": {
+      "name": "Audi A6 Limousine 2024 Außenspiegel rechts",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lego-disney-kamera-hommage-an-walt-disney-100-jahre-disney-43230": {
+      "name": "Lego Disney Kamera Hommage an Walt Disney 100 Jahre Disney 43230",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-epac-trekking": {
+      "name": "Prophete EPAC Trekking",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-e-bike-2021": {
+      "name": "Telefunken E-Bike (2021)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "saxonette-e-bike": {
+      "name": "Saxonette E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-t5-vdo-a4-premium-e-bike": {
+      "name": "Flyer T5 VDO A4 Premium E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-liq-bike": {
+      "name": "E-Bike LIQ BIKE",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
