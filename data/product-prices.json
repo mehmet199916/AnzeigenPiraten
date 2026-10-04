@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T19:09:48.358Z",
+  "updatedAt": "2026-10-04T19:14:28.896Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256 Gb",
+      "name": "Apple iPhone 17 Air 256gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1828,7 +1828,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128Gb",
+      "name": "Apple iPhone 12 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3196,7 +3196,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-256-gb": {
-      "name": "Apple iPhone 12 Pro Max 256GB",
+      "name": "Apple iPhone 12 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3377,7 +3377,7 @@
     },
     "apple-iphone-18-pro-512-gb": {
       "name": "Apple iPhone 18 Pro 512GB",
-      "category": "Computer",
+      "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4013,7 +4013,7 @@
     },
     "kalkhoff-image-c-advance-e-bike": {
       "name": "Kalkhoff Image C+ Advance E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -4144,7 +4144,7 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-max-256-gb": {
-      "name": "Apple iPhone 11 Pro Max 256GB",
+      "name": "Apple iPhone 11 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6083,7 +6083,7 @@
     },
     "raleigh-e-bike": {
       "name": "Raleigh E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13337,7 +13337,7 @@
     },
     "e-bike-wei": {
       "name": "E-Bike weiß",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -35106,6 +35106,186 @@
     "sony-playstation-2-konsole": {
       "name": "Sony PlayStation 2 Konsole",
       "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lumo-tereno-diamant": {
+      "name": "LUMO TERENO Diamant",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-6-m3-2024-256-gb": {
+      "name": "Apple MacBook Air 13,6\" M3 (2024) 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m3-15-3-zoll-512-gb": {
+      "name": "MacBook Air M3 15,3 Zoll 512 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-arez-strix-radeon-rx-vega-56-8-gb": {
+      "name": "ASUS AREZ Strix Radeon RX Vega 56 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-epac-26-zoll-tiefeinsteiger-navigator-250": {
+      "name": "Prophete E-BIKE EPAC 26\" Zoll Tiefeinsteiger Navigator 250",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "adore-28-zoll-e-bike": {
+      "name": "Adore 28 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fahrrad-28-zoll": {
+      "name": "E-BIKE Fahrrad 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-sl-625-e-bike": {
+      "name": "Cube Reaction SL 625 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-stream-evo2": {
+      "name": "Bulls E-Stream Evo2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-raymon-cross-ray-e-6-0": {
+      "name": "R RAYMON CROSS RAY E 6.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dynamics-vulcano": {
+      "name": "Dynamics Vulcano",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-supreme-hybrid-one-e-bike": {
+      "name": "Cube Supreme Hybrid ONE E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "brompton-electric-h6l-black": {
+      "name": "Brompton Electric H6L Black",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-fr-e1-street": {
+      "name": "Hercules FR E1 Street",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z-fc": {
+      "name": "Nikon Z fc",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-go-generation-3": {
+      "name": "Polaroid Go Generation 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "x-moorebot-scout": {
+      "name": "X Moorebot Scout",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hikvision-ds-2cd2387g2p-lsu-sl": {
+      "name": "Hikvision DS-2CD2387G2P-LSU/SL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-keymission-360-actionkamera-4k": {
+      "name": "Nikon KeyMission 360 Actionkamera 4K",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-weathermatic-35dl": {
+      "name": "Minolta Weathermatic 35DL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vava-babyphone-va-ih006-kamera-monitor": {
+      "name": "VAVA Babyphone VA IH006 Kamera + Monitor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "philips-avent-babyphone-scd923-26": {
+      "name": "Philips Avent Babyphone SCD923/26",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-f480": {
+      "name": "Fujifilm FinePix F480",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "squarehood-gegenlichtblende-mk-4-x100-serie": {
+      "name": "Squarehood Gegenlichtblende Mk 4 (X100 Serie)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-af-1-kompaktkamera": {
+      "name": "Olympus AF-1 Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aosu-indoor-cam-p1-pro": {
+      "name": "aosu indoor Cam P1 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-10-black-hero": {
+      "name": "GoPro 10 Black Hero",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-smartphone-gimbal": {
+      "name": "DJI Osmo Smartphone Gimbal",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-kamera": {
+      "name": "Canon Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-pro-1-tb": {
+      "name": "iPhone 14 Pro 1TB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
