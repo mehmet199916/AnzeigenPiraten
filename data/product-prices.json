@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T16:59:23.025Z",
+  "updatedAt": "2026-10-04T17:04:23.469Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128GB",
+      "name": "Apple iPhone 15 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256GB",
+      "name": "Apple iPhone 17 Air 256 Gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,19 +334,19 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 Gb",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128GB",
+      "name": "Apple iPhone 12 128gb",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -8032,8 +8032,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13\" 8GB",
-      "category": "Laptops",
+      "name": "Apple MacBook Air 13\" 8 GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13474,7 +13474,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-edition-1-tb": {
-      "name": "Sony PlayStation 5 Slim Digital Edition 1TB",
+      "name": "Sony PlayStation 5 Slim Digital Edition 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -14855,7 +14855,7 @@
     },
     "bh-lynx-trail-carbon-e-fully-modell-2023": {
       "name": "BH LYNX Trail Carbon E-Fully Modell 2023",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18688,7 +18688,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-14-16-gb": {
-      "name": "Apple MacBook Pro 14\" 16GB",
+      "name": "Apple MacBook Pro 14\" 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -31068,6 +31068,192 @@
     "cannondale-super-v700": {
       "name": "Cannondale Super V700",
       "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rcb-g19-mini": {
+      "name": "RCB G19 Mini",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eufab-poker-f-fahrradtrager": {
+      "name": "EUFAB Poker-F Fahrradträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-1-b-move": {
+      "name": "Kalkhoff Endeavour 1.B Move",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-pro-625-29-scheibenbremse-11-gang-shimano": {
+      "name": "Cube Reaction Hybrid Pro 625 29\" Scheibenbremse 11 Gang Shimano",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-pedelec": {
+      "name": "Cube E Pedelec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-vado-men-3-0": {
+      "name": "Specialized Vado Men 3.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "smart-e-bike": {
+      "name": "smart e-bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apollo-rfn-warrior-sx-e500": {
+      "name": "APOLLO RFN Warrior SX-E500",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-easyfold-xt2-fix4bike-fahrradtrager": {
+      "name": "Thule EasyFold XT2 Fix4Bike Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-mondeville-e-bike": {
+      "name": "Victoria Mondeville E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-neuron-630-wh": {
+      "name": "Canyon Neuron 630 Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-tourray-e-5-0": {
+      "name": "Raymon TourRay E 5.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-tourray-e-3-0": {
+      "name": "Raymon Tourray E 3.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "talos-rocket-e-bike": {
+      "name": "TALOS Rocket E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "myatu-e-bike-27-5-zoll": {
+      "name": "Myatu E-Bike 27,5 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-allant-7-2025": {
+      "name": "Trek Allant+ 7 2025",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-mtc-elite": {
+      "name": "Corratec E-Power MTC Elite",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-3-512-gb": {
+      "name": "Apple MacBook Pro 13,3\" 512 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-14-zoll-m4-pro-24-gb": {
+      "name": "MacBook Pro 14 Zoll M4 Pro 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-4-32-gb": {
+      "name": "Apple MacBook Pro 15,4\" 32GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-inch": {
+      "name": "Apple MacBook Pro 14-Inch",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-2016-8-gb": {
+      "name": "Apple MacBook Pro 13\" (2016) 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3080-aorus-extreme": {
+      "name": "Gigabyte RTX 3080 AORUS Extreme",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gainward-ghost-geforce-rtx-3060-12-gb": {
+      "name": "Gainward Ghost GeForce RTX 3060 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-radeon-rx-580-8-gb-oc": {
+      "name": "ASRock Radeon RX 580 8GB OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-3080-10-gb": {
+      "name": "Gigabyte GeForce RTX 3080 10 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-gtx-1080-gamerock-premium-8g": {
+      "name": "Palit GTX 1080 GameRock Premium 8G",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-nvidia-geforce-gtx-760-2-gb": {
+      "name": "MSI NVIDIA GeForce GTX 760 2 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3080": {
+      "name": "NVIDIA GeForce RTX 3080",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1660-super-gaming-x-6-gb": {
+      "name": "MSI GeForce GTX 1660 Super Gaming X 6 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-disk-edition-1-tb": {
+      "name": "Sony PlayStation 5 Slim Disk Edition 1TB",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     }
