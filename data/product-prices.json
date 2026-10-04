@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:04:23.469Z",
+  "updatedAt": "2026-10-04T17:09:26.630Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -352,7 +352,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-2020-8-gb": {
-      "name": "Apple MacBook Air 2020 8GB",
+      "name": "Apple MacBook Air (2020) 8 GB",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -425,7 +425,7 @@
     },
     "apple-macbook-air-13-retina-model-a1932-2019-128-gb": {
       "name": "Apple MacBook Air 13\" Retina Model A1932 2019 128GB",
-      "category": "Laptops",
+      "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -460,7 +460,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m1-2020-8-gb": {
-      "name": "Apple MacBook Air M1 2020 8 GB",
+      "name": "Apple MacBook Air M1 2020 8GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -478,8 +478,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-rtx-3080-ti-12-gb": {
-      "name": "NVIDIA RTX 3080 Ti 12GB",
-      "category": "Computer",
+      "name": "NVIDIA RTX 3080 TI 12GB",
+      "category": "Grafikkarten",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -497,7 +497,7 @@
     },
     "gigabyte-geforce-rtx-3070-gaming-oc-8-gb": {
       "name": "Gigabyte GeForce RTX 3070 Gaming OC 8GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825 GB",
+      "name": "Sony PlayStation 5 Disc Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3689,7 +3689,7 @@
     },
     "tomahawk-e-series-i-c-e-indoor-cycling-bike": {
       "name": "Tomahawk E-Series I.C.E. Indoor Cycling Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6832,8 +6832,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-2019": {
-      "name": "Apple MacBook Air 2019",
-      "category": "Smartphones",
+      "name": "Apple MacBook Air (2019)",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9034,7 +9034,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-disc-edition-1-tb": {
-      "name": "Sony PlayStation 5 Disc Edition 1 TB",
+      "name": "Sony PlayStation 5 Disc Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -13834,8 +13834,8 @@
       "updatedAt": null
     },
     "apple-macbook-neo-13-256-gb": {
-      "name": "Apple MacBook Neo 13 256 GB",
-      "category": "Computers",
+      "name": "Apple MacBook Neo 13\" 256GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -31254,6 +31254,246 @@
     "sony-playstation-5-slim-disk-edition-1-tb": {
       "name": "Sony PlayStation 5 Slim Disk Edition 1TB",
       "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-hardfour-4-0-kinder-e-bike-24-zoll": {
+      "name": "Haibike HardFour 4.0 Kinder E-Bike 24 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-128-gb-midnight": {
+      "name": "Apple iPhone 14 128 GB Midnight",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1050-ti": {
+      "name": "NVIDIA GTX 1050 Ti",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1660-oc": {
+      "name": "Gigabyte GeForce GTX 1660 OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3080-founders-edition-10-gb": {
+      "name": "NVIDIA GeForce RTX 3080 Founders Edition 10GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-rtx-4060": {
+      "name": "MSI RTX 4060",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-strix-geforce-gtx-970-4-gb": {
+      "name": "ASUS STRIX GeForce GTX 970 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "volkswagen-frontkamera": {
+      "name": "Volkswagen Frontkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-8-gb-ram-2020-512-gb-gold": {
+      "name": "Apple MacBook Air 13\" 8GB RAM 2020 512GB Gold",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-zoll-m2-pro": {
+      "name": "Apple MacBook Pro (16 Zoll, M2 Pro)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1650-4-gb": {
+      "name": "Nvidia GTX 1650 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pc-mit-ryzen-5-3600-16-gb": {
+      "name": "PC mit Ryzen 5 3600 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-rtx-3060-ti-oc-8-gb": {
+      "name": "ASUS TUF RTX 3060 Ti OC 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-rtx-3050-6-gb": {
+      "name": "ASUS GeForce RTX 3050 6GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-nitro-5700xt": {
+      "name": "Sapphire Nitro+ 5700XT",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rx-6600-xt-gaming-oc-pro-8g": {
+      "name": "Gigabyte RX 6600 XT GAMING OC PRO 8G",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pny-quadro-p400-v2-2-gb": {
+      "name": "PNY Quadro P400 v2 2GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-zoll-2015-16-gb": {
+      "name": "Apple MacBook Pro 15 Zoll 2015 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M1 16GB RAM 512GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-a1502-early-2015-8-gb": {
+      "name": "Apple MacBook Pro 13 Zoll (A1502, Early 2015) 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-2060-super-8-gb": {
+      "name": "ASUS RTX 2060 Super 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3070-eagle-oc": {
+      "name": "Gigabyte RTX 3070 Eagle OC",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-gtx-1080-8-gb": {
+      "name": "MSI GTX 1080 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-nvidia-geforce-rtx-2070-xc-8-gb": {
+      "name": "EVGA Nvidia GeForce RTX 2070 XC 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-anbau-platten-limited-edition": {
+      "name": "PS5 Anbau Platten Limited Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-set": {
+      "name": "PlayStation 5 Set",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diamant-e-city-bike": {
+      "name": "Diamant E-City Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-zoll-2019": {
+      "name": "Apple MacBook Pro 16 Zoll (2019)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-zoll-1-tb": {
+      "name": "Apple MacBook Pro 14 Zoll 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-3-zoll": {
+      "name": "Apple MacBook Air 13.3 Zoll",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m4-512-gb": {
+      "name": "Apple MacBook Pro M4 512 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-5080-windforce-oc-sff": {
+      "name": "Gigabyte GeForce RTX 5080 WINDFORCE OC SFF",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-rtx-4070-super-oc-edition-12-gb": {
+      "name": "ASUS ROG Strix GeForce RTX 4070 SUPER OC Edition 12GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-1-generation-disk-version-2-controller": {
+      "name": "Sony PlayStation 5 1. Generation Disk Version 2 Controller",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fc-27-fu-ball": {
+      "name": "FC 27 Fußball",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-p7000": {
+      "name": "Nikon Coolpix P7000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lapierre-e-crosshill-5-2-e-gravel-gravelbike": {
+      "name": "Lapierre E-CROSSHILL 5.2 E-Gravel Gravelbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-milano-plus-28-zoll-e-bike": {
+      "name": "NCM Milano Plus 28\" Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-ncm-parismaxn8r": {
+      "name": "E-Bike NCM ParisMaxN8R",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bikes-muon-strive-7-g-nexus": {
+      "name": "E-Bikes Muon Strive 7-G-Nexus",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
