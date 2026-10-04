@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:29:07.488Z",
+  "updatedAt": "2026-10-04T17:42:32.757Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8897,7 +8897,7 @@
     },
     "axess-force-ws-29-allroad": {
       "name": "Axess Force WS 29 Allroad",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -15137,7 +15137,7 @@
     },
     "kalkhoff-entice-5-b-move-e-bike": {
       "name": "Kalkhoff Entice 5.B Move+ E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19865,7 +19865,7 @@
     },
     "playstation-5-disc-version": {
       "name": "PlayStation 5 Disc Version",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -32082,6 +32082,156 @@
     "apple-iphone-16-e-128-gb": {
       "name": "Apple iPhone 16 e 128GB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-hybrid-one-750-e-bike": {
+      "name": "Cube Kathmandu Hybrid ONE 750 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gainward-geforce-gtx-295-dualgpu": {
+      "name": "Gainward GeForce GTX 295 DualGPU",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-6650xt-8-gb": {
+      "name": "amd 6650xt 8 gb",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "autodarts-kamera-halterung-led-ring": {
+      "name": "AUTODARTS Kamera Halterung + LED Ring",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-2020-i7-8-gb": {
+      "name": "MacBook Air (2020) i7 8GB",
+      "category": "Laptops",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m3-2024-8-gb": {
+      "name": "Apple MacBook Air 13\" M3 2024 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1060-3-gb": {
+      "name": "Nvidia GTX 1060 3GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-6650-xt-oc-edition": {
+      "name": "AMD Radeon RX 6650 XT OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diverse-playstation-4-5-spiele": {
+      "name": "Diverse PlayStation 4/5 Spiele",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-standardkonsole": {
+      "name": "Sony PlayStation 5 Standardkonsole",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-playstation-ps4-sammlung": {
+      "name": "PS5 Playstation PS4 Sammlung",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-lumina-28-zoll-damen-e-bike": {
+      "name": "Bosch LUMINA 28 Zoll Damen E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-performance-line-gen-3-29-zoll-herren-mtb-e-bike": {
+      "name": "Bosch PERFORMANCE LINE GEN 3 29 Zoll Herren MTB E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-eco-2-sport-wave-e-bike": {
+      "name": "Kreidler Eco 2 Sport Wave E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-e10-herrenrad-e-bike": {
+      "name": "Pegasus Premio E10 Herrenrad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-mountainbike-sharptail-evo-street": {
+      "name": "Bulls E-Mountainbike sharptail EVO Street",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-frame-500-performance-e-bike": {
+      "name": "BOSCH POWERPACK FRAME 500 PERFORMANCE E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-life-cx6-12s": {
+      "name": "Corratec Life CX6 12S",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-fullnine-10": {
+      "name": "Haibike Fullnine 10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-ndeavour": {
+      "name": "Kalkhoff NDEAVOUR",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-500": {
+      "name": "Cube Reaction Hybrid 500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-gts": {
+      "name": "Giant Explore E+ GTS",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ortler-bozen-e-bike-alu-herren-fahrrad-28-zoll-9-gange": {
+      "name": "ORTLER BOZEN E-BIKE ALU HERREN Fahrrad 28 Zoll 9 Gänge",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mondraker-thundra-29": {
+      "name": "Mondraker Thundra 29",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "greyp-g6-3-offroad": {
+      "name": "Greyp G6.3 Offroad",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
