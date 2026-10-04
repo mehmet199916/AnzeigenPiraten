@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:09:26.630Z",
+  "updatedAt": "2026-10-04T17:14:14.089Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -64,7 +64,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256 GB",
+      "name": "Apple iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -83,7 +83,7 @@
     },
     "giant-fathom-e-ex-2024": {
       "name": "Giant Fathom E+ EX 2024",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 1800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1331,7 +1331,7 @@
     },
     "sony-playstation-5-pro-2-tb": {
       "name": "Sony PlayStation 5 Pro 2TB",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3017,7 +3017,7 @@
     },
     "kemoway-k5-e-bike": {
       "name": "Kemoway K5 E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 1000,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4787,7 +4787,7 @@
     },
     "segway-navimow-mahroboter": {
       "name": "Segway Navimow Mähroboter",
-      "category": "E-Bikes",
+      "category": "Gartengeräte",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6082,7 +6082,7 @@
       "updatedAt": null
     },
     "raleigh-e-bike": {
-      "name": "Raleigh E Bike",
+      "name": "Raleigh E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -6406,7 +6406,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-m1-2020-256-gb": {
-      "name": "Apple MacBook Air M1 (2020) 256 GB",
+      "name": "Apple MacBook Air M1 2020 256 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -28763,7 +28763,7 @@
     },
     "pecasus-e-8": {
       "name": "Pecasus E 8",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -31494,6 +31494,198 @@
     "e-bikes-muon-strive-7-g-nexus": {
       "name": "E-Bikes Muon Strive 7-G-Nexus",
       "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-15-2023-1-tb": {
+      "name": "MacBook Air 15 (2023) 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-15-retina-2013-16-gb": {
+      "name": "MacBook Pro 15\" Retina (2013) 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2020-32-gb": {
+      "name": "Apple MacBook Pro 13 Zoll 2020 32GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-3-zoll-2015": {
+      "name": "Apple MacBook Air 13,3 Zoll (2015)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-3060-oc-12-gb": {
+      "name": "NVIDIA RTX 3060 OC 12GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3070-zotac-gaming": {
+      "name": "Nvidia GeForce RTX 3070 Zotac Gaming",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1080-rog-strix": {
+      "name": "Nvidia GTX 1080 ROG STRIX",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bikes": {
+      "name": "E-Bikes",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digital-edition-500-gb": {
+      "name": "Sony PlayStation 5 digital Edition 500 gb",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-spiele-set": {
+      "name": "PlayStation 5 Spiele Set",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5-controller": {
+      "name": "Sony PS5 Controller",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5": {
+      "name": "Sony PS5",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3080-grafikkarte": {
+      "name": "Gigabyte RTX 3080 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5-dualsense-controller": {
+      "name": "Sony PS5 DualSense Controller",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rks-nero-h-e-bike": {
+      "name": "RKS Nero H E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-s-227-e-bike": {
+      "name": "Conway Cairon S 227 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fafrees-f1-e-bike": {
+      "name": "FAFREES F1 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-wei": {
+      "name": "KTM E-Bike Weiß",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-e-bike-1180km": {
+      "name": "Raleigh E-Bike 1180km",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-damen-e-citybike": {
+      "name": "Fischer Damen E-Citybike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fatbike-50km-h-doppel-batterie": {
+      "name": "E-Bike / FatBike 50km/h Doppel-Batterie",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-e-bike-klapprad-elektrofahrrad": {
+      "name": "Hitway E-Bike Klapprad Elektrofahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cowboy-cruiser-st-city-e-bike-single-speed": {
+      "name": "Cowboy Cruiser ST City E-Bike - Single speed",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-625-akku": {
+      "name": "Bosch Powertube 625 Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-mountainbike-fully": {
+      "name": "Cube E-Mountainbike Fully",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-e-mountainbike-hardtail": {
+      "name": "Giant E-Mountainbike Hardtail",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "coco-bike-cp-3-0-e-trike": {
+      "name": "Coco Bike CP 3.0 E-Trike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "b-twin-e-bike": {
+      "name": "B'TWIN E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mini-e-bike-14-zoll": {
+      "name": "Mini E-Bike 14 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-dice-2-0-e-mtb": {
+      "name": "Prophete DICE 2.0 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-acid-240-e-bike": {
+      "name": "Cube Acid 240 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-x-vert-elite": {
+      "name": "CORRATEC E-Power X-Vert Elite",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     }
