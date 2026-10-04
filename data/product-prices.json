@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:24:10.173Z",
+  "updatedAt": "2026-10-04T17:29:07.488Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128gb",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128Gb",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128 Gb",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,8 +202,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E bike",
-      "category": "E-Bikes",
+      "name": "E-Bike",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -352,7 +352,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-2020-8-gb": {
-      "name": "Apple MacBook Air (2020) 8 GB",
+      "name": "Apple MacBook Air 2020 8GB",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4564,7 +4564,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-825-gb": {
-      "name": "Sony PlayStation 5 Slim 825 GB",
+      "name": "Sony PlayStation 5 Slim 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7516,7 +7516,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-max-512-gb": {
-      "name": "Apple iPhone 14 Pro Max 512gb",
+      "name": "Apple iPhone 14 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7552,7 +7552,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-2019-16-gb": {
-      "name": "Apple MacBook Pro 16\" (2019) 16GB",
+      "name": "Apple MacBook Pro 16” 2019 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -18820,8 +18820,8 @@
       "updatedAt": null
     },
     "nvidia-gtx-1060-6-gb": {
-      "name": "NVIDIA GTX 1060 6GB",
-      "category": "Computer",
+      "name": "Nvidia GTX 1060 (6GB)",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -31908,6 +31908,180 @@
     "e-bike-liq-bike": {
       "name": "E-Bike LIQ BIKE",
       "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ansmann-e-bike-houston-2-0-limited-series": {
+      "name": "Ansmann E-Bike Houston 2.0 LIMITED SERIES",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-bike-e-triton-pt5": {
+      "name": "Stevens E-Bike E-Triton PT5",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-13-zoll-mitte-2012-16-gb": {
+      "name": "MacBook Pro 13 Zoll Mitte 2012 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2013": {
+      "name": "Apple MacBook Air 2013",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-neo-2026-256-gb": {
+      "name": "Apple MacBook Neo 2026 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-5060": {
+      "name": "Nvidia RTX 5060",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3070-ti-vision-oc": {
+      "name": "Nvidia GeForce RTX 3070 Ti VISION OC",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-6500-xt-8-gb": {
+      "name": "AMD Radeon RX 6500 XT 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-gtx-1080ti": {
+      "name": "Gigabyte GTX 1080Ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-nvidia-gtx-1080-8-gb": {
+      "name": "MSI NVIDIA GTX 1080 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5-slim-digital-825-gb": {
+      "name": "Sony PS5 Slim Digital 825 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc": {
+      "name": "Sony PlayStation 5 Disc",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arinos-damen-e-bike": {
+      "name": "Arinos Damen E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-macina-gran-620": {
+      "name": "KTM E-Bike Macina Gran 620",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-viator": {
+      "name": "Fischer E-Bike Viator",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "touroll-e-bike-28-zoll-36-v": {
+      "name": "Touroll E-Bike 28 Zoll 36 V",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bicycles-porto-e-900-ltd-e-bike": {
+      "name": "Bicycles Porto E-900 LTD E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-klapp-dreirad": {
+      "name": "E-Bike Klapp-Dreirad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fahrrad-e-bike-bosch": {
+      "name": "Fahrrad e-bike Bosch",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "touroll-e-bike-mountainbike": {
+      "name": "Touroll E-Bike Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "radon-solution-hybrid-7-0": {
+      "name": "Radon Solution Hybrid 7.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "akaso-brave-4-pro-action-camera": {
+      "name": "AKASO Brave 4 Pro Action Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "porst-cr-3-analog-kamera-set": {
+      "name": "Porst CR-3 Analog Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-mtl5-ddr-kamera": {
+      "name": "Praktica MTL5 DDR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-rp-astromodifiziert": {
+      "name": "Canon RP astromodifiziert",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "go-pro-hero-3-white-edition": {
+      "name": "GO Pro HERO 3 White Edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "i-sy-e-bike": {
+      "name": "I:SY E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-grand-pather-4-e-bike": {
+      "name": "Husqvarna Grand Pather 4 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-e-128-gb": {
+      "name": "Apple iPhone 16 e 128GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
