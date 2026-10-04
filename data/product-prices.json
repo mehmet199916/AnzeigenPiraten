@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T17:54:13.065Z",
+  "updatedAt": "2026-10-04T17:59:36.509Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -2080,8 +2080,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-neo-13-8-gb": {
-      "name": "Apple MacBook Neo 13\" 8GB",
-      "category": "Computers",
+      "name": "Apple MacBook Neo 13\" 8 GB",
+      "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2632,7 +2632,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "insta360-x5": {
-      "name": "insta360 x5",
+      "name": "Insta360 X5",
       "category": "Kameras",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3143,7 +3143,7 @@
     },
     "asus-rtx-3060-12-gb-oc": {
       "name": "Asus RTX 3060 12 GB OC",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -9202,7 +9202,7 @@
       "updatedAt": null
     },
     "iphone-14-pro-128-gb": {
-      "name": "iPhone 14 Pro 128 Gb",
+      "name": "iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -32507,6 +32507,162 @@
     },
     "varstrom-e-bike-28-zoll-7-gange": {
       "name": "VARSTROM E-Bike 28 Zoll 7 Gänge",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sale-kalkhoff-image-3-s-lease-e-bike": {
+      "name": "SALE - Kalkhoff Image 3.S Lease E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-8-gb": {
+      "name": "Apple MacBook 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-rtx-3070-8-gb-oc-edition": {
+      "name": "ASUS GeForce RTX 3070 8GB OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-inch-2020": {
+      "name": "Apple MacBook Air 13 Inch 2020",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pny-xlr8-gaming-nvidia-geforce-rtx-3080-ti-12-gb": {
+      "name": "PNY XLR8 Gaming NVIDIA GeForce RTX 3080 Ti 12GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vr-ps5-brille-set": {
+      "name": "VR ps5 Brille set",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "planet-x-ec-130e-rennrad": {
+      "name": "Planet X EC-130E Rennrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-victoria-12-10": {
+      "name": "E bike Victoria 12.10",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "triumph-e-bike": {
+      "name": "Triumph E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-hardnine-7-0": {
+      "name": "Haibike SDURO HardNine 7.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-sport-620-premium-e-bike": {
+      "name": "KTM Macina Sport 620 Premium-E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "babboe-big-e-e-bike": {
+      "name": "Babboe Big-E E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-alu-city": {
+      "name": "Prophete E-Bike Alu-City",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-velospace-xt2-fahrradtrager": {
+      "name": "Thule VeloSpace XT2 Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-d2000": {
+      "name": "Canon EOS D2000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-square-sq6": {
+      "name": "Fujifilm Instax Square SQ6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ritto-portier-kameramodul-1878970": {
+      "name": "Ritto Portier Kameramodul 1878970",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmos-mobile-7p": {
+      "name": "DJI Osmos Mobile 7p",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tonton-kamera-set": {
+      "name": "tonton Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "momcozy-babyphone-mit-kamera": {
+      "name": "Momcozy Babyphone mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-2-silber-scph-50004": {
+      "name": "PlayStation 2 Silber SCPH-50004",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-4": {
+      "name": "GoPro HERO 4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mit-rucktritt": {
+      "name": "E-Bike mit Rücktritt",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-ktm-macina-tour-p510-500-wh-28-zoll": {
+      "name": "E-Bike KTM Macina Tour P510 500 Wh 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-windora-sinus-bosch-antrieb": {
+      "name": "E-Bike Windora Sinus Bosch Antrieb",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lamassu-e-rennrad": {
+      "name": "Lamassu E-Rennrad",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
