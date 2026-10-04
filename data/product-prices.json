@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T12:26:19.394Z",
+  "updatedAt": "2026-10-04T12:29:15.542Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 gb",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -485,7 +485,7 @@
     },
     "asus-rtx-3070-8-gb-rog-strix-gaming-oc": {
       "name": "Asus RTX 3070 8GB ROG Strix Gaming OC",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 Gb",
+      "name": "Apple iPhone 14 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2482,8 +2482,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-quadro-rtx-4000": {
-      "name": "NVidia Quadro RTX 4000",
-      "category": "Grafikkarten",
+      "name": "Nvidia Quadro RTX 4000",
+      "category": "Computer",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2543,7 +2543,7 @@
     },
     "playstation-5-disc-edition": {
       "name": "PlayStation 5 Disc Edition",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 PRO 256GB",
+      "name": "iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3430,7 +3430,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-128-gb": {
-      "name": "iPhone 15 Pro 128GB",
+      "name": "iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7451,7 +7451,7 @@
     },
     "bosch-powerpack-500-e-bike-akku": {
       "name": "Bosch PowerPack 500 E-Bike Akku",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -11327,7 +11327,7 @@
     },
     "kalkhoff-entice-1-move": {
       "name": "Kalkhoff ENTICE 1 MOVE",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14909,7 +14909,7 @@
     },
     "apple-macbook-pro-13-8-gb": {
       "name": "Apple MacBook Pro 13\" 8 GB",
-      "category": "Computers",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -24899,7 +24899,7 @@
     },
     "telefunken-e-bike-28-zoll": {
       "name": "Telefunken E-Bike 28 Zoll",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -28668,6 +28668,192 @@
     "kamera": {
       "name": "Kamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-6d-vollformat-set": {
+      "name": "Canon EOS 6D Vollformat Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-entdecker-eht-400": {
+      "name": "Prophete Entdecker EHT 400",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-bike-damen-e-mountainbike": {
+      "name": "Scott E-Bike Damen E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-line-c-xt": {
+      "name": "Bergamont E-Line C-XT",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bbf-genf-e-bike-rh-46cm": {
+      "name": "BBF Genf E-Bike RH 46cm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "calkhoff-e-bike-28-zoll": {
+      "name": "Calkhoff E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-tasman-28-zoll-impulse-2-mittelmotor": {
+      "name": "Kalkhoff Tasman 28 Zoll Impulse 2 Mittelmotor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-14-m1-pro-2021-32-gb": {
+      "name": "MacBook Pro 14\" M1 Pro 2021 32 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-7900-xtx-nitro-vapor-x-24-gb": {
+      "name": "AMD Radeon RX 7900 XTX Nitro+ Vapor-X 24Gb",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-lenkrad": {
+      "name": "PS5 Lenkrad",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "unterwasserkamera-spotcam": {
+      "name": "Unterwasserkamera Spotcam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz20-digitalkamera": {
+      "name": "Panasonic Lumix DMC-FZ20 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zwo-asi-120mm-mini-monochrom-guiding-kamera": {
+      "name": "ZWO ASI 120MM Mini Monochrom Guiding-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-reaction-hybrid-race-750": {
+      "name": "Cube E-bike Reaction Hybrid Race 750",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hitway": {
+      "name": "E Bike HITWAY",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pecasus-e-8": {
+      "name": "Pecasus E 8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-yucatan-i20": {
+      "name": "Winora Yucatan i20",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-sturmvogel-evo": {
+      "name": "Bulls Sturmvogel evo",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sparta-ion-x-series-e-bike-cityrad": {
+      "name": "SPARTA ION X- series E-Bike Cityrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-exc-750-29": {
+      "name": "CUBE Reaction Hybrid EXC 750 29",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-pro-graphit-128-gb": {
+      "name": "Apple iPhone 13 Pro Graphit 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a4000-is": {
+      "name": "Canon PowerShot A4000 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-40": {
+      "name": "Canon ixus 40",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exa-1b-kamera": {
+      "name": "EXA 1b Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f-601-spiegelreflexkamera": {
+      "name": "Nikon F-601 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-avata2-intelligenter-charger": {
+      "name": "DJI Avata2 Intelligenter Charger",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx-130-is": {
+      "name": "Canon PowerShot SX 130 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dashcam-auto-4k-4k-128-gb": {
+      "name": "Dashcam Auto 4K+4K 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-axxis-force-29-zoll": {
+      "name": "E Bike Axxis Force 29 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nuk-babyphone": {
+      "name": "NUK Babyphone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-air-256-gb": {
+      "name": "iPhone 17 Air 256gb",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
