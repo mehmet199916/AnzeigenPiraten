@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-04T18:34:38.287Z",
+  "updatedAt": "2026-10-04T18:39:46.750Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256Gb",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3142,8 +3142,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "asus-rtx-3060-12-gb-oc": {
-      "name": "Asus RTX 3060 12 GB OC",
-      "category": "Computer",
+      "name": "ASUS RTX 3060 12 GB OC",
+      "category": "Grafikkarten",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256 GB",
+      "name": "iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro MAX 256GB",
+      "name": "iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13018,7 +13018,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-14": {
-      "name": "Apple MacBook Pro 14",
+      "name": "Apple MacBook Pro 14\"",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -15358,8 +15358,8 @@
       "updatedAt": null
     },
     "cube-reaction-hybrid-pro": {
-      "name": "Cube Reaction Hybrid Pro",
-      "category": "Fahrräder",
+      "name": "CUBE Reaction Hybrid Pro",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33839,6 +33839,228 @@
     },
     "rolleiflex-sl35e": {
       "name": "Rolleiflex SL35E",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kemoway-k5": {
+      "name": "Kemoway K5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-2026-m5-16-gb-ram": {
+      "name": "Apple MacBook Air 15 2026 M5 16GB RAM",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-512-gb": {
+      "name": "Apple MacBook 512 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-m1-chip": {
+      "name": "Apple MacBook Pro 13\" M1 Chip",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-vapor-x-r9-270x-2-gb": {
+      "name": "Sapphire Vapor-X R9 270X 2GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gt-730-2-gb": {
+      "name": "MSI GeForce GT 730 2GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-sapphire-pulse-radeon-rx-6700-xt-12-gb": {
+      "name": "AMD Sapphire Pulse Radeon RX 6700 XT 12 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-team-lfc-750-e-bike": {
+      "name": "KTM Macina Team LFC 750 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-sonic-evo-am-1-750-e-mtb": {
+      "name": "BULLS Sonic EVO AM 1 750 E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-blu-ray-edition-825-gb": {
+      "name": "Sony PlayStation 5 Blu-Ray Edition 825GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sparta-hollandrad": {
+      "name": "Sparta Hollandrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-supreme-sport-hybrid-one-500": {
+      "name": "Cube Supreme Sport Hybrid ONE 500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-e-nova-damen": {
+      "name": "KOGA E Nova Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cortina-e-bike-tiefeinsteiger-28-zoll-e-common": {
+      "name": "Cortina E Bike Tiefeinsteiger 28 Zoll E-Common",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-500-e-bike-akku": {
+      "name": "Bosch PowerTube 500 E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-3-b-move": {
+      "name": "Kalkhoff Endeavour 3.B Move",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gios-aerolite-edition-carbon-rahmenset": {
+      "name": "Gios Aerolite Edition Carbon Rahmenset",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "contoura-li-8-steps": {
+      "name": "Contoura LI -8 Steps",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-e-bike": {
+      "name": "CUBE Reaction Hybrid E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-r50-v": {
+      "name": "Canon R50 V",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-f01-frontkamera": {
+      "name": "BMW F01 Frontkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "uberwachungskamera": {
+      "name": "Überwachungskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x5-8k-360-action-cam": {
+      "name": "Insta360 X5 8K 360 Action Cam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-allground-evo-625wh": {
+      "name": "BULLS Allground EVO 625WH",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-leasingrucklaufer": {
+      "name": "BULLS Leasingrückläufer",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-s5-0-xl": {
+      "name": "Conway Cairon S5.0 XL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-512-gb": {
+      "name": "Apple iPhone 15 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-256-gb": {
+      "name": "Apple iPhone 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aputure-vs-2-fine-hd-monitor": {
+      "name": "Aputure VS-2 Fine HD Monitor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "axis-p1428-e-8-3mp-uberwachungskamera": {
+      "name": "Axis P1428-E 8.3MP Überwachungskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vintage-faltkamera-balgenkamera": {
+      "name": "Vintage Faltkamera Balgenkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "opel-insignia-b-ruckfahrkamera": {
+      "name": "Opel Insignia B Rückfahrkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ergorig-kamerarig": {
+      "name": "Ergorig Kamerarig",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7r-iii": {
+      "name": "Sony Alpha 7R III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-s-klasse-w221-kamera": {
+      "name": "Mercedes S-Klasse W221 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "abus-2mpx-wlan-mini-dome-ip-kamera": {
+      "name": "ABUS 2MPx WLAN Mini Dome IP-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "omegon-vetec-571-color-imx571-sensor": {
+      "name": "Omegon VeTec 571 Color IMX571 Sensor",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
