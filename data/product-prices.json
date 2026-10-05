@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T21:24:30.766Z",
+  "updatedAt": "2026-10-05T21:28:39.288Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128gb",
+      "name": "Apple iPhone 13 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1090,7 +1090,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro": {
-      "name": "Apple iPhone 16 Pro",
+      "name": "Apple iPhone 16 pro",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2542,7 +2542,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "playstation-5-disc-edition": {
-      "name": "PlayStation 5 Disc Edition",
+      "name": "PlayStation 5 Disc-Edition",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4474,7 +4474,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-2060-6-gb": {
-      "name": "Nvidia GeForce RTX 2060 6gb",
+      "name": "NVIDIA GeForce RTX 2060 6GB",
       "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
@@ -9617,7 +9617,7 @@
     },
     "playstation-5-reparatur": {
       "name": "PlayStation 5 Reparatur",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -16534,7 +16534,7 @@
       "updatedAt": null
     },
     "flyer-gotour-6-e-bike": {
-      "name": "FLYER GOTOUR 6 E-Bike",
+      "name": "Flyer Gotour 6 E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -17806,8 +17806,8 @@
       "updatedAt": null
     },
     "haibike-sduro-cross-e-bike": {
-      "name": "Haibike Sduro Cross E-Bike",
-      "category": "Fahrräder",
+      "name": "Haibike SDURO Cross E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -40026,6 +40026,60 @@
     "nvidia-geforce-rtx-2080": {
       "name": "NVIDIA GeForce RTX 2080",
       "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-team-29-zoll-e-bike": {
+      "name": "KTM Macina TEAM 29 Zoll E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ipad-a16": {
+      "name": "iPad (A16)",
+      "category": "Tablets",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-ryzen-5-5600x-16-gb": {
+      "name": "AMD Ryzen 5 5600X 16Gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-x-300-black-edition": {
+      "name": "Minolta X 300 black Edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-d-lux-2-digitalkamera": {
+      "name": "Leica D-Lux 2 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-big-mini-bm-302-analogkamera": {
+      "name": "Konica Big Mini BM-302 Analogkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-c-lux-2-digitalkamera": {
+      "name": "Leica C-LUX 2 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flycam-galaxy-dual-arm-und-weste": {
+      "name": "FLYCAM Galaxy Dual Arm und Weste",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-7-action-cam": {
+      "name": "GoPro Hero 7 Action Cam",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
