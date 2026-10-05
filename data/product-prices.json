@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T22:38:13.507Z",
+  "updatedAt": "2026-10-05T22:43:14.544Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128gb",
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128gb",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128gB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -641,13 +641,13 @@
     },
     "sony-playstation-5-konsole": {
       "name": "Sony PlayStation 5 Konsole",
-      "category": "Smartphones",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2345,7 +2345,7 @@
     },
     "maxtron-mt-11x-e-bike-mittelmotor": {
       "name": "Maxtron MT-11X E-Bike Mittelmotor",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -13474,7 +13474,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-edition-1-tb": {
-      "name": "Sony PlayStation 5 Slim Digital Edition 1TB",
+      "name": "Sony PlayStation 5 Slim Digital Edition 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -40487,6 +40487,36 @@
     },
     "canon-prima-super-130u": {
       "name": "Canon Prima Super 130u",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-race-120-fully-e-mtb": {
+      "name": "CUBE Stereo Hybrid Race 120 Fully E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-damen-fahrrad": {
+      "name": "E-Bike Damen Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-dual-geforce-rtx-5060-ti-oc-16-gb": {
+      "name": "ASUS Dual GeForce RTX 5060 Ti OC 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kamerahalterung-fur-target-corona-autoscoring-gxivision": {
+      "name": "Kamerahalterung für Target Corona Autoscoring GXIVISION",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-60-digicam": {
+      "name": "Canon IXUS 60 Digicam",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
