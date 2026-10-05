@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T20:39:46.682Z",
+  "updatedAt": "2026-10-05T20:44:47.047Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128gb",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128GB",
+      "name": "Apple iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -479,7 +479,7 @@
     },
     "nvidia-rtx-3080-ti-12-gb": {
       "name": "NVIDIA RTX 3080 TI 12GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2776,7 +2776,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-64-gb": {
-      "name": "Apple iPhone 11 Pro 64GB",
+      "name": "Apple iPhone 11 Pro 64 GB",
       "category": "Smartphones",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3964,7 +3964,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13": {
-      "name": "Apple MacBook Air 13\"",
+      "name": "Apple MacBook Air 13",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -6016,7 +6016,7 @@
       "updatedAt": null
     },
     "dji-osmo-pocket-4-creator-combo": {
-      "name": "DJI Osmo Pocket 4 Creator Combo",
+      "name": "Dji Osmo Pocket 4 Creator Combo",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -7883,7 +7883,7 @@
     },
     "giant-explore-e": {
       "name": "Giant Explore E+",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -12478,7 +12478,7 @@
       "updatedAt": null
     },
     "giant-explore-e-1-pro": {
-      "name": "Giant Explore E+1 Pro",
+      "name": "Giant Explore E 1 Pro",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -13660,7 +13660,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-512-gb": {
-      "name": "Apple iPhone 14 Pro 512GB",
+      "name": "Apple iPhone 14 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13835,7 +13835,7 @@
     },
     "apple-macbook-neo-13-256-gb": {
       "name": "Apple MacBook Neo 13\" 256GB",
-      "category": "Computer",
+      "category": "Laptops",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19336,7 +19336,7 @@
       "updatedAt": null
     },
     "apple-iphone-se-2020-64-gb": {
-      "name": "Apple iPhone SE 2020 64GB",
+      "name": "Apple iPhone SE (2020) 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -38117,7 +38117,7 @@
     },
     "foton-e-bike": {
       "name": "Foton E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -38489,6 +38489,168 @@
     },
     "nissan-primera-kombi-diesel-ahk-navi-kamera": {
       "name": "Nissan Primera Kombi Diesel AHK Navi Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-gotour2-e-bike": {
+      "name": "FLYER GOTOUR2 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-mtb-03-2026": {
+      "name": "Cube E-MTB 03/2026",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-etour-pro-ltd": {
+      "name": "KTM Macina eTour Pro LTD",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-cross-sx-20": {
+      "name": "KTM Macina Cross SX 20",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-ultimate-t10": {
+      "name": "Gazelle Ultimate t10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-inspire": {
+      "name": "Koga Inspire",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-central-p510-rt": {
+      "name": "KTM Macina Central P510 RT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rudi-e-bike": {
+      "name": "Rudi E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sachsenrad-e-bike": {
+      "name": "Sachsenrad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-8-0i": {
+      "name": "Fischer 8.0i",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-120-pro": {
+      "name": "Cube Stereo Hybrid 120 Pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga-cx": {
+      "name": "Kettler QUADRIGA CX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-victoria-tresalo-13": {
+      "name": "E-Bike Victoria Tresalo 13",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-3080-ti-ventus-3x-plus-12g-oc-12-gb": {
+      "name": "MSI GeForce RTX 3080 TI Ventus 3X Plus 12G OC 12 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-m1": {
+      "name": "Olympus E-M1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-75-digitalkamera": {
+      "name": "Canon IXUS 75 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "contax-rts-analog-spiegelreflexkamera": {
+      "name": "Contax RTS Analog Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dc-s9": {
+      "name": "Panasonic Lumix DC-S9",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mamiya-rb67-filmruckteil": {
+      "name": "Mamiya RB67 Filmrückteil",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d3200-slr-kamera-64-gb": {
+      "name": "Nikon D3200 SLR Kamera 64GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mic-3": {
+      "name": "DJI Mic 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-mtb-fully-bosch-29-zoll": {
+      "name": "Scott E-MTB Fully Bosch 29 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diamant-zouma-deluxe-pedelec-m": {
+      "name": "Diamant Zouma Deluxe+ Pedelec M",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-8": {
+      "name": "Haibike Trekking 8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fiido-d3-pro-e-bike-klapprad": {
+      "name": "Fiido D3 Pro E-Bike Klapprad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x3-kamera": {
+      "name": "Insta360 X3 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "defekte-digitalkameras-konvolut": {
+      "name": "Defekte Digitalkameras Konvolut",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
