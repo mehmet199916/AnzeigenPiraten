@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T14:54:40.989Z",
+  "updatedAt": "2026-10-05T14:59:54.108Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
-      "category": "Smartphones",
+      "name": "Apple iPhone 17 Pro Max 256GB",
+      "category": "smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -376,7 +376,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m4-16-gb": {
-      "name": "Apple MacBook Air M4 16GB",
+      "name": "Apple MacBook Air M4 16 GB",
       "category": "Computer",
       "referencePrice": 750,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2267,7 +2267,7 @@
     },
     "playstation-5-slim": {
       "name": "PlayStation 5 Slim",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -14249,7 +14249,7 @@
     },
     "deko-lampe-retro-leuchte-kamera": {
       "name": "Deko-Lampe Retro Leuchte Kamera",
-      "category": "Elektronik",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14908,7 +14908,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-8-gb": {
-      "name": "Apple MacBook Pro 13\" 8 GB",
+      "name": "Apple MacBook Pro 13 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -17008,7 +17008,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-16-gb": {
-      "name": "Apple MacBook Pro 16 16GB",
+      "name": "Apple MacBook Pro 16 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -18503,7 +18503,7 @@
     },
     "raymon-hardray-720-e-mtb-29": {
       "name": "Raymon HardRay 720 E-MTB 29\"",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19174,7 +19174,7 @@
       "updatedAt": null
     },
     "playstation-5-digital-edition-1-tb": {
-      "name": "PlayStation 5 Digital Edition 1TB",
+      "name": "PlayStation 5 Digital Edition 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -27298,7 +27298,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-256-gb": {
-      "name": "Apple MacBook Air 13\" 256gb",
+      "name": "Apple MacBook Air 13 256GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -33478,7 +33478,7 @@
       "updatedAt": null
     },
     "amd-radeon-rx-6750-xt-12-gb": {
-      "name": "AMD Radeon RX 6750 XT 12 GB",
+      "name": "AMD Radeon RX 6750 XT 12 Gb",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -35994,6 +35994,276 @@
     "apple-ipad": {
       "name": "Apple iPad",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-2-tb": {
+      "name": "Apple MacBook Pro 13\" 2 TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-m2-pro-14-512-gb": {
+      "name": "MacBook Pro M2 Pro 14\" 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-128-gb": {
+      "name": "Apple MacBook Pro 13 128GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m2-pro-16-gb-512-gb": {
+      "name": "Apple MacBook Pro 14\" M2 Pro 16GB 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-6-m3-2024-8-gb": {
+      "name": "Apple MacBook Air 13,6\" M3 (2024) 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-2017-16-gb": {
+      "name": "Apple MacBook Pro 15\" 2017 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2016-1-tb": {
+      "name": "Apple MacBook Pro 13 Zoll (2016) 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-2020-500-gb": {
+      "name": "Apple MacBook Air 13 Zoll (2020) 500gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-6-zoll-256-gb": {
+      "name": "Apple MacBook Air 13,6 Zoll 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2019-128-gb": {
+      "name": "Apple MacBook Pro 13 Zoll (2019) 128 Gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-rx-580-armor-8g-oc": {
+      "name": "MSI RX 580 ARMOR 8G OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-geforce-gtx-980-ti-amp-extreme": {
+      "name": "Zotac GeForce GTX 980 Ti AMP! Extreme",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-4080-super": {
+      "name": "NVIDIA RTX 4080 Super",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-5070": {
+      "name": "NVIDIA RTX 5070",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-6900-xt-founders-edition": {
+      "name": "AMD Radeon RX 6900 XT Founders Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-2060s-8-gb": {
+      "name": "NVIDIA RTX 2060S 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-radeon-rx-5700-xt-gaming-oc-8-gb": {
+      "name": "Gigabyte Radeon RX 5700 XT Gaming OC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-radeon-rx-6600-challenger-d-8-gb": {
+      "name": "ASRock Radeon RX 6600 Challenger D 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-dual-geforce-rtx-4060-oc-edition-8-gb": {
+      "name": "ASUS Dual GeForce RTX 4060 OC Edition 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "heimserver-mit-intel-xeon-e5-2690-v4-64-gb": {
+      "name": "Heimserver mit Intel Xeon E5-2690 v4 64 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1080": {
+      "name": "NVIDIA GeForce GTX 1080",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-radeon-rx-9070-xt-steel-legend": {
+      "name": "ASROCK Radeon RX 9070 XT Steel Legend",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-zoll-m4-256-gb": {
+      "name": "Apple MacBook Air 15 Zoll M4 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1070-gaming-8-gb": {
+      "name": "Gigabyte GeForce GTX 1070 Gaming 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-2070-super-x-trio-gaming": {
+      "name": "Nvidia RTX 2070 Super x Trio Gaming",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1660-ti": {
+      "name": "Nvidia GTX 1660 Ti",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "geforce-7900-gt-calibre-p790": {
+      "name": "GeForce 7900 GT Calibre P790",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gainward-geforce-rtx-3060-ti-ghost-8-gb": {
+      "name": "Gainward GeForce RTX 3060 Ti Ghost 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-mit-cd-laufwerk": {
+      "name": "Sony PlayStation 5 mit CD Laufwerk",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-gtx-1660-ti-amp-edition-6-gb-gddr6": {
+      "name": "ZOTAC GAMING GeForce GTX 1660 Ti AMP Edition 6GB GDDR6",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-disc-version-1-tb": {
+      "name": "PlayStation 5 Disc Version 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-pro-digital-1-tb": {
+      "name": "PlayStation 5 Slim Pro Digital 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "final-fantasy-vii-remake-intergrade": {
+      "name": "Final Fantasy VII Remake Intergrade",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-1-tb-konsole": {
+      "name": "Sony PlayStation 5 Slim 1TB Konsole",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-imperial-e-s-17-i-3003": {
+      "name": "Hercules Imperial E-S 17 I 3003",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-0": {
+      "name": "Prophete E-Bike 0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m4-2025-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M4 (2025) 16GB RAM 512GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-2019-i7-6-core-16-gb-1-tb-ssd": {
+      "name": "Apple MacBook Pro 16\" 2019 i7 6-Core 16GB 1TB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2026": {
+      "name": "Apple MacBook Air 2026",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-radeon-rx-570-pulse-8-gb": {
+      "name": "Sapphire Radeon RX 570 Pulse 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pny-nvidia-geforce-rtx-4070-ti-12-gb": {
+      "name": "PNY NVIDIA GeForce RTX 4070 Ti 12 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-bike-cityrad": {
+      "name": "Victoria E-Bike Cityrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-collectors-edition": {
+      "name": "Sony PlayStation 5 Collectors Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "salyut-c-mittelformatkamera": {
+      "name": "Salyut-C Mittelformatkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-em-spiegelreflexkamera": {
+      "name": "Nikon EM Spiegelreflexkamera",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
