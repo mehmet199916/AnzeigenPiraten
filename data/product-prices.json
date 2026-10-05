@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T20:59:45.217Z",
+  "updatedAt": "2026-10-05T21:04:29.551Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256gb",
+      "name": "Apple iPhone 17 Air 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -419,7 +419,7 @@
     },
     "apple-macbook-air-15-m3-8-gb": {
       "name": "Apple MacBook Air 15\" M3 8GB",
-      "category": "Laptops",
+      "category": "Computer",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -460,7 +460,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m1-2020-8-gb": {
-      "name": "Apple MacBook Air M1 2020 8 GB",
+      "name": "Apple MacBook Air M1 (2020) 8 GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -641,7 +641,7 @@
     },
     "sony-playstation-5-konsole": {
       "name": "Sony PlayStation 5 Konsole",
-      "category": "Spielekonsolen",
+      "category": "Smartphones",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -677,7 +677,7 @@
     },
     "sony-playstation-5-dualsense-controller": {
       "name": "Sony PlayStation 5 DualSense Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -695,7 +695,7 @@
     },
     "sony-playstation-5-slim": {
       "name": "Sony PlayStation 5 Slim",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -844,7 +844,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "fujifilm-x100vi": {
-      "name": "Fujifilm x100vi",
+      "name": "Fujifilm X100VI",
       "category": "Kameras",
       "referencePrice": 1500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1330,7 +1330,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-pro-2-tb": {
-      "name": "Sony PlayStation 5 Pro 2TB",
+      "name": "Sony PlayStation 5 Pro 2 TB",
       "category": "Spielekonsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5662,7 +5662,7 @@
       "updatedAt": null
     },
     "sony-alpha-6000": {
-      "name": "Sony Alpha 6000",
+      "name": "Sony alpha 6000",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -6016,7 +6016,7 @@
       "updatedAt": null
     },
     "dji-osmo-pocket-4-creator-combo": {
-      "name": "Dji Osmo Pocket 4 Creator Combo",
+      "name": "DJI Osmo Pocket 4 Creator Combo",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro Max 256GB",
+      "name": "iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -9292,8 +9292,8 @@
       "updatedAt": null
     },
     "sony-playstation-portal-remote-player": {
-      "name": "Sony PlayStation Portal Remote Player",
-      "category": "Konsolen",
+      "name": "Sony PlayStation Portal Remote-Player",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9916,7 +9916,7 @@
       "updatedAt": null
     },
     "sony-cyber-shot-dsc-w80": {
-      "name": "Sony Cyber-Shot DSC-W80",
+      "name": "Sony Cyber-shot DSC-W80",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -17836,7 +17836,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-m2-8-gb": {
-      "name": "Apple MacBook Air M2 8 GB",
+      "name": "Apple MacBook Air M2 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -21557,7 +21557,7 @@
     },
     "tenways-cgo-compact-e-bike": {
       "name": "Tenways CGO Compact E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26297,7 +26297,7 @@
     },
     "playstation-vr": {
       "name": "PlayStation VR",
-      "category": "Spielekonsolen",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -39372,6 +39372,126 @@
     "ps-5-spiel": {
       "name": "PS 5 Spiel",
       "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kemoway-z3-e-bike-klapprad": {
+      "name": "Kemoway Z3 E-Bike Klapprad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-e-city-city-line-comfort": {
+      "name": "E-Bike e-city City Line Comfort",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-entour-e-0-28-500-rt-e-bike": {
+      "name": "giant entour E+ 0 28 500 RT E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-haibike-e-bike": {
+      "name": "Bosch Haibike E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-avignon-c8": {
+      "name": "Gazelle E Bike Avignon C8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-arroyo-c7-hmb-e-bike": {
+      "name": "Gazelle Arroyo C7+HMB E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bara-damen-e-bike": {
+      "name": "Bara Damen E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rabeneick-damen-e-bike": {
+      "name": "Rabeneick Damen E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-rx-6700-xt": {
+      "name": "AMD RX 6700 XT",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-nitro-radeon-rx-6950-xt-16-gb": {
+      "name": "Sapphire Nitro+ Radeon RX 6950 XT 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-gaming-x-amd-radeon-rx-6650-xt-8-gb": {
+      "name": "MSI Gaming X AMD Radeon RX 6650 XT 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tauschservice-fur-grafikkarten-6-gb": {
+      "name": "Tauschservice für Grafikkarten 6GB",
+      "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5-slim-1-tb-disc-edition": {
+      "name": "Sony PS5 Slim 1TB Disc Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx350": {
+      "name": "Sony Cyber-shot DSC-HX350",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "huitong-trocknenschrank": {
+      "name": "HuiTong Trocknenschrank",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-movector-super-16-mm": {
+      "name": "Agfa Movector Super 16 mm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-m10-systemkamera": {
+      "name": "Canon M10 Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-t2-systemkamera": {
+      "name": "Fujifilm X-T2 Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-servo-8": {
+      "name": "KTM E-Bike Servo 8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "quad-lock-set-fur-iphone-16-pro-max": {
+      "name": "Quad Lock Set für iPhone 16 Pro Max",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
