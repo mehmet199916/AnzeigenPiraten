@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T20:34:38.569Z",
+  "updatedAt": "2026-10-05T20:39:46.682Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -46,13 +46,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128Gb",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64 GB",
+      "name": "Apple iPhone 12 64gb",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,13 +1048,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1804,7 +1804,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17e-256-gb": {
-      "name": "Apple iPhone 17e 256 GB",
+      "name": "Apple iPhone 17e 256gb",
       "category": "Smartphones",
       "referencePrice": 610,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1TB",
+      "name": "Sony PlayStation 5 Slim 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2674,7 +2674,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128 GB",
+      "name": "Apple iPhone 16 Plus 128gb",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3161,7 +3161,7 @@
     },
     "playstation-5-spiel": {
       "name": "PlayStation 5 Spiel",
-      "category": "Spielekonsolen",
+      "category": "Spiele",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3340,7 +3340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-mini-128-gb": {
-      "name": "Apple iPhone 12 mini 128 GB",
+      "name": "Apple iPhone 12 Mini 128GB",
       "category": "Smartphones",
       "referencePrice": 175,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7175,7 +7175,7 @@
     },
     "hoheacht-lumo-tereno-diamant-gr-l-56-cm": {
       "name": "HoheAcht Lumo Tereno Diamant Gr. L /56 cm",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7445,7 +7445,7 @@
     },
     "bosch-powerpack-500": {
       "name": "Bosch PowerPack 500",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8026,7 +8026,7 @@
       "updatedAt": null
     },
     "apple-iphone-air-256-gb": {
-      "name": "Apple iPhone Air 256GB",
+      "name": "Apple iPhone Air 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10264,7 +10264,7 @@
       "updatedAt": null
     },
     "apple-iphone-13-pro-1-tb": {
-      "name": "Apple iPhone 13 Pro 1 TB",
+      "name": "Apple iPhone 13 Pro 1TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -11338,7 +11338,7 @@
       "updatedAt": null
     },
     "cube-touring-hybrid-exc-500": {
-      "name": "CUBE Touring Hybrid EXC 500",
+      "name": "Cube Touring Hybrid EXC 500",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -18857,7 +18857,7 @@
     },
     "playstation-5-dualsense-controller": {
       "name": "PlayStation 5 DualSense Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -20993,7 +20993,7 @@
     },
     "reparatur-frontkamera-vw-audi-c110702-c1107-c1108-touareg-a6-q7": {
       "name": "Reparatur Frontkamera VW Audi C110702 C1107 C1108 Touareg A6 Q7",
-      "category": "Reparatur",
+      "category": "Dienstleistungen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26327,7 +26327,7 @@
     },
     "winora-e-bike": {
       "name": "Winora E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -38232,6 +38232,264 @@
     "iphone-11-pro-64-gb": {
       "name": "iPhone 11 Pro 64GB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "uebler-i31-z-fahrradtrager-3-fahrrader-72-kg-traglast": {
+      "name": "Uebler I31 Z Fahrradträger 3 Fahrräder 72 kg Traglast",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-5g-128-gb-blue": {
+      "name": "Apple iPhone 14 5G 128GB Blue",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-m1-pro-16-32-gb-ram-512-gb-ssd": {
+      "name": "MacBook Pro M1 Pro 16\" 32 GB RAM 512 GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-16-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Air M1 16 GB RAM 1 TB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-4-slim": {
+      "name": "PlayStation 4 Slim",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-retina-13": {
+      "name": "Apple MacBook Air Retina 13\"",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-2018-8-gb": {
+      "name": "MacBook Air 2018 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-960-g1-4-gb": {
+      "name": "Gigabyte GeForce GTX 960 G1 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-gtx-1060-grafikkarte": {
+      "name": "ASUS ROG Strix GeForce GTX 1060 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-rx-570-8-gb-msi-armor": {
+      "name": "AMD RX 570 8GB MSI Armor",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1060-3-gb": {
+      "name": "NVIDIA GeForce GTX 1060 3GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-5080-windforce-oc-sff-16-gb": {
+      "name": "NVIDIA GeForce RTX 5080 Windforce OC SFF 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3050-6-gb": {
+      "name": "NVIDIA GeForce RTX 3050 6 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-4060-ti-eagle-oc-8-gb": {
+      "name": "Gigabyte GeForce RTX 4060 Ti EAGLE OC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-portal-remote-play": {
+      "name": "Sony PlayStation Portal Remote Play",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-edition-konsole": {
+      "name": "Sony PlayStation 5 Disc Edition Konsole",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reolink-trackmix-poe-kamera": {
+      "name": "Reolink Trackmix Poe Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-rx100-kameratasche": {
+      "name": "Sony RX100 Kameratasche",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-power-sport-10-s-e-trekking-e-mtb": {
+      "name": "KTM POWER Sport 10 - S - E-Trekking E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "volta-e-bike-lila": {
+      "name": "Volta E-Bike Lila",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-sib-2-0-fit-e-bike-akku": {
+      "name": "Panasonic SIB 2.0 FIT E-Bike Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sinus-r8-e-bike": {
+      "name": "Sinus R8 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-e-mountainbike": {
+      "name": "Specialized E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hiland-e-bike-26-zoll": {
+      "name": "Hiland E-Bike 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-velospace-xt-fahrradtrager": {
+      "name": "Thule VeloSpace XT Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-stance-e-ex-e-mountainbike": {
+      "name": "Giant Stance E+ EX E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sushi-city-e-bike-damen": {
+      "name": "Sushi City E-Bike Damen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vaun-e-bike": {
+      "name": "Vaun E Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ebike-trekking-pro-elektrorad-bosch-cx-625wh": {
+      "name": "EBIKE Trekking Pro Elektrorad BOSCH CX 625Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-e-bike-damenrad": {
+      "name": "Raleigh E-Bike Damenrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-mountainbike-wei": {
+      "name": "E-Mountainbike weiß",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-stack-1-3": {
+      "name": "Prophete Stack 1.3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-display-diagnose-apparat": {
+      "name": "iPhone Display Diagnose Apparat",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "led-videoleuchte": {
+      "name": "LED Videoleuchte",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-z1-digital-kamera": {
+      "name": "Casio Exilim EX-Z1 Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "revue-chinon-direct-sound-8-filmkamera": {
+      "name": "REVUE CHINON Direct Sound 8 Filmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-zf": {
+      "name": "Nikon Zf",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hikvision-ds-7608ni-st-nvr": {
+      "name": "Hikvision DS-7608NI-ST(NVR)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentacon-retro-kamera": {
+      "name": "Pentacon Retro Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-action-kamera": {
+      "name": "DJI Action Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "contax-s2-analoge-spiegelreflexkamera": {
+      "name": "Contax S2 analoge Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "holy-stone-hs700e": {
+      "name": "Holy Stone HS700E",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nissan-primera-kombi-diesel-ahk-navi-kamera": {
+      "name": "Nissan Primera Kombi Diesel AHK Navi Kamera",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
