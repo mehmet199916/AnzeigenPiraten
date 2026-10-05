@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T22:33:12.783Z",
+  "updatedAt": "2026-10-05T22:38:13.507Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -497,7 +497,7 @@
     },
     "gigabyte-geforce-rtx-3070-gaming-oc-8-gb": {
       "name": "Gigabyte GeForce RTX 3070 Gaming OC 8GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6503,7 +6503,7 @@
     },
     "giant-talon-e-ex": {
       "name": "Giant Talon e+ EX",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6551,7 +6551,7 @@
     },
     "gazelle-e-bike": {
       "name": "Gazelle E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13067,7 +13067,7 @@
     },
     "professionelle-videoproduktion": {
       "name": "Professionelle Videoproduktion",
-      "category": "Dienstleistung",
+      "category": "Dienstleistungen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -40475,6 +40475,18 @@
     },
     "kiev-4-fotokamera": {
       "name": "Kiev 4 Fotokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-4-e-bike-rh60-xl": {
+      "name": "HAIBIKE Trekking 4 E-Bike Rh60 XL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-prima-super-130u": {
+      "name": "Canon Prima Super 130u",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
