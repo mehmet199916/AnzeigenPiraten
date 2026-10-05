@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T14:59:54.108Z",
+  "updatedAt": "2026-10-05T15:04:48.931Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -335,7 +335,7 @@
     },
     "apple-iphone-17-pro-max-256-gb": {
       "name": "Apple iPhone 17 Pro Max 256GB",
-      "category": "smartphones",
+      "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128Gb",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -479,7 +479,7 @@
     },
     "nvidia-rtx-3080-ti-12-gb": {
       "name": "NVIDIA RTX 3080 TI 12GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128GB",
+      "name": "Apple iPhone 11 128 GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5765,7 +5765,7 @@
     },
     "scott-sub-cross-eride-10-lady-e-bike": {
       "name": "Scott Sub Cross eRIDE 10 Lady E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 mini 64 GB",
+      "name": "Apple iPhone 12 mini 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -12478,7 +12478,7 @@
       "updatedAt": null
     },
     "giant-explore-e-1-pro": {
-      "name": "Giant Explore E 1 Pro",
+      "name": "Giant Explore E+1 Pro",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -23044,8 +23044,8 @@
       "updatedAt": null
     },
     "fahrrad-e-bike": {
-      "name": "Fahrrad, E-Bike",
-      "category": "Fahrräder",
+      "name": "Fahrrad E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -25366,7 +25366,7 @@
       "updatedAt": null
     },
     "tenways-ago-t-e-bike-enviolo-2024": {
-      "name": "Tenways AGO-T E-Bike Enviolo 2024",
+      "name": "Tenways AGO T E-Bike Enviolo 2024",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -36263,6 +36263,270 @@
     },
     "nikon-em-spiegelreflexkamera": {
       "name": "Nikon EM Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-e-mountainbike-hardtail": {
+      "name": "Cube e-bike e-Mountainbike Hardtail",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-m1-pro-16-gb": {
+      "name": "Apple MacBook Pro 16\" M1 Pro 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-3070-ti-suprim-x-8-gb": {
+      "name": "MSI GeForce RTX 3070 Ti Suprim X 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-rtx-3060-ti-8-gb": {
+      "name": "Asus GeForce RTX 3060 Ti 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-8800-gtx": {
+      "name": "NVIDIA GeForce 8800 GTX",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-4060-ti-8-gb": {
+      "name": "Nvidia GeForce RTX 4060 Ti 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "c80-e-bike": {
+      "name": "c80 E Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "heren-e-bike-gazele-28-zoll-rg-57-cm": {
+      "name": "HEREN E BIKE GAZELE 28 ZOLL RG 57 CM",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "spiele-fur-playstation-5": {
+      "name": "Spiele für PlayStation 5",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "triumph-bird-e-bike": {
+      "name": "Triumph Bird E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-swing3": {
+      "name": "Riese & Müller Swing3",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-g3-systemkamera": {
+      "name": "Panasonic Lumix DMC-G3 Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "damenfahrrad": {
+      "name": "Damenfahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "airtracks-maverix-e-bike-29": {
+      "name": "Airtracks Maverix E-Bike 29\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-montis-8-0i-e-bike": {
+      "name": "Fischer Montis 8.0i E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hitway-bk-11": {
+      "name": "E-Bike Hitway Bk 11",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-710-e-mtb-genius-plus": {
+      "name": "Scott 710 E MTB Genius Plus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ecofold-bff-250-e-bike-faltrad": {
+      "name": "EcoFold BFF 250 E-Bike Faltrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx70hs": {
+      "name": "Canon PowerShot SX70HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ricoh-gr-iii": {
+      "name": "Ricoh GR III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-espio-738": {
+      "name": "Pentax Espio 738",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "action-kamera": {
+      "name": "Action Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-legria-mini-x": {
+      "name": "Canon Legria Mini X",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-12-sofortbildkamera": {
+      "name": "Fujifilm Instax Mini 12 Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-lexio-70w": {
+      "name": "Konica Lexio 70W",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-a1": {
+      "name": "Canon a1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xbro-one-indoor-cam": {
+      "name": "Xbro One Indoor Cam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fuji-e-jari-eqp-elektrisch-gravelbike": {
+      "name": "Fuji E-Jari EQP Elektrisch Gravelbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-eride-aspect-contessa": {
+      "name": "Scott eRide Aspect Contessa",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "touroll-j1-st-e-trekkingbike": {
+      "name": "Touroll J1 ST E‑Trekkingbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dynamics-e-bike": {
+      "name": "Dynamics E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leogard-e-bike": {
+      "name": "Leogard E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-trekking-fur-damen-herren": {
+      "name": "Bosch E-Bike Trekking für Damen + Herren",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bluewheel-bxb55-20-zoll-e-bike-klapprad": {
+      "name": "BLUEWHEEL BXB55 20 ZOLL E-BIKE KLAPPRAD",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-seb-890-pure-ebike": {
+      "name": "Velo de Ville SEB 890 Pure Ebike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-damenrad-mit-korb": {
+      "name": "Gazelle E-Bike Damenrad mit Korb",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-max-128-gb": {
+      "name": "Apple iPhone 15 Pro Max 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-w730": {
+      "name": "Sony Cyber-shot DSC-W730",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-snc-ch220-ip-kamera": {
+      "name": "Sony SNC-CH220 IP-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blackmagic-pocket-cinema-camera-4k": {
+      "name": "Blackmagic Pocket Cinema Camera 4K",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a-6000": {
+      "name": "Sony Alpha a 6000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dc-s5-ii": {
+      "name": "Panasonic Lumix DC-S5 II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-ektra-12-ef-pocketkamera": {
+      "name": "Kodak Ektra 12-EF Pocketkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "multimedia-radio": {
+      "name": "Multimedia Radio",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
