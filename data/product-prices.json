@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T22:43:14.544Z",
+  "updatedAt": "2026-10-05T22:48:02.840Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128gb",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,7 +1798,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256 GB",
+      "name": "Apple iPhone 13 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256Gb",
+      "name": "Apple iPhone 15 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -33706,7 +33706,7 @@
       "updatedAt": null
     },
     "apple-macbook-256-gb": {
-      "name": "Apple MacBook 256 gb",
+      "name": "Apple MacBook 256GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -40518,6 +40518,18 @@
     "canon-ixus-60-digicam": {
       "name": "Canon IXUS 60 Digicam",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cangoo-e-lastenrad": {
+      "name": "Cangoo E-Lastenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-nvlink-bridge-4-slot-fur-rtx-3090": {
+      "name": "NVIDIA NVLink Bridge 4-Slot für RTX 3090",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     }
