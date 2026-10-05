@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T22:13:18.975Z",
+  "updatedAt": "2026-10-05T22:18:10.602Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -641,7 +641,7 @@
     },
     "sony-playstation-5-konsole": {
       "name": "Sony PlayStation 5 Konsole",
-      "category": "Spielekonsolen",
+      "category": "Smartphones",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -677,7 +677,7 @@
     },
     "sony-playstation-5-dualsense-controller": {
       "name": "Sony PlayStation 5 DualSense Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4144,7 +4144,7 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-max-256-gb": {
-      "name": "Apple iPhone 11 Pro Max 256 GB",
+      "name": "Apple iPhone 11 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10270,7 +10270,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-16-gb": {
-      "name": "Apple MacBook Air 16GB",
+      "name": "Apple MacBook Air 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -14243,7 +14243,7 @@
     },
     "sony-playstation-5-dualsense-edge-controller": {
       "name": "Sony PlayStation 5 DualSense Edge Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17596,7 +17596,7 @@
       "updatedAt": null
     },
     "apple-iphone-se-64-gb": {
-      "name": "Apple iPhone SE 64GB",
+      "name": "Apple iPhone SE 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -40398,6 +40398,18 @@
     "nvidia-geforce-rtx-3090-ti-x3-oc-24-gb": {
       "name": "NVIDIA GeForce RTX 3090 Ti X3 OC 24GB",
       "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-tiefeinsteiger-bosch-500": {
+      "name": "KTM E-Bike Tiefeinsteiger Bosch 500",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-endeavour-bosch-500-wh": {
+      "name": "Kalkhoff E-Bike Endeavour Bosch 500 Wh",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
