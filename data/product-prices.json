@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T20:49:44.078Z",
+  "updatedAt": "2026-10-05T20:54:56.328Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256Gb",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,7 +202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E-Bike",
+      "name": "E Bike",
       "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -382,7 +382,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m2-2022-8-gb": {
-      "name": "Apple MacBook Air M2 2022 8 GB",
+      "name": "Apple MacBook Air M2 (2022) 8GB",
       "category": "Computer",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -652,7 +652,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
-      "name": "Sony PlayStation 5 Konsole 1 TB",
+      "name": "Sony PlayStation 5 Konsole 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825GB",
+      "name": "Sony PlayStation 5 Disc Edition 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1186,8 +1186,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-quadro-p4000-8-gb-gddr5": {
-      "name": "NVIDIA Quadro P4000 8GB GDDR5",
-      "category": "Computer",
+      "name": "Nvidia Quadro P4000 8GB GDDR5",
+      "category": "Grafikkarten",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2458,7 +2458,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-pro-14-24-gb": {
-      "name": "Apple MacBook Pro 14 24GB",
+      "name": "Apple MacBook Pro 14\" 24GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3652,7 +3652,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-2019-32-gb": {
-      "name": "Apple MacBook Pro 16 (2019) 32GB",
+      "name": "Apple MacBook Pro 16\" (2019) 32GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -6880,7 +6880,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-825-gb": {
-      "name": "Sony PlayStation 5 825 GB",
+      "name": "Sony PlayStation 5 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -10672,8 +10672,8 @@
       "updatedAt": null
     },
     "kalkhoff-e-bike-28-zoll": {
-      "name": "Kalkhoff E-Bike 28 Zoll",
-      "category": "Fahrräder",
+      "name": "Kalkhoff E Bike 28 zoll",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13859,7 +13859,7 @@
     },
     "sony-playstation-5-slim-digital-edition-825-gb": {
       "name": "Sony PlayStation 5 Slim Digital Edition 825 GB",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -16001,7 +16001,7 @@
     },
     "bosch-powertube-500-wh-36v-13-4ah-e-bike-akku": {
       "name": "Bosch PowerTube 500 Wh 36V 13,4Ah E-Bike Akku",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -20266,8 +20266,8 @@
       "updatedAt": null
     },
     "playstation-5-pro-2-tb": {
-      "name": "PlayStation 5 Pro 2TB",
-      "category": "Spielekonsolen",
+      "name": "PlayStation 5 Pro 2Tb",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -38855,6 +38855,348 @@
     },
     "dji-mini-akku": {
       "name": "DJI Mini Akku",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "carbon-pro-urtopia": {
+      "name": "Carbon Pro Urtopia",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cowboy-s3": {
+      "name": "Cowboy S3",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-yucatan-x12-e-bike-rh-55-cm-yamaha-pw-x3-85nm": {
+      "name": "Winora Yucatan X12 E-bike RH 55 cm Yamaha PW-X3 85Nm",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymond-e-bike-2021": {
+      "name": "Raymond E-Bike 2021",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scout-aspect-eride29-hardtail-e-mtb-2021": {
+      "name": "Scout Aspect eRide29 Hardtail E-MTB 2021",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5-dualsense-edge-wireless-controller": {
+      "name": "Sony PS5 DualSense Edge Wireless Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m2-pro-2023-16-gb": {
+      "name": "Apple MacBook Pro 14\" M2 Pro 2023 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-13-zoll": {
+      "name": "Apple MacBook Air M1 13 Zoll",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-a1990-2018-16-gb": {
+      "name": "Apple MacBook Pro 15\" A1990 2018 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2025-13-zoll-256-gb": {
+      "name": "Apple MacBook Air 2025 13 Zoll 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-mainboard": {
+      "name": "Apple MacBook Mainboard",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5": {
+      "name": "Apple MacBook Air M5",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-mitte-2012-16-gb": {
+      "name": "Apple MacBook Pro 13 Zoll Mitte 2012 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-chip-2026-modell": {
+      "name": "Apple MacBook Air M5 Chip (2026 Modell)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-rtx-2060-super-8-gb": {
+      "name": "ASUS GeForce RTX 2060 Super 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-pulse-radeon-rx-570-8-gb-gddr5-dual": {
+      "name": "Sapphire Pulse Radeon RX 570 8GB GDDR5 Dual",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-3080-12-gb-gaming-z-trio": {
+      "name": "MSI GeForce RTX 3080 12GB Gaming Z Trio",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "s3-voodoo-3-3000-agp": {
+      "name": "S3 Voodoo 3 3000 AGP",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-gtx-1060-oc-6-gb": {
+      "name": "ASUS ROG Strix GTX 1060 OC 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-550-ti-1024mb-1-gb": {
+      "name": "NVIDIA GTX 550 Ti 1024MB 1GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-3050-gaming-oc-8-gb": {
+      "name": "Gigabyte GeForce RTX 3050 Gaming OC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gaming-pc-ohne-grafikkarte": {
+      "name": "Gaming PC ohne Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-gtx-1660-super-gp-oc-6-gb": {
+      "name": "PALIT GeForce GTX 1660 SUPER GP OC 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-radeon-rx-580-armor-8-gb-oc-v341-064r": {
+      "name": "MSI Radeon RX 580 Armor 8GB OC (V341-064R)",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-dual-rtx-2060-12-gb-evo": {
+      "name": "Asus Dual RTX 2060 12GB EVO",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eco-fold-e-bike": {
+      "name": "ECO FOLD E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-audi-c110702-c1107-c1108-touareg": {
+      "name": "VW Audi C110702 C1107 C1108 Touareg",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-heavydutynl-c7-hmb": {
+      "name": "Gazelle HeavyDutyNL C7 HMB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g923-driving-force-rennlenkrad": {
+      "name": "Logitech G923 Driving Force Rennlenkrad",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-gtx-1080-ti-oc-11-gb": {
+      "name": "ASUS ROG Strix GeForce GTX 1080 Ti OC 11GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-prophete-herren": {
+      "name": "E-Bike Prophete Herren",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-cross-tourer-ct5": {
+      "name": "Husqvarna Cross Tourer CT5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samebike-e-bike": {
+      "name": "SAMEBIKE E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-pathlite-on-8-suv-st": {
+      "name": "Canyon Pathlite ON 8 SUV ST",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-digital-edition-825-gb": {
+      "name": "PlayStation 5 Slim Digital Edition 825 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-prophete": {
+      "name": "E-Bike prophete",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-orange-c8": {
+      "name": "Gazelle Orange C8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-cross-tourer-ct5-e-bike": {
+      "name": "Husqvarna Cross Tourer CT5 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-fullray-e-bike": {
+      "name": "Raymon FullRay E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yt-decoy-cf-pro-2019-carbon-e-mtb-29-zoll": {
+      "name": "YT Decoy CF Pro (2019) Carbon E-MTB 29 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "simplon-chenoa-cx-uni-tr": {
+      "name": "Simplon Chenoa CX Uni TR",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-retro-e-bike-flaire-28er": {
+      "name": "Zündapp Retro E-Bike Flaire 28er",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-hardseven-7-0": {
+      "name": "Haibike HardSeven 7.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-miss-grace-c7-hmb-bosch-e-bike-shimano-nexus-104km": {
+      "name": "Gazelle Miss Grace C7+ HMB Bosch E-Bike Shimano Nexus 104km",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-13-6-zoll-m3-chip-8-gb-256-gb": {
+      "name": "MacBook Air 13,6 Zoll M3 Chip 8GB/256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-2018-rose-gold": {
+      "name": "Apple MacBook Air 13 Zoll 2018 Rose Gold",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mavic-pro": {
+      "name": "DJI Mavic Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "philips-avent-babyphone-mit-kamera-scd921-26": {
+      "name": "Philips Avent Babyphone mit Kamera SCD921/26",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blitz-fur-pentax-kamera": {
+      "name": "Blitz für Pentax Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-mark-iii": {
+      "name": "Canon EOS Mark III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-outdoor-4-kamera-battery-doorbell-2k-set": {
+      "name": "Blink Outdoor 4 Kamera & Battery Doorbell 2K Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-710": {
+      "name": "KTM MACINA STYLE 710",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-8": {
+      "name": "Fujifilm instax mini 8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-2-fly-more-combo": {
+      "name": "DJI Mini 2 Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "garmin-varia-rct716-stvzo": {
+      "name": "Garmin Varia RCT716 StVZO",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-hdr-cx280e": {
+      "name": "Sony HDR-CX280E",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asahi-pentax-sl-super-takumar-55-1-8": {
+      "name": "Asahi Pentax SL Super-Takumar 55/1.8",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
