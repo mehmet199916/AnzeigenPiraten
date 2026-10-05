@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T21:19:54.647Z",
+  "updatedAt": "2026-10-05T21:24:30.766Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 GB",
+      "name": "Apple iPhone 11 64GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64 GB",
+      "name": "Apple iPhone 12 64GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,7 +202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E Bike",
+      "name": "E-Bike",
       "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1822,7 +1822,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512GB",
+      "name": "Apple iPhone 16 Pro Max 512Gb",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3598,7 +3598,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-pro-512-gb": {
-      "name": "Apple iPhone 15 Pro 512gb",
+      "name": "Apple iPhone 15 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -18952,7 +18952,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-2-16-gb": {
-      "name": "Apple MacBook Pro 16,2 16GB",
+      "name": "Apple MacBook Pro 16,2\" 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -37205,7 +37205,7 @@
     },
     "cube-stereo-hybrid-140-hpc-pro-750-wh-carbon-e-fully-e-mtb": {
       "name": "Cube Stereo Hybrid 140 HPC Pro 750 Wh Carbon E-Fully e-MTB",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -38068,7 +38068,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-2018-32-gb": {
-      "name": "Apple MacBook Pro 2018 32GB",
+      "name": "Apple MacBook Pro 2018 32 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -39924,6 +39924,108 @@
     "iphone-12-13": {
       "name": "iPhone 12/13",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ouxi-fatbike-v20-pro": {
+      "name": "Ouxi Fatbike V20 Pro",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-graveler-e-8-8-e-bike": {
+      "name": "Prophete Graveler E 8.8 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-bike-26": {
+      "name": "Bergamont E-bike 26\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-wei-titan": {
+      "name": "Apple iPhone 15 Pro Weiß Titan",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-4060-ti-gaming-x-slim": {
+      "name": "MSI GeForce RTX 4060 Ti Gaming X Slim",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gainward-geforce-gtx-1660-super-ghost-oc-6-gb": {
+      "name": "Gainward GeForce GTX 1660 SUPER Ghost OC 6GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-radeon": {
+      "name": "ASUS TUF Gaming Radeon",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-nvidia-gtx-1660-super": {
+      "name": "MSI NVIDIA GTX 1660 Super",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "microsoft-flight-simulator-2024": {
+      "name": "Microsoft Flight Simulator 2024",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-400d-spiegelreflexkamera": {
+      "name": "Canon EOS 400D Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-290": {
+      "name": "Sony alpha 290",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hotpeak-nachtsichtgerat-4k-32-gb": {
+      "name": "HOTPEAK Nachtsichtgerät 4K 32GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ricoh-gr3x": {
+      "name": "Ricoh Gr3x",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "viofo-dashcam-quad-hd": {
+      "name": "VIOFO Dashcam Quad HD",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-r6-mark-ii": {
+      "name": "Canon EOS R6 Mark II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "anker-eufy-sicherheitskamera": {
+      "name": "Anker eufy Sicherheitskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-2080": {
+      "name": "NVIDIA GeForce RTX 2080",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     }
