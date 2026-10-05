@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T21:15:00.512Z",
+  "updatedAt": "2026-10-05T21:19:54.647Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128gb",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128gb",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256 GB",
+      "name": "Apple iPhone 14 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -352,7 +352,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-2020-8-gb": {
-      "name": "Apple MacBook Air 2020 8GB",
+      "name": "Apple MacBook Air 2020 8gb",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,13 +1810,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-128-gb": {
-      "name": "iPhone 15 128GB",
+      "name": "iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2890,7 +2890,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-max-256-gb": {
-      "name": "iPhone 15 Pro Max 256GB",
+      "name": "iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3256,7 +3256,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-256-gb": {
-      "name": "Apple MacBook Air 256GB",
+      "name": "Apple MacBook Air 256gb",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256GB",
+      "name": "iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -39786,6 +39786,144 @@
     "mercedes-s-klasse-w221-mehrzweckkamera": {
       "name": "Mercedes S-klasse W221 Mehrzweckkamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-high-11": {
+      "name": "Haibike Trekking High 11",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "unisex-28-kalkhoff-e-bike-impulse-mittelmotor-pedelec": {
+      "name": "Unisex 28\" Kalkhoff E-bike Impulse Mittelmotor Pedelec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-active-line-motor-e-bike": {
+      "name": "Bosch Active Line Motor E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-20-zoll-caravan": {
+      "name": "Prophete e Bike 20 Zoll Caravan",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-vibe-h30-mid-gro-e-m-rh-49-cm": {
+      "name": "Orbea Vibe H30 Mid Größe M (RH 49 cm)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-16-zoll-18-gb": {
+      "name": "MacBook Pro 16 Zoll 18GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m3-2024-16-gb": {
+      "name": "MacBook Air M3 2024 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1070-ti": {
+      "name": "MSI GeForce GTX 1070 Ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-7800-xt-16-gb": {
+      "name": "AMD Radeon RX 7800 XT 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victrix-pro-bfg-reloaded-wireless-controller": {
+      "name": "Victrix Pro BFG Reloaded Wireless Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-t2": {
+      "name": "Fujifilm X-T2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta-360-x4": {
+      "name": "Insta 360 X4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-kamera": {
+      "name": "Praktica Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asahi-pentax-spotmatic": {
+      "name": "Asahi Pentax Spotmatic",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-big-mini-a4": {
+      "name": "Konica Big Mini A4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-p30": {
+      "name": "Pentax P30",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-al-1-qf": {
+      "name": "Canon AL 1 QF",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-professional-glm-100-25-c-laser-entfernungsmesser": {
+      "name": "Bosch Professional GLM 100-25 C Laser-Entfernungsmesser",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scolia-home-2": {
+      "name": "Scolia Home 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-avata-fpv-drone": {
+      "name": "DJI Avata FPV Drone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-12-pro-max": {
+      "name": "iPhone 12 Pro Max",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-pro-faceplates-wolverine-adamantium-edition": {
+      "name": "PS5 Pro Faceplates Wolverine Adamantium Edition",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-12-13": {
+      "name": "iPhone 12/13",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
