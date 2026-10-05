@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T21:04:29.551Z",
+  "updatedAt": "2026-10-05T21:09:53.877Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -641,7 +641,7 @@
     },
     "sony-playstation-5-konsole": {
       "name": "Sony PlayStation 5 Konsole",
-      "category": "Smartphones",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1444,7 +1444,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-256-gb": {
-      "name": "Apple iPhone 14 256 GB",
+      "name": "Apple iPhone 14 256GB",
       "category": "Smartphones",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1 TB",
+      "name": "Sony PlayStation 5 Slim 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3202,7 +3202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-256-gb": {
-      "name": "Apple iPhone 16 256GB",
+      "name": "Apple iPhone 16 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5440,7 +5440,7 @@
       "updatedAt": null
     },
     "apple-iphone-xs-64-gb": {
-      "name": "Apple iPhone XS 64GB",
+      "name": "Apple iPhone XS 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7079,7 +7079,7 @@
     },
     "playstation-5-spiele": {
       "name": "PlayStation 5 Spiele",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9034,8 +9034,8 @@
       "updatedAt": null
     },
     "sony-playstation-5-disc-edition-1-tb": {
-      "name": "Sony PlayStation 5 Disc Edition 1TB",
-      "category": "Konsolen",
+      "name": "Sony PlayStation 5 Disc Edition 1 TB",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9143,7 +9143,7 @@
     },
     "ben-e-bike-e-power-pro-24": {
       "name": "ben-e-bike E-Power Pro 24\"",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9412,7 +9412,7 @@
       "updatedAt": null
     },
     "apple-iphone-13-pro-max-512-gb": {
-      "name": "Apple iPhone 13 Pro Max 512GB",
+      "name": "Apple iPhone 13 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13474,7 +13474,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-edition-1-tb": {
-      "name": "Sony PlayStation 5 Slim Digital Edition 1 TB",
+      "name": "Sony PlayStation 5 Slim Digital Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -15862,7 +15862,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-1-tb": {
-      "name": "Sony PlayStation 5 Digital Edition 1 TB",
+      "name": "Sony PlayStation 5 Digital Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -27532,7 +27532,7 @@
       "updatedAt": null
     },
     "apple-macbook-12-8-gb": {
-      "name": "Apple MacBook 12\" 8GB",
+      "name": "Apple MacBook 12 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -31078,7 +31078,7 @@
       "updatedAt": null
     },
     "eufab-poker-f-fahrradtrager": {
-      "name": "EUFAB Poker-F Fahrradträger",
+      "name": "EUFAB POKER-F Fahrradträger",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -39491,6 +39491,120 @@
     },
     "quad-lock-set-fur-iphone-16-pro-max": {
       "name": "Quad Lock Set für iPhone 16 Pro Max",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pixar-e-bike": {
+      "name": "Pixar E-bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-cento-10": {
+      "name": "KTM e-Bike Cento 10",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-fuel-exe-8-xt-l": {
+      "name": "Trek Fuel EXe 8 XT (L)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-e-bike-akku": {
+      "name": "Hitway E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rcb-e-bike-100-kilometer-reichweite": {
+      "name": "RCB E-Bike 100 Kilometer Reichweite",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-15-pro-max-256-gb-natur-titan": {
+      "name": "iPhone 15 Pro Max 256GB Natur Titan",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-16-gb-1-tb": {
+      "name": "Apple MacBook Air M2 16GB 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-13-24-gb": {
+      "name": "MacBook Air 13 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-radeon-rx-5700-xt": {
+      "name": "Gigabyte Radeon RX 5700 XT",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-1-tb": {
+      "name": "Sony PlayStation 5 Disc 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-scuf-gaming-controller": {
+      "name": "Sony PlayStation 5 Scuf Gaming Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-340-automatic-land-camera": {
+      "name": "Polaroid 340 Automatic Land Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-rf-24-105mm-f4-7-1-is-stm": {
+      "name": "Canon RF 24-105mm F4-7.1 IS STM",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-ft2": {
+      "name": "Panasonic Lumix DMC-FT2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-mobile-gimbal": {
+      "name": "DJI Osmo Mobile Gimbal",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-pocket-3-creator-combo-256-gb": {
+      "name": "DJI Osmo Pocket 3 Creator Combo 256GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-13-128-gb": {
+      "name": "GoPro Hero 13 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rolleicord-ii": {
+      "name": "Rolleicord II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-12-pro-max-256-gb": {
+      "name": "iPhone 12 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
