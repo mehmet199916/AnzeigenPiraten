@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-05T21:38:25.381Z",
+  "updatedAt": "2026-10-05T21:43:26.604Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256GB",
+      "name": "Apple iPhone 14 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3196,7 +3196,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-256-gb": {
-      "name": "Apple iPhone 12 Pro Max 256 GB",
+      "name": "Apple iPhone 12 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3304,7 +3304,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-xr-128-gb": {
-      "name": "Apple iPhone XR 128 GB",
+      "name": "Apple iPhone XR 128gb",
       "category": "Smartphones",
       "referencePrice": 145,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -33089,7 +33089,7 @@
     },
     "ktm-cento-10-e-bike": {
       "name": "KTM Cento 10 E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33293,7 +33293,7 @@
     },
     "apple-macbook-air-m4-13-zoll": {
       "name": "Apple MacBook Air M4 13 Zoll",
-      "category": "Computer",
+      "category": "Computers",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -40157,6 +40157,42 @@
     },
     "gopro-hero-10-black": {
       "name": "GoPro Hero 10 Black",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-mini-265-gb": {
+      "name": "Apple iPhone 13 mini 265 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-5070-ti-ventus-3x": {
+      "name": "MSI GeForce RTX 5070 Ti Ventus 3X",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-geforce-gtx-1650-oc-4-gb": {
+      "name": "ASUS TUF Gaming GeForce GTX 1650 OC 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-neo-fly-more-combo": {
+      "name": "DJI Neo Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "defekte-iphones": {
+      "name": "Defekte iPhones",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fotograf-videograf": {
+      "name": "FOTOGRAF VIDEOGRAF",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
