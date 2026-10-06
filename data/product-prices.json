@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T17:39:47.033Z",
+  "updatedAt": "2026-10-06T17:44:17.232Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -64,7 +64,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256GB",
+      "name": "Apple iPhone 13 256 GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256GB",
+      "name": "Apple iPhone 17 Air 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825 GB",
+      "name": "Sony PlayStation 5 Disc Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3700,7 +3700,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-512-gb": {
-      "name": "Apple iPhone 16 Pro 512GB",
+      "name": "Apple iPhone 16 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6551,7 +6551,7 @@
     },
     "gazelle-e-bike": {
       "name": "Gazelle E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro Max 256gb",
+      "name": "iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -11872,7 +11872,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-max-1-tb": {
-      "name": "Apple iPhone 16 Pro Max 1 TB",
+      "name": "Apple iPhone 16 Pro Max 1TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13643,7 +13643,7 @@
     },
     "zundapp-e-bike": {
       "name": "Zündapp E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19714,7 +19714,7 @@
       "updatedAt": null
     },
     "apple-iphone-17-pro-max-1-tb": {
-      "name": "Apple iPhone 17 Pro Max 1 Tb",
+      "name": "Apple iPhone 17 Pro Max 1 TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -42426,6 +42426,120 @@
     "minolta-kamera-sammlung": {
       "name": "Minolta Kamera-Sammlung",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sundvall-e-bike": {
+      "name": "Sundvall E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fido-c11-city-e-bike": {
+      "name": "Fido C11 City E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "univega-renegade": {
+      "name": "Univega Renegade",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-herkules-imperial": {
+      "name": "Bosch Herkules Imperial",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-u-1-mini-14": {
+      "name": "E-Bike U 1 mini 14\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-powerfly-fs-7-gen-3": {
+      "name": "Trek Powerfly FS 7 GEN 3",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mit-akku": {
+      "name": "E-Bike mit Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-max-256": {
+      "name": "iPhone 17 pro max 256",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-lila": {
+      "name": "iPhone 14 Lila",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-violett": {
+      "name": "iPhone 14 violett",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-7-pro-256-gb": {
+      "name": "Apple iPhone 7 Pro 256gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-m1-pro-16-32-gb": {
+      "name": "MacBook Pro M1 Pro - 16\" 32 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-4090": {
+      "name": "ASUS RTX 4090",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-3070-oc-edition-8-gb": {
+      "name": "ASUS RTX 3070 OC Edition 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-controller-ltd-wolverine-edition-dualsense": {
+      "name": "Sony PlayStation 5 Controller Ltd Wolverine Edition Dualsense",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zenit-es-kamera": {
+      "name": "Zenit ES Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a58": {
+      "name": "Sony Alpha A58",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exa-1a-fotokamera": {
+      "name": "Exa 1a Fotokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13-17": {
+      "name": "iPhone 13–17",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
