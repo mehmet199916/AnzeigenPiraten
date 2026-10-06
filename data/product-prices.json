@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T18:34:51.372Z",
+  "updatedAt": "2026-10-06T18:39:04.136Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -22,13 +22,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128GB",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128 gb",
+      "name": "Apple iPhone 15 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128 GB",
+      "name": "Apple iPhone 13 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 gb",
+      "name": "Apple iPhone 17 256 GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 mini 64GB",
+      "name": "Apple iPhone 12 mini 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6551,7 +6551,7 @@
     },
     "gazelle-e-bike": {
       "name": "Gazelle E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6959,7 +6959,7 @@
     },
     "grecos-eli-2-5": {
       "name": "Grecos Eli 2.5",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8032,7 +8032,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13\" 8GB",
+      "name": "Apple MacBook Air 13 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -13834,7 +13834,7 @@
       "updatedAt": null
     },
     "apple-macbook-neo-13-256-gb": {
-      "name": "Apple MacBook Neo 13\" 256GB",
+      "name": "Apple MacBook Neo 13” 256 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -16024,8 +16024,8 @@
       "updatedAt": null
     },
     "apple-iphone-14-128-gb-blau": {
-      "name": "Apple iPhone 14 128GB Blau",
-      "category": "smartphones",
+      "name": "Apple iPhone 14 128 GB Blau",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -42856,8 +42856,8 @@
       "updatedAt": null
     },
     "scott-e-ride-genius-920": {
-      "name": "scott E Ride Genius 920",
-      "category": "E-Bikes",
+      "name": "SCOTT E Ride Genius 920",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -43853,6 +43853,138 @@
     },
     "camera-intelligence-caira-ki-kamera": {
       "name": "Camera Intelligence CAIRA KI Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-one-500-e-mountainbike": {
+      "name": "CUBE Reaction Hybrid ONE 500 E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pfautech-scoobe-dreirad-e-bike": {
+      "name": "Pfautech Scoobe Dreirad E Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-mavaro-neo-5": {
+      "name": "Cannondale Mavaro Neo 5+",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-kent-9-gr-l-53cm": {
+      "name": "Raleigh Kent 9 Gr L/53cm",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-t-300-625-e-bike": {
+      "name": "Conway Cairon T 300 625 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-rise-m20-carbon-e-mtb": {
+      "name": "Orbea Rise M20 Carbon E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-harley-style": {
+      "name": "E-Bike Harley-Style",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m4-mitternachtblau": {
+      "name": "Apple MacBook Air M4 Mitternachtblau",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m1-2020-8-gb-512-gb-space-grau": {
+      "name": "Apple MacBook Air 13\" M1 2020 8 GB 512 GB Space Grau",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-retina-2017-8-gb-intel-core-i5": {
+      "name": "Apple MacBook Pro 13\" Retina (2017) 8 GB Intel Core i5",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hp-laptop-15-6-8-gb-ram-512-gb-hdd-amd-radeon": {
+      "name": "HP Laptop 15.6\" 8 GB RAM 512 GB HDD AMD Radeon",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-geforce-rtx-3070-ti-grafikkarte": {
+      "name": "ASUS TUF Gaming GeForce RTX 3070 Ti Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "seagate-game-drive-2-tb-festplatte": {
+      "name": "Seagate Game Drive 2 TB Festplatte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-1-konsole": {
+      "name": "Sony PlayStation 1 Konsole",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fotograf-videograf-hochzeitsfotograf-kameramann-hochzeit-studio": {
+      "name": "FOTOGRAF VIDEOGRAF HOCHZEITSFOTOGRAF KAMERAMANN HOCHZEIT STUDIO",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-f300-exr": {
+      "name": "Fujifilm FinePix F300 EXR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-lynx-1000": {
+      "name": "Yashica Lynx-1000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "adria-coral-650-dl": {
+      "name": "Adria Coral 650 DL",
+      "category": "Wohnmobile",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hp7-2-family-kit-smart-video-doorphone": {
+      "name": "HP7 2-Family Kit Smart Video Doorphone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ricoh-kamera": {
+      "name": "Ricoh Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dashcam-opel-mokka-b": {
+      "name": "Dashcam Opel Mokka B",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-fdr-ax53-4k-handycam": {
+      "name": "Sony FDR-AX53 4K Handycam",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
