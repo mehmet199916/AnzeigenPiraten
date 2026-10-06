@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T18:10:02.594Z",
+  "updatedAt": "2026-10-06T18:15:12.753Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max (128 GB)",
+      "name": "Apple iPhone 14 Pro Max 128gb",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,13 +58,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 (256 GB)",
+      "name": "Apple iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro (256 GB)",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1084,7 +1084,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-512-gb": {
-      "name": "Apple iPhone 17 512 GB",
+      "name": "Apple iPhone 17 512GB",
       "category": "Smartphones",
       "referencePrice": 800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2674,7 +2674,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128GB",
+      "name": "Apple iPhone 16 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512gb",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4433,7 +4433,7 @@
     },
     "zotac-geforce-gtx-1070-8-gb": {
       "name": "Zotac GeForce GTX 1070 8GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9220,8 +9220,8 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-inch-128-gb": {
-      "name": "Apple MacBook Pro 13-inch 128 GB",
-      "category": "Computer",
+      "name": "Apple MacBook Pro 13-Inch 128GB",
+      "category": "Computers",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9610,7 +9610,7 @@
       "updatedAt": null
     },
     "hori-racing-wheel-apex": {
-      "name": "HORI Racing Wheel Apex",
+      "name": "Hori Racing Wheel Apex",
       "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
@@ -14249,7 +14249,7 @@
     },
     "deko-lampe-retro-leuchte-kamera": {
       "name": "Deko-Lampe Retro Leuchte Kamera",
-      "category": "Elektronik",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -22715,7 +22715,7 @@
     },
     "ouxi-fatbike-e-bikes": {
       "name": "OUXI Fatbike E-Bikes",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -39550,7 +39550,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-disc-1-tb": {
-      "name": "Sony PlayStation 5 Disc 1 TB",
+      "name": "Sony PlayStation 5 Disc 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -43175,6 +43175,186 @@
     },
     "sony-dcr-sr65-handcam": {
       "name": "Sony DCR-SR65 Handcam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-fathom-e-3-p": {
+      "name": "Giant Fathom E+3 P",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fully-630watt-85nm-herkules-nos-fs-2-1-np": {
+      "name": "E-Bike Fully 630Watt 85Nm Herkules NOS FS 2.1 NP",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28zoll-7gang": {
+      "name": "E-Bike 28Zoll 7Gang",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-genie-er-e-5-0": {
+      "name": "Prophete E-Bike Genießer e 5.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-ohne-akku": {
+      "name": "E bike ohne Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-ubn-five-touring-e-bike": {
+      "name": "Riese & Müller UBN Five touring E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-dailytour-e-2d-lds-trekking-e-bike": {
+      "name": "Giant Dailytour E+ 2D LDS Trekking E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-aeb-890-trekking-e-bike": {
+      "name": "Velo de Ville AEB 890 Trekking E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "green-s-ashford-e-bike": {
+      "name": "Green's Ashford E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-s-5-0-xl-e-mtb": {
+      "name": "Conway Cairon S 5.0 \"XL\" E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liqbike-rock-fully-e-mtb": {
+      "name": "Liqbike Rock Fully E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fantic-xtf-1-5-carbon-xl-fully-e-mtb": {
+      "name": "Fantic XTF 1.5 Carbon \"XL\" Fully E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liv-allure-e-1": {
+      "name": "Liv Allure E+ 1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m5-1-tb-16-gb-10c-gpu": {
+      "name": "Apple MacBook Pro 14 - M5 - 1TB - 16GB - 10C GPU",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-laufwerk": {
+      "name": "Sony PlayStation 5 Disc Laufwerk",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-legria-hf-r406": {
+      "name": "Canon Legria HF R406",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-hc-v210-full-hd-camcorder": {
+      "name": "Panasonic HC-V210 Full HD Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f601": {
+      "name": "Nikon F601",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-ft1-motor-kamera": {
+      "name": "Konica FT1 Motor Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "autogrammkarte-leni-riefenstahl": {
+      "name": "Autogrammkarte Leni Riefenstahl",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-kamera-outdoor-4-kabellose-intelligente-hd-kamera-3er-set": {
+      "name": "Blink-Kamera Outdoor 4 Kabellose intelligente HD Kamera 3er Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-kamera-outdoor-4-kabellose-intelligente-hd-sicherheitskamera": {
+      "name": "Blink Kamera Outdoor 4 Kabellose intelligente HD-Sicherheitskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mavic-2-pro-fly-more-combo": {
+      "name": "DJI Mavic 2 Pro Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blackmagic-6k-cinema-kamera": {
+      "name": "Blackmagic 6k Cinema Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fuji-instax-mini-film": {
+      "name": "Fuji Instax Mini Film",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-ace-pro-8k-action-cam": {
+      "name": "Insta360 Ace Pro 8K Action Cam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-4000d": {
+      "name": "Canon 4000D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "v-klasse-vito-w447-au-enspiegel": {
+      "name": "V Klasse Vito W447 Außenspiegel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "autodartshalter-fur-winmau-plasma": {
+      "name": "Autodartshalter für Winmau Plasma",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-glc-w254-amg-360-kamera": {
+      "name": "Mercedes GLC W254 AMG 360 Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
