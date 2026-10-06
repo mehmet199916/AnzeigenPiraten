@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T17:09:33.645Z",
+  "updatedAt": "2026-10-06T17:14:34.194Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -479,7 +479,7 @@
     },
     "nvidia-rtx-3080-ti-12-gb": {
       "name": "NVIDIA RTX 3080 TI 12GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Spielekonsolen",
+      "category": "Smartphones",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128Gb",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4474,8 +4474,8 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-2060-6-gb": {
-      "name": "NVIDIA GeForce RTX 2060 6GB",
-      "category": "Grafikkarten",
+      "name": "Nvidia GeForce RTX 2060 6GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -8020,7 +8020,7 @@
       "updatedAt": null
     },
     "iphone-14-128-gb": {
-      "name": "iPhone 14 128GB",
+      "name": "iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -20926,7 +20926,7 @@
       "updatedAt": null
     },
     "playstation-5-pro-1-tb": {
-      "name": "PlayStation 5 Pro 1 TB",
+      "name": "PlayStation 5 Pro 1tb",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -24863,7 +24863,7 @@
     },
     "canyon-precede-on-cf-8": {
       "name": "Canyon Precede:ON CF 8",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -27580,7 +27580,7 @@
       "updatedAt": null
     },
     "cube-stereo-hybrid-140-hpc-race-625": {
-      "name": "CUBE Stereo Hybrid 140 HPC Race 625",
+      "name": "CUBE STEREO HYBRID 140 HPC RACE 625",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -41537,6 +41537,204 @@
     },
     "seat-ibiza-6f-fr-sto-stange-hinten": {
       "name": "Seat Ibiza 6F FR Stoßstange hinten",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-cross-hybrid": {
+      "name": "CUBE E-Bike Cross Hybrid",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-entice-3": {
+      "name": "Kalkhoff Entice 3",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hnf-nicolai-ud3-e-bike": {
+      "name": "HNF Nicolai UD3 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-e-bike-28-zoll": {
+      "name": "Hitway E-Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-montis-10-1": {
+      "name": "Fischer Montis 10.1",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-damenrad-mit-frontmotor": {
+      "name": "KTM E-Bike Damenrad mit Frontmotor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-kent-10-xxl": {
+      "name": "Raleigh Kent 10 XXL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-paris-28": {
+      "name": "Gazelle Paris 28\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-stream-eva-1": {
+      "name": "Bulls E-Stream EVA 1",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "brose-campus-bm27": {
+      "name": "Brose Campus BM27",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-evo-9": {
+      "name": "Pegasus Solero Evo 9",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-etouring-7-5": {
+      "name": "Victoria eTouring 7.5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-juke": {
+      "name": "Stevens E-Juke",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-und-muller-e-supercharger": {
+      "name": "Riese und Müller E-Supercharger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-plus": {
+      "name": "iPhone 16 Plus",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-11-pro": {
+      "name": "iPhone 11 Pro",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-3-128-gb": {
+      "name": "Apple iPhone SE 3 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-13-m1-8c-16-gb-ram-1-tb-ssd": {
+      "name": "MacBook Pro 13\" M1 (8C) 16GB RAM 1TB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2025-15-3-zoll-m4-16-gb-256-gb": {
+      "name": "Apple MacBook Air (2025) 15,3 Zoll M4 16GB 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pny-nvidia-rtx-5080": {
+      "name": "PNY Nvidia RTX 5080",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-9060-xt-8-gb": {
+      "name": "AMD Radeon RX 9060 XT 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-6800-xt-16-gb": {
+      "name": "AMD 6800 XT 16 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-radeon-rx-480-gaming-oc-8-gb": {
+      "name": "ASUS ROG Strix Radeon RX 480 Gaming OC 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-instant-30": {
+      "name": "Polaroid Instant 30",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-go-3s": {
+      "name": "Insta360 GO 3S",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hasselblad-2000-fc-m-1983-magazin-sucher": {
+      "name": "Hasselblad 2000 FC M 1983 Magazin Sucher",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-ue55es7000-3d-smart-tv": {
+      "name": "Samsung ue55es7000 3D smart tv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hasselblad-500-c-m": {
+      "name": "Hasselblad 500 C M",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-isomat-rapid-c": {
+      "name": "Agfa Isomat Rapid C",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hanwha-vision-netzwerk-dome-kamera": {
+      "name": "Hanwha Vision Netzwerk-Dome-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "petkit-yumshare-solo": {
+      "name": "Petkit YumShare Solo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-vito-b": {
+      "name": "Voigtländer Vito B",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-p900": {
+      "name": "Nikon Coolpix P900",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
