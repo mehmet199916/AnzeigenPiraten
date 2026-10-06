@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T18:44:28.125Z",
+  "updatedAt": "2026-10-06T18:49:45.452Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -64,7 +64,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256GB",
+      "name": "Apple iPhone 13 256 GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128gb",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,13 +1810,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-128-gb": {
-      "name": "iPhone 15 128 GB",
+      "name": "iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2818,8 +2818,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "gigabyte-aorus-rtx-3090-gaming-box-24-gb": {
-      "name": "GIGABYTE AORUS RTX 3090 Gaming Box 24GB",
-      "category": "Computer",
+      "name": "GIGABYTE AORUS RTX 3090 GAMING BOX 24GB",
+      "category": "Grafikkarten",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128GB",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5992,7 +5992,7 @@
       "updatedAt": null
     },
     "apple-iphone-16e-256-gb": {
-      "name": "Apple iPhone 16E 256 GB",
+      "name": "Apple iPhone 16e 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -9220,8 +9220,8 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-inch-128-gb": {
-      "name": "Apple MacBook Pro 13-Inch 128GB",
-      "category": "Computers",
+      "name": "Apple MacBook Pro 13-inch 128 GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -15046,7 +15046,7 @@
       "updatedAt": null
     },
     "marvel-s-wolverine": {
-      "name": "Marvel’s Wolverine",
+      "name": "Marvel's Wolverine",
       "category": "Spiele",
       "referencePrice": null,
       "updatedAt": null
@@ -33694,7 +33694,7 @@
       "updatedAt": null
     },
     "apple-iphone-8-64-gb": {
-      "name": "Apple iPhone 8 64 GB",
+      "name": "Apple iPhone 8 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -44069,6 +44069,156 @@
     },
     "konika-minolta-kamera": {
       "name": "Konika Minolta Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-11": {
+      "name": "Haibike Trekking 11",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-e-mountainbike-powerfly-5": {
+      "name": "TREK E-Mountainbike \"Powerfly+5\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-nyvo-2-0c-gravelbike": {
+      "name": "CONWAY Nyvo 2.0C Gravelbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-miss-grace-c7-hmb-pedelec": {
+      "name": "Gazelle Miss Grace C7 HMB Pedelec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-arroya": {
+      "name": "Gazelle E Bike arroya",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-jam2-c-nine-exklusivmodell": {
+      "name": "Focus Jam2 C Nine Exklusivmodell",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-x-vert-pro-shadow-edge": {
+      "name": "Corratec E-Power X-Vert Pro Shadow Edge",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-265-gb": {
+      "name": "Apple iPhone 15 265GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-2018-8-gb": {
+      "name": "Apple MacBook Air 13\" 2018 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3050-asus": {
+      "name": "NVIDIA GeForce RTX 3050 ASUS",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yeston-nvidia-geforce-rtx-4070-super": {
+      "name": "Yeston NVIDIA GeForce RTX 4070 SUPER",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gainward-geforce-rtx-5060-ti-ghost-16-gb": {
+      "name": "Gainward GeForce RTX 5060 Ti Ghost 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disk-edition": {
+      "name": "Sony PlayStation 5 Disk Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-prima-af-9s": {
+      "name": "Canon Prima AF-9s",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ambia-smart-home-video-turklingel": {
+      "name": "Ambia Smart Home Video-Türklingel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "huawei-mate-10-pro-128-gb": {
+      "name": "Huawei Mate 10 Pro 128 GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-510-spiegelreflexkamera": {
+      "name": "Olympus E-510 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-2000d-komplettset": {
+      "name": "Canon EOS 2000D Komplettset",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-kamera": {
+      "name": "Pentax Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lomography-diana-f-analogkamera": {
+      "name": "Lomography Diana F+ Analogkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6000-ilce-6000y": {
+      "name": "Sony Alpha 6000 ILCE-6000Y",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mega-3-in-1-ottocast-cabin-care-carplay-android-auto-baby-kamera": {
+      "name": "MEGA 3 IN 1 OTTOCAST CABIN CARE CARPLAY ANDROID AUTO BABY KAMERA",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-70d": {
+      "name": "Canon 70D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-electro-35-cc": {
+      "name": "Yashica Electro 35 CC",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-fs5": {
+      "name": "Panasonic DMC-FS5",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
