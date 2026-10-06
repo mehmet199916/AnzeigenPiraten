@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T18:29:16.111Z",
+  "updatedAt": "2026-10-06T18:34:51.372Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 Gb",
+      "name": "Apple iPhone 11 64GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128gb",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 Gb",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -562,8 +562,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sapphire-radeon-rx-7900-xtx-24-gb": {
-      "name": "Sapphire Radeon RX 7900 XTX 24GB",
-      "category": "Grafikkarten",
+      "name": "Sapphire Radeon RX 7900 XTX 24 GB",
+      "category": "Computer",
       "referencePrice": 800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256Gb",
+      "name": "Apple iPhone 17 256 gb",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1138,7 +1138,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-pro-13-zoll-16-gb": {
-      "name": "Apple MacBook Pro 13 Zoll 16GB",
+      "name": "Apple MacBook Pro 13 Zoll 16 GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1427,7 +1427,7 @@
     },
     "kalkhoff-e-bike": {
       "name": "Kalkhoff E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1829,7 +1829,7 @@
     },
     "apple-iphone-12-pro-max-128-gb": {
       "name": "Apple iPhone 12 Pro Max 128 GB",
-      "category": "smartphones",
+      "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512 GB",
+      "name": "Apple iPhone 17 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2776,7 +2776,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-64-gb": {
-      "name": "Apple iPhone 11 Pro 64 GB",
+      "name": "Apple iPhone 11 Pro 64GB",
       "category": "Smartphones",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4060,7 +4060,7 @@
       "updatedAt": null
     },
     "apple-iphone-17-pro-5g-256-gb-cosmic-orange": {
-      "name": "Apple iPhone 17 Pro 5G [256GB,Cosmic Orange]",
+      "name": "Apple IPhone 17 Pro 5G [256GB,Cosmic Orange]",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256GB",
+      "name": "Apple iPhone 15 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7079,7 +7079,7 @@
     },
     "playstation-5-spiele": {
       "name": "PlayStation 5 Spiele",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7552,7 +7552,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-2019-16-gb": {
-      "name": "Apple MacBook Pro 16\" (2019) 16GB",
+      "name": "Apple MacBook Pro 16\" (2019) 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -8032,7 +8032,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13 8GB",
+      "name": "Apple MacBook Air 13\" 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -43649,6 +43649,210 @@
     },
     "franke-heidecke-rolleicord-ii-modell-1": {
       "name": "FRANKE & HEIDECKE Rolleicord II Modell 1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fahrrad-ghost-kato-29-rad-alu-snimano-deore-magura": {
+      "name": "Fahrrad Ghost kato 29 Rad ALU snimano deore magura",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-27-5-zoll-prophete-graveler-22-mountain-bike-182000026": {
+      "name": "E-Bike 27,5 Zoll PROPHETE Graveler 22 Mountain-Bike 182000026",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-compacttube-400-e-bike-akku": {
+      "name": "Bosch CompactTube 400 E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-power-sport-11": {
+      "name": "KTM Power Sport 11",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-mountainbike-mit-bosch-motor-625wh-akku": {
+      "name": "E-Mountainbike mit Bosch Motor 625Wh Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sinus-bc30-light-e-bike-28": {
+      "name": "SINUS BC30 Light E-Bike 28\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sram-force-axs-e1-xplr-1x13-gruppe": {
+      "name": "Sram Force AXS E1 XPLR 1x13 Gruppe",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-chisel-comp-mtb": {
+      "name": "Specialized Chisel Comp MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-chisel-mtb-vollgefedert": {
+      "name": "Specialized Chisel MTB vollgefedert",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-chisel-mtb": {
+      "name": "Specialized Chisel MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-chisel-mtb-helmer-grau-wei": {
+      "name": "Specialized Chisel MTB helmer grau-weiß",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-hpa-140-e-bike": {
+      "name": "Cube Stereo Hybrid HPA 140 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-pro-graphit": {
+      "name": "Apple iPhone 13 Pro Graphit",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-128-gb-mitternacht": {
+      "name": "Apple iPhone 14 128 GB Mitternacht",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-max-deep-blue-256-gb": {
+      "name": "Apple iPhone 17 Pro Max Deep Blue 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-m1-pro-16-32-gb-ram-512-ssd-display-defekt": {
+      "name": "MacBook Pro M1 Pro - 16“ - 32 GB RAM - 512 SSD - Display defekt",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m1-256-gb": {
+      "name": "Apple MacBook Air 13\" M1 – 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2012-1-tb": {
+      "name": "Apple MacBook Pro 13 Zoll (2012) 1 TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-zoll-16-gb": {
+      "name": "Apple MacBook Air 15 Zoll 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-3080-suprim-x-10g-10-gb": {
+      "name": "MSI GeForce RTX 3080 SUPRIM X 10G 10GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "intel-arc-grafikkarte-10-gb": {
+      "name": "Intel Arc Grafikkarte 10 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-arez-strix-rx-vega-56-8-gb-gaming-grafikkarte": {
+      "name": "ASUS AREZ STRIX RX Vega 56 8GB Gaming Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-radeon-rx-6950-xt-gaming-x-trio-16-gb": {
+      "name": "MSI Radeon RX 6950 XT Gaming X Trio 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-edition-digital-mit-controller": {
+      "name": "PlayStation 5 SLIM EDITION digital mit Controller",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "externe-festplatte-fur-playstation-ps4-ps5-1-84-tb": {
+      "name": "Externe Festplatte für PlayStation PS4/PS5 1,84 TB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-gx80-lumix-g-vario-12-32mm-35-100mm-mehr": {
+      "name": "Panasonic Lumix GX80 + Lumix G Vario 12-32mm & 35-100mm & mehr",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lumix-s1": {
+      "name": "Lumix S1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-x-370s": {
+      "name": "Minolta X-370s",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "annke-crater-pro-crater-2": {
+      "name": "ANNKE Crater Pro & Crater 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-nx1000-vollspektrum-infrarot": {
+      "name": "Samsung NX1000 Vollspektrum / Infrarot",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-104-land-camera-vintage": {
+      "name": "Polaroid 104 Land Camera Vintage",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eufy-babyphone-mit-kamera-und-monitor": {
+      "name": "eufy Babyphone mit Kamera und Monitor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x6-8k-action-camera": {
+      "name": "Insta360 X6 8K Action Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "camera-intelligence-caira-ki-kamera": {
+      "name": "Camera Intelligence CAIRA KI Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
