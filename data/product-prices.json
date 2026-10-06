@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T17:19:26.409Z",
+  "updatedAt": "2026-10-06T17:24:00.385Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 gb",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,7 +202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E-Bike",
+      "name": "E bike",
       "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128gb",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,13 +1054,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256 GB",
+      "name": "Apple iPhone 12 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512Gb",
+      "name": "Apple iPhone 17 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128 GB",
+      "name": "Apple iPhone 13 mini 128GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256GB",
+      "name": "Apple iPhone 15 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7564,7 +7564,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-gb": {
-      "name": "Apple MacBook Pro 16GB",
+      "name": "Apple MacBook Pro 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -25216,7 +25216,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-plus-256-gb": {
-      "name": "Apple iPhone 15 Plus 256Gb",
+      "name": "Apple iPhone 15 Plus 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -30682,8 +30682,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-m2-256-gb": {
-      "name": "Apple MacBook Air M2 256 Gb",
-      "category": "Computer",
+      "name": "Apple MacBook Air M2 256 GB",
+      "category": "Laptops",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -41928,6 +41928,90 @@
     "dji-neo-2-drohne": {
       "name": "Dji Neo 2 Drohne",
       "category": "Drohnen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kemoway-z3-e-bike": {
+      "name": "Kemoway Z3 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-hardseven-life-2-0-e-bike": {
+      "name": "Haibike SDURO HardSeven Life 2.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-hmi-display": {
+      "name": "Bosch E-Bike Hmi Display",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-berleen-advance-10-g": {
+      "name": "Kalkhoff Berleen Advance 10.G",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rotwild-r-e-2017-e-bike": {
+      "name": "Rotwild R.E+ (2017) E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m5-1-tb": {
+      "name": "Apple MacBook Pro 14 M5 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3070-8-gb": {
+      "name": "Gigabyte RTX 3070 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-rtx-2080-super-gaming-x-trio-8-gb": {
+      "name": "MSI RTX 2080 Super Gaming X Trio 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-astral-rtx-5090-oc-white": {
+      "name": "ASUS ROG Astral RTX 5090 OC White",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-2060-ko-ultra-gaming-6-gb": {
+      "name": "NVIDIA GeForce RTX 2060 KO Ultra Gaming 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d610-dslr-kamera": {
+      "name": "Nikon D610 DSLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f-65": {
+      "name": "Nikon F 65",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ritto-tursprechanlage-au-enstation-mit-kamera": {
+      "name": "Ritto Türsprechanlage Außenstation mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d5600": {
+      "name": "Nikon D5600",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
