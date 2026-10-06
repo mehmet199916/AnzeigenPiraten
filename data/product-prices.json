@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T18:24:29.326Z",
+  "updatedAt": "2026-10-06T18:29:16.111Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,13 +46,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128gb",
+      "name": "Apple iPhone 13 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512GB",
+      "name": "Apple iPhone 15 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256gb",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256Gb",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2572,7 +2572,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "panasonic-lumix-dmc-fz28": {
-      "name": "Panasonic LUMIX DMC-FZ28",
+      "name": "Panasonic Lumix DMC-FZ28",
       "category": "Kameras",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5147,7 +5147,7 @@
     },
     "dji-mini-5-pro": {
       "name": "DJI Mini 5 Pro",
-      "category": "Drohnen",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6880,7 +6880,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-825-gb": {
-      "name": "Sony PlayStation 5 825GB",
+      "name": "Sony PlayStation 5 825gb",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7024,7 +7024,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-pro-1-tb": {
-      "name": "Apple iPhone 15 Pro 1TB",
+      "name": "Apple iPhone 15 Pro 1 TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7516,7 +7516,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-max-512-gb": {
-      "name": "Apple iPhone 14 Pro Max 512 GB",
+      "name": "Apple iPhone 14 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7534,7 +7534,7 @@
       "updatedAt": null
     },
     "iphone-14-pro-256-gb": {
-      "name": "iPhone 14 Pro 256 GB",
+      "name": "iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7631,7 +7631,7 @@
     },
     "autodarts-komplettsystem": {
       "name": "Autodarts Komplettsystem",
-      "category": "E-Bikes",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13025,7 +13025,7 @@
     },
     "apple-macbook-air-15-8-gb": {
       "name": "Apple MacBook Air 15\" 8GB",
-      "category": "Computers",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14050,7 +14050,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-16-gb": {
-      "name": "Apple MacBook Air 13 16 GB",
+      "name": "Apple MacBook Air 13 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -43565,6 +43565,90 @@
     },
     "olympus-stylus-1s": {
       "name": "Olympus Stylus 1s",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-diverge-3-alloy-e5-gravelbike": {
+      "name": "Specialized Diverge 3 Alloy E5 Gravelbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-powerfly-5-e-mtb-modell-2020": {
+      "name": "Trek Powerfly 5 E-MTB Modell 2020",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-fully-e-bike": {
+      "name": "Cube Stereo Hybrid Fully E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-damenrad-impulse": {
+      "name": "Kalkhoff E-Bike Damenrad Impulse",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "derby-cycle-impulse-36v-14-25ah-525-wh-akku": {
+      "name": "Derby Cycle Impulse 36V 14,25Ah (525 Wh) Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-aminga-e-bike-mtb": {
+      "name": "Bulls Aminga E Bike Mtb",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mit-hecknabenmotor": {
+      "name": "E-Bike mit Hecknabenmotor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-rose": {
+      "name": "Apple iPhone 15 Rosé",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-16-gb": {
+      "name": "MacBook Pro 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-rtx-5050": {
+      "name": "MSI RTX 5050",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-7d-64-gb": {
+      "name": "Canon EOS 7D 64 GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dc-tz96": {
+      "name": "Panasonic Lumix DC-TZ96",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cybershot-dsc-h55": {
+      "name": "Sony Cybershot DSC-H55",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "franke-heidecke-rolleicord-ii-modell-1": {
+      "name": "FRANKE & HEIDECKE Rolleicord II Modell 1",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
