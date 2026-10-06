@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T18:54:30.838Z",
+  "updatedAt": "2026-10-06T18:58:49.781Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64 GB",
+      "name": "Apple iPhone 12 64GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512GB",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3202,7 +3202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-256-gb": {
-      "name": "Apple iPhone 16 256 GB",
+      "name": "Apple iPhone 16 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4564,7 +4564,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-825-gb": {
-      "name": "Sony PlayStation 5 Slim 825gb",
+      "name": "Sony PlayStation 5 Slim 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -14153,7 +14153,7 @@
     },
     "gazelle-arroyo-c7-hmb-elite": {
       "name": "Gazelle Arroyo C7+ HMB Elite",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17357,7 +17357,7 @@
     },
     "prophete-e-bike-cityrad": {
       "name": "Prophete E-Bike Cityrad",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -22240,7 +22240,7 @@
       "updatedAt": null
     },
     "panasonic-lumix-gh5": {
-      "name": "Panasonic LUMIX GH5",
+      "name": "Panasonic Lumix GH5",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -44333,6 +44333,66 @@
     },
     "super-8-filmkamera": {
       "name": "Super 8 Filmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-pegasus-premio-evo-10": {
+      "name": "E-Bike Pegasus Premio Evo 10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vsf-fahrradmanufaktur-tailwind-plus": {
+      "name": "VSF Fahrradmanufaktur Tailwind Plus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tele-e-bike": {
+      "name": "Tele E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "merida-espresso-300-eq": {
+      "name": "Merida eSPRESSO 300 eQ",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-anfang-2015": {
+      "name": "Apple MacBook Air (Anfang 2015)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2022": {
+      "name": "Apple MacBook Air 2022",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-600d-32-gb": {
+      "name": "Canon EOS 600D 32 GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-nx-300m-kamera": {
+      "name": "Samsung Nx 300m Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-md130-digital-video-camcorder": {
+      "name": "Canon MD130 Digital Video Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6000-body": {
+      "name": "Sony Alpha 6000 (Body)",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
