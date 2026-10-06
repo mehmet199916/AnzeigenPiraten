@@ -1,16 +1,16 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T17:54:22.507Z",
+  "updatedAt": "2026-10-06T17:59:06.984Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 GB",
+      "name": "Apple iPhone 11 64 Gb",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128gb",
+      "name": "Apple iPhone 12 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1828,8 +1828,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128 Gb",
-      "category": "Smartphones",
+      "name": "Apple iPhone 12 Pro Max 128 GB",
+      "category": "smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3305,7 +3305,7 @@
     },
     "apple-iphone-xr-128-gb": {
       "name": "Apple iPhone XR 128 GB",
-      "category": "Smartphones",
+      "category": "smartphones",
       "referencePrice": 145,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3604,7 +3604,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-128-gb": {
-      "name": "iPhone 16 Pro 128 GB",
+      "name": "iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5482,7 +5482,7 @@
       "updatedAt": null
     },
     "canon-eos-1200d": {
-      "name": "Canon EOS 1200D",
+      "name": "Canon EOS 1200d",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -16144,8 +16144,8 @@
       "updatedAt": null
     },
     "damen-e-bike-28-zoll": {
-      "name": "Damen E-Bike 28\" Zoll",
-      "category": "Fahrräder",
+      "name": "Damen E-Bike 28 Zoll",
+      "category": "fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -41549,7 +41549,7 @@
     },
     "kalkhoff-entice-3": {
       "name": "Kalkhoff Entice 3",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -42797,6 +42797,72 @@
     },
     "leica-r4": {
       "name": "Leica R4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-linec-n8": {
+      "name": "Bergamont E-LineC-N8",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bbf-e-bike": {
+      "name": "BBF E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-bike": {
+      "name": "Bergamont E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-pathlite-on-5-e-bike-29": {
+      "name": "Canyon Pathlite:ON 5 E-Bike 29\"",
+      "category": "fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "burchda-r5-pro-fatbike": {
+      "name": "BURCHDA R5 Pro Fatbike",
+      "category": "fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-e-bike-damen-cityrad": {
+      "name": "Winora E-Bike Damen Cityrad",
+      "category": "fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dualsense-controller-128-gb": {
+      "name": "Sony DualSense Controller 128GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-512-gb": {
+      "name": "Apple MacBook Air M3 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-af-c1": {
+      "name": "Leica AF-C1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-ride-genius-920": {
+      "name": "scott E Ride Genius 920",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rc-n3-fernbedienung": {
+      "name": "DJI RC-N3 Fernbedienung",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
