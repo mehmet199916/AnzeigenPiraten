@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-06T18:39:04.136Z",
+  "updatedAt": "2026-10-06T18:44:28.125Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -701,7 +701,7 @@
     },
     "sony-playstation-5-disc-edition-825-gb": {
       "name": "Sony PlayStation 5 Disc Edition 825GB",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1871,7 +1871,7 @@
     },
     "sony-playstation-5-slim-digital": {
       "name": "Sony PlayStation 5 Slim Digital",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128 GB",
+      "name": "Apple iPhone 13 mini 128GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3443,7 +3443,7 @@
     },
     "stiga-a8v-mahroboter": {
       "name": "STIGA A8V Mähroboter",
-      "category": "Mähroboter",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -14716,7 +14716,7 @@
       "updatedAt": null
     },
     "yashica-t3": {
-      "name": "YASHICA T3",
+      "name": "Yashica T3",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -16588,7 +16588,7 @@
       "updatedAt": null
     },
     "apple-iphone-11-256-gb": {
-      "name": "Apple iPhone 11 256 Gb",
+      "name": "Apple iPhone 11 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -18515,7 +18515,7 @@
     },
     "hoheacht-lumo-tereno-diamant": {
       "name": "HoheAcht Lumo Tereno Diamant",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33293,7 +33293,7 @@
     },
     "apple-macbook-air-m4-13-zoll": {
       "name": "Apple MacBook Air M4 13 Zoll",
-      "category": "Computers",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -34006,7 +34006,7 @@
       "updatedAt": null
     },
     "apple-iphone-256-gb": {
-      "name": "Apple iPhone 256 GB",
+      "name": "Apple iPhone 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -39700,7 +39700,7 @@
       "updatedAt": null
     },
     "evga-geforce-rtx-3080-ftw3-ultra-10-gb": {
-      "name": "EVGA GeForce RTX 3080 FTW3 Ultra 10 GB",
+      "name": "EVGA GeForce RTX 3080 FTW3 Ultra 10GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -43985,6 +43985,90 @@
     },
     "sony-fdr-ax53-4k-handycam": {
       "name": "Sony FDR-AX53 4K Handycam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-hybrid-e-mtb-access-race": {
+      "name": "Cube Hybrid E-MTB Access Race",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-ecu-1603": {
+      "name": "Fischer ECU 1603",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-dundee-ltd": {
+      "name": "Raleigh Dundee LTD",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xiaomi-electric-scooter-4": {
+      "name": "Xiaomi Electric Scooter 4",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m4-pro-16-zoll": {
+      "name": "Apple MacBook Pro M4 Pro 16 Zoll",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-aorus-gtx-1080-8-gb": {
+      "name": "Gigabyte AORUS GTX 1080 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "psvr2": {
+      "name": "PSVR2",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dahua-hdbw1435e-w-0360b": {
+      "name": "Dahua HDBW1435e-W-0360B",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7-ii-64-gb": {
+      "name": "Sony Alpha 7 II 64GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a7-iv": {
+      "name": "Sony A7 IV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lowepro-kamera-rucksack-flipside-300-aw": {
+      "name": "Lowepro Kamera-Rucksack Flipside 300 AW",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-3000": {
+      "name": "Canon EOS 3000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-8-2-megapixel": {
+      "name": "Kodak 8.2 Megapixel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konika-minolta-kamera": {
+      "name": "Konika Minolta Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
