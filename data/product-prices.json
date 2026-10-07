@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T16:28:59.720Z",
+  "updatedAt": "2026-10-07T16:34:26.154Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,13 +58,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256 GB",
+      "name": "Apple iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,8 +202,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E-Bike",
-      "category": "Fahrräder",
+      "name": "E-bike",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -478,8 +478,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-rtx-3080-ti-12-gb": {
-      "name": "NVIDIA RTX 3080 TI 12GB",
-      "category": "Computer",
+      "name": "NVIDIA RTX 3080 Ti 12GB",
+      "category": "Grafikkarten",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2279,13 +2279,13 @@
     },
     "sony-playstation-5": {
       "name": "Sony PlayStation 5",
-      "category": "Smartphones",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
       "name": "Sony PlayStation 5 Slim 1TB",
-      "category": "Spielekonsolen",
+      "category": "Computer",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2446,7 +2446,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max": {
-      "name": "Apple iPhone 17 Pro MAX",
+      "name": "Apple iPhone 17 Pro Max",
       "category": "Smartphones",
       "referencePrice": 1100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2890,7 +2890,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-max-256-gb": {
-      "name": "iPhone 15 Pro Max 256 GB",
+      "name": "iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256 GB",
+      "name": "iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825GB",
+      "name": "Sony PlayStation 5 Digital Edition 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7223,7 +7223,7 @@
     },
     "e-bike-zundapp": {
       "name": "E-Bike Zündapp",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14032,7 +14032,7 @@
       "updatedAt": null
     },
     "iphone-12-64-gb": {
-      "name": "iPhone 12 64 GB",
+      "name": "iPhone 12 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -35572,8 +35572,8 @@
       "updatedAt": null
     },
     "playstation-5-slim-825-gb": {
-      "name": "PlayStation 5 Slim 825 GB",
-      "category": "Spielekonsolen",
+      "name": "PlayStation 5 Slim 825GB",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -39502,7 +39502,7 @@
       "updatedAt": null
     },
     "ktm-e-bike-cento-10": {
-      "name": "KTM e-Bike Cento 10",
+      "name": "KTM E-Bike Cento 10",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -42208,8 +42208,8 @@
       "updatedAt": null
     },
     "batavus-e-bike": {
-      "name": "Batavus E-Bike",
-      "category": "Fahrräder",
+      "name": "BATAVUS E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -47135,6 +47135,186 @@
     },
     "canon-eos-5d-mark-i": {
       "name": "Canon EOS 5D Mark I",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "schindelhauer-emil-e-bike": {
+      "name": "Schindelhauer Emil E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmc-257-amp-al-one-e-bike": {
+      "name": "BMC 257 AMP AL One E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-e-mountainbike": {
+      "name": "Hercules E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "merida-ebig-nine-600": {
+      "name": "Merida EBIG.NINE 600",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sparta-ion-e-bike": {
+      "name": "Sparta Ion E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-pedelec": {
+      "name": "E-Bike/ Pedelec",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "suv-tororider-a-300-e-bike": {
+      "name": "SUV Tororider A 300 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tretwerk-e-bike": {
+      "name": "Tretwerk E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-s-429": {
+      "name": "Conway Cairon S 429",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-tasman-impuls": {
+      "name": "Kalkhoff Tasman Impuls",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dynamics-e-bike-28-zoll": {
+      "name": "Dynamics E Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-elektrofahrrad-mit-automatik-gangschaltung": {
+      "name": "E-Bike Elektrofahrrad mit Automatik Gangschaltung",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-team-792": {
+      "name": "KTM MACINA TEAM 792",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vision-power-pack-akku": {
+      "name": "Vision Power Pack Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-sam2-6-8-e-enduro": {
+      "name": "Focus SAM² 6.8 E-Enduro",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-128-gb-natural-titanium": {
+      "name": "Apple iPhone 16 Pro 128GB Natural Titanium",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-3080-ti-12-gb-gaming-x-trio": {
+      "name": "MSI GeForce RTX 3080 Ti 12GB Gaming X Trio",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-rtx-5070-ti-solid-sff-oc-16-gb": {
+      "name": "Zotac RTX 5070 Ti Solid SFF OC 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-rtx-3070-gddr6-ventus-oc": {
+      "name": "MSI RTX 3070 GDDR6 VENTUS OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-gtx-1060-6-gb": {
+      "name": "MSI GTX 1060 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-gtx-1660-6-gb": {
+      "name": "Asrock GTX 1660 6gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gtx-1070-extreme": {
+      "name": "Zotac GTX 1070 Extreme",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "powercolor-amd-radeon-rx-6600-grafikkarte-8-gb": {
+      "name": "PowerColor AMD Radeon RX 6600 Grafikkarte 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "western-digital-sn850p-1-tb-nvme-ssd": {
+      "name": "Western Digital SN850P 1 TB NVMe SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minox-bl-miniaturkamera": {
+      "name": "MINOX BL Miniaturkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-t3-mit-18-55mm-objektiv": {
+      "name": "Fujifilm X-T3 mit 18-55mm Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-lumix-gx7": {
+      "name": "Olympus Lumix GX7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f65": {
+      "name": "Nikon F65",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-p950": {
+      "name": "NIKON COOLPIX P950",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-c3-creative-set": {
+      "name": "Leica C3 Creative Set",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
