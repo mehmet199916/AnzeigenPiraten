@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T15:34:15.501Z",
+  "updatedAt": "2026-10-07T15:39:13.968Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2284,8 +2284,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1 TB",
-      "category": "Konsolen",
+      "name": "Sony PlayStation 5 Slim 1TB",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2837,7 +2837,7 @@
     },
     "sony-playstation-5-disc-edition": {
       "name": "Sony PlayStation 5 Disc Edition",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3868,7 +3868,7 @@
       "updatedAt": null
     },
     "iphone-12-pro-128-gb": {
-      "name": "iPhone 12 Pro 128Gb",
+      "name": "iPhone 12 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -10984,7 +10984,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-256-gb": {
-      "name": "Apple iPhone 12 mini 256 GB",
+      "name": "Apple iPhone 12 Mini 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -11242,7 +11242,7 @@
       "updatedAt": null
     },
     "iphone-13-pro-max-256-gb": {
-      "name": "iPhone 13 Pro Max 256Gb",
+      "name": "iPhone 13 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13858,7 +13858,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Slim Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Slim Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -16937,7 +16937,7 @@
     },
     "kalkhoff-agattu-impulse-e-bike": {
       "name": "Kalkhoff Agattu Impulse E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17992,7 +17992,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-2020-256-gb": {
-      "name": "Apple MacBook Air 2020 256 Gb",
+      "name": "Apple MacBook Air 2020 256 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -34073,7 +34073,7 @@
     },
     "cube-access-race-e-mtb": {
       "name": "Cube Access Race E-MTB",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -45365,6 +45365,204 @@
     },
     "motorola-razr-fold": {
       "name": "Motorola RAZR Fold",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-3": {
+      "name": "Giant Explore E+ 3",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asviva-e-bike-20": {
+      "name": "AsVIVA E-Bike 20\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liv-tempt-e-3-bj-2023": {
+      "name": "LIV Tempt E 3+ Bj. 2023",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-entdecker-2-0-28-zoll": {
+      "name": "Prophete Entdecker 2.0 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-e-bike-pedelec-damenrad": {
+      "name": "Raleigh E-Bike Pedelec Damenrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-vibe-mid-h10-e-bike": {
+      "name": "Orbea VIBE MID H10 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-140-hpc-race-750-e-bike": {
+      "name": "CUBE STEREO Hybrid 140 HPC Race 750 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ebike-beick-e-city-tiefeinstieg": {
+      "name": "eBike BEICK E-City Tiefeinstieg",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-400-wh-36v-11-ah-e-bike-rahmenakku": {
+      "name": "Bosch PowerPack 400 Wh 36V 11 Ah E-Bike Rahmenakku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-kalkhoff-tiefer-einstieg-trekking-fahrrad": {
+      "name": "e-Bike Kalkhoff tiefer Einstieg Trekking Fahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evercross-ek30-e-bike-fatbike": {
+      "name": "EVERCROSS EK30 E-Bike / Fatbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sinus-e-bike": {
+      "name": "Sinus E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-arroyo-c8-hmb-elite": {
+      "name": "Gazelle Arroyo C8 HMB Elite",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "centurion-country-tour-r2600i": {
+      "name": "Centurion Country Tour R2600i",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "wittich-win10-pedelec-ltd-city": {
+      "name": "Wittich WIN10 PEDELEC LTD City",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vecocraft-hermes": {
+      "name": "Vecocraft Hermes",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-stance-e-1-29-zoll-e-mountainbike": {
+      "name": "Giant Stance E+ 1 29 Zoll E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "electra-townie-e-bike": {
+      "name": "Electra Townie E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m4-24-gb": {
+      "name": "Apple MacBook Pro 14\" M4 24 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-6-2022-512-gb": {
+      "name": "Apple MacBook Air 13,6 2022 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-zoll-mid-2015-16-gb": {
+      "name": "Apple MacBook Pro 15 Zoll (Mid 2015) 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-5080-oc-edition": {
+      "name": "NVIDIA GeForce RTX 5080 OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-rtx-2070-super-8-gb-gddr6": {
+      "name": "Palit RTX 2070 SUPER 8GB GDDR6",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-af-1-analogkamera": {
+      "name": "Olympus AF-1 Analogkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elgato-master-mount-l": {
+      "name": "Elgato Master Mount L",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx5": {
+      "name": "Sony Cyber-shot DSC-HX5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-g12": {
+      "name": "Canon PowerShot G12",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-ace-pro": {
+      "name": "Insta360 Ace Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "porst-cr-3-color-reflex-spiegelreflex": {
+      "name": "Porst CR-3 Color Reflex Spiegelreflex",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7-ii-ilce-7m2": {
+      "name": "Sony Alpha 7 II (ILCE-7M2)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-mtb": {
+      "name": "e-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-12-256-gb": {
+      "name": "iPhone 12 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-x-256-gb": {
+      "name": "iPhone X 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
