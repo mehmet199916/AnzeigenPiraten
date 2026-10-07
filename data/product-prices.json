@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T17:04:21.702Z",
+  "updatedAt": "2026-10-07T17:09:41.532Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256GB",
+      "name": "Apple iPhone 14 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128gB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2266,7 +2266,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "playstation-5-slim": {
-      "name": "PlayStation 5 Slim",
+      "name": "PlayStation 5 slim",
       "category": "Konsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2285,7 +2285,7 @@
     },
     "sony-playstation-5-slim-1-tb": {
       "name": "Sony PlayStation 5 Slim 1TB",
-      "category": "Computer",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128 GB",
+      "name": "Apple iPhone 13 mini 128GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256GB",
+      "name": "iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6004,7 +6004,7 @@
       "updatedAt": null
     },
     "sony-alpha-7-iii": {
-      "name": "Sony Alpha 7 III",
+      "name": "Sony Alpha 7 iii",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -7547,7 +7547,7 @@
     },
     "apple-macbook-pro-13-inch-8-gb": {
       "name": "Apple MacBook Pro 13-Inch 8GB",
-      "category": "Computers",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -35884,8 +35884,8 @@
       "updatedAt": null
     },
     "giant-talon-e-3": {
-      "name": "Giant Talon E+ 3",
-      "category": "E-Bikes",
+      "name": "Giant Talon e 3",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -48096,6 +48096,198 @@
     "apple-iphone-16-126-gb-black": {
       "name": "Apple iPhone 16 126Gb Black",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-11-e-bike": {
+      "name": "Haibike Trekking 11 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-allant-7-gen2": {
+      "name": "Trek Allant+ 7 Gen2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-damen": {
+      "name": "KTM E Bike Damen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "spinder-tx2-fahrradtrager": {
+      "name": "Spinder TX2 Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "be-green-e-bike-elektrofahrrad": {
+      "name": "Be Green E-Bike Elektrofahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-brooklyn": {
+      "name": "E Bike Brooklyn",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-trenoli-brenta-compact-performance": {
+      "name": "Bosch Trenoli BRENTA Compact Performance",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-entice-3-b-elektrofahrrad": {
+      "name": "Kalkhoff Entice 3.B Elektrofahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-strada-radgepacktrager": {
+      "name": "Atera Strada Radgepäckträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-veneto-light-disc": {
+      "name": "KTM Veneto Light Disc",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gebr-koga-e-bike": {
+      "name": "Gebr. Koga E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-mtb-corratec-x-vert-akku-750wh-bosch-perf-cx": {
+      "name": "E-MTB Corratec X-Vert Akku 750Wh Bosch Perf. CX",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kinderrad-24-zoll-ab-7-jahre-8-gang-9kg": {
+      "name": "Kinderrad 24 Zoll ab 7 Jahre | 8-Gang 9Kg",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-mtb-hardtail-suv-ghost-e-teru-b-pro-eq": {
+      "name": "Bosch E-MTB Hardtail SUV Ghost E-TERU B Pro EQ",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-e-bike-herren-trekking-e-bike": {
+      "name": "Winora E-Bike Herren Trekking E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-max-gold-256-gb": {
+      "name": "Apple iPhone 14 Pro Max GOLD 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-max-schwarz-titan-256-gb": {
+      "name": "Apple iPhone 15 Pro Max Schwarz Titan 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2017-256-gb": {
+      "name": "Apple MacBook Air 2017 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-15-16-gb": {
+      "name": "Apple MacBook Air M3 15\" 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-3060-ventus-2x-oc-edition": {
+      "name": "MSI GeForce RTX 3060 Ventus 2X OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-laufwerk-825-gb": {
+      "name": "Sony PlayStation 5 Laufwerk 825GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mitsubishi-outlander-frontkamera": {
+      "name": "Mitsubishi Outlander Frontkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-r50v": {
+      "name": "Canon R50V",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "braun-nizo-integral-5-super-8-kamera": {
+      "name": "Braun Nizo integral 5 Super 8 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-75-300-f4-8-6-7-ii": {
+      "name": "Olympus 75-300 f4.8-6.7 II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-silette-analogkamera": {
+      "name": "Agfa Silette Analogkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-m5-f90-aussenspiegel-spiegel-rechts-links-9pin-kamera": {
+      "name": "BMW M5 F90 Aussenspiegel Spiegel rechts links 9Pin Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-id-4-au-enspiegel-rechts-elektronisch-mit-kamera": {
+      "name": "VW ID.4 Außenspiegel rechts elektronisch mit Kamera",
+      "category": "Autoteile",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-id-4-au-enspiegel-rechts-mit-kamera": {
+      "name": "VW ID.4 Außenspiegel rechts mit Kamera",
+      "category": "Autoteile",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-f10-f11-f13-f30-f31-surround-view-kamera": {
+      "name": "BMW F10 F11 F13 F30 F31 Surround View Kamera",
+      "category": "Autoteile",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1100d-mit-18-55mm-objektiv": {
+      "name": "Canon EOS 1100D mit 18-55mm Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-zoom-105-super-compatta-af": {
+      "name": "Pentax Zoom 105 super Compatta AF",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
