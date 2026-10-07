@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T17:09:41.532Z",
+  "updatedAt": "2026-10-07T17:14:55.161Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,8 +202,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E-bike",
-      "category": "E-Bikes",
+      "name": "E-Bike",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512gb",
+      "name": "Apple iPhone 15 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -460,7 +460,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m1-2020-8-gb": {
-      "name": "Apple MacBook Air M1 (2020) 8 GB",
+      "name": "Apple MacBook Air M1 2020 8GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2135,7 +2135,7 @@
     },
     "gigabyte-rtx-3080-10-gb-aorus-xtreme": {
       "name": "Gigabyte RTX 3080 10GB Aorus Xtreme",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -9532,8 +9532,8 @@
       "updatedAt": null
     },
     "damen-e-bike": {
-      "name": "Damen E bike",
-      "category": "E-Bikes",
+      "name": "Damen E Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10270,7 +10270,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-16-gb": {
-      "name": "Apple MacBook Air 16GB",
+      "name": "Apple MacBook Air 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -13906,7 +13906,7 @@
       "updatedAt": null
     },
     "nikon-d3400": {
-      "name": "NIKON D3400",
+      "name": "Nikon D3400",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -14141,7 +14141,7 @@
     },
     "fazua-akku-energy-430-ride-60-as-eu": {
       "name": "Fazua Akku Energy 430 Ride 60 AS-EU",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -30497,7 +30497,7 @@
     },
     "bianchi-e-vertic-t-type-x5-x7-9s-400": {
       "name": "Bianchi E-VERTIC T TYPE X5/X7 9S 400",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33508,7 +33508,7 @@
       "updatedAt": null
     },
     "gazelle-miss-grace-c7": {
-      "name": "Gazelle Miss Grace C7",
+      "name": "Gazelle Miss Grace C7+",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -47308,7 +47308,7 @@
       "updatedAt": null
     },
     "nikon-coolpix-p950": {
-      "name": "NIKON COOLPIX P950",
+      "name": "Nikon Coolpix P950",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -48287,6 +48287,174 @@
     },
     "pentax-zoom-105-super-compatta-af": {
       "name": "Pentax Zoom 105 super Compatta AF",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ouxi-fatbike-v20-mini": {
+      "name": "Ouxi Fatbike V20 MINI",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-mountainbike-mit-bosch-gen4-motor": {
+      "name": "Scott E-Mountainbike mit Bosch Gen4 Motor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rockrider-e-st-500-s": {
+      "name": "Rockrider E-ST 500 S",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-corratec-bosch": {
+      "name": "E Bike Corratec-Bosch",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lpm-e1-e-bike": {
+      "name": "LPM E1 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-victoria": {
+      "name": "E-Bike Victoria",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-powerfly-4-e-mtb": {
+      "name": "Trek Powerfly 4 E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-30-2021": {
+      "name": "Kalkhoff Endeavour 30 (2021)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-i-sy-20-zoll": {
+      "name": "Bosch E-Bike I:SY 20 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-1-e-bike-pedelec": {
+      "name": "Kalkhoff Endeavour 1 E-Bike Pedelec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-strada-dl-2-fahrradtrager": {
+      "name": "Atera Strada DL 2 Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-512-gb": {
+      "name": "Apple MacBook Air 13 Zoll 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-2023-512-gb": {
+      "name": "Apple MacBook Pro 14\" 2023 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-3090-24-gb": {
+      "name": "nVidia RTX 3090 24GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3060-ti-8-gb": {
+      "name": "NVIDIA GeForce RTX 3060 Ti 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-intel-arc-b580-challenger-12-gb": {
+      "name": "ASRock Intel Arc B580 Challenger 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-aorus-rtx-5080-master": {
+      "name": "Gigabyte Aorus RTX 5080 Master",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a7": {
+      "name": "Sony A7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-hdr-cx240e-camcorder-32-gb": {
+      "name": "Sony HDR-CX240E Camcorder 32GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sipnar-p2-sinarcam-2-fachkamera": {
+      "name": "Sipnar P2 Sinarcam 2 Fachkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mavic-pro-2-zoom": {
+      "name": "DJI Mavic Pro 2 Zoom",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-g3-14-42mmkit": {
+      "name": "Panasonic Lumix DMC-G3 14-42mmKit",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-pocket-4-pro": {
+      "name": "DJI Osmo Pocket 4 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "land-rover-range-rover-sport-ii-2-svr": {
+      "name": "Land Rover Range Rover Sport II 2 SVR",
+      "category": "Autos",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-original-g05-x5-g06-x6-spiegel-5pin-kamera": {
+      "name": "BMW Original G05 X5 G06 X6 Spiegel 5pin Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cuboai-baby-kamera": {
+      "name": "CuboAi Baby Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-s1": {
+      "name": "Nikon Coolpix S1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "audi-rs7-4k-carbon-aussenspiegel-spiegel-15-pin-kamera": {
+      "name": "AUDI RS7 4K CARBON AUSSENSPIEGEL SPIEGEL 15 PIN KAMERA",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
