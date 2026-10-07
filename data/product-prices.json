@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T16:59:01.878Z",
+  "updatedAt": "2026-10-07T17:04:21.702Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64 GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1330,7 +1330,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-pro-2-tb": {
-      "name": "Sony PlayStation 5 Pro 2TB",
+      "name": "Sony PlayStation 5 Pro 2 TB",
       "category": "Spielekonsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128gB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2458,7 +2458,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-pro-14-24-gb": {
-      "name": "Apple MacBook Pro 14\" 24GB",
+      "name": "Apple MacBook Pro 14 24 GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5032,7 +5032,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-disc-edition": {
-      "name": "Sony PlayStation 5 Slim (Disc Edition)",
+      "name": "Sony PlayStation 5 Slim Disc Edition",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -6832,8 +6832,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-2019": {
-      "name": "Apple MacBook Air (2019)",
-      "category": "Smartphones",
+      "name": "Apple MacBook Air 2019",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8458,7 +8458,7 @@
       "updatedAt": null
     },
     "e-fahrrad": {
-      "name": "e Fahrrad",
+      "name": "E-Fahrrad",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -9412,7 +9412,7 @@
       "updatedAt": null
     },
     "apple-iphone-13-pro-max-512-gb": {
-      "name": "Apple iPhone 13 Pro Max 512GB",
+      "name": "Apple iPhone 13 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -12226,7 +12226,7 @@
       "updatedAt": null
     },
     "canon-eos-700d": {
-      "name": "Canon eos 700D",
+      "name": "Canon EOS 700D",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -45635,7 +45635,7 @@
     },
     "nvidia-geforce-rtx-2080-ti": {
       "name": "NVIDIA GeForce RTX 2080 Ti",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -47982,6 +47982,120 @@
     "konica-kamera-zubehorkoffer": {
       "name": "Konica Kamera Zubehörkoffer",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-aktiv-line-plus-50nm-300wh": {
+      "name": "Bosch E-Bike Aktiv-Line Plus 50NM 300Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "drvetion-e-bike-fatbike-20-zoll": {
+      "name": "DRVETION E-Bike Fatbike 20 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-e-tourray-5-5-60cm": {
+      "name": "Raymon E-Tourray 5,5 60cm",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "shimano-steps-bt-e8016": {
+      "name": "SHIMANO STEPS BT-E8016",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "shimano-e6100": {
+      "name": "SHIMANO E6100",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ext-e-storia-stahlfederdampfer": {
+      "name": "EXT e-Storia Stahlfederdämpfer",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-hc1-e-mtb-enduro-740km-180mm-shimano-xt": {
+      "name": "Husqvarna HC1 e-MTB Enduro 740km 180mm Shimano XT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-c3-0-e-bike": {
+      "name": "Conway Cairon C3.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-max-silber-256-gb": {
+      "name": "Apple iPhone 17 Pro Max Silber 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-plus-128-gb-schwarz": {
+      "name": "Apple iPhone 16 Plus 128 GB Schwarz",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-13": {
+      "name": "Apple MacBook Air M2 13\"",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-2070-windforce-2x-8-gb": {
+      "name": "NVIDIA GeForce RTX 2070 Windforce 2X 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1650-4-gb": {
+      "name": "Gigabyte GeForce GTX 1650 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d60": {
+      "name": "Nikon D60",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-7000-af": {
+      "name": "Minolta 7000 AF",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-m6": {
+      "name": "Canon EOS M6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-zv-1f": {
+      "name": "Sony ZV-1F",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-zubehor-set": {
+      "name": "GoPro Zubehör Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-126-gb-black": {
+      "name": "Apple iPhone 16 126Gb Black",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
