@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T16:34:26.154Z",
+  "updatedAt": "2026-10-07T16:39:47.450Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512 GB",
+      "name": "Apple iPhone 17 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3304,7 +3304,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-xr-128-gb": {
-      "name": "Apple iPhone XR 128GB",
+      "name": "Apple iPhone XR 128 GB",
       "category": "Smartphones",
       "referencePrice": 145,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5033,7 +5033,7 @@
     },
     "sony-playstation-5-slim-disc-edition": {
       "name": "Sony PlayStation 5 Slim (Disc Edition)",
-      "category": "Computer",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -12940,8 +12940,8 @@
       "updatedAt": null
     },
     "fischer-e-bike": {
-      "name": "Fischer E Bike",
-      "category": "Fahrräder",
+      "name": "Fischer E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13456,7 +13456,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-disc-version": {
-      "name": "Sony PlayStation 5 Disc Version",
+      "name": "Sony PlayStation 5 (Disc-Version)",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -14519,7 +14519,7 @@
     },
     "top-e-bike-klapprad-engine-pro-fatbike": {
       "name": "Top E-Bike Klapprad: ENGINE PRO (Fatbike)",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14650,7 +14650,7 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-max-64-gb": {
-      "name": "Apple iPhone 11 Pro Max 64GB",
+      "name": "Apple iPhone 11 Pro Max 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -20470,8 +20470,8 @@
       "updatedAt": null
     },
     "asus-proart-rtx-4080-super-16-gb": {
-      "name": "ASUS ProArt RTX 4080 SUPER 16GB",
-      "category": "Grafikkarten",
+      "name": "ASUS ProArt RTX 4080 Super 16 GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -22559,7 +22559,7 @@
     },
     "pegasus-e-bike-28-zoll": {
       "name": "Pegasus E-Bike 28 Zoll",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26153,7 +26153,7 @@
     },
     "uebler-i21-fahrradtrager": {
       "name": "Uebler i21 Fahrradträger",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -28253,7 +28253,7 @@
     },
     "kalthoff-e-bike": {
       "name": "Kalthoff E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -29740,7 +29740,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-zoll-2019-16-gb": {
-      "name": "Apple MacBook Pro 16 Zoll (2019) 16gb",
+      "name": "Apple MacBook Pro 16 Zoll 2019 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -47315,6 +47315,156 @@
     },
     "leica-c3-creative-set": {
       "name": "Leica C3 Creative Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fahrrad-e-bike-befestigungswippe-v-klasse-vito": {
+      "name": "Fahrrad/ E-Bike Befestigungswippe V-Klasse/Vito",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-anytour-e": {
+      "name": "Giant Anytour E+",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "slayer-mountainbike": {
+      "name": "Slayer Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-e-bike-ladegerat-fur-26v-li-ion-akku": {
+      "name": "Panasonic E-Bike Ladegerät für 26V Li-Ion Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pixar-c1-e-bike": {
+      "name": "PIXAR C1 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "urlife-e-bike-t20": {
+      "name": "URLIFE E-Bike T20",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "uebler-x21-s-fahrradtrager": {
+      "name": "UEBLER X21 S Fahrradträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-hardnine-5": {
+      "name": "Haibike HardNine 5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-e-teru-mountainbike": {
+      "name": "Ghost e-Teru Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-product-red": {
+      "name": "Apple iPhone 12 (PRODUCT)RED",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-6500xt": {
+      "name": "AMD Radeon RX 6500XT",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-xg248qsg-ace": {
+      "name": "Asus ROG Strix XG248QSG Ace",
+      "category": "Monitore",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-edition-cfi-1116a-825-gb": {
+      "name": "Sony PlayStation 5 Disc Edition CFI-1116A 825GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-portal": {
+      "name": "Sony PlayStation 5 Portal",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-7000-slr": {
+      "name": "Minolta 7000 SLR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-m50-mark-ii": {
+      "name": "Canon EOS M50 Mark II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-hs-digitalkamera": {
+      "name": "Casio Exilim HS Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mavic-air-2s-zubehor": {
+      "name": "DJI Mavic Air 2s Zubehör",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-xt2-kamera-set": {
+      "name": "Blink XT2 Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-ronin-s": {
+      "name": "DJI RONIN S",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero9-black-512-gb": {
+      "name": "GoPro HERO9 Black 512GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-fr-i-fr1": {
+      "name": "Yashica FR I (FR1)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f801": {
+      "name": "Nikon F801",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-avata-set": {
+      "name": "DJI Avata Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f3": {
+      "name": "Nikon F3",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
