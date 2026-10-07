@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T15:54:34.383Z",
+  "updatedAt": "2026-10-07T15:59:16.155Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128gb",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256gb",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -947,7 +947,7 @@
     },
     "hercules-e-bike": {
       "name": "Hercules E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 900,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2446,7 +2446,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max": {
-      "name": "Apple iPhone 17 Pro Max",
+      "name": "Apple iPhone 17 Pro MAX",
       "category": "Smartphones",
       "referencePrice": 1100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4102,7 +4102,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-512-gb": {
-      "name": "iPhone 16 Pro Max 512GB",
+      "name": "iPhone 16 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8554,7 +8554,7 @@
       "updatedAt": null
     },
     "fujifilm-x-h1": {
-      "name": "Fujifilm X-H1",
+      "name": "FujiFilm X-H1",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -9556,7 +9556,7 @@
       "updatedAt": null
     },
     "iphone-13-pro-256-gb": {
-      "name": "iPhone 13 Pro 256GB",
+      "name": "iPhone 13 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -17986,7 +17986,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-2019-8-gb": {
-      "name": "Apple MacBook Pro 13\" 2019 8GB",
+      "name": "Apple MacBook Pro 13\" 2019 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -32974,7 +32974,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-zoll-32-gb": {
-      "name": "Apple MacBook Pro 16 Zoll 32 GB",
+      "name": "Apple MacBook Pro 16 Zoll 32GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -46025,6 +46025,144 @@
     },
     "70mai-dash-cam-4k-omni-hdr-128-gb": {
       "name": "70mai Dash Cam 4K Omni HDR 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-hardfour-4-0-kinder-e-bike": {
+      "name": "Haibike HardFour 4.0 Kinder E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fafrees-dreirad-fur-erwachsene": {
+      "name": "FAFREES Dreirad für Erwachsene",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-twin-comfort-fl": {
+      "name": "Kettler Twin Comfort FL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-culture-nuvinci-e-bike-26-zoll": {
+      "name": "Riese & Müller Culture Nuvinci E-Bike 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "benebike-kinder-e-bike-24-zoll": {
+      "name": "benebike Kinder E-Bike 24 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-pro-hybrid-e-bike": {
+      "name": "Cube Reaction Pro Hybrid E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-e-fahrrad": {
+      "name": "Pegasus E Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-256-gb": {
+      "name": "Apple iPhone SE 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-2060-twin-fan-6-gb": {
+      "name": "ZOTAC GAMING GeForce RTX 2060 Twin Fan 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-geforce-rtx-5070-ti-oc-edition-16-gb": {
+      "name": "ASUS TUF Gaming GeForce RTX 5070 Ti OC Edition 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gaming-pc-8-gb": {
+      "name": "Gaming PC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pny-geforce-rtx-3080-grafikkarte-10-gb": {
+      "name": "PNY GeForce RTX 3080 Grafikkarte 10 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scuf-omega-controller": {
+      "name": "SCUF Omega Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-4-pro-1-tb": {
+      "name": "Sony PlayStation 4 Pro 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dahua-ipc-hfw5842e-z4e-8mp-4k-ip-poe-kamera": {
+      "name": "Dahua IPC-HFW5842E-Z4E 8MP 4K IP PoE Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "veo-cam-2-sportkamera": {
+      "name": "Veo Cam 2 Sportkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lollipop-babykamera": {
+      "name": "Lollipop Babykamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "neewer-er1-120cm-kameraslider": {
+      "name": "Neewer ER1 120cm Kameraslider",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-200-af-analoge-spiegelreflexkamera": {
+      "name": "Yashica 200-AF analoge Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-a100": {
+      "name": "Nikon Coolpix A100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-fx30-cinema-kamera": {
+      "name": "Sony FX30 Cinema Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x4-360-kamera": {
+      "name": "Insta360 X4 360° Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ritsch-ratsch-kamera-konvolut": {
+      "name": "Ritsch-Ratsch Kamera Konvolut",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
