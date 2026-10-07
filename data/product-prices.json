@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T15:59:16.155Z",
+  "updatedAt": "2026-10-07T16:04:28.746Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128gb",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2680,7 +2680,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-256-gb": {
-      "name": "Apple iPhone 11 Pro 256gb",
+      "name": "Apple iPhone 11 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128GB",
+      "name": "Apple iPhone 11 128gb",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3964,7 +3964,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13": {
-      "name": "Apple MacBook Air 13\"",
+      "name": "Apple MacBook Air 13",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -4474,7 +4474,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-2060-6-gb": {
-      "name": "Nvidia GeForce RTX 2060 6GB",
+      "name": "NVIDIA GeForce RTX 2060 6GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -5032,8 +5032,8 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-disc-edition": {
-      "name": "Sony PlayStation 5 Slim Disc Edition",
-      "category": "Spielekonsolen",
+      "name": "Sony PlayStation 5 Slim (Disc Edition)",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5146,7 +5146,7 @@
       "updatedAt": null
     },
     "dji-mini-5-pro": {
-      "name": "DJI Mini 5 Pro",
+      "name": "DJI Mini 5 PRO",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -8140,8 +8140,8 @@
       "updatedAt": null
     },
     "pegasus-e-bike": {
-      "name": "PEGASUS E-Bike",
-      "category": "E-Bikes",
+      "name": "Pegasus E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13666,8 +13666,8 @@
       "updatedAt": null
     },
     "playstation-5-slim-disc-1-tb": {
-      "name": "PlayStation 5 Slim Disc 1TB",
-      "category": "Spielekonsolen",
+      "name": "PlayStation 5 Slim Disc 1 TB",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19870,8 +19870,8 @@
       "updatedAt": null
     },
     "playstation-5-slim-digital-edition-1-tb": {
-      "name": "PlayStation 5 Slim Digital Edition 1 TB",
-      "category": "Spielekonsolen",
+      "name": "PlayStation 5 Slim Digital Edition 1TB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -27262,7 +27262,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-plus-256-gb": {
-      "name": "Apple iPhone 16 Plus 256GB",
+      "name": "Apple iPhone 16 Plus 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -39065,7 +39065,7 @@
     },
     "playstation-5-slim-digital-edition-825-gb": {
       "name": "PlayStation 5 Slim Digital Edition 825 GB",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -46163,6 +46163,156 @@
     },
     "ritsch-ratsch-kamera-konvolut": {
       "name": "Ritsch-Ratsch Kamera Konvolut",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "maxx-crossmaxx-el-e-bike": {
+      "name": "MAXX Crossmaxx EL E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-cgo800s-e-bike-pedelec-elektrofahrrad": {
+      "name": "Tenways CGO800S E-Bike Pedelec Elektrofahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-ville-suv-tour-e-bike-shimano-deore-2022": {
+      "name": "Bergamont E-Ville SUV Tour E-Bike Shimano Deore 2022",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-spark-960-l": {
+      "name": "Scott Spark 960 L",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-e9": {
+      "name": "Pegasus Solero E9",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "miniped-e-bike-klapprad": {
+      "name": "Miniped E-Bike Klapprad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-mountainbike": {
+      "name": "Fischer E-Bike Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-lila-128-gb": {
+      "name": "Apple iPhone 12 Lila 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-neo-13": {
+      "name": "Apple MacBook Neo 13",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-zoll-m3-pro-18-gb": {
+      "name": "Apple MacBook Pro 14 Zoll M3 Pro 18GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-3080-ti-suprim-x-12-gb-gddr6x-grafikkarte": {
+      "name": "MSI GeForce RTX 3080 Ti SUPRIM X 12GB GDDR6X Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "wd-black-sn850p-1-tb-nvme-ssd": {
+      "name": "WD_BLACK SN850P 1 TB NVMe SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aimcontroller-playstation-5": {
+      "name": "AimController PlayStation 5",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-disc-bundle": {
+      "name": "PS5 Disc Bundle",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rockstar-games-mega-man-x5": {
+      "name": "Rockstar Games Mega Man X5",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "display-navigation-kamera-nissan-sunny-micra-v-259155fa5a": {
+      "name": "Display Navigation Kamera Nissan Sunny Micra V 259155FA5A",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-850d-spiegelreflexkamera": {
+      "name": "Canon EOS 850D Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "phillips-avent-babykamera": {
+      "name": "Phillips Avent Babykamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-digilux-1": {
+      "name": "Leica Digilux 1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-107-digitalkamera": {
+      "name": "Canon IXUS 107 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elp-usb-camera-module": {
+      "name": "ELP USB Camera Module",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bilora-kameratasche": {
+      "name": "Bilora Kameratasche",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ring-uberwachungskamera-set": {
+      "name": "Ring Überwachungskamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zeiss-ikon-ikomat-diaprojektor": {
+      "name": "Zeiss Ikon Ikomat Diaprojektor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "the-weeknd-einweg-kamera": {
+      "name": "The Weeknd Einweg Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
