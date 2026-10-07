@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T16:54:38.739Z",
+  "updatedAt": "2026-10-07T16:59:01.878Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128GB",
+      "name": "Apple iPhone 13 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128Gb",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128gb",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16E 128gb",
+      "name": "Apple iPhone 16e 128 GB",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2632,7 +2632,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "insta360-x5": {
-      "name": "Insta360 x5",
+      "name": "Insta360 X5",
       "category": "Kameras",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2717,7 +2717,7 @@
     },
     "gazelle-miss-grace-c7-hmb-smart-system": {
       "name": "Gazelle Miss Grace C7+ HMB Smart System",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 1800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256 GB",
+      "name": "iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10672,7 +10672,7 @@
       "updatedAt": null
     },
     "kalkhoff-e-bike-28-zoll": {
-      "name": "Kalkhoff E Bike 28 Zoll",
+      "name": "Kalkhoff E-Bike 28 Zoll",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -23524,8 +23524,8 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-3050-8-gb": {
-      "name": "NVIDIA GeForce RTX 3050 8GB",
-      "category": "Grafikkarten",
+      "name": "Nvidia GeForce RTX 3050 8GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -46810,7 +46810,7 @@
       "updatedAt": null
     },
     "panasonic-lumix-lx100": {
-      "name": "Panasonic LUMIX LX100",
+      "name": "Panasonic Lumix LX100",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -47891,6 +47891,96 @@
     },
     "alte-kamera": {
       "name": "Alte Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diamant-mandara-deluxe": {
+      "name": "Diamant Mandara Deluxe",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "greyp-e-mountainbike-greyp-6-3-offroad": {
+      "name": "Greyp E-Mountainbike Greyp 6.3 Offroad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-tourray-e-1-0": {
+      "name": "Raymon Tourray E 1.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-pro-e-bike-akku-750-wh": {
+      "name": "Cube Reaction Pro E-Bike Akku 750 Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gudereit-e-bike": {
+      "name": "Gudereit E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "adore-swing-e-lastenrad-dreirad": {
+      "name": "Adore Swing E-Lastenrad Dreirad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-benz-hybrid-e-bike": {
+      "name": "Mercedes Benz Hybrid E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-schwarz": {
+      "name": "Apple iPhone 14 Schwarz",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-titanium-256-gb": {
+      "name": "Apple iPhone 15 Pro Titanium 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m4-13": {
+      "name": "Apple MacBook Air M4 13\"",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-quadro-p1000-4-gb": {
+      "name": "Nvidia Quadro P1000 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-35-rc": {
+      "name": "Olympus 35 RC",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-phantom-2-vision-plus": {
+      "name": "DJI Phantom 2 Vision Plus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xplora-xkidzi-kinder-smartwatch": {
+      "name": "Xplora XKidzi Kinder-Smartwatch",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-kamera-zubehorkoffer": {
+      "name": "Konica Kamera Zubehörkoffer",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
