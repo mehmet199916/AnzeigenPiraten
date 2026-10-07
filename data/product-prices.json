@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T15:19:16.630Z",
+  "updatedAt": "2026-10-07T15:24:12.028Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 Gb",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 Gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256 GB",
+      "name": "Apple iPhone 17 Air 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 Gb",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "Konsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256GB",
+      "name": "Apple iPhone 14 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16e (128 GB)",
+      "name": "Apple iPhone 16e 128GB",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max (256 GB)",
+      "name": "iPhone 16 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -4145,7 +4145,7 @@
     },
     "apple-iphone-11-pro-max-256-gb": {
       "name": "Apple iPhone 11 Pro Max 256GB",
-      "category": "Smartphones",
+      "category": "smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5422,8 +5422,8 @@
       "updatedAt": null
     },
     "gazelle-arroyo-c7": {
-      "name": "Gazelle Arroyo C7",
-      "category": "E-Bikes",
+      "name": "Gazelle Arroyo C7+",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8477,7 +8477,7 @@
     },
     "giant-e-bike": {
       "name": "Giant E-Bike",
-      "category": "E-Bikes",
+      "category": "e-bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8608,7 +8608,7 @@
       "updatedAt": null
     },
     "olympus-mju-zoom-130": {
-      "name": "Olympus Mju Zoom 130",
+      "name": "Olympus µ[mju:] Zoom 130",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -19139,7 +19139,7 @@
     },
     "hitway-e-bike-klapprad": {
       "name": "Hitway E-Bike Klapprad",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -23405,7 +23405,7 @@
     },
     "cube-touring-hybrid-exc-625-e-bike": {
       "name": "CUBE Touring Hybrid EXC 625 E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -34618,7 +34618,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-825-gb": {
-      "name": "Sony PlayStation 5 Digital 825GB",
+      "name": "Sony PlayStation 5 Digital 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -38266,7 +38266,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-retina-13": {
-      "name": "Apple MacBook Air Retina 13\"",
+      "name": "Apple MacBook Air Retina 13",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -42208,7 +42208,7 @@
       "updatedAt": null
     },
     "batavus-e-bike": {
-      "name": "BATAVUS E-Bike",
+      "name": "Batavus E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -44922,6 +44922,102 @@
     "iphone-13-in-wei-128-gb": {
       "name": "iPhone 13 in weiß 128 GB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-sub-sport-e-ride-lady-damen-bosch-performance": {
+      "name": "SCOTT SUB Sport E-Ride Lady Damen Bosch Performance",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mobilist-funbike-e-bike": {
+      "name": "Mobilist Funbike E-Bike",
+      "category": "e-bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-aventura-6-9-wave": {
+      "name": "Focus Aventura 6.9 Wave",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mondraker-prime-29": {
+      "name": "Mondraker Prime 29",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-hybrid-exc-750-e-bike": {
+      "name": "Cube Kathmandu Hybrid EXC 750 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-hybrid-exc-625": {
+      "name": "Cube Kathmandu Hybrid EXC 625",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-multitalent-rc830-e-bike": {
+      "name": "Telefunken Multitalent RC830 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-5070-ti-16-gb": {
+      "name": "Nvidia GeForce RTX 5070 Ti 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yeston-geforce-rtx-3050-6-gb": {
+      "name": "Yeston GeForce RTX 3050 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-3060ti": {
+      "name": "Gigabyte GeForce RTX 3060Ti",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g29-lenkrad": {
+      "name": "Logitech G29 Lenkrad",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-115-hs-kamera": {
+      "name": "Canon IXUS 115 Hs Kamera",
+      "category": "kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-t70-slr": {
+      "name": "Canon T70 SLR",
+      "category": "kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-s200": {
+      "name": "Casio Exilim EX-S200",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gabby-s-dollhouse-sofortbildkamera-set": {
+      "name": "Gabby's Dollhouse Sofortbildkamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mamiya-m645-1000s": {
+      "name": "Mamiya M645 1000S",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
