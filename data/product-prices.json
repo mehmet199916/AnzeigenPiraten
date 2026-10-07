@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T16:09:32.403Z",
+  "updatedAt": "2026-10-07T16:14:42.399Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128GB",
+      "name": "Apple iPhone 13 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128GB",
+      "name": "Apple iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -652,7 +652,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
-      "name": "Sony PlayStation 5 Konsole 1 tb",
+      "name": "Sony PlayStation 5 Konsole 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2267,7 +2267,7 @@
     },
     "playstation-5-slim": {
       "name": "PlayStation 5 Slim",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2542,8 +2542,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "playstation-5-disc-edition": {
-      "name": "PlayStation 5 DISC EDITION",
-      "category": "Spielekonsolen",
+      "name": "PlayStation 5 Disc Edition",
+      "category": "Spielen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128GB",
+      "name": "Apple iPhone 13 Mini 128GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -9958,7 +9958,7 @@
       "updatedAt": null
     },
     "flyer-e-bike": {
-      "name": "Flyer E-Bike",
+      "name": "Flyer E-bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -10672,8 +10672,8 @@
       "updatedAt": null
     },
     "kalkhoff-e-bike-28-zoll": {
-      "name": "Kalkhoff E Bike 28 zoll",
-      "category": "E-Bikes",
+      "name": "Kalkhoff E Bike 28 Zoll",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -46512,6 +46512,198 @@
     "reparatur-ps5": {
       "name": "Reparatur PS5",
       "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "citystar-e-bike": {
+      "name": "Citystar E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eskute-e-mountainbike": {
+      "name": "ESKUTE E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-city-line-e-bike": {
+      "name": "Prophete City Line E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-dice-1-0": {
+      "name": "PROPHETE DICE 1.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-touring-hybrid-one": {
+      "name": "Cube E-Bike Touring Hybrid One",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-fun-510": {
+      "name": "KTM Macina Fun 510",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-trekking-6-0": {
+      "name": "HAIBIKE SDURO TREKKING 6.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lehmkuhl-p5-1": {
+      "name": "Lehmkuhl P5.1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "deruiz-peridot": {
+      "name": "Deruiz Peridot",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "qwic-atlas": {
+      "name": "Qwic Atlas",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-inception-tr-6-5-1-feq": {
+      "name": "Stevens E-Inception TR 6.5.1 FEQ",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "duotts-e29": {
+      "name": "DUOTTS E29",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "batavus-altura-e-go-power-plus": {
+      "name": "Batavus Altura E go Power Plus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-dover-de-luxe-premium-28": {
+      "name": "Raleigh Dover De Luxe Premium 28\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ancheer-e-bike-klapprad-26-zoll": {
+      "name": "Ancheer E-Bike Klapprad 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-pulse-radeon-rx-580-8-gb-grafikkarte": {
+      "name": "Sapphire Pulse Radeon RX 580 8GB Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-slt-a57": {
+      "name": "Sony Alpha SLT-A57",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-af-j2": {
+      "name": "Yashica AF J2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6300": {
+      "name": "Sony Alpha 6300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zeiss-ikon-super-ikonta-533-16": {
+      "name": "Zeiss Ikon Super Ikonta 533/16",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-fd-135mm-1-2-8-objektiv": {
+      "name": "Canon FD 135mm 1:2.8 Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-supercolor-635cl": {
+      "name": "Polaroid Supercolor 635CL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "seek-thermal-compactpro": {
+      "name": "Seek Thermal CompactPRO",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "3x-arlo-uberwachungskameras-mit-ladestation-und-akkus": {
+      "name": "3x Arlo Überwachungskameras mit Ladestation und Akkus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-pen-ft": {
+      "name": "Olympus Pen FT",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28-zoll-city-tiefeinsteiger": {
+      "name": "E-Bike 28 Zoll City/Tiefeinsteiger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-sl-625-e-bike": {
+      "name": "Cube Reaction Hybrid SL 625 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yose-power-e-bike-batterie-48v-11-6-14ah": {
+      "name": "YOSE POWER E-Bike Batterie 48V 11,6/14Ah",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-diem-30-urban-ebike-spaceship-green-matt": {
+      "name": "Orbea Diem 30 Urban Ebike Spaceship Green Matt",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blaupunkt-e-bike-klappfahrrad": {
+      "name": "Blaupunkt E-Bike Klappfahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pferdeanhanger-mit-frontausstieg-und-kamerasystem": {
+      "name": "Pferdeanhänger mit Frontausstieg und Kamerasystem",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "opel-crossland-frontkamera": {
+      "name": "Opel Crossland Frontkamera",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
