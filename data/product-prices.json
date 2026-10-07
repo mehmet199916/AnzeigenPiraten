@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T16:04:28.746Z",
+  "updatedAt": "2026-10-07T16:09:32.403Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128gb",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,13 +328,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256GB",
+      "name": "Apple iPhone 14 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Spielekonsolen",
+      "category": "spielekonsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825 GB",
+      "name": "Sony PlayStation 5 Disc Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1066,7 +1066,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-plus-128-gb": {
-      "name": "Apple iPhone 14 Plus 128GB",
+      "name": "Apple iPhone 14 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 365,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1102,7 +1102,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-256-gb": {
-      "name": "Apple iPhone 13 Pro 256GB",
+      "name": "Apple iPhone 13 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 390,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2297,7 +2297,7 @@
     },
     "playstation-5-controller": {
       "name": "PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 40,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256 GB",
+      "name": "Apple iPhone 15 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3161,7 +3161,7 @@
     },
     "playstation-5-spiel": {
       "name": "PlayStation 5 Spiel",
-      "category": "Spielekonsolen",
+      "category": "Spielen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4468,8 +4468,8 @@
       "updatedAt": null
     },
     "nvidia-geforce-gtx-1660-super-6-gb": {
-      "name": "NVIDIA GeForce GTX 1660 SUPER 6GB",
-      "category": "Grafikkarten",
+      "name": "NVIDIA GeForce GTX 1660 Super 6GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7547,7 +7547,7 @@
     },
     "apple-macbook-pro-13-inch-8-gb": {
       "name": "Apple MacBook Pro 13-Inch 8GB",
-      "category": "Computer",
+      "category": "Computers",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8020,7 +8020,7 @@
       "updatedAt": null
     },
     "iphone-14-128-gb": {
-      "name": "iPhone 14 128 GB",
+      "name": "iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -15466,8 +15466,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-m3-16-gb": {
-      "name": "Apple MacBook Air M3 16GB",
-      "category": "Smartphones",
+      "name": "Apple MacBook Air m3 16gb",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -46314,6 +46314,204 @@
     "the-weeknd-einweg-kamera": {
       "name": "The Weeknd Einweg Kamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ben-e-bike-24-power-pro": {
+      "name": "Ben E-Bike 24\" Power Pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "brennabor-t-62e-rt": {
+      "name": "Brennabor T-62e RT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-rex-graveler-e9-6": {
+      "name": "Prophete/Rex Graveler e9.6",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fantic-xtf-1-5-trail": {
+      "name": "Fantic XTF 1.5 Trail",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-3-b-move-28wa-m": {
+      "name": "Kalkhoff Endeavour 3.B Move 28WA M",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-entice-5-move-wave": {
+      "name": "Kalkhoff ENTICE 5 MOVE+ WAVE",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trekkingrad-ktm-powerpack500": {
+      "name": "Trekkingrad KTM PowerPack500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panther-te-8t-ecross": {
+      "name": "Panther TE-8T Ecross",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-nuride-hybrid-pro-625-allroad": {
+      "name": "CUBE Nuride Hybrid Pro 625 Allroad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-mountainbike-27-5-zoll": {
+      "name": "E-Mountainbike 27,5 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-sl-24": {
+      "name": "Pegasus Solero SL 24",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-12g-xt-bosch-performance-e-bike-trekking-diamant": {
+      "name": "Velo de Ville 12G XT Bosch Performance E-Bike Trekking Diamant",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elina-s-fahrwerk-liberty-65-sportgrip-rollstuhlfahrrad-anhanger": {
+      "name": "Elina's Fahrwerk Liberty 65 Sportgrip Rollstuhlfahrrad-Anhänger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-diverge-e5-elite": {
+      "name": "Specialized DIVERGE E5 ELITE",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-3-generation-128-gb": {
+      "name": "Apple iPhone SE 3. Generation 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-3rd-gen-64-gb": {
+      "name": "Apple iPhone SE 3rd Gen 64GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-nitro-radeon-rx-580-8-gb": {
+      "name": "Sapphire NITRO+ Radeon RX 580 8gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-vr2": {
+      "name": "PlayStation VR2",
+      "category": "Spielen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scuf-reflex-fps-controller-fur-playstation-5": {
+      "name": "Scuf Reflex FPS Controller für PlayStation 5",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-2-tft-monitor": {
+      "name": "PlayStation 2 TFT Monitor",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "frontkamera-vw-audi-c110702": {
+      "name": "Frontkamera VW Audi C110702",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-french-door-kuhlschrank": {
+      "name": "Samsung French Door Kühlschrank",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "wipkviey-wing-12-drone": {
+      "name": "Wipkviey Wing 12 Drone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-perkeo-ii": {
+      "name": "Voigtländer Perkeo II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jansen-20m-inspektionskamera": {
+      "name": "Jansen 20M Inspektionskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rs-4": {
+      "name": "DJI RS 4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lumix": {
+      "name": "LUMIX",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a7r-iii": {
+      "name": "Sony Alpha a7R III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dsc-rx100-iii": {
+      "name": "Sony DSC-RX100 III",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-me-asahi": {
+      "name": "Pentax ME ASAHI",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-impulse-af": {
+      "name": "Polaroid Impulse AF",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orcam-myeye-2-0": {
+      "name": "OrCam MyEye 2.0",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reparatur-ps5": {
+      "name": "Reparatur PS5",
+      "category": "Dienstleistungen",
       "referencePrice": null,
       "updatedAt": null
     }
