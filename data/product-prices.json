@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-07T15:16:05.789Z",
+  "updatedAt": "2026-10-07T15:19:16.630Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128 Gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -64,7 +64,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256 GB",
+      "name": "Apple iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128GB",
+      "name": "Apple iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256gb",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128 GB",
+      "name": "Apple iPhone 11 128GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3161,7 +3161,7 @@
     },
     "playstation-5-spiel": {
       "name": "PlayStation 5 Spiel",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6880,7 +6880,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-825-gb": {
-      "name": "Sony PlayStation 5 825gb",
+      "name": "Sony PlayStation 5 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7187,7 +7187,7 @@
     },
     "bulls-e-bike": {
       "name": "Bulls E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8032,7 +8032,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13 8GB",
+      "name": "Apple MacBook Air 13\" 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -11027,7 +11027,7 @@
     },
     "asus-prime-radeon-rx-9070-xt-16-gb": {
       "name": "Asus PRIME Radeon RX 9070 XT 16GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17057,7 +17057,7 @@
     },
     "dji-osmo-pocket-gimbal-kamera": {
       "name": "DJI Osmo Pocket Gimbal Kamera",
-      "category": "kameras",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -44688,6 +44688,240 @@
     "dji-mini-fly-3-drohne": {
       "name": "DJI Mini Fly 3 Drohne",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-e-bike-anthrazit": {
+      "name": "Pegasus E-Bike anthrazit",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-mtb-reaction-hybrid-slx-800": {
+      "name": "Cube E-MTB Reaction Hybrid SLX 800",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-diverge-e5-gravel-bike": {
+      "name": "Specialized Diverge E5 Gravel Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-evo-7r-plus-city-e-bike": {
+      "name": "Pegasus Solero EVO 7R Plus City E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liv-valle-e-2": {
+      "name": "Liv Valle E+2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-cooperhead-evo-am1": {
+      "name": "Bulls Cooperhead Evo AM1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-stronge8r-e-bike": {
+      "name": "Pegasus StrongE8R E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rabeneik-e-fahrad": {
+      "name": "Rabeneik E Fahrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-contessa-aspect-20-gr-s": {
+      "name": "Scott E-Contessa Aspect 20 Gr. S",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kelly-s-trekking-e-bike-model-carson": {
+      "name": "Kelly’s Trekking E-Bike Model Carson",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-pro-performance-line-cx": {
+      "name": "CUBE Reaction Pro Performance line CX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-chamonix-pure-innergy-e-bike": {
+      "name": "Gazelle Chamonix Pure Innergy E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-radar-speed": {
+      "name": "Winora Radar Speed",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "advanced-trekking-pro-x": {
+      "name": "Advanced Trekking Pro X",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-7-m": {
+      "name": "Haibike Trekking 7 (M)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-2016-16-gb": {
+      "name": "Apple MacBook Pro 15\" 2016 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-3080-10-gb": {
+      "name": "NVIDIA RTX 3080 10GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-gtx-1070-windforce-oc-8-gb": {
+      "name": "Gigabyte GTX 1070 Windforce OC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-geforce-rtx-5070-ti-16-gb-gddr7-white-oc-edition": {
+      "name": "ASUS TUF Gaming GeForce RTX 5070 Ti 16GB GDDR7 White OC Edition",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-4-pro-cuh-7116b": {
+      "name": "Sony PlayStation 4 Pro CUH 7116B",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g29-rennsitz-fur-playstation-4-5": {
+      "name": "Logitech G29 Rennsitz für PlayStation 4/5",
+      "category": "Simracing",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-13-creator-edition-5-3k-action-kamera": {
+      "name": "GoPro Hero 13 Creator Edition 5.3K Action Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a470": {
+      "name": "Canon PowerShot A470",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7r-iv": {
+      "name": "Sony Alpha 7R IV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-rx-100-v": {
+      "name": "Sony RX 100 V",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eufy-security-set": {
+      "name": "Eufy Security Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cybershoot-digital-kamera": {
+      "name": "Sony CyberShoot Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lowepro-fastpack-bp-150-aw-ii": {
+      "name": "Lowepro Fastpack BP 150 AW II",
+      "category": "Kamerarucksäcke",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-tz101": {
+      "name": "Panasonic Lumix DMC TZ101",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-digital-ixus-950-is": {
+      "name": "Canon Digital IXUS 950 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "godox-tt686ii-c-kamera-blitz": {
+      "name": "Godox TT686II C Kamera-Blitz",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero7-black": {
+      "name": "GoPro HERO7 Black",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flycam-hd-3000-micro-balance-series-kamera-stabilisator": {
+      "name": "Flycam HD-3000 Micro Balance Series Kamera-Stabilisator",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-1000-hs-digitalkamera": {
+      "name": "Canon IXUS 1000 HS Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasussolero-e8-damenfahrrad": {
+      "name": "PegasusSolero E8 Damenfahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-mavaro-28zoll-e-bike": {
+      "name": "Cannondale Mavaro 28Zoll E-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bbf-calais-citybike": {
+      "name": "BBF Calais Citybike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mtb-serious-27-5-zoll": {
+      "name": "MTB Serious 27,5 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13-in-wei-128-gb": {
+      "name": "iPhone 13 in weiß 128 GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
