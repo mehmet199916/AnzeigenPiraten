@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T10:15:01.936Z",
+  "updatedAt": "2026-10-08T10:19:47.411Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro MAX 256GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 gb",
+      "name": "Apple iPhone 12 128Gb",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825 GB",
+      "name": "Sony PlayStation 5 Disc Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256 GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,12 +1235,12 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-825-gb": {
-      "name": "Sony PlayStation 5 Konsole 825 GB",
+      "name": "Sony PlayStation 5 Konsole 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1444,7 +1444,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-256-gb": {
-      "name": "Apple iPhone 14 256GB",
+      "name": "Apple iPhone 14 256 GB",
       "category": "Smartphones",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 gb",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4577,7 +4577,7 @@
     },
     "playstation-spiele": {
       "name": "PlayStation Spiele",
-      "category": "Spielekonsolen",
+      "category": "Spiele",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6551,7 +6551,7 @@
     },
     "gazelle-e-bike": {
       "name": "Gazelle E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7607,7 +7607,7 @@
     },
     "sony-playstation-5-1-tb": {
       "name": "Sony PlayStation 5 1 TB",
-      "category": "Spielekonsolen",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8026,7 +8026,7 @@
       "updatedAt": null
     },
     "apple-iphone-air-256-gb": {
-      "name": "Apple iPhone Air 256GB",
+      "name": "Apple iPhone Air 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -15010,8 +15010,8 @@
       "updatedAt": null
     },
     "qwic-e-bike": {
-      "name": "QWIC E-Bike",
-      "category": "E-Bikes",
+      "name": "Qwic E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -21142,7 +21142,7 @@
       "updatedAt": null
     },
     "ps5-slim": {
-      "name": "PS5 Slim",
+      "name": "PS5 slim",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -49608,6 +49608,240 @@
     "reolink-rlc-410": {
       "name": "Reolink RLC 410",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "seb-velo-de-ville-suv-trecking-rad-990-smart": {
+      "name": "SEB Velo de Ville SUV/Trecking-Rad 990 Smart",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-cysalo-13-e-bike": {
+      "name": "Victoria Cysalo 13 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-stream-evo-2": {
+      "name": "Bulls E-Stream EVO 2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "radon-render-al-8-0-2024": {
+      "name": "Radon Render AL 8.0 (2024)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-ct2-e-bike": {
+      "name": "Husqvarna CT2 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-trekking-28-p6-8sc": {
+      "name": "Corratec E-Power Trekking 28 P6 8SC",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2021-1-tb": {
+      "name": "Apple MacBook Pro 2021 1 TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-m1-pro-32-gb-ram-494-38-gb-ssd": {
+      "name": "MacBook Pro M1 Pro 32GB RAM 494,38GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-neo-500-gb": {
+      "name": "Apple MacBook Neo 500GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2018": {
+      "name": "Apple MacBook Pro 2018",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-vanguard-soc-edition-rtx-5070-ti-16-gb": {
+      "name": "MSI VANGUARD SOC EDITION RTX 5070 Ti 16 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-rx-vega-56-8-gb-hbm2-asus-strix": {
+      "name": "AMD RX Vega 56 8GB HBM2 – Asus Strix",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vtech-kidizoom-duo-dx": {
+      "name": "VTech KidiZoom Duo DX",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-tz8": {
+      "name": "Panasonic DMC-TZ8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujica-ax-5": {
+      "name": "FUJICA AX-5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-realishot-dc-8200": {
+      "name": "AGFA Realishot DC 8200",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "autodarts-kamera-set": {
+      "name": "Autodarts Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mamya-c330-professionel": {
+      "name": "MAMYA C330 Professionel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-9-kamera": {
+      "name": "Fujifilm Instax Mini 9 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-m75": {
+      "name": "Canon Ixus M75",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-regula-iiibk-porst-compact-reflex-s": {
+      "name": "Konica Regula IIIbk Porst Compact Reflex S",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "endoskopkamera-7-zoll-triple-linse": {
+      "name": "Endoskopkamera 7 Zoll Triple Linse",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-raymon-hardray-e-4-0-2025": {
+      "name": "R Raymon HardRay E 4.0 (2025)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-grenoble-2024": {
+      "name": "Gazelle Grenoble (2024)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-1-pro-2022": {
+      "name": "GIANT Explore E+ 1 Pro (2022)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-raymon-crossray-e-6-0-2023": {
+      "name": "R Raymon Crossray E 6.0 (2023)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-aventura2-6-8-2023": {
+      "name": "Focus Aventura2 6.8 (2023)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-revox-expert-eq-2024": {
+      "name": "Bergamont E-Revox Expert EQ (2024)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-c-2-0-2024": {
+      "name": "Conway Cairon C 2.0 (2024)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-1-s-sd-625wh-2023": {
+      "name": "GIANT Explore E+ 1 S SD 625WH (2023)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "corratec-e-power-x-vert-race-2025": {
+      "name": "Corratec E-Power X-Vert Race (2025)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lapierre-overvolt-ht-9-7-2025": {
+      "name": "Lapierre Overvolt HT 9.7 (2025)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cortina-e-mozzo-2020": {
+      "name": "Cortina E-Mozzo (2020)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-3-xl": {
+      "name": "Giant Explore E+ 3 XL",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-e-bikes": {
+      "name": "Kreidler E-Bikes",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-trekking-6-3-pedelec-fahrrad": {
+      "name": "Victoria e Trekking 6.3 Pedelec Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-256-gb-mist-blue": {
+      "name": "iPhone 17 256GB Mist Blue",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-max-deep-blue-100-akku-256-gb": {
+      "name": "iPhone 17 Pro Max Deep Blue 100% Akku 256 Gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-air-1-tb": {
+      "name": "Apple iPhone 17 Air 1TB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
