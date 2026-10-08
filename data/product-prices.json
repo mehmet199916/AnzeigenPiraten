@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T16:19:21.217Z",
+  "updatedAt": "2026-10-08T16:24:18.494Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128Gb",
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512 GB",
+      "name": "Apple iPhone 15 Pro Max 512gb",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1066,7 +1066,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-plus-128-gb": {
-      "name": "Apple iPhone 14 Plus 128GB",
+      "name": "Apple iPhone 14 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 365,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128gb",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1102,7 +1102,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-256-gb": {
-      "name": "Apple iPhone 13 Pro 256GB",
+      "name": "Apple iPhone 13 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 390,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1486,8 +1486,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-tesla-v100-32-gb": {
-      "name": "NVIDIA Tesla V100 32 GB",
-      "category": "Grafikkarten",
+      "name": "NVIDIA Tesla V100 32GB",
+      "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128Gb",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1834,7 +1834,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-xs-256-gb": {
-      "name": "Apple iPhone XS 256 GB",
+      "name": "Apple iPhone XS 256GB",
       "category": "Smartphones",
       "referencePrice": 190,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2285,7 +2285,7 @@
     },
     "sony-playstation-5-slim-1-tb": {
       "name": "Sony PlayStation 5 Slim 1TB",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Reparaturen",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4990,7 +4990,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-512-gb": {
-      "name": "Apple MacBook Pro 512Gb",
+      "name": "Apple MacBook Pro 512GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -6406,7 +6406,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-m1-2020-256-gb": {
-      "name": "Apple MacBook Air M1 (2020) 256GB",
+      "name": "Apple MacBook Air M1 (2020) 256 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -10594,8 +10594,8 @@
       "updatedAt": null
     },
     "prophete-e-bike": {
-      "name": "Prophete E-Bike",
-      "category": "E-Bikes",
+      "name": "prophete E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -25228,7 +25228,7 @@
       "updatedAt": null
     },
     "iphone-11-64-gb": {
-      "name": "iPhone 11 64 GB",
+      "name": "iPhone 11 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -33719,7 +33719,7 @@
     },
     "asus-prime-geforce-rtx-4070-super-oc": {
       "name": "ASUS Prime GeForce RTX 4070 SUPER OC",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -61134,6 +61134,168 @@
     "iphone-17-pro-max-kameraglas-reparatur": {
       "name": "iPhone 17 Pro Max Kameraglas Reparatur",
       "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riding-times-gt73-pro-e-bike": {
+      "name": "Riding’times GT73 Pro E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-e-bike-evo-1": {
+      "name": "Bulls E-Bike Evo 1",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vecocraft-helios-elektro-mountainbike": {
+      "name": "Vecocraft Helios Elektro Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "swype-freqz-2-0-e-mountainbike": {
+      "name": "Swype freqz 2.0 E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fatbike-e-bike-hidoes-hd-b10": {
+      "name": "Fatbike E-Bike Hidoes HD-B10",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-cube-28-zoll": {
+      "name": "Bosch E-Bike Cube 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "habike-e-bike-28-zoll": {
+      "name": "Habike E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-hybride-kato-3-9-e-mtb": {
+      "name": "Ghost Hybride Kato 3.9 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-kreidler-eco-8": {
+      "name": "E-Bike Kreidler Eco 8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kukirin-g3-e-scooter": {
+      "name": "KuKirin G3 E-Scooter",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pink": {
+      "name": "Apple iPhone 15 Pink",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-128-gb": {
+      "name": "Apple MacBook Pro 128GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-standfu-mit-kuhlung-und-controller-ladestation": {
+      "name": "Sony PlayStation 5 Standfuß mit Kühlung und Controller-Ladestation",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-polaroid-kodak-minolta-12-kleinbildkamera": {
+      "name": "Yashica Polaroid Kodak Minolta 12 Kleinbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta-x3-360-action-cam": {
+      "name": "Insta X3 360 Action Cam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "depstech-dss-650-endoskopkamera": {
+      "name": "Depstech DSS 650 Endoskopkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fx100": {
+      "name": "Panasonic Lumix DMC-FX100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asahi-pentax-mx-35mm-slr": {
+      "name": "Asahi Pentax MX 35mm SLR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pioneer-dashcam-vrec-z710sh-nd-rc1-heckkamera": {
+      "name": "Pioneer Dashcam VREC Z710SH + ND RC1 Heckkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-1-j4": {
+      "name": "Nikon 1 J4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mamiya-c-330": {
+      "name": "Mamiya C 330",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-5ds-r": {
+      "name": "Canon EOS 5DS R",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-ft30": {
+      "name": "Panasonic Lumix DMC-FT30",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-gm5": {
+      "name": "Panasonic Lumix DMC-GM5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vintage-kamera-super-8-technik-set": {
+      "name": "Vintage Kamera & Super-8 Technik Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-z15": {
+      "name": "Casio Exilim EX-Z15",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "time-lens-retrokamera": {
+      "name": "TIME LENS Retrokamera",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
