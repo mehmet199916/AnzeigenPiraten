@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T17:29:40.207Z",
+  "updatedAt": "2026-10-08T17:34:05.668Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128GB",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256gb",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128GB",
+      "name": "Apple iPhone 13 Pro Max 128gb",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512GB",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4990,7 +4990,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-512-gb": {
-      "name": "Apple MacBook Pro 512GB",
+      "name": "Apple MacBook Pro 512 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -19900,7 +19900,7 @@
       "updatedAt": null
     },
     "raymon-e-bike": {
-      "name": "Raymon E-Bike",
+      "name": "Raymon E Bike",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -29266,8 +29266,8 @@
       "updatedAt": null
     },
     "pny-geforce-rtx-5070-ti-16-gb": {
-      "name": "PNY GeForce RTX 5070 Ti 16GB",
-      "category": "Grafikkarten",
+      "name": "PNY GeForce RTX 5070 Ti 16 GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -32974,7 +32974,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-zoll-32-gb": {
-      "name": "Apple MacBook Pro 16 Zoll 32GB",
+      "name": "Apple MacBook Pro 16 Zoll 32gb",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -42203,7 +42203,7 @@
     },
     "multicycle-expressive": {
       "name": "Multicycle Expressive",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -63017,6 +63017,114 @@
     },
     "action-camera": {
       "name": "Action Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-e-nova-pt-pro": {
+      "name": "Koga E-Nova PT Pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nova-cityrad": {
+      "name": "NOVA Cityrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agattu-xxl-c8-g": {
+      "name": "Kalkhoff Agattu XXL C8-G",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-trekking-4-0": {
+      "name": "Haibike Sduro Trekking 4.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-triton-e-bike": {
+      "name": "STEVENS E-Triton E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-pro-265-gb": {
+      "name": "Apple iPhone 13 Pro 265 gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-zoll-modell-2019": {
+      "name": "Apple MacBook Pro 16 Zoll (Modell 2019)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-rtx-3060-ti-gaming-x-8-gb": {
+      "name": "MSI RTX 3060 Ti Gaming X 8 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-cover": {
+      "name": "Sony PlayStation 5 Cover",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-hs20-exr": {
+      "name": "Fujifilm FinePix HS20 EXR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exacta-vx1000": {
+      "name": "Exacta vx1000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "joyor-s5-abe": {
+      "name": "joyor s5 ABE",
+      "category": "E-Scooters",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x4-8k": {
+      "name": "Insta360 X4 8K",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "motec-bildschirm-md3072b": {
+      "name": "Motec Bildschirm MD3072B",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "digital-camera": {
+      "name": "Digital camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vitessa-t-voigtlander": {
+      "name": "Vitessa T Voigtländer",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fotokameras-diverse": {
+      "name": "Fotokameras diverse",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-wx220": {
+      "name": "Sony Cyber-shot DSC-WX220",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
