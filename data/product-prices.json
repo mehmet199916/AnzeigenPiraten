@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T16:45:13.507Z",
+  "updatedAt": "2026-10-08T16:50:00.472Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128GB",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -64,7 +64,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256 gb",
+      "name": "Apple iPhone 13 256gb",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512gb",
+      "name": "Apple iPhone 15 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 gb",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128gb",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,13 +328,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256GB",
+      "name": "Apple iPhone 14 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 PRO MAX 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2279,7 +2279,7 @@
     },
     "sony-playstation-5": {
       "name": "Sony PlayStation 5",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4577,7 +4577,7 @@
     },
     "playstation-spiele": {
       "name": "PlayStation Spiele",
-      "category": "Spielekonsolen",
+      "category": "Spiele",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5267,7 +5267,7 @@
     },
     "playstation-5-konsole": {
       "name": "PlayStation 5 Konsole",
-      "category": "Spielekonsolen",
+      "category": "Games",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8770,8 +8770,8 @@
       "updatedAt": null
     },
     "sony-playstation-4-500-gb": {
-      "name": "Sony PlayStation 4 500 GB",
-      "category": "Konsolen",
+      "name": "Sony PlayStation 4 500 gb",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10594,7 +10594,7 @@
       "updatedAt": null
     },
     "prophete-e-bike": {
-      "name": "prophete E-Bike",
+      "name": "Prophete E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -29309,7 +29309,7 @@
     },
     "apple-macbook-pro-13-intel-i5-2020-512-gb": {
       "name": "Apple MacBook Pro 13\" Intel i5 2020 512GB",
-      "category": "Computers",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -53777,7 +53777,7 @@
     },
     "kreidler-vitality-eco-e-bike": {
       "name": "Kreidler Vitality Eco E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -61823,6 +61823,132 @@
     },
     "foto-kamera-zubehor": {
       "name": "Foto Kamera Zubehör",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-aktiv-line-plus-50nm-300wh": {
+      "name": "Bosch Aktiv-Line Plus 50NM 300Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "falter-e-9-3-se-fl-500": {
+      "name": "Falter E 9.3 SE FL 500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trekkingrad-e-bike": {
+      "name": "Trekkingrad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-viator-etd-1806-e-bike": {
+      "name": "Fischer Viator ETD 1806 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "centurion-no-pogo-e-r2600i": {
+      "name": "Centurion No Pogo E R2600i",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-image-5b-move": {
+      "name": "Kalkhoff E-Bike Image 5b move +",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "qio-eins-ap-8-e-bike": {
+      "name": "QIO EINS AP-8 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-triumph-e-bike-damen-26": {
+      "name": "Pegasus Triumph E-Bike Damen 26\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cowboy-4-c4-e-bike-sand": {
+      "name": "Cowboy 4 C4 E-Bike Sand",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diamant-zouma-e-bike-deluxe": {
+      "name": "Diamant Zouma E-Bike Deluxe+",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-512-gb": {
+      "name": "Apple iPhone 13 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-mitternacht-256-gb": {
+      "name": "Apple iPhone 14 Mitternacht 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-m4-pro-24-gb": {
+      "name": "Apple MacBook Pro 16\" M4 Pro 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-intel-arc-b580-challenger-12-gb-oc": {
+      "name": "ASRock Intel Arc B580 Challenger 12GB OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-2080-8-gb": {
+      "name": "ASUS RTX 2080 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lollipop-babyphone-mit-kamera-und-monitor": {
+      "name": "Lollipop Babyphone mit Kamera und Monitor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-jv100": {
+      "name": "Fujifilm FinePix JV100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vivitar-analog-spiegelreflexkamera": {
+      "name": "Vivitar Analog Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ameta-s20-lite-beginner-drone": {
+      "name": "Ameta S20 Lite Beginner Drone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-af-10-super": {
+      "name": "Olympus AF-10 Super",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-gh3": {
+      "name": "Panasonic Lumix DMC-GH3",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
