@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T17:34:05.668Z",
+  "updatedAt": "2026-10-08T17:39:36.414Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128gb",
+      "name": "Apple iPhone 13 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256 GB",
+      "name": "Apple iPhone 14 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,13 +346,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-2020-8-gb": {
-      "name": "Apple MacBook Air 2020 8 GB",
+      "name": "Apple MacBook Air (2020) 8 GB",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1306,7 +1306,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-256-gb": {
-      "name": "iPhone 17 256 GB",
+      "name": "iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128 GB",
+      "name": "Apple iPhone 12 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256 GB",
+      "name": "Apple iPhone 15 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3430,7 +3430,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-128-gb": {
-      "name": "iPhone 15 Pro 128GB",
+      "name": "iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3922,7 +3922,7 @@
       "updatedAt": null
     },
     "dji-osmo-action-5-pro": {
-      "name": "DJI Osmo Action 5 Pro",
+      "name": "Dji Osmo Action 5 Pro",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -6149,7 +6149,7 @@
     },
     "sony-playstation-5-slim-disc": {
       "name": "Sony PlayStation 5 Slim Disc",
-      "category": "Smartphones",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17632,7 +17632,7 @@
       "updatedAt": null
     },
     "dji-osmo-action-4": {
-      "name": "Dji Osmo Action 4",
+      "name": "DJI Osmo Action 4",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -22919,7 +22919,7 @@
     },
     "maxx-crossmaxx-el": {
       "name": "MAXX Crossmaxx EL",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -43403,7 +43403,7 @@
     },
     "nvidia-rtx-5070-ti": {
       "name": "NVIDIA RTX 5070 Ti",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -54694,7 +54694,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-disc-825-gb": {
-      "name": "Sony PlayStation 5 Disc 825GB",
+      "name": "Sony PlayStation 5 Disc 825Gb",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -63125,6 +63125,108 @@
     },
     "sony-cyber-shot-dsc-wx220": {
       "name": "Sony Cyber-shot DSC-WX220",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "26-er-city-e-bike-genf-easy": {
+      "name": "26-er City E-Bike Genf easy",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-hollandrad-e-bike-250w-28-zoll": {
+      "name": "GAZELLE Hollandrad E-Bike 250W 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-imperial-e-5-e-bike": {
+      "name": "Hercules Imperial E-5 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1650-lp-4-gb": {
+      "name": "MSI GeForce GTX 1650 LP 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pc-mainboard-set-mit-cpu-kuhler-grafikkarte-und-ram": {
+      "name": "PC-Mainboard-Set mit CPU-Kühler, Grafikkarte und RAM",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "3dfx-voodoo-5-5500": {
+      "name": "3dfx Voodoo 5 5500",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-radeon-rx-5700-8-gb": {
+      "name": "MSI Radeon RX 5700 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "007-first-light-controller": {
+      "name": "007 First light Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-4k-fly-more-combo": {
+      "name": "DJI Mini 4K Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panono-360-kamera": {
+      "name": "Panono 360° Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-tz10": {
+      "name": "Panasonic LUMIX TZ10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-44-analog-tlr-kamera": {
+      "name": "Yashica 44 analog-TLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-h10-vintage-digitalkamera": {
+      "name": "Casio Exilim EX-H10 Vintage Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-pixpro-fz55-digital-kamera": {
+      "name": "Kodak PIXPRO FZ55 Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-hi8-video88-camcorder": {
+      "name": "Samsung Hi8 Video88 Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfachrome-super-8-gerauschschallplatte": {
+      "name": "Agfachrome Super 8 Geräuschschallplatte",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nissan-tow-mirrors": {
+      "name": "Nissan Tow Mirrors",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
