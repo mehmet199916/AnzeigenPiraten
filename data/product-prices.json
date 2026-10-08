@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T14:34:22.237Z",
+  "updatedAt": "2026-10-08T14:39:40.170Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128Gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -113,7 +113,7 @@
     },
     "e-bike-28-zoll": {
       "name": "E-Bike 28 Zoll",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -652,7 +652,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
-      "name": "Sony PlayStation 5 Konsole 1 tb",
+      "name": "Sony PlayStation 5 Konsole 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1276,7 +1276,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "gopro-hero-7-black": {
-      "name": "GoPro Hero 7 black",
+      "name": "GoPro Hero 7 Black",
       "category": "Kameras",
       "referencePrice": 130,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2129,7 +2129,7 @@
     },
     "sapphire-pulse-radeon-rx-5600-xt-be-oc-6-gb": {
       "name": "Sapphire Pulse Radeon RX 5600 XT BE OC 6GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 120,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 slim 1 TB",
+      "name": "Sony PlayStation 5 Slim 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2542,7 +2542,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "playstation-5-disc-edition": {
-      "name": "PlayStation 5 Disc-Edition",
+      "name": "PlayStation 5 Disc Edition",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4144,8 +4144,8 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-max-256-gb": {
-      "name": "Apple iPhone 11 Pro Max 256 GB",
-      "category": "Smartphones",
+      "name": "Apple iPhone 11 Pro Max 256GB",
+      "category": "smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -4360,7 +4360,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-zoll-16-gb": {
-      "name": "Apple MacBook Air 13 Zoll 16 GB",
+      "name": "Apple MacBook Air 13 Zoll 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -6881,7 +6881,7 @@
     },
     "sony-playstation-5-825-gb": {
       "name": "Sony PlayStation 5 825GB",
-      "category": "Spielekonsolen",
+      "category": "spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7810,7 +7810,7 @@
       "updatedAt": null
     },
     "insta360-x4": {
-      "name": "Insta360 x4",
+      "name": "Insta360 X4",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -8717,7 +8717,7 @@
     },
     "victoria-avyon-4-suv-e-bike": {
       "name": "Victoria Avyon 4 SUV E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14938,7 +14938,7 @@
       "updatedAt": null
     },
     "fotobox-all-inklusive-paket": {
-      "name": "Fotobox All-Inklusive-Paket",
+      "name": "Fotobox ALL-INKLUSIVE-Paket",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -19715,7 +19715,7 @@
     },
     "apple-iphone-17-pro-max-1-tb": {
       "name": "Apple iPhone 17 Pro Max 1TB",
-      "category": "Smartphones",
+      "category": "smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -46564,8 +46564,8 @@
       "updatedAt": null
     },
     "deruiz-peridot": {
-      "name": "Deruiz Peridot",
-      "category": "Fahrräder",
+      "name": "DERUIZ Peridot",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -47627,7 +47627,7 @@
     },
     "3t-exploro-ultra": {
       "name": "3T Exploro Ultra",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -56657,7 +56657,7 @@
     },
     "tenways-cgo600-e-bike": {
       "name": "Tenways CGO600 E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -57653,6 +57653,132 @@
     },
     "canon-r8": {
       "name": "Canon R8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "talent-e-bike-damenrad-silber": {
+      "name": "Talent E-Bike Damenrad silber",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aktivelo-alu-elektrofahrrad": {
+      "name": "Aktivelo Alu Elektrofahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-klapprad": {
+      "name": "Fischer E-Bike Klapprad",
+      "category": "e-bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-fahrrad-fur-damen": {
+      "name": "E Fahrrad für Damen",
+      "category": "e-bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-alltrail-4-e-bike": {
+      "name": "Haibike AllTrail 4 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-triton-7-7-1-forma-2026-ebike-e-city-e-tour": {
+      "name": "Stevens E-Triton 7.7.1 Forma 2026 EBIKE E-City E-Tour",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-cx-85nm": {
+      "name": "KTM E-Bike CX 85Nm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-bosch": {
+      "name": "E-Bike Bosch",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-a1502-early-2015": {
+      "name": "Apple MacBook Pro 13 Zoll A1502 Early 2015",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-m2-2022-16-gb": {
+      "name": "Apple MacBook Pro 13 Zoll M2 (2022) 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-3080-amp-holoblack-10-gb": {
+      "name": "Zotac Gaming GeForce RTX 3080 AMP Holoblack 10 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gainward-geforce-rtx-2070-super-phantom-8-gb": {
+      "name": "Gainward GeForce RTX 2070 SUPER Phantom 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-radeon-rx-580-nitro": {
+      "name": "Sapphire Radeon RX 580 Nitro+",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-gtx-1650-stormx-4-gb": {
+      "name": "Palit GeForce GTX 1650 StormX 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-a-1-spiegelreflexkamera": {
+      "name": "Canon A-1 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-pixpro-az401": {
+      "name": "Kodak Pixpro AZ401",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fx12": {
+      "name": "Panasonic Lumix DMC-FX12",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-hc-v180": {
+      "name": "Panasonic HC-V180",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "contax-tvs": {
+      "name": "Contax TVS",
+      "category": "kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "meopta-admira-8-f-analog-schmalfilmkamera": {
+      "name": "Meopta Admira 8 F Analog Schmalfilmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "welta-belfoca-ii": {
+      "name": "Welta Belfoca II",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
