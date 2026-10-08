@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T16:04:14.628Z",
+  "updatedAt": "2026-10-08T16:09:29.727Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -694,7 +694,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim": {
-      "name": "Sony PlayStation 5 Slim",
+      "name": "Sony PlayStation 5 slim",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1427,7 +1427,7 @@
     },
     "kalkhoff-e-bike": {
       "name": "Kalkhoff E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2279,7 +2279,7 @@
     },
     "sony-playstation-5": {
       "name": "Sony PlayStation 5",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4348,7 +4348,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-zoll-8-gb": {
-      "name": "Apple MacBook Pro 13 Zoll 8 GB",
+      "name": "Apple MacBook Pro 13 Zoll 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -19324,7 +19324,7 @@
       "updatedAt": null
     },
     "olympus-pen-e-pl9": {
-      "name": "Olympus Pen E-PL9",
+      "name": "Olympus PEN E-PL9",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -60498,6 +60498,258 @@
     "rohrreinigung-in-essen-umgebung": {
       "name": "Rohrreinigung in Essen & Umgebung",
       "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-keb800-e-bike-kompact": {
+      "name": "Velo De Ville KEB800 E-Bike Kompact",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-vado-xl-3-0-e-bike": {
+      "name": "Specialized Vado XL 3.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "triumph-damen-city-fahrrad": {
+      "name": "Triumph Damen City Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-nayta-26-zoll-comp-7s-ty200": {
+      "name": "Raymon Nayta 26\" Zoll Comp 7S TY200",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "univega-alpina-b-2-0": {
+      "name": "Univega Alpina B 2.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-viator-1861-eth": {
+      "name": "FISCHER VIATOR 1861 ETH",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-neuron-on-al-8": {
+      "name": "Canyon Neuron On Al 8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "puch-c-3-5-city-e-bike": {
+      "name": "Puch C 3.5 City E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-intuvia-e-bike-display": {
+      "name": "Bosch Intuvia E-Bike Display",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-28-zoll": {
+      "name": "Gazelle E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-e-bike-bosch-motor": {
+      "name": "Canyon E-Bike (Bosch Motor)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-herren-e-bike": {
+      "name": "Prophete Herren E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liv-amiti-e-1-treckingbike": {
+      "name": "Liv Amiti E +1 Treckingbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-evo10": {
+      "name": "Pegasus EVO10",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-sinus-e-bike": {
+      "name": "Winora Sinus E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-e-bike-26": {
+      "name": "Husqvarna E-Bike 26\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "saxonette-e-bike-comfort-plus": {
+      "name": "SAXONETTE E-Bike Comfort Plus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-m3-max-96-gb": {
+      "name": "Apple MacBook Pro 16\" M3 Max 96GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-256-gb": {
+      "name": "Apple MacBook Pro 13 Zoll 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-ende-2013-16-gb": {
+      "name": "Apple MacBook Pro 15\" (Ende 2013) 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pny-rtx-4070-ti-super-16-gb": {
+      "name": "PNY RTX 4070 Ti Super 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-2060": {
+      "name": "Gigabyte RTX 2060",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-radeon-rx-570-4-gb": {
+      "name": "ASUS Radeon RX 570 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-580": {
+      "name": "AMD Radeon RX 580",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-rtx-3060-12-gb-v2-oc-edition": {
+      "name": "ASUS GeForce RTX 3060 12GB V2 OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ea-sports-fc-27-digital": {
+      "name": "EA Sports FC 27 (Digital)",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6000-kamera-set-mit-samyang-24mm-f1-8-sony-55-210mm": {
+      "name": "Sony Alpha 6000 Kamera-Set mit Samyang 24mm F1.8, Sony 55-210mm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-3100": {
+      "name": "Nikon Coolpix 3100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sonv-alpha-6000-systemkamera": {
+      "name": "Sonv Alpha 6000 Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-gps-fernbedienung": {
+      "name": "Insta360 GPS Fernbedienung",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-retinette-1b-fotokamera": {
+      "name": "Kodak Retinette 1B Fotokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mamiya-sekor-500-dtl-analog-spiegelreflexkamera": {
+      "name": "Mamiya Sekor 500 DTL Analog Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6300-systemkamera": {
+      "name": "Sony Alpha 6300 Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-vito-c-35-mm-sucherkamera": {
+      "name": "Voigtländer Vito C 35-mm-Sucherkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-black-7": {
+      "name": "GoPro hero Black 7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kanalkamera-50m-rohrinspektionskamera": {
+      "name": "Kanalkamera 50m Rohrinspektionskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju-zoom": {
+      "name": "Olympus µ [mju:] ZOOM",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cybershot-dsc-w30": {
+      "name": "Sony Cybershot DSC-W30",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "benro-a1682t-kamerastativ": {
+      "name": "Benro A1682T Kamerastativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-max-360": {
+      "name": "GoPro max 360",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero-7-silver": {
+      "name": "GoPro Hero 7 Silver",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "film-camera": {
+      "name": "Film camera",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
