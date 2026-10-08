@@ -1,16 +1,16 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T15:19:31.345Z",
+  "updatedAt": "2026-10-08T15:24:23.169Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64 GB",
+      "name": "Apple iPhone 11 64GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256GB",
+      "name": "Apple iPhone 14 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1427,7 +1427,7 @@
     },
     "kalkhoff-e-bike": {
       "name": "Kalkhoff E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1tb",
+      "name": "Sony PlayStation 5 Slim 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2674,13 +2674,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128GB",
+      "name": "Apple iPhone 16 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-256-gb": {
-      "name": "Apple iPhone 11 Pro 256gb",
+      "name": "Apple iPhone 11 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256 GB",
+      "name": "iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5273,7 +5273,7 @@
     },
     "frontkamera-reparatur": {
       "name": "Frontkamera Reparatur",
-      "category": "Kameras",
+      "category": "Reparaturen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13858,7 +13858,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Slim Digital Edition 825GB",
+      "name": "Sony PlayStation 5 Slim Digital Edition 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -46402,7 +46402,7 @@
       "updatedAt": null
     },
     "apple-iphone-se-3-generation-128-gb": {
-      "name": "Apple iPhone SE 3. Generation 128 GB",
+      "name": "Apple iPhone SE 3. Generation 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -59112,6 +59112,162 @@
     "sanitarmontage-rohrreinigung-24-7-in-ganz-nrw-waz-bekannt": {
       "name": "Sanitärmontage-Rohrreinigung 24/7 in ganz NRW- WAZ Bekannt ✅",
       "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-tiefeinsteiger": {
+      "name": "E-Bike Tiefeinsteiger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-race-625-m-e-mtb-e-bike": {
+      "name": "CUBE Reaction Hybrid Race 625 M e-MTB E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "talent-e-bike": {
+      "name": "Talent E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sushi-maki-3-0": {
+      "name": "Sushi Maki 3.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "staiger-sinus-b2": {
+      "name": "Staiger Sinus B2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "herren-trecking-e-bike": {
+      "name": "Herren-Trecking-E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-akku-720-wh": {
+      "name": "BOSCH E-Bike Akku 720 Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-gotour6-e-bike": {
+      "name": "Flyer Gotour6 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-trekking-5-0-e-bike": {
+      "name": "Haibike SDURO Trekking 5.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-s-727-e-mtb": {
+      "name": "Conway Cairon S 727 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-e-bike-kato-fs-rahmen": {
+      "name": "Ghost E-bike KATO FS Rahmen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ryzen-5-5600x-gaming-pc-16-gb": {
+      "name": "Ryzen 5 5600X Gaming PC 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-radeon-rx-5700xt-mech-oc": {
+      "name": "MSI Radeon RX 5700XT MECH OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-rtx-3090-24-gb": {
+      "name": "ASUS TUF RTX 3090 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-s6900": {
+      "name": "Nikon Coolpix S6900",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "manfrotto-befree-advanced-kamerastativ": {
+      "name": "Manfrotto Befree Advanced Kamerastativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d750-kamera-body": {
+      "name": "Nikon D750 Kamera Body",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sputnik-stereo-6x6cm": {
+      "name": "Sputnik Stereo 6x6cm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-pen-e-pl8-systemkamera": {
+      "name": "Olympus PEN E-PL8 Systemkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "grundig-filmkamera": {
+      "name": "Grundig Filmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hilook-netzwerk-kamera-poe-2-8mm-8mp": {
+      "name": "HiLook Netzwerk Kamera PoE 2,8mm 8MP",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "glidecam-xr-pro": {
+      "name": "Glidecam XR-PRO",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-digitalkamera": {
+      "name": "Canon Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-250d-kamera": {
+      "name": "Canon 250D Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-tz71-kamera": {
+      "name": "Panasonic Lumix TZ71 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1000d-kamera-set": {
+      "name": "Canon EOS 1000D Kamera-Set",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
