@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T18:19:39.125Z",
+  "updatedAt": "2026-10-08T18:24:39.259Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128 gb",
+      "name": "Apple iPhone 13 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -400,7 +400,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-13-2020-8-gb": {
-      "name": "Apple MacBook Air 13 (2020) 8GB",
+      "name": "Apple MacBook Air 13\" 2020 8GB",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1816,7 +1816,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-128-gb": {
-      "name": "iPhone 15 128 GB",
+      "name": "iPhone 15 128 Gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4607,7 +4607,7 @@
     },
     "gopro-hero-8-black": {
       "name": "GoPro Hero 8 Black",
-      "category": "Kameras",
+      "category": "kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6911,7 +6911,7 @@
     },
     "olympus-om-d-e-m10-mark-ii": {
       "name": "Olympus OM-D E-M10 Mark II",
-      "category": "Kameras",
+      "category": "kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7319,7 +7319,7 @@
     },
     "sony-dualsense-edge-controller-fur-playstation-5": {
       "name": "Sony DualSense Edge Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro Max 256 GB",
+      "name": "iPhone 17 Pro Max 256Gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10103,7 +10103,7 @@
     },
     "panasonic-lumix-g70": {
       "name": "Panasonic Lumix G70",
-      "category": "Kameras",
+      "category": "kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -31198,7 +31198,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-2016-8-gb": {
-      "name": "Apple MacBook Pro 13\" 2016 8GB",
+      "name": "Apple MacBook Pro 13\" 2016 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -54185,7 +54185,7 @@
     },
     "ricoh-gr-iiix": {
       "name": "Ricoh GR IIIx",
-      "category": "Kameras",
+      "category": "kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -64284,6 +64284,126 @@
     "xbox-360-konsole": {
       "name": "Xbox 360 Konsole",
       "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-cita-4-0i": {
+      "name": "FISCHER CITA 4.0i",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-nuride-hybrid-pro-750-e-bike": {
+      "name": "Cube Nuride Hybrid pro 750 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-trekkingbike-fur-damen": {
+      "name": "Kalkhoff E-Trekkingbike für Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-fahrrad-27-5-zoll-onesport": {
+      "name": "E Fahrrad 27.5 Zoll ONESPORT",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-nos-2-2-e-bike": {
+      "name": "Hercules NOS 2.2 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-vado-3-0-e-bike": {
+      "name": "Specialized Vado 3.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-1-b-xxl-city-e-bike": {
+      "name": "Kalkhoff Image 1.B XXL City E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-exc-hpa-e-bike": {
+      "name": "Cube Kathmandu EXC HPA E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stella-city-damen-fahrrad": {
+      "name": "Stella City Damen Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-saxonette": {
+      "name": "E Bike Saxonette",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pixar-e-mountainbike": {
+      "name": "PIXAR E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rcb-e-bike": {
+      "name": "RCB E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-18-gb": {
+      "name": "Apple MacBook Pro 18 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-early-2015": {
+      "name": "Apple MacBook Air 13\" Early 2015",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-3070-twin-edge": {
+      "name": "Zotac Gaming GeForce RTX 3070 Twin Edge",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-dual-geforce-gtx-1060-6-gb-oc-edition": {
+      "name": "ASUS Dual GeForce GTX 1060 6GB OC Edition",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a2500-hd": {
+      "name": "Canon PowerShot A2500 HD",
+      "category": "kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-550d-kamera-set": {
+      "name": "Canon EOS 550D Kamera-Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sj8-pro-aktionkamera": {
+      "name": "SJ8 Pro Aktionkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-espio-200-kompaktkamera": {
+      "name": "Pentax Espio 200 Kompaktkamera",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
