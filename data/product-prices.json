@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T10:40:15.785Z",
+  "updatedAt": "2026-10-08T10:45:01.307Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64 GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128Gb",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128gb",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128Gb",
+      "name": "Apple iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 Gb",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6706,7 +6706,7 @@
       "updatedAt": null
     },
     "apple-iphone-18-pro-256-gb": {
-      "name": "Apple iPhone 18 Pro 256GB",
+      "name": "Apple iPhone 18 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -14435,7 +14435,7 @@
     },
     "kalkhoff-image-3-s-lease-e-bike": {
       "name": "Kalkhoff Image 3.S Lease E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -16168,7 +16168,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-2020-16-gb": {
-      "name": "Apple MacBook Air 13 2020 16 GB",
+      "name": "Apple MacBook Air 13 (2020) 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -21604,7 +21604,7 @@
       "updatedAt": null
     },
     "sony-dualsense-wireless-controller-fur-playstation-5": {
-      "name": "Sony DualSense Wireless-Controller für PlayStation 5",
+      "name": "Sony DualSense Wireless Controller für PlayStation 5",
       "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
@@ -50514,6 +50514,126 @@
     "apple-iphone-13-14-15-pro-max": {
       "name": "Apple iPhone 13/14/15 Pro Max",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-e-nova-evo-pt-bosch-riem": {
+      "name": "Koga E Nova EVO Pt Bosch Riem",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-roadstar-mixte-touring-rh-45": {
+      "name": "Riese & Müller Roadstar Mixte Touring RH:45",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-1-b-e-bike": {
+      "name": "Kalkhoff Image 1.B E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-28-er-e-bike": {
+      "name": "Kalkhoff Endeavour 28 er E Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-120-pro-e-mtb": {
+      "name": "Cube Stereo Hybrid 120 Pro E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-tesoro-neo-sl-eq": {
+      "name": "Cannondale Tesoro Neo SL EQ",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-e-bike": {
+      "name": "Cube Kathmandu E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "puch-c3-3-fl-nexus-7g-damen-ananda-m80": {
+      "name": "Puch C3.3 FL Nexus 7G Damen Ananda M80",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2020-8-gb": {
+      "name": "Apple MacBook Pro 2020 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "inno3d-geforce-rtx-5090-x3-oc-32-gb": {
+      "name": "INNO3D GeForce RTX 5090 X3 OC 32GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "geforce-rtx-3050-8-gb": {
+      "name": "Geforce RTX 3050 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vieweye-unterwasser-angel-und-inspektionskamera": {
+      "name": "ViewEye Unterwasser-Angel- und Inspektionskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "coolife-wildkamera-h881": {
+      "name": "Coolife Wildkamera H881",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1000f": {
+      "name": "Canon EOS 1000F",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-om-d-e-m10-mark-iv": {
+      "name": "Olympus OM-D E M10 Mark IV",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a2500": {
+      "name": "Canon PowerShot A2500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero7": {
+      "name": "GoPro Hero7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-prima-super-115": {
+      "name": "Canon PRIMA SUPER 115",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bauer-s-207-xl": {
+      "name": "Bauer S 207 XL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ftb-ql": {
+      "name": "Canon FTb QL",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
