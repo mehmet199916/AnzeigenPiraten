@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T18:09:51.605Z",
+  "updatedAt": "2026-10-08T18:14:55.849Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,13 +1048,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256gb",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 gb",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,7 +1798,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256 GB",
+      "name": "Apple iPhone 13 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256gb",
+      "name": "Apple iPhone 15 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Reparaturen",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -27730,7 +27730,7 @@
       "updatedAt": null
     },
     "sony-playstation-4-1-tb": {
-      "name": "Sony PlayStation 4 1tb",
+      "name": "Sony PlayStation 4 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -31138,7 +31138,7 @@
       "updatedAt": null
     },
     "raymon-tourray-e-5-0": {
-      "name": "Raymon TourRay E 5.0",
+      "name": "Raymon Tourray E 5.0",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -31252,7 +31252,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-disk-edition-1-tb": {
-      "name": "Sony PlayStation 5 Slim Disk Edition 1 TB",
+      "name": "Sony PlayStation 5 Slim Disk Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -63948,6 +63948,216 @@
     "steuergerat-kamera": {
       "name": "Steuergerät Kamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e": {
+      "name": "Cube E",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-em-race-500-e-bike": {
+      "name": "Conway EM-Race 500 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "crussis-e-country-7-7-s-19": {
+      "name": "Crussis e-Country 7.7-S 19\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-e-teru-essential": {
+      "name": "Ghost E-Teru Essential",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-trailray-120-emtb": {
+      "name": "Raymon Trailray 120 EMTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-y280x": {
+      "name": "Winora Y280X",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "morrison-e-7-0": {
+      "name": "MORRISON E-7.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-raymon-fullray-130e-4-0": {
+      "name": "R Raymon FullRay 130E 4.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-anytour-e-3-2024": {
+      "name": "GIANT AnyTour E+3 (2024)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-vibe-mid-h10-urban-2023": {
+      "name": "Orbea VIBE MID H10 URBAN (2023)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kieler-manufaktur-bosch-deore-performance-cx-10-2023": {
+      "name": "Kieler Manufaktur Bosch Deore Performance CX 10 (2023)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-courier-luxe-2024": {
+      "name": "Stevens E-Courier Luxe (2024)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-raymon-crossray-fs-e-5-0c-2023": {
+      "name": "R Raymon Crossray FS E 5.0C (2023)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-slx-750": {
+      "name": "CUBE Reaction Hybrid SLX 750",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-e8-e-bike": {
+      "name": "Pegasus Solero E8 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-solero-e-8-sport-performance": {
+      "name": "Pegasus Solero E 8 Sport Performance",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-integrale-i10": {
+      "name": "Kalkhoff E Bike Integrale i10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "48v-40ah-li-ion-akku": {
+      "name": "48V 40Ah Li-Ion Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1660-ti": {
+      "name": "MSI GeForce GTX 1660 Ti",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-ryzen-7-5800x3d": {
+      "name": "AMD Ryzen 7 5800X3D",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-digital-ixus-850-is": {
+      "name": "Canon Digital IXUS 850 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "instant-kamera": {
+      "name": "Instant Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-nx1000": {
+      "name": "Samsung Nx1000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xiaomi-12-pro-12-gb": {
+      "name": "Xiaomi 12 Pro 12 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-kamera-set": {
+      "name": "Praktica Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-rx1r-ii": {
+      "name": "Sony RX1R II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-f10-f11-spiegel-kamera": {
+      "name": "BMW F10 F11 Spiegel Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-mv830-digital-camcorder": {
+      "name": "Canon MV830 Digital Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6400-ilce-6400": {
+      "name": "Sony Alpha 6400 (ILCE-6400)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nintendo-switch-oled": {
+      "name": "Nintendo Switch OLED",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ricoh-kr-10x": {
+      "name": "Ricoh KR-10x",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1100": {
+      "name": "Canon EOS 1100",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-af-macro-100mm-f2-8-objektiv": {
+      "name": "Minolta AF Macro 100mm f2.8 Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-gis-1000-c": {
+      "name": "BOSCH GIS 1000 C",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-akku": {
+      "name": "Apple iPhone Akku",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
