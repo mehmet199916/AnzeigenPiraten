@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T18:24:39.259Z",
+  "updatedAt": "2026-10-08T18:29:14.656Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -112,7 +112,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike-28-zoll": {
-      "name": "E Bike 28 Zoll",
+      "name": "E-Bike 28 Zoll",
       "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825 GB",
+      "name": "Sony PlayStation 5 Disc Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Dienstleistungen",
+      "category": "Reparaturen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2794,7 +2794,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-16-128-gb": {
-      "name": "iPhone 16 128 Gb",
+      "name": "iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -17626,7 +17626,7 @@
       "updatedAt": null
     },
     "sony-playstation-4-slim-500-gb": {
-      "name": "Sony PlayStation 4 Slim 500GB",
+      "name": "Sony PlayStation 4 Slim 500 Gb",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -43438,7 +43438,7 @@
       "updatedAt": null
     },
     "nikon-coolpix-b500": {
-      "name": "Nikon COOLPIX B500",
+      "name": "Nikon Coolpix B500",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -59686,7 +59686,7 @@
       "updatedAt": null
     },
     "dji-air-3s-fly-more-kombo": {
-      "name": "DJI Air 3s Fly More Kombo",
+      "name": "DJI Air 3S Fly More Kombo",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -64403,6 +64403,90 @@
     },
     "pentax-espio-200-kompaktkamera": {
       "name": "Pentax Espio 200 Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "himiway-d5-zebra-e-bike": {
+      "name": "Himiway D5 Zebra E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-race-120-e-bike": {
+      "name": "CUBE Stereo Hybrid Race 120 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cycletech-souplesse-damen-e-bike": {
+      "name": "Cycletech Souplesse Damen E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-e-bike-akku-36v-15ah-540wh": {
+      "name": "Panasonic E-bike Akku 36v 15Ah 540Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-paris": {
+      "name": "Gazelle E Bike Paris",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-race-cross": {
+      "name": "CUBE RACE CROSS",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitway-bk15-e-bike": {
+      "name": "HITWAY BK15 E-bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-trailster-elite-bosch-cx-750wh": {
+      "name": "Bergamont E-Trailster Elite Bosch CX 750Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-traveller-e-comfort-e-bike": {
+      "name": "Kettler Traveller E-Comfort E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-2080-super-gaming-x-trio-8-gb": {
+      "name": "MSI GeForce RTX 2080 Super Gaming X Trio 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-5060-ti-amp-16-gb": {
+      "name": "Zotac Gaming GeForce RTX 5060 Ti AMP 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-drone-control-panel": {
+      "name": "Dji drone control panel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-analogkamera-sfx-n": {
+      "name": "Pentax Analogkamera SFX/N",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jvc-everio-gz-e105be-camcorder": {
+      "name": "JVC Everio GZ-E105BE Camcorder",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
