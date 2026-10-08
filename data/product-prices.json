@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T15:14:27.124Z",
+  "updatedAt": "2026-10-08T15:19:31.345Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128GB",
+      "name": "Apple iPhone 13 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 (128gb)",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,12 +647,12 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
-      "name": "Sony PlayStation 5 Konsole 1 TB",
+      "name": "Sony PlayStation 5 Konsole 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -677,7 +677,7 @@
     },
     "sony-playstation-5-dualsense-controller": {
       "name": "Sony PlayStation 5 DualSense Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1186,8 +1186,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-quadro-p4000-8-gb-gddr5": {
-      "name": "Nvidia Quadro P4000 8GB GDDR5",
-      "category": "Grafikkarten",
+      "name": "NVIDIA QUADRO P4000 8GB GDDR5",
+      "category": "Computer",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16e 128 GB",
+      "name": "Apple iPhone 16e 128GB",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 mini 64GB",
+      "name": "Apple iPhone 12 Mini 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256GB",
+      "name": "Apple iPhone 15 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10048,7 +10048,7 @@
       "updatedAt": null
     },
     "fujifilm-instax-mini-liplay": {
-      "name": "Fujifilm Instax Mini LiPlay",
+      "name": "Fujifilm Instax Mini Liplay",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -11231,7 +11231,7 @@
     },
     "telefunken-e-bike": {
       "name": "Telefunken E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -15772,7 +15772,7 @@
       "updatedAt": null
     },
     "gopro-hero-9-black": {
-      "name": "GoPro HERO 9 Black",
+      "name": "GoPro Hero 9 black",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -18694,7 +18694,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-15-16-gb": {
-      "name": "Apple MacBook Pro 15 16 GB",
+      "name": "Apple MacBook Pro 15\" 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -41272,8 +41272,8 @@
       "updatedAt": null
     },
     "klapp-e-bike": {
-      "name": "Klapp E-Bike",
-      "category": "Fahrräder",
+      "name": "Klapp-E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -43691,7 +43691,7 @@
     },
     "sram-force-axs-e1-xplr-1x13-gruppe": {
       "name": "Sram Force AXS E1 XPLR 1x13 Gruppe",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -58932,6 +58932,186 @@
     "kiev88-mc-volna-3b-80mm-f2-8-objektiv": {
       "name": "Kiev88 MC Volna 3B 80mm f2.8 Objektiv",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-style-xl-wave-rh-51-akku-625-wh": {
+      "name": "KTM Macina Style XL Wave, Rh 51, Akku 625 Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "carver-e-bike-400wh": {
+      "name": "Carver e Bike 400wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-strong-e8": {
+      "name": "Pegasus Strong E8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "io-blade-one-e-bike": {
+      "name": "IO Blade-One e-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "i-sy-drive-s8-e-bike": {
+      "name": "i:SY DrivE S8 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hartje-i-sy": {
+      "name": "E-Bike Hartje-I:SY",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mit-tiefeinstieg-grau": {
+      "name": "E-Bike mit Tiefeinstieg, grau",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fatbike-ouxi-h9": {
+      "name": "E-Bike Fatbike OUXI [H9]",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-e-mountainbike-m919": {
+      "name": "Telefunken E-Mountainbike M919",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sinus-tria-n7-e-bike": {
+      "name": "Sinus Tria N7 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-max-256-gb-natur-titan": {
+      "name": "Apple iPhone 15 Pro Max 256 GB Natur Titan",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-128-gb-schwarz": {
+      "name": "Apple iPhone 16 Pro 128GB Schwarz",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-neo-13-apple-a18-pro-5-core-gpu-256-gb-ssd": {
+      "name": "Apple MacBook Neo 13\" (Apple A18 Pro, 5-Core GPU, 256GB SSD)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-zoll-m1-pro-1-tb": {
+      "name": "Apple MacBook Pro 14 Zoll M1 Pro 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-rtx-3070-8-gb": {
+      "name": "MSI RTX 3070 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "intel-arc-a770-limited-edition-16-gb": {
+      "name": "Intel Arc A770 Limited Edition 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kingdom-hearts-hd-1-5-remix-ps3-vga-85-sealed": {
+      "name": "Kingdom Hearts HD 1.5 Remix PS3 VGA 85 Sealed",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-spiele-paket": {
+      "name": "Playstation 5 Spiele Paket",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-disc-edition-cfi-1016a-mit-5-spielen": {
+      "name": "PlayStation 5 Disc Edition (CFI-1016A) mit 5 Spielen",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-lumix-dmc-tz101": {
+      "name": "Olympus LUMIX DMC-TZ101",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-digimax-l60": {
+      "name": "Samsung Digimax L60",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-95-is": {
+      "name": "Canon IXUS 95 IS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-sel2870-fe-28-70mm-oss": {
+      "name": "Sony SEL2870 FE 28-70mm Oss",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-tz5": {
+      "name": "Panasonic DMC-TZ5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d40-spiegelreflexkamera": {
+      "name": "Nikon D40 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-radarsensor-distronic-abstandkamera": {
+      "name": "Bosch Radarsensor Distronic Abstandkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-11-sofortbildkamera": {
+      "name": "Fujifilm Instax Mini 11 Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-2-gen-128-gb": {
+      "name": "Apple iPhone SE 2. Gen 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-x10": {
+      "name": "Fujifilm FinePix X10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sanitarmontage-rohrreinigung-24-7-in-ganz-nrw-waz-bekannt": {
+      "name": "Sanitärmontage-Rohrreinigung 24/7 in ganz NRW- WAZ Bekannt ✅",
+      "category": "Dienstleistungen",
       "referencePrice": null,
       "updatedAt": null
     }
