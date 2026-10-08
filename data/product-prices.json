@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T17:59:37.284Z",
+  "updatedAt": "2026-10-08T18:04:37.096Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2794,7 +2794,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-16-128-gb": {
-      "name": "iPhone 16 128gb",
+      "name": "iPhone 16 128 Gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -16276,8 +16276,8 @@
       "updatedAt": null
     },
     "yamaha-e-bike": {
-      "name": "Yamaha e-bike",
-      "category": "E-Bikes",
+      "name": "Yamaha E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -20914,7 +20914,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-gtx-1060-6-gb": {
-      "name": "NVIDIA GeForce GTX 1060 6GB",
+      "name": "Nvidia GeForce GTX 1060 6 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -22102,7 +22102,7 @@
       "updatedAt": null
     },
     "canon-eos-1000d": {
-      "name": "Canon EOS 1000D",
+      "name": "Canon EOS 1000d",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -63719,6 +63719,114 @@
     },
     "wurth-video-scope-pro-inspektionskamera": {
       "name": "Würth Video-Scope Pro Inspektionskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-etrekking-11-5": {
+      "name": "Victoria eTrekking 11.5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-entdecker-3-0-e-bike": {
+      "name": "Prophete Entdecker 3.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "chrisson-e-bike": {
+      "name": "Chrisson E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "puch-qio-cube-velo-de-ville": {
+      "name": "Puch QIO Cube Velo de Ville",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-akku": {
+      "name": "Prophete Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kubikes-kinderrad": {
+      "name": "Kubikes Kinderrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leaderfox-ebike-lotus-22": {
+      "name": "Leaderfox Ebike \"Lotus 22\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-lt-evo-cx-e-mountainbike": {
+      "name": "Bulls Lt Evo Cx E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-e-bike-herrenfahrrad": {
+      "name": "Pegasus E-Bike Herrenfahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ado-a20f-beast-20-zoll-e-bike": {
+      "name": "ADO A20F Beast 20 Zoll E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-max-256-gb-deep-blue": {
+      "name": "Apple iPhone 17 Pro Max 256 GB Deep Blue",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-m1-pro-16-zoll-32-gb": {
+      "name": "MacBook Pro M1 Pro 16 Zoll 32 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-13-zoll-2020-8-gb": {
+      "name": "MacBook Pro 13 Zoll 2020 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-super-jetstream-2080": {
+      "name": "Palit Super Jetstream 2080",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-outdoor-4-mini-2k-kamera-set": {
+      "name": "Blink Outdoor 4 + Mini 2K+ Kamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ferrari-458-italia-ruckfahrkamera": {
+      "name": "Ferrari 458 Italia Rückfahrkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lamborghini-gallardo-ruckfahrkamera": {
+      "name": "Lamborghini Gallardo Rückfahrkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-mv-790-digital-video-camcorder": {
+      "name": "Canon MV 790 digital Video Camcorder",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
