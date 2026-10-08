@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T12:04:29.749Z",
+  "updatedAt": "2026-10-08T12:09:39.206Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128 gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,13 +328,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256GB",
+      "name": "Apple iPhone 14 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1258,7 +1258,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "canon-powershot-sx740-hs": {
-      "name": "Canon PowerShot SX740 HS",
+      "name": "Canon Powershot SX740 HS",
       "category": "Kameras",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1396,8 +1396,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "fatbike-e-bike": {
-      "name": "Fatbike E-Bike",
-      "category": "Fahrräder",
+      "name": "Fatbike/ E-Bike",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128 GB",
+      "name": "Apple iPhone 11 128GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3196,7 +3196,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-256-gb": {
-      "name": "Apple iPhone 12 Pro Max 256 GB",
+      "name": "Apple iPhone 12 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5104,7 +5104,7 @@
       "updatedAt": null
     },
     "iphone-13-mini-128-gb": {
-      "name": "iPhone 13 mini 128 GB",
+      "name": "iPhone 13 mini 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5134,7 +5134,7 @@
       "updatedAt": null
     },
     "dji-osmo-nano-128-gb": {
-      "name": "DJI Osmo Nano 128 GB",
+      "name": "DJI Osmo Nano 128GB",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256GB",
+      "name": "Apple iPhone 15 256Gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -9533,7 +9533,7 @@
     },
     "damen-e-bike": {
       "name": "Damen E Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9719,7 +9719,7 @@
     },
     "bosch-e-bike": {
       "name": "Bosch E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13474,7 +13474,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-digital-edition-1-tb": {
-      "name": "Sony PlayStation 5 Slim Digital Edition 1TB",
+      "name": "Sony PlayStation 5 Slim Digital Edition 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -14194,8 +14194,8 @@
       "updatedAt": null
     },
     "fahrrad-28zoll-7gang-e-bike": {
-      "name": "Fahrrad 28Zoll 7Gang E-BIKE",
-      "category": "E-Bikes",
+      "name": "Fahrrad 28Zoll 7Gang E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18562,7 +18562,7 @@
       "updatedAt": null
     },
     "apple-iphone-17-pro-max-265-gb": {
-      "name": "Apple iPhone 17 Pro Max 265GB",
+      "name": "Apple iPhone 17 Pro Max 265 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -26650,7 +26650,7 @@
       "updatedAt": null
     },
     "nikon-coolpix-l31": {
-      "name": "Nikon Coolpix L31",
+      "name": "Nikon COOLPIX L31",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -40690,7 +40690,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-14-m3-pro-18-gb": {
-      "name": "Apple MacBook Pro 14 M3 Pro 18GB",
+      "name": "Apple MacBook Pro 14\" M3 Pro 18GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -51784,7 +51784,7 @@
       "updatedAt": null
     },
     "tenways-cgo600-pro-ebike": {
-      "name": "Tenways CGO600 Pro eBike",
+      "name": "Tenways CGO600 PRO eBike",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -53244,6 +53244,138 @@
     "samsung-galaxy-s10": {
       "name": "Samsung Galaxy S10",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-turbo-levo-fsr-e-mountainbike": {
+      "name": "Specialized Turbo Levo FSR E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-gravelbike-nyvo-10-0": {
+      "name": "Conway Gravelbike Nyvo 10.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-aventura2-6-7-e-bike": {
+      "name": "Focus Aventura² 6.7 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-bold-26-zoll": {
+      "name": "KTM Macina Bold 26 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-raymon-crossray-e5-0-27-5-gr-m": {
+      "name": "E-BIKE RAYMON CrossRay E5.0 27,5'' Gr. M",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-flyer-gotour-5-12-cx": {
+      "name": "E-Bike FLYER GOTOUR 5.12 CX",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-20-zoll-i-sy-2026-km-gefahren": {
+      "name": "E Bike 20 Zoll I:SY..2026 km Gefahren",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-xyron-s-2-7-e-bike": {
+      "name": "Conway Xyron S 2.7 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-greveler-e9000": {
+      "name": "Prophete Greveler e9000",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-plus-256-gb": {
+      "name": "iPhone 16 Plus 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m4-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro 14\" M4 16GB RAM 512GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-2018-8-gb": {
+      "name": "Apple MacBook Pro 13\" 2018 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1070ti-mini-8-gb": {
+      "name": "NVIDIA GeForce GTX 1070ti Mini 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-mtl-3": {
+      "name": "Praktica MTL 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-s2600": {
+      "name": "Nikon Coolpix S2600",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta-360-luna-ultra": {
+      "name": "Insta 360 Luna Ultra",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktika-bx20-set-incl-objektiv-70-210mm": {
+      "name": "Praktika BX20 Set incl Objektiv 70-210mm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "original-vw-tiguan-5n-5na827566d-ruckfahrkamera": {
+      "name": "Original VW Tiguan 5N 5NA827566D Rückfahrkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f-photomic-gehause": {
+      "name": "Nikon F Photomic Gehäuse",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-top-shot-quartz-date-38mm": {
+      "name": "Canon Top Shot Quartz Date 38mm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-xg-m": {
+      "name": "Minolta XG-M",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "schraubstock-mit-stander-70x90-mm": {
+      "name": "Schraubstock mit Ständer 70x90 mm",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
