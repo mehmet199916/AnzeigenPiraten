@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T17:19:50.321Z",
+  "updatedAt": "2026-10-08T17:24:22.689Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128 Gb",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1 TB",
+      "name": "Sony PlayStation 5 Slim 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Games",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2794,7 +2794,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-16-128-gb": {
-      "name": "iPhone 16 128GB",
+      "name": "iPhone 16 128gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128GB",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7018,8 +7018,8 @@
       "updatedAt": null
     },
     "haibike-e-bike": {
-      "name": "Haibike e-Bike",
-      "category": "E-Bikes",
+      "name": "Haibike E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -15359,7 +15359,7 @@
     },
     "cube-reaction-hybrid-pro": {
       "name": "Cube Reaction Hybrid Pro",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -36796,7 +36796,7 @@
       "updatedAt": null
     },
     "diamant-zouma-deluxe-e-bike": {
-      "name": "Diamant Zouma Deluxe+ E-Bike",
+      "name": "Diamant Zouma Deluxe E-Bike",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -37660,7 +37660,7 @@
       "updatedAt": null
     },
     "playstation-5-1-tb": {
-      "name": "PlayStation 5 1TB",
+      "name": "PlayStation 5 1tb",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -39070,7 +39070,7 @@
       "updatedAt": null
     },
     "e-bike-prophete": {
-      "name": "E-bike prophete",
+      "name": "E Bike Prophete",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -62813,6 +62813,90 @@
     },
     "insta360-x4-air-8k-360-kamera": {
       "name": "insta360 X4 Air 8k 360 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "engwe-l20-3-0-pro": {
+      "name": "ENGWE L20 3.0 Pro",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mountainbike-26-zoll": {
+      "name": "E-Bike Mountainbike 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-400": {
+      "name": "Bosch PowerPack 400",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gy1-klapprad": {
+      "name": "GY1 Klapprad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flir-one-pro-warmebildkamera": {
+      "name": "FLIR ONE PRO Wärmebildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-plus-512-gb": {
+      "name": "Apple iPhone 14 Plus 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-air": {
+      "name": "iPhone 17 Air",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-2080-ti-founders-edition-11-gb": {
+      "name": "NVIDIA GeForce RTX 2080 Ti Founders Edition 11 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rtx-5060-ti": {
+      "name": "ASUS RTX 5060 Ti",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reolink-trackmix-uberwachungskamera": {
+      "name": "Reolink Trackmix Überwachungskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx610-hs": {
+      "name": "Canon PowerShot SX610 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "drohne": {
+      "name": "Drohne",
+      "category": "Flugzeuge",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fotoapparate": {
+      "name": "Fotoapparate",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cokin-filter-p121l-grau-g2-cromofilter-sa-p153": {
+      "name": "Cokin Filter P121L Grau G2 Cromofilter SA P153",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
