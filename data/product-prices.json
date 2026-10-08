@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T14:14:48.210Z",
+  "updatedAt": "2026-10-08T14:19:47.363Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825 GB",
+      "name": "Sony PlayStation 5 Disc Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1084,7 +1084,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-512-gb": {
-      "name": "Apple iPhone 17 512GB",
+      "name": "Apple iPhone 17 512 gb",
       "category": "Smartphones",
       "referencePrice": 800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1444,7 +1444,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-256-gb": {
-      "name": "Apple iPhone 14 256GB",
+      "name": "Apple iPhone 14 256gb",
       "category": "Smartphones",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1804,13 +1804,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17e-256-gb": {
-      "name": "Apple iPhone 17e 256GB",
+      "name": "Apple iPhone 17e 256 GB",
       "category": "Smartphones",
       "referencePrice": 610,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128gb",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1828,7 +1828,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128GB",
+      "name": "Apple iPhone 12 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128GB",
+      "name": "Apple iPhone 11 128 GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3340,7 +3340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-mini-128-gb": {
-      "name": "Apple iPhone 12 mini 128 GB",
+      "name": "Apple iPhone 12 mini 128GB",
       "category": "Smartphones",
       "referencePrice": 175,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4697,7 +4697,7 @@
     },
     "pegasus-solero-e8": {
       "name": "Pegasus Solero E8",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -40774,7 +40774,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-gtx-1050-ti-grafikkarte": {
-      "name": "NVIDIA GeForce GTX 1050 Ti Grafikkarte",
+      "name": "NVIDIA GeForce GTX 1050 TI Grafikkarte",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -57173,6 +57173,162 @@
     },
     "hitachi-video-kamera": {
       "name": "HITACHI Video Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-venice-plus-48-v-e-bike": {
+      "name": "NCM Venice Plus 48 V E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-integrale-excite-e-bike": {
+      "name": "Kalkhoff Integrale Excite E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-lpm": {
+      "name": "E-Bike LPM",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergsteiger-e-bike-damen-28": {
+      "name": "Bergsteiger E-Bike Damen 28\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "morrison-e-7-0-625-wave": {
+      "name": "Morrison E 7.0 625 Wave",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-trekkingrad": {
+      "name": "Haibike E-Trekkingrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-traveller": {
+      "name": "Kettler Traveller",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-pro-gold-256-gb": {
+      "name": "Apple iPhone 13 Pro Gold 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-retina-2018-32-gb": {
+      "name": "Apple MacBook Pro 15″ Retina 2018 32GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m3-256-gb": {
+      "name": "MacBook Air (M3) 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-2070-msi-armor-8-gb-gddr6-grafikkarte": {
+      "name": "NVIDIA RTX 2070 MSI Armor 8GB GDDR6 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-nitro-radeon-rx-5700-xt-8-gb-gddr6-grafikkarte": {
+      "name": "Sapphire Nitro+ Radeon RX 5700 XT 8GB GDDR6 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1050-ti-4-gb": {
+      "name": "NVIDIA GTX 1050 Ti 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-5070-ti-amp-extreme-infinity-16-gb": {
+      "name": "Zotac Gaming GeForce RTX 5070 Ti AMP Extreme Infinity 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-gtx-1050-ti-cerberus-edition": {
+      "name": "NVIDIA GTX 1050 Ti Cerberus Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-radeon-rx-580-armor-8g-oc": {
+      "name": "MSI Radeon RX 580 Armor 8G OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ati-9200-grafikkarte": {
+      "name": "ATI 9200 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elden-ring-collectors-edition-fur-playstation-5": {
+      "name": "Elden Ring Collectors Edition für PlayStation 5",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-t20-silber-schwarz-mit-ttartisan-af-35mm": {
+      "name": "Fujifilm X-T20 silber/schwarz mit TTArtisan AF 35mm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "endoskopkamera-3mm": {
+      "name": "Endoskopkamera 3mm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z-fc-mit-16-50mm-objektiv": {
+      "name": "Nikon Z fc mit 16-50mm Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-400-d": {
+      "name": "Canon EOS 400 D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-g7": {
+      "name": "Panasonic Lumix G7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "toyota-yaris-xp13": {
+      "name": "Toyota Yaris XP13",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-digital-cam-vp-d361": {
+      "name": "Samsung Digital Cam VP-D361",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-digital-ixus-75": {
+      "name": "Canon Digital IXUS 75",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
