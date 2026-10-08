@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T16:34:16.482Z",
+  "updatedAt": "2026-10-08T16:39:13.525Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128Gb",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128gb",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,13 +340,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -736,7 +736,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "dji-osmo-pocket-4": {
-      "name": "DJI OSMO POCKET 4",
+      "name": "DJI Osmo Pocket 4",
       "category": "Kameras",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1060,7 +1060,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256 GB",
+      "name": "Apple iPhone 12 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2819,7 +2819,7 @@
     },
     "gigabyte-aorus-rtx-3090-gaming-box-24-gb": {
       "name": "GIGABYTE AORUS RTX 3090 Gaming Box 24GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 Mini 128 GB",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -15880,7 +15880,7 @@
       "updatedAt": null
     },
     "canon-powershot-g11": {
-      "name": "Canon Powershot G11",
+      "name": "Canon PowerShot G11",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -17008,7 +17008,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-16-gb": {
-      "name": "Apple MacBook Pro 16\" 16GB",
+      "name": "Apple MacBook Pro 16\" 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -61541,6 +61541,138 @@
     },
     "sony-dsc-w120": {
       "name": "Sony DSC-W120",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-sonic-evo-sx1-e-bike": {
+      "name": "Bulls Sonic EVO SX1 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "maxtron-mt-11x-e-bike": {
+      "name": "Maxtron MT-11X E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ouxi-gt2000": {
+      "name": "OUXI GT2000",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-severo-8rt": {
+      "name": "KTM Severo 8RT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-damen-e-bike-28-zoll": {
+      "name": "Prophete Damen E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "batavus-e-bike-28-zoll": {
+      "name": "Batavus E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-l-season-elo": {
+      "name": "Kalkhoff Endeavour L Season ELO",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "qreate-city-pro-2-0": {
+      "name": "QREATE City Pro 2.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liv-giant-vall-e-2": {
+      "name": "Liv Giant Vall E+ 2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-7-plus-256-gb": {
+      "name": "Apple iPhone 7 Plus 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-12-zoll-2015-512-gb": {
+      "name": "Apple MacBook 12 Zoll 2015 512 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kamera-nachlass": {
+      "name": "Kamera-Nachlass",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "videoproduktion": {
+      "name": "Videoproduktion",
+      "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-digital-kamera": {
+      "name": "Samsung Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "chinon-cg-5-spiegelreflexkamera": {
+      "name": "Chinon CG-5 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-gm5": {
+      "name": "Panasonic Lumix GM5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "revue-flex-ac2-kamera": {
+      "name": "REVUE FLEX AC2 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-580": {
+      "name": "Sony Alpha 580",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hama-kamerastativ-mit-kugelkopf": {
+      "name": "Hama Kamerastativ mit Kugelkopf",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-drohne": {
+      "name": "DJI Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-kamera": {
+      "name": "FUJIFILM Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-fotokamera": {
+      "name": "Canon Fotokamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
