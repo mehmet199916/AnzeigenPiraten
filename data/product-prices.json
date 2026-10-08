@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T11:04:25.540Z",
+  "updatedAt": "2026-10-08T11:09:50.372Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128 gb",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -641,18 +641,18 @@
     },
     "sony-playstation-5-konsole": {
       "name": "Sony PlayStation 5 Konsole",
-      "category": "Spielekonsolen",
+      "category": "spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
-      "name": "Sony PlayStation 5 Konsole 1TB",
+      "name": "Sony PlayStation 5 Konsole 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,8 +1810,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
-      "category": "Smartphones",
+      "name": "Apple iPhone 13 128 GB",
+      "category": "Computer",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1 TB",
+      "name": "Sony PlayStation 5 Slim 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128gb",
+      "name": "Apple iPhone 13 Mini 128GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7606,8 +7606,8 @@
       "updatedAt": null
     },
     "sony-playstation-5-1-tb": {
-      "name": "Sony PlayStation 5 1 TB",
-      "category": "Computer",
+      "name": "Sony PlayStation 5 1TB",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8032,7 +8032,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-8-gb": {
-      "name": "Apple MacBook Air 13\" 8 GB",
+      "name": "Apple MacBook Air 13 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -42106,7 +42106,7 @@
       "updatedAt": null
     },
     "asus-tuf-gaming-grafikkarte": {
-      "name": "ASUS TUF GAMING Grafikkarte",
+      "name": "ASUS TUF Gaming Grafikkarte",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -43571,7 +43571,7 @@
     },
     "specialized-diverge-3-alloy-e5-gravelbike": {
       "name": "Specialized Diverge 3 Alloy E5 Gravelbike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -51246,6 +51246,192 @@
     "vivo-x200-ultra": {
       "name": "Vivo X200 Ultra",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-e10-sport-e-bike": {
+      "name": "Pegasus Premio E10 Sport E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-500wh-eb12100016": {
+      "name": "Bosch Powertube 500Wh EB12100016",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "muli-lastenrad": {
+      "name": "Muli Lastenrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "deruiz-peridot-klapprad-faltrad-e-bike-20": {
+      "name": "Deruiz Peridot Klapprad Faltrad E-Bike 20\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-500wh-vertical-akku": {
+      "name": "Bosch Powertube 500Wh Vertical Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-500wh": {
+      "name": "Bosch Powertube 500Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "deruiz-mica-g": {
+      "name": "Deruiz Mica-g",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-arroyo-c8": {
+      "name": "Gazelle Arroyo C8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-750-race-allroad": {
+      "name": "Cube Reaction Hybrid 750 Race Allroad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosal-traveller-ii-fixmatic": {
+      "name": "Bosal Traveller II Fixmatic",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-e-bike-impulse-525wh": {
+      "name": "Raleigh E-Bike Impulse 525Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-500wh-vertical-smart-system-akku": {
+      "name": "Bosch Powertube 500Wh Vertical Smart System Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-e-bike-with-bosch-performance-line-motor": {
+      "name": "Ghost E-Bike with Bosch Performance Line Motor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-damenrad-60": {
+      "name": "Velo DE Ville Damenrad 60",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "manufaktur-continental-revolution-48-v-e-bike-8cht": {
+      "name": "Manufaktur Continental Revolution 48 V E-Bike 8CHT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-28-e-bike": {
+      "name": "Fischer 28\" E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-roberta-e-bike": {
+      "name": "Hercules Roberta E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-128-gb-rot": {
+      "name": "Apple iPhone 11 128GB Rot",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-rtx-3080-12-gb": {
+      "name": "ASUS ROG STRIX GeForce RTX 3080 12 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-285-hs-a": {
+      "name": "Canon IXUS 285 HS A",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minox-35-gt": {
+      "name": "MINOX 35 GT",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-s1600": {
+      "name": "Fujifilm FinePix S1600",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "audi-a6-2-7-quattro": {
+      "name": "Audi A6 2.7 Quattro",
+      "category": "Autos",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "opel-crossland-x-kamera-frontkamera": {
+      "name": "Opel Crossland X Kamera Frontkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d5200-spiegelreflexkamera": {
+      "name": "Nikon D5200 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-benz-s-klasse-w222-au-enspiegel-links-kamera": {
+      "name": "Mercedes-Benz S-Klasse W222 Außenspiegel links KAMERA",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z6ii": {
+      "name": "Nikon Z6II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nintendo-switch": {
+      "name": "Nintendo Switch",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f-601-af-spiegelreflexkamera": {
+      "name": "Nikon F 601 AF Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-tiguan-571-r-line-sto-stange-vorne-sto-fanger-6-pdc": {
+      "name": "VW Tiguan 571 R-Line Stoßstange Vorne Stoßfänger 6 PDC",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "audi-a3-rs3-tt-vw-golf-7-kamera-line-assistant": {
+      "name": "Audi A3 RS3 TT VW Golf 7 Kamera Line Assistant",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
