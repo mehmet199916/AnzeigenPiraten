@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T13:39:51.451Z",
+  "updatedAt": "2026-10-08T13:44:24.729Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128 GB",
+      "name": "Apple iPhone 13 Pro Max 128gb",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128gb",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256Gb",
+      "name": "Apple iPhone 17 256 GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128 GB",
+      "name": "Apple iPhone 11 128GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4097,7 +4097,7 @@
     },
     "fatbike-v20-pro-v8-ultra-mini-s20-gt2000": {
       "name": "Fatbike V20 Pro V8 Ultra Mini S20 GT2000",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6706,7 +6706,7 @@
       "updatedAt": null
     },
     "apple-iphone-18-pro-256-gb": {
-      "name": "Apple iPhone 18 Pro 256 GB",
+      "name": "Apple iPhone 18 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7079,7 +7079,7 @@
     },
     "playstation-5-spiele": {
       "name": "PlayStation 5 Spiele",
-      "category": "Spiele",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -20038,7 +20038,7 @@
       "updatedAt": null
     },
     "canon-eos-450d": {
-      "name": "Canon EOS 450d",
+      "name": "Canon EOS 450D",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -35656,7 +35656,7 @@
       "updatedAt": null
     },
     "olympus-mju-ii": {
-      "name": "Olympus Mju II",
+      "name": "Olympus mju ii",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -55979,6 +55979,138 @@
     },
     "top-suzuki-swift-ertiga-autoradio-carplay-android-kamera-gps-navi": {
       "name": "TOP SUZUKI SWIFT ERTIGA AUTORADIO CARPLAY ANDROID KAMERA GPS NAVI",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-avignon-c8": {
+      "name": "Gazelle Avignon C8",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-horizon-pro-belt-e-bike": {
+      "name": "Bergamont E-Horizon Pro Belt E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-performance-625-allroad": {
+      "name": "Cube REACTION HYBRID PERFORMANCE 625 ALLROAD",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-und-muller-charger-3-vario": {
+      "name": "Riese und Müller Charger 3 Vario",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-a3241-16-gb": {
+      "name": "Apple MacBook Air A3241 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-retina-1-tb": {
+      "name": "Apple MacBook Pro Retina 1 TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2014-8-gb": {
+      "name": "Apple MacBook Pro 2014 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-2012-8-gb": {
+      "name": "Apple MacBook Air 13″ 2012 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hp-nvidia-geforce-rtx-3070-8-gb-grafikkarte": {
+      "name": "HP NVIDIA GeForce RTX 3070 8GB Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1080-ti-gaming-oc-black": {
+      "name": "NVIDIA GeForce GTX 1080 Ti Gaming OC Black",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-4060-ti-eagle-oc-8-gb": {
+      "name": "GIGABYTE 4060 ti Eagle OC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-t600-4-gb": {
+      "name": "NVIDIA T600 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xfx-radeon-rx-6800-xt-16-gb": {
+      "name": "XFX Radeon RX 6800 XT 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-spiel-onimusha-way-of-the-sword": {
+      "name": "PlayStation 5 Spiel Onimusha: Way of the Sword",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-s5d": {
+      "name": "Panasonic Lumix S5D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ricoh-gr-iv-hdf": {
+      "name": "Ricoh GR IV HDF",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-instax-sq-6": {
+      "name": "Polaroid Instax SQ 6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "isteady-pro-3": {
+      "name": "iSteady Pro 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-s225": {
+      "name": "Nikon COOLPIX S225",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-rp-kamera": {
+      "name": "Canon EOS RP Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "instax-mini-12-sofortbildkamera": {
+      "name": "Instax Mini 12 Sofortbildkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aoqee-c1-sicherheitskamera": {
+      "name": "AOQEE C1 Sicherheitskamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
