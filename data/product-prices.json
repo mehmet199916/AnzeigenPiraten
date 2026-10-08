@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T10:05:14.296Z",
+  "updatedAt": "2026-10-08T10:09:55.173Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64 GB",
+      "name": "Apple iPhone 12 64GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -280,13 +280,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-512-gb": {
-      "name": "Apple iPhone 17 Pro 512GB",
+      "name": "Apple iPhone 17 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128gb",
+      "name": "Apple iPhone 16 128Gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1240,7 +1240,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-825-gb": {
-      "name": "Sony PlayStation 5 Konsole 825GB",
+      "name": "Sony PlayStation 5 Konsole 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7540,7 +7540,7 @@
       "updatedAt": null
     },
     "apple-iphone-xr-64-gb": {
-      "name": "Apple iPhone XR 64 GB",
+      "name": "Apple iPhone XR 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -9275,7 +9275,7 @@
     },
     "logitech-g923-racing-wheel": {
       "name": "Logitech G923 Racing Wheel",
-      "category": "Computer",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10546,7 +10546,7 @@
       "updatedAt": null
     },
     "sony-alpha-a6000": {
-      "name": "Sony Alpha A6000",
+      "name": "Sony Alpha a6000",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -13876,7 +13876,7 @@
       "updatedAt": null
     },
     "dji-osmo-360": {
-      "name": "DJI Osmo 360",
+      "name": "Dji Osmo 360",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -20458,7 +20458,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-2017-8-gb": {
-      "name": "Apple MacBook Pro 13” 2017 8GB",
+      "name": "Apple MacBook Pro 13\" 2017 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -23843,7 +23843,7 @@
     },
     "e-bike-ktm": {
       "name": "E-Bike KTM",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26098,7 +26098,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-2017": {
-      "name": "Apple MacBook Pro (2017)",
+      "name": "Apple MacBook Pro 2017",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -28942,8 +28942,8 @@
       "updatedAt": null
     },
     "asus-tuf-gaming-geforce-rtx-4070-ti-12-gb": {
-      "name": "ASUS TUF Gaming GeForce RTX 4070 Ti 12GB",
-      "category": "Computer",
+      "name": "ASUS TUF Gaming GeForce RTX 4070 Ti 12 GB",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -46373,7 +46373,7 @@
     },
     "e-mountainbike-27-5-zoll": {
       "name": "E-Mountainbike 27,5 Zoll",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -49194,6 +49194,180 @@
     "fotograf-videograf-hochzeitsfotograf-kameramann": {
       "name": "FOTOGRAF VIDEOGRAF HOCHZEITSFOTOGRAF KAMERAMANN",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-avignon-c8-e-bike": {
+      "name": "Gazelle Avignon C8 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tq-hpr-4a-ladegerat-charger": {
+      "name": "TQ HPR 4A Ladegerät Charger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-late-2017-16-gb": {
+      "name": "Apple MacBook Pro 15\" Late 2017 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-radeon-rx-9060-xt-pulse-16-gb": {
+      "name": "Sapphire Radeon RX 9060 XT Pulse 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-4060-8-gb": {
+      "name": "NVIDIA RTX 4060 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-dual-sense-edge-wireless-controller": {
+      "name": "Sony PlayStation 5 Dual Sense Edge Wireless Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ring-pan-tilt-indoor-kamera": {
+      "name": "Ring Pan-Tilt Indoor Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-w212-mehrzweckkamera": {
+      "name": "Mercedes W212 Mehrzweckkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-4er-g22-g23-kamera-vorne": {
+      "name": "BMW 4er G22 G23 Kamera vorne",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vintage-taxona-kamera-mit-carl-zeiss-jena-tessar-3-5-37-5": {
+      "name": "Vintage Taxona Kamera mit Carl Zeiss Jena Tessar 3,5/37,5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kidizoom-mit-tasche": {
+      "name": "Kidizoom mit Tasche",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-e-inspire-herren-rh-50": {
+      "name": "KOGA E - Inspire Herren RH 50",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-urtopia-carbon-1-pro-m-oder-l": {
+      "name": "E-Bike Urtopia Carbon 1 Pro M oder L",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-29": {
+      "name": "Fischer E-Bike 29\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerpack-performance-akku-36v-15ah-540wh": {
+      "name": "Bosch Powerpack Performance Akku 36V 15Ah 540Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-schwarz-mit-korb-und-gepacktrager": {
+      "name": "E-Bike schwarz mit Korb und Gepäckträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-bike-pedelec-28-bosch-alfine-8-gang-2-akkus": {
+      "name": "Stevens E-Bike Pedelec 28\" Bosch Alfine 8 Gang 2 Akkus",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-e-bike-mit-2-akkus": {
+      "name": "Zündapp E-Bike mit 2 Akkus",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-promovec-zellentausch-36v-reparatur-e-bike-pedelec-akku": {
+      "name": "Bergamont Promovec Zellentausch 36V Reparatur E-Bike Pedelec Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "shimano-steps-bt-e8020-integriert-504wh-e-bike-akku-schwarz": {
+      "name": "SHIMANO STEPS BT-E8020 INTEGRIERT 504WH E-BIKE AKKU SCHWARZ",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-geniesser-e9-7-e-bike-2019": {
+      "name": "Prophete Geniesser E9.7 E-Bike 2019",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-xg9": {
+      "name": "Minolta XG9",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-pocket-4p-vlog-combo": {
+      "name": "DJI Osmo Pocket 4P Vlog Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-video-conferencing-kamera": {
+      "name": "Logitech Video Conferencing Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reolink-lumus": {
+      "name": "Reolink Lumus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-one-rs-1-inch-360-edition": {
+      "name": "Insta360 ONE RS 1-Inch 360 Edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dc-l10e-k": {
+      "name": "Panasonic Lumix DC-L10E—K",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-h300": {
+      "name": "Sony H300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "imoo-z7-kinder-smartwatch": {
+      "name": "imoo Z7 Kinder Smartwatch",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
