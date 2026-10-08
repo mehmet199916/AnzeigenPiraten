@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T16:50:00.472Z",
+  "updatedAt": "2026-10-08T16:54:29.976Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2279,12 +2279,12 @@
     },
     "sony-playstation-5": {
       "name": "Sony PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1TB",
+      "name": "Sony PlayStation 5 Slim 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Reparaturen",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3202,7 +3202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-256-gb": {
-      "name": "Apple iPhone 16 256 GB",
+      "name": "Apple iPhone 16 256GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8026,7 +8026,7 @@
       "updatedAt": null
     },
     "apple-iphone-air-256-gb": {
-      "name": "Apple iPhone Air 256GB",
+      "name": "Apple iPhone Air 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -12281,7 +12281,7 @@
     },
     "scott-e-bike": {
       "name": "Scott E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -44968,7 +44968,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-5070-ti-16-gb": {
-      "name": "Nvidia GeForce RTX 5070 Ti 16GB",
+      "name": "NVIDIA GeForce RTX 5070 Ti 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -61949,6 +61949,84 @@
     },
     "panasonic-lumix-dmc-gh3": {
       "name": "Panasonic Lumix DMC-GH3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-e-bike-herrenrad": {
+      "name": "Pegasus E-Bike Herrenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-cityrad": {
+      "name": "Gazelle E-Bike Cityrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leader-fox-e-bike": {
+      "name": "Leader Fox E Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-aminga-eva-tr-2": {
+      "name": "Bulls Aminga Eva TR 2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canyon-spectral-on-6-0-mtb-fahrrad": {
+      "name": "Canyon Spectral On 6.0 Mtb Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-lenkrad-g29": {
+      "name": "PlayStation 5 Lenkrad G29",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-vr-2-headset": {
+      "name": "PlayStation VR 2 Headset",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z5": {
+      "name": "Nikon Z5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-srg-120-dh": {
+      "name": "Sony SRG-120 DH",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "joby-gorillapod-3k-kamera-stativ": {
+      "name": "JOBY GorillaPod 3K Kamera Stativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-dynax-5": {
+      "name": "Minolta Dynax 5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "om-system-tg-7-rot-spezial-edition": {
+      "name": "OM System TG-7 Rot Spezial Edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-tx-spiegelreflexkamera": {
+      "name": "Canon TX Spiegelreflexkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
