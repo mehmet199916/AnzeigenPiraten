@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T13:24:48.110Z",
+  "updatedAt": "2026-10-08T13:29:38.969Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1444,7 +1444,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-256-gb": {
-      "name": "Apple iPhone 14 256 GB",
+      "name": "Apple iPhone 14 256GB",
       "category": "Smartphones",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16e 128GB",
+      "name": "Apple iPhone 16e 128 GB",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256GB",
+      "name": "iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5758,7 +5758,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-256-gb": {
-      "name": "iPhone 16 Pro 256 GB",
+      "name": "iPhone 16 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6166,7 +6166,7 @@
       "updatedAt": null
     },
     "fujifilm-instax-mini-11": {
-      "name": "Fujifilm Instax Mini 11",
+      "name": "Fujifilm Instax mini 11",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -7810,7 +7810,7 @@
       "updatedAt": null
     },
     "insta360-x4": {
-      "name": "Insta360 X4",
+      "name": "Insta360 x4",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -14908,7 +14908,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-8-gb": {
-      "name": "Apple MacBook Pro 13 8 GB",
+      "name": "Apple MacBook Pro 13\" 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -14986,7 +14986,7 @@
       "updatedAt": null
     },
     "cube-stereo-hybrid-120-pro-bosch-smart-system-750wh-e-bike": {
-      "name": "Cube Stereo Hybrid 120 Pro Bosch Smart System 750Wh E Bike",
+      "name": "Cube Stereo Hybrid 120 Pro Bosch Smart System 750Wh E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -30682,8 +30682,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-m2-256-gb": {
-      "name": "Apple MacBook Air M2 256 GB",
-      "category": "Laptops",
+      "name": "Apple MacBook Air M2 256GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -31792,7 +31792,7 @@
       "updatedAt": null
     },
     "e-bike-damen": {
-      "name": "E-Bike Damen",
+      "name": "E Bike Damen",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -34661,7 +34661,7 @@
     },
     "e-bike-akku": {
       "name": "E-Bike Akku",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -55601,6 +55601,126 @@
     },
     "dji-osmo-pocket-3-kamera": {
       "name": "DJI Osmo Pocket 3 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-horizon-premium-pro-belt": {
+      "name": "Bergamont E-Horizon Premium Pro Belt",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-e-bike-pedelec": {
+      "name": "Velo de Ville E-Bike Pedelec",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-bulls-cross-flyer-evo-2": {
+      "name": "E Bike Bulls Cross Flyer EVO 2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "himiway-city-pedelec": {
+      "name": "Himiway City Pedelec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-cargo-e-bike-22-etl-20": {
+      "name": "Prophete Cargo E-Bike 22.ETL.20",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-600-wh-akku": {
+      "name": "Bosch PowerTube 600 Wh Akku",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-sportster-lady-e-bike": {
+      "name": "Scott Sportster Lady E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-lila-128-gb": {
+      "name": "Apple iPhone 14 Pro Lila 128gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-zoll-2017-16-gb": {
+      "name": "Apple MacBook Pro 15-Zoll (2017) 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1070-armor-8g-gddr5": {
+      "name": "MSI GeForce GTX 1070 Armor 8G GDDR5",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3060-ti-ghost-8-gb": {
+      "name": "NVIDIA GeForce RTX 3060 Ti Ghost 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1660-super": {
+      "name": "MSI GeForce GTX 1660 SUPER",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-version-500-gb": {
+      "name": "Sony PlayStation 5 Disc Version 500GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-sx-70-autofocus": {
+      "name": "Polaroid SX 70 Autofocus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-pocket-2": {
+      "name": "DJI Pocket 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "medion-digital-kameras-86917-und-86930": {
+      "name": "Medion Digital Kameras 86917 und 86930",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-insta360-mini-11": {
+      "name": "Polaroid Insta360 Mini 11",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-vct-sgr1-rx100-tripod": {
+      "name": "Sony VCT-SGR1 RX100 Tripod",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1000-spiegelreflexkamera": {
+      "name": "Canon EOS 1000 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dsc-w120-weitwinkel": {
+      "name": "Sony DSC-W120 Weitwinkel",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
