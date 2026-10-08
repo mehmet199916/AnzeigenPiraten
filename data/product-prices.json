@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T17:39:36.414Z",
+  "updatedAt": "2026-10-08T17:44:33.185Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64gb",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4577,7 +4577,7 @@
     },
     "playstation-spiele": {
       "name": "PlayStation Spiele",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10984,7 +10984,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-256-gb": {
-      "name": "Apple iPhone 12 mini 256 gb",
+      "name": "Apple iPhone 12 Mini 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -12281,7 +12281,7 @@
     },
     "scott-e-bike": {
       "name": "Scott E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -41872,7 +41872,7 @@
       "updatedAt": null
     },
     "gopro-hero-9": {
-      "name": "GoPro Hero 9",
+      "name": "GoPro HERO 9",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -53488,7 +53488,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-2019": {
-      "name": "Apple MacBook Pro 16 (2019)",
+      "name": "Apple MacBook Pro 16\" (2019)",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -63227,6 +63227,132 @@
     },
     "nissan-tow-mirrors": {
       "name": "Nissan Tow Mirrors",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-fahrrad-29-rad-alu": {
+      "name": "Ghost Fahrrad 29 Rad ALU",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-akku": {
+      "name": "Bosch E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-macina-510-p-tour": {
+      "name": "KTM E bike MACINA 510 P Tour",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-herren-e-bike": {
+      "name": "Haibike Herren e bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-demo-8-gange": {
+      "name": "Bosch E-Bike Demo 8 Gänge",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28-rucktritt-tiefeinsteiger-gecos-eli-1-0": {
+      "name": "E-Bike 28\" Rücktritt Tiefeinsteiger Gecos Eli 1.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kadanie-e-bike-klapprad": {
+      "name": "Kadanie e Bike Klapprad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-six50-e-fs3": {
+      "name": "BULLS SIX50 E FS3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-typ-winora": {
+      "name": "E-Bike Typ Winora",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "musing-savage-e-mtb": {
+      "name": "Müsing Savage E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "batavus-e-bike-akku-24v": {
+      "name": "Batavus E-Bike Akku 24V",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-akku-750-wh": {
+      "name": "CUBE E-Bike Akku 750 Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-12-pro-graphit": {
+      "name": "iPhone 12 Pro Graphit",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-pro-max-titan-schwarz": {
+      "name": "iPhone 16 Pro Max Titan Schwarz",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-265-gb": {
+      "name": "Apple iPhone 17 265GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-512-gb": {
+      "name": "Apple iPhone 14 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2023-8-gb": {
+      "name": "Apple MacBook Air 2023 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-lc-240-aio": {
+      "name": "Asus ROG Strix LC 240 AIO",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-gtx-1650-super-phoenix-4-gb": {
+      "name": "Asus GTX 1650 Super Phoenix 4GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mir-266-objektiv": {
+      "name": "MIR 266 Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f-601-af": {
+      "name": "Nikon F-601 AF",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
