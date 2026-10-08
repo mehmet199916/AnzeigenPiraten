@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T10:49:49.950Z",
+  "updatedAt": "2026-10-08T10:54:45.946Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,8 +22,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 gb",
-      "category": "Smartphones",
+      "name": "Apple iPhone 14 Pro Max 128GB",
+      "category": "smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -64,13 +64,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256gb",
+      "name": "Apple iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1012,8 +1012,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "cube-e-bike": {
-      "name": "Cube E-Bike",
-      "category": "Fahrräder",
+      "name": "Cube e-bike",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1060,7 +1060,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-256-gb": {
-      "name": "Apple iPhone 12 Pro 256GB",
+      "name": "Apple iPhone 12 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512 GB",
+      "name": "Apple iPhone 17 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256GB",
+      "name": "iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7282,7 +7282,7 @@
       "updatedAt": null
     },
     "apple-iphone-se-2022": {
-      "name": "Apple iPhone SE 2022",
+      "name": "Apple iPhone SE (2022)",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -9034,8 +9034,8 @@
       "updatedAt": null
     },
     "sony-playstation-5-disc-edition-1-tb": {
-      "name": "Sony PlayStation 5 Disc Edition 1 TB",
-      "category": "Konsolen",
+      "name": "Sony PlayStation 5 Disc Edition 1TB",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26944,7 +26944,7 @@
       "updatedAt": null
     },
     "iphone-16-plus-128-gb": {
-      "name": "iPhone 16 Plus 128GB",
+      "name": "iPhone 16 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -34955,7 +34955,7 @@
     },
     "sony-dualsense-wireless-controller": {
       "name": "Sony DualSense Wireless Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -36298,8 +36298,8 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-4060-ti-8-gb": {
-      "name": "Nvidia GeForce RTX 4060 Ti 8GB",
-      "category": "Grafikkarten",
+      "name": "NVIDIA GeForce RTX 4060 Ti 8GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -50807,6 +50807,144 @@
     },
     "canon-eos-1000-d": {
       "name": "Canon EOS 1000 D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-prophete-28-zoll": {
+      "name": "E Bike Prophete 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "himiway-d5-2-0-in-20": {
+      "name": "HIMIWAY D5 2.0 in 20\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "batavus-e-go-herren-e-bike-bosch-mittelmotor-rh65cm-400wh-akku-8g": {
+      "name": "Batavus E-Go Herren E-Bike Bosch Mittelmotor RH65cm 400wh Akku 8G",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conondale-e-bike-neo-remix": {
+      "name": "Conondale e-bike Neo Remix",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-yakun-10": {
+      "name": "Winora Yakun 10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "himiway-d5-2-0-e-bike": {
+      "name": "HIMIWAY D5 2.0 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-herrenfahrrad": {
+      "name": "E-Bike Herrenfahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fur-herren": {
+      "name": "E-bike für Herren",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-polarweiss": {
+      "name": "iPhone 16 Polarweiss",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-13-2022-8-gb": {
+      "name": "Apple MacBook Air M2 13\" (2022) 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-15": {
+      "name": "Apple MacBook Air M2 15\"",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-m5-16-512-gb": {
+      "name": "Apple MacBook Pro 14\" M5 16/512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-15-2022-256-gb": {
+      "name": "Apple MacBook Air M2 15\" (2022) 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-pulse-radeon-rx-vega-56-8-gb": {
+      "name": "Sapphire Pulse Radeon RX Vega 56 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-disc-version": {
+      "name": "Sony PlayStation 5 Slim Disc Version",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fifa-25-fc-25-sammlung-spiele-ps5": {
+      "name": "Fifa 25 FC 25 Sammlung Spiele PS5",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-amarok-v6-kuhlergrill-mit-kamera": {
+      "name": "VW Amarok V6 Kühlergrill mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-srg-xb25-srg-xp1-ovp": {
+      "name": "Sony SRG-XB25 & SRG-XP1 OVP",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "altix-altissa-type-iv": {
+      "name": "Altix Altissa (Type IV)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-neo-2-motion-fly-more-combo": {
+      "name": "DJI Neo 2 Motion Fly More Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "adicam-max-profi-kamera": {
+      "name": "ADICAM MAX - Profi Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-handycam-kamera": {
+      "name": "Sony Handycam Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-c4i-fotopro-kamerastativ": {
+      "name": "Rollei C4i Fotopro Kamerastativ",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
