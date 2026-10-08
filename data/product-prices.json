@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T12:25:22.349Z",
+  "updatedAt": "2026-10-08T12:30:21.332Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256Gb",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -623,7 +623,7 @@
     },
     "nvidia-geforce-rtx-2070-8-gb": {
       "name": "NVIDIA GeForce RTX 2070 8GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825GB",
+      "name": "Sony PlayStation 5 Disc Edition 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1444,7 +1444,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-256-gb": {
-      "name": "Apple iPhone 14 256 GB",
+      "name": "Apple iPhone 14 256GB",
       "category": "Smartphones",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2884,7 +2884,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "dji-mini-4-pro": {
-      "name": "Dji Mini 4 Pro",
+      "name": "DJI mini 4 pro",
       "category": "Kameras",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3430,7 +3430,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-128-gb": {
-      "name": "iPhone 15 Pro 128 GB",
+      "name": "iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3694,13 +3694,13 @@
       "updatedAt": null
     },
     "e-bike-victoria-28-zoll": {
-      "name": "E Bike Victoria 28 Zoll",
+      "name": "E-Bike Victoria 28 Zoll",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
     "apple-iphone-16-pro-512-gb": {
-      "name": "Apple iPhone 16 Pro 512 GB",
+      "name": "Apple iPhone 16 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -5752,7 +5752,7 @@
       "updatedAt": null
     },
     "iphone-13-256-gb": {
-      "name": "iPhone 13 256 GB",
+      "name": "iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13096,7 +13096,7 @@
       "updatedAt": null
     },
     "canon-ae-1": {
-      "name": "Canon AE 1",
+      "name": "Canon AE-1",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -18437,7 +18437,7 @@
     },
     "bosch-powerpack-powertube-500-625-750-ebike-akku": {
       "name": "Bosch PowerPack PowerTube 500/625/750 eBike Akku",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -53879,6 +53879,144 @@
     },
     "canon-eos-r50-mit-rf-s-18-45mm-f4-5-6-3-is-stm-kit": {
       "name": "Canon EOS R50 mit RF-S 18-45mm F4.5-6.3 IS STM Kit",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "x-tract-e-bike": {
+      "name": "X-tract E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-rennrad-orbega-gain-30d": {
+      "name": "E-Rennrad Orbega Gain 30D",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mifa-e-bike": {
+      "name": "Mifa E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-xduro-allmtn-3-5": {
+      "name": "Haibike XDURO AllMtn 3.5",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-6s-plus-64-gb": {
+      "name": "Apple iPhone 6S Plus 64GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-product-red-128-gb": {
+      "name": "Apple iPhone 12 Product Red 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-pro-265-gb": {
+      "name": "Apple iPhone 11 Pro 265 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3090-master-24-gb": {
+      "name": "NVIDIA GeForce RTX 3090 Master 24GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-amd-radeon-rx-6700-xt-12-gb": {
+      "name": "ASUS AMD Radeon RX 6700 XT 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-5060-8-gb": {
+      "name": "Gigabyte RTX 5060 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-gothic-remake-collector-s-edition": {
+      "name": "PlayStation Gothic Remake Collector's Edition",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "saba-film-video-kamera-stativ": {
+      "name": "SABA Film/Video/Kamera-Stativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kiev-jupiter-8-50mm-f-2-messsucherkamera": {
+      "name": "Kiev Jupiter-8 50mm f/2 Messsucherkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "oneplus-13": {
+      "name": "OnePlus 13",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-35-kompakte-filmkamera": {
+      "name": "Rollei 35 kompakte Filmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-6d-mark-i": {
+      "name": "Canon EOS 6D Mark I",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-r100-kit-mit-18-45-mm-objektiv": {
+      "name": "Canon EOS R100 Kit mit 18-45 mm Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tycka-dreibeinstativ": {
+      "name": "Tycka Dreibeinstativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-ag-ac90ej-profi-videokamera": {
+      "name": "Panasonic AG AC90EJ Profi Videokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-l27": {
+      "name": "Nikon COOLPIX L27",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps4-pro-1-tb": {
+      "name": "Sony PS4 Pro 1 TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-lightmixer-af-660": {
+      "name": "Polaroid Lightmixer AF 660",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-compactline-10x-flip-screen-64-gb": {
+      "name": "Rollei Compactline 10x Flip Screen 64 GB",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
