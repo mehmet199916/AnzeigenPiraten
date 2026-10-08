@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T11:19:34.685Z",
+  "updatedAt": "2026-10-08T11:24:33.435Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128gb",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2098,7 +2098,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-13-2017-8-gb": {
-      "name": "Apple MacBook Air 13\" 2017 8 GB",
+      "name": "Apple MacBook Air 13\" 2017 8GB",
       "category": "Computer",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3161,7 +3161,7 @@
     },
     "playstation-5-spiel": {
       "name": "PlayStation 5 Spiel",
-      "category": "Spielen",
+      "category": "Spiele",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4577,7 +4577,7 @@
     },
     "playstation-spiele": {
       "name": "PlayStation Spiele",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -51773,6 +51773,150 @@
     },
     "vintage-kameras": {
       "name": "Vintage-Kameras",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-moscow-plus-27-5-zoll": {
+      "name": "NCM Moscow Plus 27,5 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-cgo600-pro-ebike": {
+      "name": "Tenways CGO600 Pro eBike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-sinus-bt-50": {
+      "name": "E-Bike SINUS BT 50",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-ecu1801-e-bike": {
+      "name": "Fischer ECU1801 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-ecu1801": {
+      "name": "Fischer ECU1801",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gasgas-tra-6-mountain-e-bike": {
+      "name": "Gasgas TRA 6 Mountain E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "allegro-invisible-alltour-atil-03-e-bike": {
+      "name": "ALLEGRO Invisible Alltour ATIL°03 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-pedelec-7346-km": {
+      "name": "Kalkhoff E-Bike Pedelec 7346 km",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prohphete-e-bike-100-evolution": {
+      "name": "Prohphete E-Bike 100 Evolution",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-pedelec": {
+      "name": "Kalkhoff E-Bike Pedelec",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-2023-16-gb": {
+      "name": "Apple MacBook Pro 14\" 2023 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-2012": {
+      "name": "Apple MacBook Pro 13 Zoll 2012",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-12-zoll-2017-8-gb": {
+      "name": "Apple MacBook 12 Zoll 2017 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-m5-16-gb": {
+      "name": "Apple MacBook Air 13 Zoll M5 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-strix-gtx-1060-6g": {
+      "name": "ASUS STRIX GTX 1060 6G",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-gtx-980-jetstream": {
+      "name": "Palit GeForce GTX 980 JetStream",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-400d-1-gb": {
+      "name": "Canon EOS 400D 1GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x6": {
+      "name": "Insta360 X6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mustek-dv5200-digital-video-kamera": {
+      "name": "Mustek DV5200 Digital Video Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-400d-digitale-spiegelreflexkamera": {
+      "name": "Canon EOS 400D Digitale Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-hdr-pj810e": {
+      "name": "Sony HDR-PJ810E",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-luna-ultra-creator": {
+      "name": "Insta360 Luna Ultra Creator",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-wb1100f": {
+      "name": "Samsung WB1100F",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "revue-lux-sound-310-super-8-filmprojektor": {
+      "name": "Revue Lux Sound 310 Super 8 Filmprojektor",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
