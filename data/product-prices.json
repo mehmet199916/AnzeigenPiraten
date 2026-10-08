@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T10:35:17.765Z",
+  "updatedAt": "2026-10-08T10:40:15.785Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512GB",
+      "name": "Apple iPhone 15 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2794,7 +2794,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-16-128-gb": {
-      "name": "iPhone 16 128 GB",
+      "name": "iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6503,7 +6503,7 @@
     },
     "giant-talon-e-ex": {
       "name": "Giant Talon e+ EX",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19174,7 +19174,7 @@
       "updatedAt": null
     },
     "playstation-5-digital-edition-1-tb": {
-      "name": "PlayStation 5 Digital Edition 1 TB",
+      "name": "PlayStation 5 Digital Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -22984,7 +22984,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-dualsense-edge-wireless-controller": {
-      "name": "Sony PlayStation 5 DualSense Edge Wireless-Controller",
+      "name": "Sony PlayStation 5 DualSense Edge Wireless Controller",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -30466,7 +30466,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-slim-1-tb": {
-      "name": "Sony PlayStation 5 Digital Edition (Slim) 1 TB",
+      "name": "Sony PlayStation 5 Digital Edition (Slim) 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -32272,8 +32272,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-m2-16-gb": {
-      "name": "Apple MacBook Air M2 16GB",
-      "category": "Smartphones",
+      "name": "Apple MacBook Air M2 16gb",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -34660,7 +34660,7 @@
       "updatedAt": null
     },
     "e-bike-akku": {
-      "name": "E-Bike Akku",
+      "name": "E-BIKE Akku",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -37990,7 +37990,7 @@
       "updatedAt": null
     },
     "panasonic-lumix-fz-200": {
-      "name": "Panasonic LUMIX FZ 200",
+      "name": "Panasonic Lumix FZ 200",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -40708,7 +40708,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-2017-16-gb": {
-      "name": "Apple MacBook Pro 13\" 2017 16 GB",
+      "name": "Apple MacBook Pro 13” 2017 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -44476,7 +44476,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-2020-16-gb": {
-      "name": "Apple MacBook Pro 2020 16GB",
+      "name": "Apple MacBook Pro 2020 16 gb",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -50328,6 +50328,192 @@
     "videoagentur": {
       "name": "Videoagentur",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-e-bike-typ-cairon-suv-5-0": {
+      "name": "Conway E-Bike Typ Cairon SUV 5.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bekup-e-bike-trekkingrad": {
+      "name": "Bekup E-Bike Trekkingrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rixe-e-bike-xc-b9-street": {
+      "name": "Rixe E-Bike XC B9 Street",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fully-giant": {
+      "name": "E-bike Fully giant",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ado-a20f-plus-fatbike-e-bike": {
+      "name": "ADO A20F Plus Fatbike E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-endeavour-e-bike-damen": {
+      "name": "Kalkhoff Endeavour E-Bike Damen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-akku-36v-15-6ah": {
+      "name": "E-Bike Akku 36V 15.6Ah",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-cube-kathmandu-hybrid-one-2023": {
+      "name": "E-Bike Cube Kathmandu Hybrid ONE 2023",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-e-mountainbike": {
+      "name": "Haibike SDURO E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "popal-daily-dutch-prestige-e-bike": {
+      "name": "Popal Daily Dutch Prestige E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fahrradttrager-atera-22696-strada-sport-e-bike-ml-hecktrager": {
+      "name": "Fahrradtträger Atera (22696) Strada Sport E-Bike ML - Heckträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-trekking-7-5-e-bike": {
+      "name": "Victoria Trekking 7.5 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "axess-force-29-allroad": {
+      "name": "Axess Force 29 Allroad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-basismodell-6-1-zoll-256-gb": {
+      "name": "iPhone 14 (Basismodell 6,1 Zoll) 256 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-2080-super": {
+      "name": "NVIDIA RTX 2080 SUPER",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-rtx-3060-gaming-republik": {
+      "name": "ASUS ROG Strix RTX 3060 Gaming Republik",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "geforce-gtx-1050ti": {
+      "name": "GeForce GTX 1050ti",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digital-1-tb": {
+      "name": "Sony PlayStation 5 Digital 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scuf-reflex-fps-controller": {
+      "name": "SCUF Reflex FPS Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-35-s-t-kamera": {
+      "name": "Rollei 35 S T Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "4g-smartwatch-mit-kamera-sim-amoled-ip67": {
+      "name": "4G Smartwatch mit Kamera & SIM AMOLED IP67",
+      "category": "Smartwatches",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-a1-spiegelreflexkamera": {
+      "name": "Canon A1 Spiegelreflexkamera",
+      "category": "Cameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-410-dslr-digitalkamera": {
+      "name": "Olympus E-410 DSLR Digitalkamera",
+      "category": "Cameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arlo-smart-home-by-netgear": {
+      "name": "ARLO Smart Home by NETGEAR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-camcorder": {
+      "name": "Canon camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-kamera-monitor-clm-v-55": {
+      "name": "Sony Kamera-Monitor CLM V-55",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-lens-mod-makro": {
+      "name": "GoPro Lens Mod Makro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-k-1": {
+      "name": "Pentax K-1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-1300d": {
+      "name": "Canon 1300D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "honda-civic-2-2-ctdi-executive": {
+      "name": "Honda Civic 2.2 CTDI Executive",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-14-15-pro-max": {
+      "name": "Apple iPhone 13/14/15 Pro Max",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
