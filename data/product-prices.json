@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T16:14:29.481Z",
+  "updatedAt": "2026-10-08T16:19:21.217Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128Gb",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128GB",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256gb",
+      "name": "Apple iPhone 17 Air 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128GB",
+      "name": "Apple iPhone 13 Pro Max 128 Gb",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -694,7 +694,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim": {
-      "name": "Sony PlayStation 5 slim",
+      "name": "Sony PlayStation 5 Slim",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7564,7 +7564,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-gb": {
-      "name": "Apple MacBook Pro 16 GB",
+      "name": "Apple MacBook Pro 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -8398,8 +8398,8 @@
       "updatedAt": null
     },
     "ktm-e-bike": {
-      "name": "Ktm E-Bike",
-      "category": "Fahrräder",
+      "name": "KTM E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10271,7 +10271,7 @@
     },
     "apple-macbook-air-16-gb": {
       "name": "Apple MacBook Air 16GB",
-      "category": "Laptops",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18694,7 +18694,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-15-16-gb": {
-      "name": "Apple MacBook Pro 15\" 16GB",
+      "name": "Apple MacBook Pro 15\" 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -42209,7 +42209,7 @@
     },
     "batavus-e-bike": {
       "name": "BATAVUS E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -47164,8 +47164,8 @@
       "updatedAt": null
     },
     "sparta-ion-e-bike": {
-      "name": "Sparta Ion E-Bike",
-      "category": "E-Bikes",
+      "name": "Sparta ION E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -60978,6 +60978,162 @@
     "panasonic-lumix-dc-fz82-spiegelreflexkamera": {
       "name": "Panasonic Lumix DC-FZ82 Spiegelreflexkamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-bsp": {
+      "name": "E bike Bsp",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "t16-urlife-e-bike": {
+      "name": "T16 Urlife E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "t16-e-fatbike": {
+      "name": "T16 E-Fatbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "univega-terreno-e-ebike": {
+      "name": "Univega Terreno-e Ebike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hawk-e-bike": {
+      "name": "Hawk E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-tourray-e-5-0-55cm-2023": {
+      "name": "Raymon TourRay E 5.0 55cm 2023",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-grenoble-28-zoll": {
+      "name": "Gazelle E-Bike Grenoble 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aws-e-bike-klapprad": {
+      "name": "AWS E-Bike Klapprad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fahrradtrager-e-bike-eufab": {
+      "name": "Fahrradträger E Bike Eufab",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-sl-e-bike": {
+      "name": "Cube Reaction SL E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-slx-e-bike": {
+      "name": "Cube Reaction SLX E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m3-2024-512-gb": {
+      "name": "Apple MacBook Air 13\" M3 (2024) 512 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-750-ti-4-gb": {
+      "name": "Gigabyte GeForce GTX 750 Ti 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-570-8-gb-gddr5-oc": {
+      "name": "AMD Radeon RX 570 8GB GDDR5 OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-disc-edition-2-tb": {
+      "name": "Sony PlayStation 5 Slim Disc Edition 2TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hori-racing-wheel-apex-rwa": {
+      "name": "HORI Racing Wheel Apex (RWA)",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-edition-1-tb": {
+      "name": "PlayStation 5 Slim Edition 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-pocket-4p-creator-combo": {
+      "name": "DJI Osmo Pocket 4P Creator Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-nex-3n": {
+      "name": "Sony nex 3n",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-a3300-is": {
+      "name": "Canon A3300 is",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "google-nest-cam": {
+      "name": "Google Nest Cam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-wb150f-digitalkamera": {
+      "name": "Samsung WB150F Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-e5700": {
+      "name": "Nikon Coolpix E5700",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-action-4-essential-combo": {
+      "name": "DJI Osmo Action 4 Essential Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-flow-pro": {
+      "name": "Insta360 Flow Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-max-kameraglas-reparatur": {
+      "name": "iPhone 17 Pro Max Kameraglas Reparatur",
+      "category": "Dienstleistungen",
       "referencePrice": null,
       "updatedAt": null
     }
