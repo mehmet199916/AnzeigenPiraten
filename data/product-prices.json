@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T15:04:22.024Z",
+  "updatedAt": "2026-10-08T15:09:32.317Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 gb",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -203,7 +203,7 @@
     },
     "e-bike": {
       "name": "E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256gb",
+      "name": "Apple iPhone 14 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1066,7 +1066,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-plus-128-gb": {
-      "name": "Apple iPhone 14 Plus 128 GB",
+      "name": "Apple iPhone 14 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 365,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim 1TB",
+      "name": "Sony PlayStation 5 Slim 1tb",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8026,7 +8026,7 @@
       "updatedAt": null
     },
     "apple-iphone-air-256-gb": {
-      "name": "Apple iPhone Air 256 GB",
+      "name": "Apple iPhone Air 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -25432,8 +25432,8 @@
       "updatedAt": null
     },
     "gazelle-miss-grace-c7-hmb": {
-      "name": "GAZELLE Miss Grace C7+ HMB",
-      "category": "Fahrräder",
+      "name": "Gazelle Miss Grace C7 HMB",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -58517,6 +58517,186 @@
     },
     "insta360-x4-kamera": {
       "name": "Insta360 X4 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-trail-7-mtb-29": {
+      "name": "Cannondale Trail 7 MTB 29\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "michael-blast-vacay-lady-ebike": {
+      "name": "Michael Blast Vacay Lady ebike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "deruiz-dolomit-29-mtb-hardtail-e-bike-jugend-mountainbike": {
+      "name": "Deruiz Dolomit 29\" MTB Hardtail E-Bike Jugend Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vinora-e-bike-28-zoll-damen": {
+      "name": "Vinora E-Bike 28 Zoll Damen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e121-vevor-faltbarer-fahrradtrager": {
+      "name": "E121 Vevor Faltbarer Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elekwheels-e6x-fatbike": {
+      "name": "Elekwheels E6X Fatbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "velo-de-ville-shimano-fazua-e-bike-city-trekking": {
+      "name": "Velo de Ville Shimano Fazua E-Bike City Trekking",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elos-speed-900e-singlespeed-commuter": {
+      "name": "Elos Speed 900E Singlespeed Commuter",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "schuberth-e2-ece-defender-red": {
+      "name": "Schuberth E2 ECE Defender Red",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trecking-4-yamaha": {
+      "name": "Haibike Trecking 4 Yamaha",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "saxxx-mountainbike": {
+      "name": "SAXXX Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga-p5-rt": {
+      "name": "Kettler Quadriga P5 RT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "abus-hyp-e-ace-e-bike-led-fahrrad-helm": {
+      "name": "ABUS HYP-E Ace E-Bike LED Fahrrad-Helm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-raymon-crossray-e5-0-27-5": {
+      "name": "E-Bike RAYMON CrossRay E5.0 27,5''",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "electra-city-townie-path-go-5i": {
+      "name": "Electra City Townie Path Go 5i",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-fullseven-s": {
+      "name": "Haibike Sduro FullSeven S",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga-cx10": {
+      "name": "Kettler Quadriga CX10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-cgo800s": {
+      "name": "Tenways CGO800S",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-desert-titanium": {
+      "name": "Apple iPhone 16 Pro Desert Titanium",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-white-128-gb": {
+      "name": "Apple iPhone 15 White 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-retina-1-tb": {
+      "name": "Apple MacBook Pro 13\" Retina 1 TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2026-512-gb": {
+      "name": "Apple MacBook Pro 2026 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-gtx-960": {
+      "name": "Palit GeForce GTX 960",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5-slim-digital": {
+      "name": "Sony PS5 Slim Digital",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-m2": {
+      "name": "Leica M2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lionelo-care-babyline-7-1-babyphone": {
+      "name": "Lionelo Care Babyline 7.1 Babyphone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "findoo-profiline-plus": {
+      "name": "Findoo ProfiLine Plus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "honda-crv-frontkamera-driver-assistance": {
+      "name": "HONDA CRV Frontkamera Driver Assistance",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-flexidome-hd-ip-kamera": {
+      "name": "BOSCH FLEXIDOME HD IP Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-spiegelreflex-kamera": {
+      "name": "Voigtländer Spiegelreflex Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
