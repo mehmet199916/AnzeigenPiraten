@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T11:24:33.435Z",
+  "updatedAt": "2026-10-08T11:29:23.334Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -292,7 +292,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini": {
-      "name": "Apple iPhone 13 mini",
+      "name": "Apple iPhone 13 Mini",
       "category": "Smartphones",
       "referencePrice": 220,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -700,7 +700,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-disc-edition-825-gb": {
-      "name": "Sony PlayStation 5 Disc Edition 825GB",
+      "name": "Sony PlayStation 5 Disc Edition 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1822,7 +1822,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512 GB",
+      "name": "Apple iPhone 16 Pro Max 512gb",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4990,7 +4990,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-512-gb": {
-      "name": "Apple MacBook Pro 512GB",
+      "name": "Apple MacBook Pro 512Gb",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -19714,7 +19714,7 @@
       "updatedAt": null
     },
     "apple-iphone-17-pro-max-1-tb": {
-      "name": "Apple iPhone 17 Pro Max 1TB",
+      "name": "Apple iPhone 17 Pro Max 1 TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -34660,7 +34660,7 @@
       "updatedAt": null
     },
     "e-bike-akku": {
-      "name": "E-BIKE Akku",
+      "name": "E-Bike Akku",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -37864,7 +37864,7 @@
       "updatedAt": null
     },
     "lenovo-v15-128-gb": {
-      "name": "Lenovo V15 128GB",
+      "name": "Lenovo V15 128 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -40090,7 +40090,7 @@
       "updatedAt": null
     },
     "iphone-air-256-gb": {
-      "name": "iPhone Air 256GB",
+      "name": "iPhone Air 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -51918,6 +51918,174 @@
     "revue-lux-sound-310-super-8-filmprojektor": {
       "name": "Revue Lux Sound 310 Super 8 Filmprojektor",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-high-11-e-bike": {
+      "name": "Haibike Trekking High 11 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gravelbike-fur-jugendliche": {
+      "name": "Gravelbike für Jugendliche",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powerback-400-e-bike-akku": {
+      "name": "Bosch Powerback 400 E-Bike Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sott-e-bike-trekking": {
+      "name": "Sott E-Bike Trekking",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13-pro-max-iphone-x-256-gb": {
+      "name": "iPhone 13 Pro Max & iPhone X 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-128-gb-ultramarine-blau": {
+      "name": "iPhone 16 128GB Ultramarine Blau",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-pro": {
+      "name": "Apple iPhone Pro",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13-pro-1-tb": {
+      "name": "iPhone 13 Pro 1 TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m2-8-gb": {
+      "name": "MacBook Air M2 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-2-2021-32-gb": {
+      "name": "Apple MacBook Pro 16,2″ (2021) 32 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-touch-bar-core-i7-2-8-ghz-ssd-512": {
+      "name": "MacBook Pro Touch Bar Core i7 2.8 GHz SSD 512",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-ga-h55-ud3h-mainboard": {
+      "name": "Gigabyte GA-H55-UD3H Mainboard",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-gtx-480-windforce-2x-oc-1-gb": {
+      "name": "Gigabyte GTX 480 WindForce 2X OC 1GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-disc-version-1-generation": {
+      "name": "PlayStation 5 Disc Version 1. Generation",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raspberry-pi-kamera-modul": {
+      "name": "Raspberry Pi Kamera Modul",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vantrue-e2-dashcam": {
+      "name": "VANTRUE E2 Dashcam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-zv-1-premium-kompaktkamera": {
+      "name": "Sony ZV-1 Premium Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "instax-mini-12-kamera": {
+      "name": "Instax Mini 12 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dc-s5": {
+      "name": "Panasonic Lumix DC-S5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-s5700-digitalkamera": {
+      "name": "Fujifilm FinePix S5700 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-3": {
+      "name": "GoPro 3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-side-view-kamera": {
+      "name": "BMW Side View Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-omd-em-10-mark-i": {
+      "name": "Olympus OMD EM-10 Mark I",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-isolette": {
+      "name": "AGFA Isolette",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergmann-koch-bkrt7-kamera-set": {
+      "name": "Bergmann & Koch BKRT7 Kamera-Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-3000-ilce-3000": {
+      "name": "Sony Alpha 3000 (ILCE-3000)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rs-2-pro-combo-gimbal": {
+      "name": "DJI RS 2 Pro Combo Gimbal",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diverse-elektrobikes": {
+      "name": "Diverse Elektrobikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
