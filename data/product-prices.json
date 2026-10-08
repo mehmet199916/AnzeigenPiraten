@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T14:19:47.363Z",
+  "updatedAt": "2026-10-08T14:24:34.542Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256 Gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 gb",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1013,7 +1013,7 @@
     },
     "cube-e-bike": {
       "name": "Cube E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,13 +1078,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-512-gb": {
-      "name": "Apple iPhone 17 512 gb",
+      "name": "Apple iPhone 17 512 GB",
       "category": "Smartphones",
       "referencePrice": 800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1828,7 +1828,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128 GB",
+      "name": "Apple iPhone 12 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512GB",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8476,8 +8476,8 @@
       "updatedAt": null
     },
     "giant-e-bike": {
-      "name": "Giant E Bike",
-      "category": "E-Bikes",
+      "name": "Giant e bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9610,8 +9610,8 @@
       "updatedAt": null
     },
     "hori-racing-wheel-apex": {
-      "name": "Hori Racing Wheel Apex",
-      "category": "Controller",
+      "name": "HORI Racing Wheel Apex",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -11248,7 +11248,7 @@
       "updatedAt": null
     },
     "iphone-12-128-gb": {
-      "name": "iPhone 12 128GB",
+      "name": "iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13096,7 +13096,7 @@
       "updatedAt": null
     },
     "canon-ae-1": {
-      "name": "Canon AE-1",
+      "name": "Canon AE 1",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -13216,7 +13216,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-14-2021-16-gb": {
-      "name": "Apple MacBook Pro 14\" 2021 16GB",
+      "name": "Apple MacBook Pro 14 (2021) 16GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -57329,6 +57329,78 @@
     },
     "canon-digital-ixus-75": {
       "name": "Canon Digital IXUS 75",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-stereo-hybrid-race-120": {
+      "name": "CUBE E-Bike Stereo Hybrid Race 120",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-cgo009-ebike-city-trekking": {
+      "name": "TENWAYS CGO009 eBike City & Trekking",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-superior-6030-lady": {
+      "name": "E-Bike Superior 6030 Lady",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raymon-trailray-160e-8-0-e-mountainbike": {
+      "name": "Raymon TrailRay 160E 8.0 E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-16-gb": {
+      "name": "Apple iPhone 17 16gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-geforce-gtx-970-grafikkarte": {
+      "name": "Zotac GeForce GTX 970 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-zubehor": {
+      "name": "Sony PlayStation 5 Zubehör",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-action-5-pro-adventure-combo": {
+      "name": "DJI Action 5 Pro Adventure Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "akaso-360-grad-aktioncam": {
+      "name": "AKASO 360 Grad Aktioncam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx50": {
+      "name": "Sony Cyber-shot DSC-HX50",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-j10": {
+      "name": "Fujifilm FinePix J10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-hdr-cx11e": {
+      "name": "Sony HDR-CX11E",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
