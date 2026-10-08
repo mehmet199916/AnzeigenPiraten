@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T18:29:14.656Z",
+  "updatedAt": "2026-10-08T18:33:58.662Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -280,7 +280,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-512-gb": {
-      "name": "Apple iPhone 17 Pro 512GB",
+      "name": "Apple iPhone 17 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256 GB",
+      "name": "Apple iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2291,7 +2291,7 @@
     },
     "playstation-5-slim-digital-edition": {
       "name": "PlayStation 5 Slim Digital Edition",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Reparaturen",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3598,7 +3598,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-pro-512-gb": {
-      "name": "Apple iPhone 15 Pro 512 GB",
+      "name": "Apple iPhone 15 Pro 512GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8140,8 +8140,8 @@
       "updatedAt": null
     },
     "pegasus-e-bike": {
-      "name": "Pegasus E-BIKE",
-      "category": "E-Bikes",
+      "name": "Pegasus E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -21311,7 +21311,7 @@
     },
     "mokwheel-scoria-3-0-e-bike": {
       "name": "Mokwheel Scoria 3.0 E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -25216,7 +25216,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-plus-256-gb": {
-      "name": "Apple iPhone 15 Plus 256 GB",
+      "name": "Apple iPhone 15 Plus 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -46732,7 +46732,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-64-gb": {
-      "name": "Apple MacBook Pro 16\" 64 GB",
+      "name": "Apple MacBook Pro 16 64GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -64487,6 +64487,60 @@
     },
     "jvc-everio-gz-e105be-camcorder": {
       "name": "JVC Everio GZ-E105BE Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-x100-e-bike": {
+      "name": "Zündapp X100 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-13-zoll-4-gb": {
+      "name": "MacBook Pro 13 Zoll 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-1070-ti": {
+      "name": "NVIDIA GeForce 1070 Ti",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-5060-ti-16-gb-oc": {
+      "name": "NVIDIA RTX 5060 Ti 16GB OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-4060-ti-aero-oc-16-gb": {
+      "name": "Gigabyte GeForce RTX 4060 Ti AERO OC 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-30th-anniversary-limited-edition": {
+      "name": "Sony PlayStation 5 30th Anniversary Limited Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-af-ii-kompaktkamera": {
+      "name": "Minolta AF-II Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "enabot-ebo-se-smart-companion-robot": {
+      "name": "Enabot EBO SE Smart Companion Robot",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atomos-shinobo-go-kamera": {
+      "name": "Atomos Shinobo Go Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
