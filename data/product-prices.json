@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T14:54:25.593Z",
+  "updatedAt": "2026-10-08T14:59:02.146Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256GB",
+      "name": "Apple iPhone 14 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1444,7 +1444,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-256-gb": {
-      "name": "Apple iPhone 14 256GB",
+      "name": "Apple iPhone 14 256 GB",
       "category": "Smartphones",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,19 +1798,19 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256GB",
+      "name": "Apple iPhone 13 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17e-256-gb": {
-      "name": "Apple iPhone 17e 256 GB",
+      "name": "Apple iPhone 17e 256 gb",
       "category": "Smartphones",
       "referencePrice": 610,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3443,7 +3443,7 @@
     },
     "stiga-a8v-mahroboter": {
       "name": "STIGA A8V Mähroboter",
-      "category": "Kameras",
+      "category": "Gartengeräte",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -7282,7 +7282,7 @@
       "updatedAt": null
     },
     "apple-iphone-se-2022": {
-      "name": "Apple iPhone SE (2022)",
+      "name": "Apple iPhone SE 2022",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -16246,8 +16246,8 @@
       "updatedAt": null
     },
     "haibike-trekking-7": {
-      "name": "Haibike Trekking 7",
-      "category": "E-Bikes",
+      "name": "HAIBIKE Trekking 7",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -22834,8 +22834,8 @@
       "updatedAt": null
     },
     "conway-cairon-t-2-0-e-bike": {
-      "name": "CONWAY Cairon T 2.0 E-Bike",
-      "category": "E-Bikes",
+      "name": "Conway Cairon T 2.0 E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -58199,6 +58199,126 @@
     },
     "sony-alpha-7-iv-body": {
       "name": "Sony Alpha 7 IV Body",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-cgo600-pro-2026": {
+      "name": "Tenways CGO600 Pro 2026",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e8x-tour-plus-2025": {
+      "name": "Stevens E8X Tour Plus 2025",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-klapp": {
+      "name": "E-Bike Klapp",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-dreirad": {
+      "name": "E-Bike Dreirad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-unisex-citybike": {
+      "name": "HERCULES Unisex Citybike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "engwe-ep-2-3-0-boost-e-bike": {
+      "name": "ENGWE EP-2 3.0 Boost E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-22696-strada-sport-xl-e-bike": {
+      "name": "Atera 22696 Strada Sport XL E Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-go-tour-e-bike": {
+      "name": "Flyer Go Tour E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-2022-128-gb": {
+      "name": "Apple MacBook Air M2 (2022) 128 gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asrock-challenger-pro-rx6750-xt-256-gb": {
+      "name": "Asrock Challenger Pro RX6750 XT 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-5090-32-gb": {
+      "name": "NVIDIA GeForce RTX 5090 32GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-go-kamera": {
+      "name": "Insta360-Go-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asahi-pentax-fotoaparate": {
+      "name": "ASAHI PENTAX Fotoaparate",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cybershot-dsc-f717": {
+      "name": "Sony Cybershot DSC-F717",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "case-logic-kameratasche": {
+      "name": "Case Logic Kameratasche",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "belca-beltica-fotokamera": {
+      "name": "Belca Beltica Fotokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cybershot-dsc-wx350": {
+      "name": "Sony Cybershot DSC WX350",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fotokamera": {
+      "name": "Fotokamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-eos-kofferset": {
+      "name": "VW Eos Kofferset",
+      "category": "Koffer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exakta-praktica-revue": {
+      "name": "Exakta, Praktica, Revue",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
