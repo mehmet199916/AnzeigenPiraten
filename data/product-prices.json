@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T14:44:14.176Z",
+  "updatedAt": "2026-10-08T14:49:20.403Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -203,7 +203,7 @@
     },
     "e-bike": {
       "name": "E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -478,8 +478,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-rtx-3080-ti-12-gb": {
-      "name": "NVIDIA RTX 3080 Ti 12GB",
-      "category": "Grafikkarten",
+      "name": "NVIDIA RTX 3080 TI 12GB",
+      "category": "Computer",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2674,7 +2674,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128GB",
+      "name": "Apple iPhone 16 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5572,7 +5572,7 @@
       "updatedAt": null
     },
     "apple-macbook-neo-8-gb": {
-      "name": "Apple MacBook Neo 8GB",
+      "name": "Apple MacBook Neo 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -31594,8 +31594,8 @@
       "updatedAt": null
     },
     "fafrees-f1-e-bike": {
-      "name": "FAFREES F1 E-Bike",
-      "category": "Fahrräder",
+      "name": "Fafrees F1 E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -42610,7 +42610,7 @@
       "updatedAt": null
     },
     "canon-ixus-digitalkamera": {
-      "name": "Canon Ixus Digitalkamera",
+      "name": "Canon IXUS Digitalkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -52151,7 +52151,7 @@
     },
     "asus-dual-radeon-rx-9060-xt-16-gb": {
       "name": "ASUS Dual Radeon RX 9060 XT 16GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -56830,8 +56830,8 @@
       "updatedAt": null
     },
     "cube-touring-hybrid-one-625": {
-      "name": "Cube Touring hybrid one 625",
-      "category": "E-Bikes",
+      "name": "Cube Touring Hybrid ONE 625",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -57893,6 +57893,168 @@
     },
     "vintage-voigtlander-kamera": {
       "name": "Vintage Voigtländer Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-htx-2-7-hybrid-e-bike": {
+      "name": "Ghost HTX 2.7 Hybrid E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-easyfold-xt3-934-fahrradtrager": {
+      "name": "Thule Easyfold XT3 934 Fahrradträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-akku-mit-passendem-akkutrager": {
+      "name": "E-Bike Akku mit passendem Akkuträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "28-zoll-damenfahrrad-nabendynamo-licht": {
+      "name": "28 Zoll Damenfahrrad (nabendynamo licht)",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "benno-bikes-remidemi": {
+      "name": "Benno Bikes Remidemi",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "himiway-c5-premium-moped-style-ultra": {
+      "name": "Himiway C5 Premium Moped Style ULTRA",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-mountainbike-dice-1-0": {
+      "name": "Prophete E-Bike Mountainbike Dice 1.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-cube-herren": {
+      "name": "E-Bike cube Herren",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agattu-3-b-move": {
+      "name": "Kalkhoff Agattu 3.B Move",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-7-plus-32-gb": {
+      "name": "iPhone 7 Plus 32GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-15-pro-256-gb-space-grau": {
+      "name": "iPhone 15 Pro (256GB, Space grau)",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-retina-2019-16-gb": {
+      "name": "Apple MacBook Air 13\" Retina 2019 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-cerberus-geforce-gtx-1050-ti-advanced-edition-4-gb": {
+      "name": "ASUS Cerberus GeForce GTX 1050 Ti Advanced Edition 4 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1060-oc-6-gb": {
+      "name": "Nvidia GeForce GTX 1060 OC 6GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-scuff-controller": {
+      "name": "Sony PlayStation 5 Scuff Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "psp": {
+      "name": "PSP",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-dualsense-controller-30th-anniversary-edition": {
+      "name": "Sony PlayStation 5 DualSense Controller 30th Anniversary Edition",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "meta-quest-2": {
+      "name": "Meta Quest 2",
+      "category": "Gaming",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-digital-slim-1-tb": {
+      "name": "Sony PlayStation 5 Digital Slim 1TB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz100-digitalkamera": {
+      "name": "Panasonic Lumix DMC-FZ100 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bolex-sm-80-electronic-super-8-tonfilmprojektor": {
+      "name": "Bolex SM 80 electronic Super 8 Tonfilmprojektor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-easyshare-z950-digitalkamera": {
+      "name": "Kodak EasyShare Z950 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-action-6-standard-combo": {
+      "name": "DJI Osmo Action 6 Standard Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ihagee-exa-1a": {
+      "name": "Ihagee Exa 1a",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-super-8-filmkamera": {
+      "name": "Canon Super 8 Filmkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hp-photosmart-m447-digitalkamera": {
+      "name": "HP Photosmart M447 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aqua-tv-hr-600-m-unterwasserkamera": {
+      "name": "Aqua TV HR 600-M Unterwasserkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
