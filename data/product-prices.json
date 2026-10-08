@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T10:24:42.626Z",
+  "updatedAt": "2026-10-08T10:30:07.719Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -622,8 +622,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-geforce-rtx-2070-8-gb": {
-      "name": "Nvidia GeForce RTX 2070 8GB",
-      "category": "Grafikkarten",
+      "name": "NVIDIA GeForce RTX 2070 8GB",
+      "category": "Computer",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2284,7 +2284,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-slim-1-tb": {
-      "name": "Sony PlayStation 5 Slim (1 TB)",
+      "name": "Sony PlayStation 5 Slim 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2674,13 +2674,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128GB",
+      "name": "Apple iPhone 16 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-256-gb": {
-      "name": "Apple iPhone 11 Pro 256GB",
+      "name": "Apple iPhone 11 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3263,7 +3263,7 @@
     },
     "amd-radeon-rx-6700-xt-12-gb": {
       "name": "AMD Radeon RX 6700 XT 12GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 250,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4757,7 +4757,7 @@
     },
     "sony-dualsense-controller": {
       "name": "Sony DualSense Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7517,7 +7517,7 @@
     },
     "apple-iphone-14-pro-max-512-gb": {
       "name": "Apple iPhone 14 Pro Max 512GB",
-      "category": "Smartphones",
+      "category": "smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13672,7 +13672,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-zoll-retina": {
-      "name": "Apple MacBook Pro 13-Zoll Retina",
+      "name": "Apple MacBook Pro 13 Zoll Retina",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -25540,8 +25540,8 @@
       "updatedAt": null
     },
     "scott-strike-eride-940": {
-      "name": "Scott Strike eRIDE 940",
-      "category": "Fahrräder",
+      "name": "Scott Strike eRide 940",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26272,7 +26272,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-14-zoll-512-gb": {
-      "name": "Apple MacBook Pro 14 Zoll 512 GB",
+      "name": "Apple MacBook Pro 14 Zoll 512GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -50010,6 +50010,132 @@
     "apple-iphone-17-e": {
       "name": "Apple iPhone 17 e",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fatbikes": {
+      "name": "Fatbikes",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-e-imperial-xxl-e-bike": {
+      "name": "Hercules E-Imperial XXL E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rockrider-est-500-e-mtm-gro-e-m-27-420wh": {
+      "name": "Rockrider EST-500 E-MTM-Größe M 27\" 420Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "viktoria-e-bike-classic-7-5": {
+      "name": "Viktoria E-Bike Classic 7.5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "poisen-cadmium-pro-tour": {
+      "name": "Poisen Cadmium Pro Tour",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-sonic-evo-am3": {
+      "name": "Bulls Sonic EVO AM3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bbf-monaco-klapprad": {
+      "name": "BBF Monaco Klapprad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-128-gb": {
+      "name": "Apple MacBook Air M1 128 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-zoll-512-gb": {
+      "name": "Apple MacBook Pro 16 Zoll 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-9070-xt-16-gb": {
+      "name": "AMD Radeon 9070 XT 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1080-8-gb-gddr5x": {
+      "name": "NVIDIA GeForce GTX 1080 8GB GDDR5X",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-radeon-rx-5700-xt-gaming-oc-8g-8-gb": {
+      "name": "Gigabyte Radeon RX 5700 XT Gaming OC 8G 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1070-armor-8g-oc": {
+      "name": "MSI GeForce GTX 1070 Armor 8G OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-4070-super-trinity-black-edition-12-gb": {
+      "name": "NVIDIA GeForce RTX 4070 SUPER Trinity Black Edition 12 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orinox-7x20-fernglas-kamera": {
+      "name": "Orinox 7x20 Fernglas-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hitachi-vk-c850-color-video-kamera": {
+      "name": "Hitachi VK-C850 Color Video Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-action-4-128-gb": {
+      "name": "DJI Osmo Action 4 128GB",
+      "category": "kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-7000-spiegelreflexkamera": {
+      "name": "Minolta 7000 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-5d": {
+      "name": "Canon EOS 5D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-e-bike": {
+      "name": "Specialized E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reparatur-frontkamera-vw-audi-c110702-c1107-c1108-touareg": {
+      "name": "Reparatur Frontkamera VW Audi C110702 C1107 C1108 Touareg",
+      "category": "Dienstleistungen",
       "referencePrice": null,
       "updatedAt": null
     }
