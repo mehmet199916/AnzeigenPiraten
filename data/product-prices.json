@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-08T12:20:08.194Z",
+  "updatedAt": "2026-10-08T12:25:22.349Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256Gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256GB",
+      "name": "Apple iPhone 17 Air 256 Gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128GB",
+      "name": "Apple iPhone 13 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,7 +328,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256 GB",
+      "name": "Apple iPhone 14 Pro MAX 256GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1768,7 +1768,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16e-128-gb": {
-      "name": "Apple iPhone 16e 128 GB",
+      "name": "Apple iPhone 16E 128 GB",
       "category": "Smartphones",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128GB",
+      "name": "Apple iPhone 12 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512GB",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6718,7 +6718,7 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-512-gb": {
-      "name": "Apple iPhone 11 Pro 512GB",
+      "name": "Apple iPhone 11 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7516,7 +7516,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-max-512-gb": {
-      "name": "Apple iPhone 14 Pro Max 512GB",
+      "name": "Apple iPhone 14 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro Max 256 GB",
+      "name": "iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8770,7 +8770,7 @@
       "updatedAt": null
     },
     "sony-playstation-4-500-gb": {
-      "name": "Sony PlayStation 4 500 GB",
+      "name": "Sony PlayStation 4 500GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -9904,7 +9904,7 @@
       "updatedAt": null
     },
     "panasonic-lumix-dmc-fz200": {
-      "name": "Panasonic Lumix DMC-FZ200",
+      "name": "Panasonic Lumix DMC FZ200",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -12281,7 +12281,7 @@
     },
     "scott-e-bike": {
       "name": "Scott E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -53753,6 +53753,132 @@
     },
     "yashica-auto-focus": {
       "name": "Yashica Auto Focus",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-x100": {
+      "name": "Zündapp X100",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-sonic-evo-sx1": {
+      "name": "Bulls Sonic EVO SX1",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-ago-t-ebike-city-trekking": {
+      "name": "Tenways AGO-T eBike City & Trekking",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-vitality-eco-e-bike": {
+      "name": "Kreidler Vitality Eco E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-t-2-0-625": {
+      "name": "Conway Cairon T 2.0 625",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-2020": {
+      "name": "Apple MacBook Air 13 Zoll 2020",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "inno3d-geforce-rtx-2070-8-gb-gddr6": {
+      "name": "Inno3D GeForce RTX 2070 8 GB GDDR6",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-3080-msi-10-gb": {
+      "name": "NVIDIA RTX 3080 MSI 10GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-tuf-gaming-rtx-5070-ti-oc-16-gb": {
+      "name": "ASUS TUF Gaming RTX 5070 Ti OC 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1000f-n": {
+      "name": "Canon EOS 1000F N",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dc-tz202d-64-gb": {
+      "name": "Panasonic LUMIX DC-TZ202D 64GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-supercolor-645-cl": {
+      "name": "Polaroid Supercolor 645 CL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-255-hs": {
+      "name": "Canon IXUS 255 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jvc-video-kamera": {
+      "name": "JVC Video Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-iv-kleinbild-spiegelreflexkamera": {
+      "name": "Praktica IV Kleinbild Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "neewer-2-in-1-kamerarucksack-mit-rollen": {
+      "name": "Neewer 2-in-1 Kamerarucksack mit Rollen",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1d-x-mark-ii-256-gb": {
+      "name": "Canon EOS-1D X Mark II 256GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-prima-super-135-n-analoge-kompaktkamera": {
+      "name": "Canon Prima Super 135 N analoge Kompaktkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-t50": {
+      "name": "Canon T50",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "praktica-lb-2-spiegelreflexkamera": {
+      "name": "Praktica LB 2 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-r50-mit-rf-s-18-45mm-f4-5-6-3-is-stm-kit": {
+      "name": "Canon EOS R50 mit RF-S 18-45mm F4.5-6.3 IS STM Kit",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
