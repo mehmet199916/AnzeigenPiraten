@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T11:20:37.559Z",
+  "updatedAt": "2026-10-09T11:25:28.568Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 gb",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -677,7 +677,7 @@
     },
     "sony-playstation-5-dualsense-controller": {
       "name": "Sony PlayStation 5 DualSense Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256 GB",
+      "name": "Apple iPhone 15 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7606,7 +7606,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-1-tb": {
-      "name": "Sony PlayStation 5 1 TB",
+      "name": "Sony PlayStation 5 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -24472,8 +24472,8 @@
       "updatedAt": null
     },
     "cube-reaction-hybrid-pro-750": {
-      "name": "CUBE Reaction Hybrid Pro 750",
-      "category": "E-Bikes",
+      "name": "Cube Reaction Hybrid Pro 750",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33701,7 +33701,7 @@
     },
     "raleigh-leeds-compact": {
       "name": "Raleigh Leeds Compact",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -51610,7 +51610,7 @@
       "updatedAt": null
     },
     "e-bike-herren-29": {
-      "name": "E-Bike Herren 29\"",
+      "name": "E Bike Herren 29\"",
       "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
@@ -51814,7 +51814,7 @@
       "updatedAt": null
     },
     "allegro-invisible-alltour-atil-03-e-bike": {
-      "name": "ALLEGRO Invisible Alltour ATIL°03 E-Bike",
+      "name": "AlLEGRO Invisible Alltour ATIL°03 E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -56579,7 +56579,7 @@
     },
     "focus-aventura-6-7": {
       "name": "Focus Aventura 6.7",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -67865,6 +67865,162 @@
     },
     "insta360-go-2": {
       "name": "Insta360 GO 2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-stoker-bs40": {
+      "name": "Raleigh Stoker BS40",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bbf-pedelec-faltrad-e-bike": {
+      "name": "BBF Pedelec Faltrad e-bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-citybike": {
+      "name": "e Bike Citybike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-e-bike-26-zoll": {
+      "name": "Kalkhoff E-Bike 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-team-xl": {
+      "name": "KTM Macina Team XL",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-damen-cityrad": {
+      "name": "Winora Damen Cityrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-trekking": {
+      "name": "Bosch E-Bike Trekking",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nuride-e-bike-cube-50-cm": {
+      "name": "Nuride E-Bike Cube 50 cm",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-x-64-gb": {
+      "name": "iPhone X 64 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11-pro-128-gb": {
+      "name": "Apple iPhone 11 Pro 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rx-580-grafikkarte-8-gb": {
+      "name": "ASUS RX 580 Grafikkarte 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-rtx-2070-strix-8-gb": {
+      "name": "ASUS GeForce RTX 2070 STRIX 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sapphire-radeon-rx-580-nitro-4-gb": {
+      "name": "Sapphire Radeon RX 580 NITRO+ 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-vr-brille": {
+      "name": "PlayStation 5 VR Brille",
+      "category": "Gaming",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6000-128-gb": {
+      "name": "Sony Alpha 6000 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-1j4": {
+      "name": "Nikon 1J4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-inspire-1-gimbal-kamera": {
+      "name": "DJI Inspire 1 Gimbal Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-giro-140": {
+      "name": "Rollei Giro 140",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischertechnik-robotics-txt-controller": {
+      "name": "fischertechnik ROBOTICS TXT Controller",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-camedia-c-3030": {
+      "name": "Olympus Camedia C-3030",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "braun-nizo-s30-super-8": {
+      "name": "Braun Nizo S30 Super 8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-om-2": {
+      "name": "Olympus OM-2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "porta-brace-kameratasche": {
+      "name": "Porta Brace Kameratasche",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-35-analogkamera": {
+      "name": "Rollei 35 Analogkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-360-essential": {
+      "name": "DJI Osmo 360 Essential",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zeiss-ikon-kamera": {
+      "name": "Zeiss Ikon Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
