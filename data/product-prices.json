@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T12:44:12.176Z",
+  "updatedAt": "2026-10-09T12:49:13.106Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128 GB",
+      "name": "Apple iPhone 15 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256 GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1330,7 +1330,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-pro-2-tb": {
-      "name": "Sony PlayStation 5 Pro 2 TB",
+      "name": "Sony PlayStation 5 Pro 2tb",
       "category": "Spielekonsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256GB",
+      "name": "Apple iPhone 15 256gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8014,7 +8014,7 @@
       "updatedAt": null
     },
     "iphone-17e-256-gb": {
-      "name": "iPhone 17e 256 GB",
+      "name": "iPhone 17e 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -10673,7 +10673,7 @@
     },
     "kalkhoff-e-bike-28-zoll": {
       "name": "Kalkhoff E Bike 28 Zoll",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -12568,7 +12568,7 @@
       "updatedAt": null
     },
     "iphone-14-pro-max-128-gb": {
-      "name": "iPhone 14 Pro Max 128 Gb",
+      "name": "iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -14614,8 +14614,8 @@
       "updatedAt": null
     },
     "victoria-e-bike": {
-      "name": "Victoria e-bike",
-      "category": "Fahrräder",
+      "name": "Victoria E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -51370,7 +51370,7 @@
       "updatedAt": null
     },
     "minox-35-gt": {
-      "name": "MINOX 35 GT",
+      "name": "Minox 35 GT",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -61504,7 +61504,7 @@
       "updatedAt": null
     },
     "nikon-coolpix-p7100": {
-      "name": "Nikon Coolpix P7100",
+      "name": "Nikon Coolpix p7100",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -68968,7 +68968,7 @@
       "updatedAt": null
     },
     "tp-link-tapo-c425": {
-      "name": "TP-Link TAPO C425",
+      "name": "TP-Link Tapo C425",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -70181,6 +70181,108 @@
     },
     "owlet-dream-duo": {
       "name": "Owlet Dream Duo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mokwheel-e-bike-elektrofahrrad-fatbike": {
+      "name": "Mokwheel E-Bike Elektrofahrrad Fatbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-cube-damen": {
+      "name": "E- Bike Cube Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "brennabor-e-bike-28-zoll": {
+      "name": "Brennabor E-Bike 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rotwild-city-e-bike": {
+      "name": "ROTWILD City-E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-mountainbike-e-bike": {
+      "name": "Fischer Mountainbike E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-bpc3400-e-bike-akku-ladegerat": {
+      "name": "Bosch BPC3400 E-Bike Akku Ladegerät",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "saxonette-selection-e-bike": {
+      "name": "Saxonette Selection E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-stance-e-1-625": {
+      "name": "Giant Stance E+ 1 625",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-teal-128-gb": {
+      "name": "Apple iPhone 16 Teal 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-a1398": {
+      "name": "Apple MacBook Pro A1398",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-gtx-1060-6-gb": {
+      "name": "ASUS ROG Strix GeForce GTX 1060 6GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thrustmaster-t98-ferrari-296-gtb": {
+      "name": "Thrustmaster T98 Ferrari 296 GTB",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-5d-mk4": {
+      "name": "Canon 5D mk4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-600d-slr-digitalkamera": {
+      "name": "Canon EOS 600D SLR-Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-p500": {
+      "name": "Nikon Coolpix P500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f90x": {
+      "name": "Nikon F90X",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vauxhall-astra-frontkamera": {
+      "name": "Vauxhall Astra Frontkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
