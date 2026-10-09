@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T12:49:13.106Z",
+  "updatedAt": "2026-10-09T12:54:15.218Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64 GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -946,8 +946,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "hercules-e-bike": {
-      "name": "HERCULES E-Bike",
-      "category": "Fahrräder",
+      "name": "Hercules E Bike",
+      "category": "E-Bikes",
       "referencePrice": 900,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512 GB",
+      "name": "Apple iPhone 17 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3964,7 +3964,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-13": {
-      "name": "Apple MacBook Air 13",
+      "name": "Apple MacBook Air 13\"",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -4564,7 +4564,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-825-gb": {
-      "name": "Sony PlayStation 5 Slim 825 GB",
+      "name": "Sony PlayStation 5 Slim 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -5033,7 +5033,7 @@
     },
     "sony-playstation-5-slim-disc-edition": {
       "name": "Sony PlayStation 5 Slim Disc Edition",
-      "category": "Smartphones",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6503,7 +6503,7 @@
     },
     "giant-talon-e-ex": {
       "name": "Giant Talon e+ EX",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9773,7 +9773,7 @@
     },
     "canyon-precede-on-5-e-bike": {
       "name": "Canyon Precede ON 5 E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -27262,7 +27262,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-plus-256-gb": {
-      "name": "Apple iPhone 16 Plus 256GB",
+      "name": "Apple iPhone 16 Plus 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -58835,7 +58835,7 @@
     },
     "assassin-s-creed-black-flag-resynced": {
       "name": "Assassin's Creed Black Flag Resynced",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -61306,8 +61306,8 @@
       "updatedAt": null
     },
     "cube-kathmandu-hybrid-pro-625": {
-      "name": "Cube Kathmandu Hybrid Pro 625",
-      "category": "Fahrräder",
+      "name": "CUBE Kathmandu Hybrid Pro 625",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -66586,7 +66586,7 @@
       "updatedAt": null
     },
     "fujifilm-instax-mini-70": {
-      "name": "Fujifilm Instax mini 70",
+      "name": "Fujifilm instax mini 70",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -70283,6 +70283,150 @@
     },
     "vauxhall-astra-frontkamera": {
       "name": "Vauxhall Astra Frontkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-suv-5-0": {
+      "name": "Conway Cairon SUV 5.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-e-bike-damen-28-zoll": {
+      "name": "Kettler E-Bike Damen 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yt-industries-decoy-mx-core1-black": {
+      "name": "YT Industries Decoy MX Core1 Black",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-horizon-fse-expert": {
+      "name": "Bergamont E-Horizon FSE Expert",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-green-7-7-e-bike": {
+      "name": "Zündapp Green 7.7 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-batterie-fur-e-bike": {
+      "name": "Samsung Batterie für E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-120-pro-750": {
+      "name": "Cube Stereo Hybrid 120 Pro 750",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-horizon-7": {
+      "name": "Bergamont E-Horizon 7",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "oneplus-open-1-tb": {
+      "name": "OnePlus Open 1TB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-pro-265-gb": {
+      "name": "Apple iPhone 16 Pro 265 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m2-16-16-gb": {
+      "name": "Apple MacBook Pro M2 16\" 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-6-zoll": {
+      "name": "Apple MacBook Air 13,6 Zoll",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-rtx-2060-dual-evo-6-gb-gddr6": {
+      "name": "ASUS GeForce RTX 2060 Dual EVO 6GB GDDR6",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-5070-ti-amp-extreme-infinity-16-gb-gddr7": {
+      "name": "Zotac Gaming GeForce RTX 5070 Ti AMP Extreme Infinity 16GB GDDR7",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-nvidia-geforce-rtx-2060-super-evo-8-gb": {
+      "name": "ASUS NVIDIA GeForce RTX 2060 SUPER EVO 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "beurer-babyphone": {
+      "name": "Beurer Babyphone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentacon-f": {
+      "name": "Pentacon F",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ai-sprachubersetzer-s-85": {
+      "name": "AI Sprachübersetzer S 85",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "opel-crossland-x-frontkamera-p17": {
+      "name": "Opel Crossland X Frontkamera (P17)",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6000-systemkamera-set": {
+      "name": "Sony Alpha 6000 Systemkamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-7ii-inkl-28-70mm-objektiv-32-gb": {
+      "name": "Sony Alpha 7II inkl. 28-70mm Objektiv 32GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mitsubishi-outlander-iii-kamerasensor": {
+      "name": "Mitsubishi Outlander III Kamerasensor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-g5-x-mark-i": {
+      "name": "Canon PowerShot G5 X Mark I",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zhiyun-crane-m2-s-combo-gimbal": {
+      "name": "Zhiyun CRANE-M2 S Combo Gimbal",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
