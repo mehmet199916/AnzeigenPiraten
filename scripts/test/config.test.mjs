@@ -35,3 +35,9 @@ test('AI_REASONING_EFFORT overrides the configured reasoning effort', async () =
   const fallback = await loadConfig(configPath, {});
   assert.equal(fallback.ai.reasoningEffort, '');
 });
+
+test('price history is kept forever by default and one sample can be a reference', async () => {
+  const config = await loadConfig(configPath, {});
+  assert.equal(config.database.historyMaxPointsPerListing, 0);
+  assert.equal(config.database.minSamplesForReference, 1);
+});

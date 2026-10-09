@@ -24,7 +24,10 @@ import {
 import {
   compareProductPrice,
   loadPriceDb,
+  productHistoryPointCount,
   prunePriceDb,
+  recordProductPriceHistory,
+  refreshProductStats,
   savePriceDb,
   updateProductPriceDb,
 } from './lib/prices.mjs';
@@ -200,14 +203,26 @@ async function main() {
   // Store asking prices by canonical product key and compare each listing only
   // against other listings for the same model/variant.
   updateProductPriceDb(priceDb, limitedDeals, timestamp);
+  // Permanent per-listing price history: appended on price changes only, never
+  // overwritten, and backfilled from observations on the first run.
+  recordProductPriceHistory(priceDb, limitedDeals, timestamp);
   prunePriceDb(priceDb, {
     maxEntries: config.database.maxEntries,
     maxAgeDays: config.database.maxAgeDays,
+    maxHistoryPointsPerListing: config.database.historyMaxPointsPerListing,
   });
+  // Average of the collected prices per product -> automatic reference price.
+  refreshProductStats(priceDb, timestamp);
   const deals = limitedDeals.map((deal) => ({
     ...deal,
     priceComparison: compareProductPrice(priceDb, deal.product?.key, deal.id, deal.price),
-    referencePriceCheck: checkProductPrice(productCatalog, deal.product?.key, deal.price),
+    referencePriceCheck: checkProductPrice(
+      productCatalog,
+      deal.product?.key,
+      deal.price,
+      priceDb.products?.[deal.product?.key]?.stats ?? null,
+      config.database.minSamplesForReference,
+    ),
   }));
 
   // --- persist --------------------------------------------------------------
@@ -244,6 +259,9 @@ async function main() {
       products: Object.keys(priceDb.products ?? {}).length,
       observations: Object.values(priceDb.products ?? {})
         .reduce((total, product) => total + Object.keys(product.observations ?? {}).length, 0),
+      historyPoints: productHistoryPointCount(priceDb),
+      productsWithHistory: Object.values(priceDb.products ?? {})
+        .filter((product) => Object.keys(product.history ?? {}).length).length,
       comparableListings: deals.filter((deal) => (
         ['below_observed_range', 'within_observed_range', 'above_observed_range']
           .includes(deal.priceComparison?.status)
@@ -298,7 +316,7 @@ async function writeStepSummary(meta, deals) {
     `- **Listings fetched:** ${meta.fetchedListings}`,
     `- **New deals:** ${meta.newDeals}`,
     `- **Classified this run:** ${meta.classified}`,
-    `- **Products in price DB:** ${meta.priceDatabase.products} (${meta.priceDatabase.observations} observations; ${meta.priceDatabase.comparableListings} comparable listings)`,
+    `- **Products in price DB:** ${meta.priceDatabase.products} (${meta.priceDatabase.observations} observations; ${meta.priceDatabase.historyPoints} history points; ${meta.priceDatabase.comparableListings} comparable listings)`,
     `- **Manual product prices:** ${meta.productPriceCatalog.pricesSet} of ${meta.productPriceCatalog.products} set; ${meta.productPriceCatalog.goodPriceListings} listings below reference price`,
     `- **Total deals stored:** ${meta.totalDeals}`,
     `- **Duration:** ${(meta.durationMs / 1000).toFixed(1)}s`,

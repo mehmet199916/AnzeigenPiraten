@@ -1,7 +1,10 @@
 /**
  * Observed asking-price database plus a legacy per-listing evaluation cache.
  *
- * `products` holds observed asking prices used for market comparisons.
+ * `products` holds observed asking prices used for market comparisons plus a
+ * permanent per-listing price history (`product.history`) that scans append to
+ * but never overwrite; `product.stats.average` is derived from that history
+ * and serves as the automatic reference price when no manual price is set.
  * `entries` and its helpers are retained for compatibility with older saved
  * evaluations; current scans do not invoke an evaluation model. Manual
  * per-product reference prices live separately in data/product-prices.json.
@@ -98,7 +101,7 @@ export function setPriceEntry(db, id, entry, timestamp = new Date().toISOString(
  * @param {object} db
  * @param {{ maxEntries?: number, maxAgeDays?: number, now?: number }} [options]
  */
-export function prunePriceDb(db, { maxEntries = 0, maxAgeDays = 0, now = Date.now() } = {}) {
+export function prunePriceDb(db, { maxEntries = 0, maxAgeDays = 0, maxHistoryPointsPerListing = 0, now = Date.now() } = {}) {
   if (!db?.entries) return db;
 
   let entries = Object.entries(db.entries);
@@ -131,7 +134,11 @@ export function prunePriceDb(db, { maxEntries = 0, maxAgeDays = 0, now = Date.no
       }
       allObservations.push({ productKey, id, stamp });
     }
-    if (!Object.keys(product.observations ?? {}).length) delete db.products[productKey];
+    // Products that still hold collected price history are never dropped: only
+    // the comparison window above is pruned, the history itself is kept.
+    if (!Object.keys(product.observations ?? {}).length && !Object.keys(product.history ?? {}).length) {
+      delete db.products[productKey];
+    }
   }
 
   if (maxEntries > 0 && allObservations.length > maxEntries) {
@@ -141,7 +148,21 @@ export function prunePriceDb(db, { maxEntries = 0, maxAgeDays = 0, now = Date.no
       delete db.listingIndex[id];
     }
     for (const [key, product] of Object.entries(db.products)) {
-      if (!Object.keys(product.observations ?? {}).length) delete db.products[key];
+      if (!Object.keys(product.observations ?? {}).length && !Object.keys(product.history ?? {}).length) {
+        delete db.products[key];
+      }
+    }
+  }
+
+  // Optional safety valve for the permanent history (0 = keep everything).
+  if (maxHistoryPointsPerListing > 0) {
+    for (const product of Object.values(db.products ?? {})) {
+      if (!product.history) continue;
+      for (const [id, points] of Object.entries(product.history)) {
+        if (points.length > maxHistoryPointsPerListing) {
+          product.history[id] = points.slice(-maxHistoryPointsPerListing);
+        }
+      }
     }
   }
   return db;
@@ -157,10 +178,9 @@ export function updateProductPriceDb(db, listings, timestamp = new Date().toISOS
     if (!productKey || productKey === 'unknown' || !Number.isFinite(listing.price) || listing.price <= 0) continue;
 
     const previousKey = db.listingIndex[id];
-    if (previousKey && previousKey !== productKey) {
-      delete db.products[previousKey]?.observations?.[id];
-      if (!Object.keys(db.products[previousKey]?.observations ?? {}).length) delete db.products[previousKey];
-    }
+    const previousProduct = previousKey && previousKey !== productKey
+      ? db.products[previousKey]
+      : null;
 
     const product = db.products[productKey] ?? {
       key: productKey,
@@ -179,9 +199,132 @@ export function updateProductPriceDb(db, listings, timestamp = new Date().toISOS
     };
     db.products[productKey] = product;
     db.listingIndex[id] = productKey;
+
+    if (previousProduct) {
+      // Keep collected history with the listing when its classification changes.
+      const movedHistory = previousProduct.history?.[id];
+      if (movedHistory) {
+        product.history ??= {};
+        product.history[id] = movedHistory;
+        delete previousProduct.history[id];
+        if (!Object.keys(previousProduct.history).length) delete previousProduct.history;
+      }
+      delete previousProduct.observations?.[id];
+      if (!Object.keys(previousProduct.observations ?? {}).length
+        && !Object.keys(previousProduct.history ?? {}).length) {
+        delete db.products[previousKey];
+      }
+    }
   }
   db.updatedAt = timestamp;
   return db;
+}
+
+/**
+ * Records the permanent price history of every product: one timeline of price
+ * points per listing id under `product.history[listingId]`. Points are only
+ * appended when a listing's price actually changes, and existing points are
+ * never overwritten by later scans. Listings recorded before history existed
+ * are seeded once from their stored observation so past data is not lost.
+ *
+ * @param {object} db
+ * @param {Array} listings
+ * @param {string} [timestamp]
+ */
+export function recordProductPriceHistory(db, listings, timestamp = new Date().toISOString()) {
+  db.products ??= {};
+  db.listingIndex ??= {};
+
+  // Backfill: seed history from observations captured before history existed.
+  for (const product of Object.values(db.products)) {
+    product.history ??= {};
+    for (const [id, observation] of Object.entries(product.observations ?? {})) {
+      if (product.history[id]?.length) continue;
+      const seedPrice = Number(observation.askingPrice);
+      if (!Number.isFinite(seedPrice) || seedPrice <= 0) continue;
+      product.history[id] = [{ price: seedPrice, at: observation.lastSeenAt ?? timestamp }];
+    }
+  }
+
+  for (const listing of listings) {
+    const id = String(listing.id);
+    const productKey = listing.product?.key;
+    const price = Number(listing.price);
+    if (!productKey || productKey === 'unknown' || !Number.isFinite(price) || price <= 0) continue;
+
+    const product = db.products[productKey] ?? {
+      key: productKey,
+      name: listing.product.name,
+      category: listing.product.category,
+      observations: {},
+    };
+    product.history ??= {};
+    const points = product.history[id] ?? (product.history[id] = []);
+    const last = points[points.length - 1];
+    if (!last || Number(last.price) !== price) {
+      points.push({ price, at: timestamp });
+    }
+    db.products[productKey] = product;
+    db.listingIndex[id] = productKey;
+  }
+
+  db.updatedAt = timestamp;
+  return db;
+}
+
+/**
+ * Derives per-product statistics from the collected price history.
+ * `stats.average` is the observed average asking price used as the automatic
+ * reference price when a product has no manual `referencePrice`.
+ *
+ * @param {object} db
+ * @param {string} [timestamp]
+ */
+export function refreshProductStats(db, timestamp = new Date().toISOString()) {
+  db.products ??= {};
+  for (const product of Object.values(db.products)) {
+    let count = 0;
+    let total = 0;
+    let min = Infinity;
+    let max = -Infinity;
+    let listingsWithHistory = 0;
+
+    for (const points of Object.values(product.history ?? {})) {
+      if (points.length) listingsWithHistory += 1;
+      for (const point of points) {
+        const price = Number(point?.price);
+        if (!Number.isFinite(price) || price <= 0) continue;
+        count += 1;
+        total += price;
+        if (price < min) min = price;
+        if (price > max) max = price;
+      }
+    }
+
+    if (!count) {
+      delete product.stats;
+      continue;
+    }
+
+    product.stats = {
+      average: round(total / count, 2),
+      count,
+      listings: listingsWithHistory,
+      min: round(min, 0),
+      max: round(max, 0),
+      updatedAt: timestamp,
+    };
+  }
+  return db;
+}
+
+/** Total number of collected price-history points across all products. */
+export function productHistoryPointCount(db) {
+  let total = 0;
+  for (const product of Object.values(db?.products ?? {})) {
+    for (const points of Object.values(product.history ?? {})) total += points.length;
+  }
+  return total;
 }
 
 /** Compares an asking price with other observed listings of the same product. */

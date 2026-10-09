@@ -15,7 +15,8 @@ A separate, stronger model can evaluate prices by product in a later step.
 2. Classify listings without a known product identity.
 3. Keep the product identity, listing, asking price, and price history in
    `data/deals.json`.
-4. Store asking-price observations by product key in `data/prices.json` and
+4. Store asking-price observations by product key in `data/prices.json`,
+   append every price change to the permanent per-listing price history, and
    compare each listing with other listings for that same product.
 5. Publish changed JSON files so the static site shows the updated feed.
 
@@ -75,9 +76,11 @@ leave it `null` until you know the price. For example:
 Commit and push edits to this file so the scanner can pull them and the site can
 publish the results. A listing below its product's reference price is marked
 **Guter Preis**; one at the reference is marked accordingly, and one above it
-shows the difference. Missing manual prices are called out. The separate
-`data/prices.json` remains the history of observed asking prices and powers the
-market median/range comparison shown alongside the manual reference check.
+shows the difference. When no manual price is set, the scanner falls back to
+the average of the collected asking prices for that product and labels it with
+its sample count in the feed. The separate `data/prices.json` remains the
+history of observed asking prices: it powers the market median/range comparison
+and holds the permanent per-listing price history the average is computed from.
 
 ## Configure searches
 
@@ -116,9 +119,15 @@ the key `unknown`.
 
 `data/prices.json` stores asking-price observations by product and listing ID.
 The scanner compares a listing against other observations for the same product
-and excludes that listing's own price from the comparison. It keeps up to
-20,000 observations from the last 90 days. A future larger model can use these
-product groups for deeper price evaluation.
+and excludes that listing's own price from the comparison. The comparison
+window keeps up to 20,000 observations from the last 90 days. In addition,
+every listing keeps a permanent price history under
+`product.history[listingId]` that is only appended to when a price changes and
+never overwritten; `product.stats.average` is recomputed from it on every scan
+and serves as the automatic reference price. Set
+`database.historyMaxPointsPerListing` above 0 to cap each listing's history
+instead of keeping it forever. A future larger model can use these product
+groups for deeper price evaluation.
 
 ## Project structure
 
@@ -126,7 +135,7 @@ product groups for deeper price evaluation.
 * `scripts/lib/products.mjs` — product-only model prompt and response handling.
 * `scripts/lib/kleinanzeigen.mjs` — listing collection and normalization.
 * `data/deals.json` — shared listing feed and product identities.
-* `data/prices.json` — product-keyed asking-price observations and comparisons.
+* `data/prices.json` — product-keyed asking-price observations, permanent price history, and comparisons.
 * `data/state.json` — IDs already observed by the scanner.
 * `index.html`, `assets/` — static browser interface.
 

@@ -83,22 +83,34 @@
   function referencePriceSummary(check) {
     if (!check) return '<p class="card__reference card__reference--muted">Noch kein Produkt-Referenzpreis eingetragen.</p>';
     if (check.status === 'reference_price_missing') {
-      return '<p class="card__reference card__reference--muted">Für dieses Produkt fehlt noch ein Referenzpreis.</p>';
+      return '<p class="card__reference card__reference--muted">Für dieses Produkt fehlt noch ein Referenzpreis – der Durchschnitt erscheint, sobald Preise gesammelt wurden.</p>';
     }
+
+    const isAverage = check.referenceSource === 'average';
+    const samples = Number(check.observedCount) || 0;
+    const reference = escapeHtml(formatPrice(check.referencePrice));
+
     if (check.status === 'asking_price_missing') {
-      return `<p class="card__reference card__reference--muted">Referenzpreis: ${escapeHtml(formatPrice(check.referencePrice))}; Anzeige ohne gültigen Preis.</p>`;
+      const note = isAverage ? ` (Durchschnitt aus ${samples} beobachteten Preisen)` : '';
+      return `<p class="card__reference card__reference--muted">Referenzpreis: ${reference}${note}; Anzeige ohne gültigen Preis.</p>`;
     }
 
     const amount = escapeHtml(formatPrice(Math.abs(check.difference)));
     const percent = `${Math.abs(check.differencePct).toLocaleString('de-DE')}%`;
     if (check.status === 'good_price') {
-      return `<p class="card__reference card__reference--good">Guter Preis: ${amount} (${percent}) unter deinem Produktpreis von ${escapeHtml(formatPrice(check.referencePrice))}.</p>`;
+      return isAverage
+        ? `<p class="card__reference card__reference--good">Guter Preis: ${amount} (${percent}) unter dem Durchschnittspreis von ${reference} aus ${samples} beobachteten Preisen.</p>`
+        : `<p class="card__reference card__reference--good">Guter Preis: ${amount} (${percent}) unter deinem Produktpreis von ${reference}.</p>`;
     }
     if (check.status === 'at_reference_price') {
-      return `<p class="card__reference card__reference--target">Genau dein Produktpreis: ${escapeHtml(formatPrice(check.referencePrice))}.</p>`;
+      return isAverage
+        ? `<p class="card__reference card__reference--target">Exakt im Durchschnittspreis: ${reference} (aus ${samples} beobachteten Preisen).</p>`
+        : `<p class="card__reference card__reference--target">Genau dein Produktpreis: ${reference}.</p>`;
     }
     if (check.status === 'above_reference_price') {
-      return `<p class="card__reference card__reference--over">${amount} (${percent}) über deinem Produktpreis von ${escapeHtml(formatPrice(check.referencePrice))}.</p>`;
+      return isAverage
+        ? `<p class="card__reference card__reference--over">${amount} (${percent}) über dem Durchschnittspreis von ${reference} aus ${samples} beobachteten Preisen.</p>`
+        : `<p class="card__reference card__reference--over">${amount} (${percent}) über deinem Produktpreis von ${reference}.</p>`;
     }
     return '<p class="card__reference card__reference--muted">Produkt noch nicht zugeordnet; kein Preisabgleich möglich.</p>';
   }
@@ -339,7 +351,7 @@
         <p><strong>${escapeHtml(product.name ?? 'Produkt noch nicht erkannt')}</strong></p>
         ${product.variant ? `<p>Ausführung: ${escapeHtml(product.variant)}</p>` : ''}
         <p class="detail__muted">${product.confidence ? `${Math.round(product.confidence * 100)} % Zuordnungssicherheit` : 'Keine sichere Zuordnung'}</p>
-        <h4>Abgleich mit deinem Produktpreis</h4>
+        <h4>Referenzpreis-Abgleich</h4>
         ${referencePriceSummary(deal.referencePriceCheck)}
         <h4>Vergleich mit anderen Anzeigen</h4>
         ${comparisonSummary(deal.priceComparison) || '<p class="detail__muted">Noch keine Preisdaten vorhanden.</p>'}

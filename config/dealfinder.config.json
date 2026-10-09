@@ -100,7 +100,9 @@
   },
   "database": {
     "maxEntries": 20000,
-    "maxAgeDays": 90
+    "maxAgeDays": 90,
+    "historyMaxPointsPerListing": 0,
+    "minSamplesForReference": 1
   },
   "http": {
     "requestDelayMs": 1200,

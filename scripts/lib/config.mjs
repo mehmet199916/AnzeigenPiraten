@@ -37,6 +37,11 @@ export const CONFIG_DEFAULTS = {
   database: {
     maxEntries: 20000,
     maxAgeDays: 90,
+    // Per-listing price-history points kept in data/prices.json.
+    // 0 = keep the full history forever (points are never overwritten).
+    historyMaxPointsPerListing: 0,
+    // Collected prices needed before the observed average is used as reference.
+    minSamplesForReference: 1,
   },
 };
 
