@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T11:34:30.277Z",
+  "updatedAt": "2026-10-09T11:39:54.847Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,8 +202,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "e-bike",
-      "category": "Fahrräder",
+      "name": "E-Bike",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128 GB",
+      "name": "Apple iPhone 13 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 gb",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3256,7 +3256,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-256-gb": {
-      "name": "Apple MacBook Air 256GB",
+      "name": "Apple MacBook Air 256 GB",
       "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6959,7 +6959,7 @@
     },
     "grecos-eli-2-5": {
       "name": "Grecos Eli 2.5",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -30406,7 +30406,7 @@
       "updatedAt": null
     },
     "vanmoof-s3-e-bike": {
-      "name": "VanMoof S3 E-Bike",
+      "name": "Vanmoof S3 E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -31811,7 +31811,7 @@
     },
     "macbook-pro-m1-pro-32-gb": {
       "name": "MacBook Pro M1 Pro 32 GB",
-      "category": "Computers",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -31895,7 +31895,7 @@
     },
     "saxonette-e-bike": {
       "name": "Saxonette E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -44428,7 +44428,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-zoll-18-gb": {
-      "name": "Apple MacBook Pro 16 Zoll 18 GB",
+      "name": "Apple MacBook Pro 16 Zoll 18GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -68231,6 +68231,114 @@
     },
     "tangmi-sportbrille-mit-kamera-1080p-hd-wifi-outdoor": {
       "name": "TANGMI Sportbrille mit Kamera 1080P HD WiFi Outdoor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-sonic-evo-tr1-29-750wh": {
+      "name": "Bulls Sonic EVO TR1 29 750Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-viator-1-0": {
+      "name": "Fischer Viator 1.0",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-e-mtb-trekkingrad": {
+      "name": "Scott E-MTB Trekkingrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-horizon-amsterdam-rh-52": {
+      "name": "Bergamont E‑Horizon Amsterdam (RH 52)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-gain-d30-e-rennrad": {
+      "name": "Orbea GAIN D30 E-Rennrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-trekkingrad": {
+      "name": "Stevens Trekkingrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husquarna-gc4-e-bike": {
+      "name": "Husquarna GC4 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fahrradtrager": {
+      "name": "E-Bike Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "esm-3100-mountainbike": {
+      "name": "ESM 3100 Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-dual-radeon-rx-9060-xt-16-gb-ddr6-grafikkarte": {
+      "name": "ASUS Dual Radeon RX 9060 XT 16GB DDR6 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "philips-avent-connected-babyphone-mit-kamera": {
+      "name": "Philips Avent Connected Babyphone mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f-401": {
+      "name": "Nikon F-401",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lsrc-s2s-drohne-4k-kamera": {
+      "name": "LSRC S2S Drohne 4K Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cosina-ct-1a": {
+      "name": "Cosina CT-1A",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a7-mark-i": {
+      "name": "Sony Alpha A7 Mark I",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-xt-5": {
+      "name": "Fujifilm XT-5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-msc-535-diaprojektor": {
+      "name": "Rollei MSC 535 Diaprojektor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konvolut-kameras": {
+      "name": "Konvolut Kameras",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
