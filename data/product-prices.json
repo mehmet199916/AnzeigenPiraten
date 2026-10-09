@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T10:04:11.853Z",
+  "updatedAt": "2026-10-09T10:09:16.219Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -10,7 +10,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64 GB",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 gb",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -202,8 +202,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "e-bike": {
-      "name": "E-Bike",
-      "category": "E-Bikes",
+      "name": "e-bike",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -280,13 +280,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-512-gb": {
-      "name": "Apple iPhone 17 Pro 512 GB",
+      "name": "Apple iPhone 17 Pro 512gb",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,19 +334,19 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1013,7 +1013,7 @@
     },
     "cube-e-bike": {
       "name": "Cube E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,13 +1048,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256GB",
+      "name": "Apple iPhone 14 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1444,7 +1444,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-256-gb": {
-      "name": "Apple iPhone 14 256 GB",
+      "name": "Apple iPhone 14 256GB",
       "category": "Smartphones",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1781,7 +1781,7 @@
     },
     "apple-iphone-13": {
       "name": "Apple iPhone 13",
-      "category": "Smartphones",
+      "category": "Kameras",
       "referencePrice": 260,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1834,7 +1834,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-xs-256-gb": {
-      "name": "Apple iPhone XS 256GB",
+      "name": "Apple iPhone XS 256 GB",
       "category": "Smartphones",
       "referencePrice": 190,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2519,7 +2519,7 @@
     },
     "ps5-wartung": {
       "name": "PS5 Wartung",
-      "category": "Dienstleistungen",
+      "category": "Konsolen",
       "referencePrice": 80,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Dienstleistungen",
+      "category": "Reparaturen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3700,7 +3700,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-512-gb": {
-      "name": "Apple iPhone 16 Pro 512GB",
+      "name": "Apple iPhone 16 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -4570,7 +4570,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-slim-1-tb-digital-edition": {
-      "name": "Sony PlayStation 5 Slim 1TB Digital Edition",
+      "name": "Sony PlayStation 5 Slim 1 TB Digital Edition",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -8026,7 +8026,7 @@
       "updatedAt": null
     },
     "apple-iphone-air-256-gb": {
-      "name": "Apple iPhone Air 256 GB",
+      "name": "Apple iPhone Air 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13882,7 +13882,7 @@
       "updatedAt": null
     },
     "nikon-spiegelreflexkamera": {
-      "name": "Nikon Spiegelreflexkamera",
+      "name": "NIKON Spiegelreflexkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -19396,7 +19396,7 @@
       "updatedAt": null
     },
     "playstation-5-digital-825-gb": {
-      "name": "PlayStation 5 Digital 825GB",
+      "name": "PlayStation 5 Digital 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -19823,7 +19823,7 @@
     },
     "deruiz-e-bike-250w-damen": {
       "name": "DERUIZ E-Bike 250W Damen",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -22985,7 +22985,7 @@
     },
     "sony-playstation-5-dualsense-edge-wireless-controller": {
       "name": "Sony PlayStation 5 DualSense Edge Wireless Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -31294,7 +31294,7 @@
       "updatedAt": null
     },
     "asus-strix-geforce-gtx-970-4-gb": {
-      "name": "ASUS STRIX GeForce GTX 970 4GB",
+      "name": "ASUS Strix GeForce GTX 970 4GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -35572,8 +35572,8 @@
       "updatedAt": null
     },
     "playstation-5-slim-825-gb": {
-      "name": "PlayStation 5 Slim 825GB",
-      "category": "Konsolen",
+      "name": "PlayStation 5 Slim 825 GB",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -41549,7 +41549,7 @@
     },
     "kalkhoff-entice-3": {
       "name": "Kalkhoff Entice 3",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -54298,7 +54298,7 @@
       "updatedAt": null
     },
     "apple-iphone-13-64-gb": {
-      "name": "Apple iPhone 13 64 GB",
+      "name": "Apple iPhone 13 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -54796,7 +54796,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-16-1-tb": {
-      "name": "Apple MacBook Pro 16\" 1TB",
+      "name": "Apple MacBook Pro 16\" 1 TB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -59326,7 +59326,7 @@
       "updatedAt": null
     },
     "apple-macbook-neo-13-512-gb": {
-      "name": "Apple MacBook Neo 13 512GB",
+      "name": "Apple MacBook Neo 13\" 512GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -65657,6 +65657,174 @@
     },
     "hytopb-s166-gps-drohne": {
       "name": "HYTOPB S166 GPS Drohne",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "saxonette-damen-e-bike-26": {
+      "name": "Saxonette Damen E-Bike 26\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-velocompact-ahk-fahrradtrager-erweiterung-zusatzschiene": {
+      "name": "Thule VeloCompact AHK Fahrradträger Erweiterung Zusatzschiene",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-fahrradtrager-faltbar": {
+      "name": "ATERA Fahrradträger faltbar",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-towner2-wave-26": {
+      "name": "HUSQVARNA Towner2 Wave 26\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-towner2-wave": {
+      "name": "HUSQVARNA Towner2 Wave",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-e-bike-robert-e-r7": {
+      "name": "Hercules E-Bike Robert E R7",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gasgas-moto-2": {
+      "name": "GASGAS MOTO 2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-classic-e-bike-battery": {
+      "name": "Bosch Classic E-Bike Battery",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ouxi-v8-pro-e-bike": {
+      "name": "Ouxi V8 Pro E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-etrekking-damen-e-bike": {
+      "name": "Prophete eTrekking Damen E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-128-gb-midnight": {
+      "name": "Apple iPhone 13 128 GB Midnight",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-512-gb": {
+      "name": "Apple MacBook Pro 14 512 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-hd-camcorder-hc-v210": {
+      "name": "Panasonic HD-Camcorder HC-V210",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "4g-wildcam-tx-189-mit-solarpanel": {
+      "name": "4G Wildcam TX-189 mit Solarpanel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dcr-pc-120e-handy-cam": {
+      "name": "Sony DCR-PC 120E Handy-Cam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-n1": {
+      "name": "Sony Cyber-shot DSC-N1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bauer-s-2035-xl": {
+      "name": "Bauer S 2035 XL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kuhlergrill-schwarz": {
+      "name": "Kühlergrill Schwarz",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bmw-2er-f23-cabrio-heckklappe-hinterer-kamera": {
+      "name": "BMW 2ER F23 Cabrio Heckklappe Hinterer Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-5-pro-fly-more-combo-drone": {
+      "name": "DJI Mini 5 Pro Fly More Combo Drone",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ae-1-program-spiegelreflexkamera": {
+      "name": "Canon AE-1 Program Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-16s-miniaturkamera": {
+      "name": "Rollei 16S Miniaturkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f2-sb-kamera": {
+      "name": "Nikon F2 SB Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "r-raymon-hardray-e-2-0-e-bike": {
+      "name": "R Raymon HardRay E 2.0 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-29-zoll": {
+      "name": "Cube E-Bike 29 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "schuberth-e2-trail-green-helm": {
+      "name": "Schuberth E2 Trail Green Helm",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-pro-512-gb": {
+      "name": "iPhone 16 pro 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "abus-kamera": {
+      "name": "Abus Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
