@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T10:44:17.264Z",
+  "updatedAt": "2026-10-09T10:49:23.196Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128Gb",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256 gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -677,7 +677,7 @@
     },
     "sony-playstation-5-dualsense-controller": {
       "name": "Sony PlayStation 5 DualSense Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128 gb",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1828,7 +1828,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128 GB",
+      "name": "Apple iPhone 12 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2446,7 +2446,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max": {
-      "name": "Apple iPhone 17 Pro MAX",
+      "name": "Apple iPhone 17 Pro Max",
       "category": "Smartphones",
       "referencePrice": 1100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3430,7 +3430,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-128-gb": {
-      "name": "iPhone 15 Pro 128 GB",
+      "name": "iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4144,8 +4144,8 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-max-256-gb": {
-      "name": "Apple iPhone 11 Pro Max 256GB",
-      "category": "smartphones",
+      "name": "Apple iPhone 11 Pro Max 256gb",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6562,7 +6562,7 @@
       "updatedAt": null
     },
     "apple-iphone-15-256-gb": {
-      "name": "Apple iPhone 15 256GB",
+      "name": "Apple iPhone 15 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -16468,8 +16468,8 @@
       "updatedAt": null
     },
     "dji-mini-3-pro-drohne": {
-      "name": "DJI Mini 3 Pro Drohne",
-      "category": "Kameras",
+      "name": "DJI Mini 3 PRO Drohne",
+      "category": "Drohnen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -40403,7 +40403,7 @@
     },
     "ktm-e-bike-tiefeinsteiger-bosch-500": {
       "name": "KTM E-Bike Tiefeinsteiger Bosch 500",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -40702,7 +40702,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-14-m4-16-gb": {
-      "name": "Apple MacBook Pro 14 M4 16GB",
+      "name": "Apple MacBook Pro 14\" M4 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -47471,7 +47471,7 @@
     },
     "himiway-d5-2-0-fully-fat-e-bike": {
       "name": "Himiway D5 2.0 Fully Fat E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -66732,6 +66732,180 @@
     "allerlei-konsolenspiele-gogos-polaroidkamera-retro-tv-soiel": {
       "name": "Allerlei Konsolenspiele / Gogos / Polaroidkamera/ Retro TV Soiel",
       "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-hardtail": {
+      "name": "Cube e-bike Hardtail",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-cityrad-c7-alu-rahmen-7-gang": {
+      "name": "Gazelle Cityrad C7 alu rahmen 7 gang",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "i-sy-20-e-bike-drive-xxl-n3-8-zr-orange": {
+      "name": "i:sy 20\" E-Bike DrivE XXL N3.8 ZR orange",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "husqvarna-e-crosser-2": {
+      "name": "Husqvarna E Crosser 2",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "campus-bm38-e-bike": {
+      "name": "Campus BM38 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "centurion-e-fire-city-r960i-wave": {
+      "name": "Centurion E-fire City R960i Wave",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-acura-e7r-hs": {
+      "name": "Pegasus Acura E7R HS",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-geniesser-5-0-damen-city-e-bike-28": {
+      "name": "Prophete Geniesser 5.0 Damen City E-Bike 28\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bikes-pedelecs": {
+      "name": "E-bikes / Pedelecs",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-pro-256-gb-cosmic-orange": {
+      "name": "iPhone 17 Pro 256gb Cosmic Orange",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-pro-max-256-gb-wustensand": {
+      "name": "iPhone 16 Pro Max 256GB Wüstensand",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-13-pro-128-gb-gold": {
+      "name": "iPhone 13 Pro 128GB Gold",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-ipad-pro-11-zoll-2021-128-gb": {
+      "name": "Apple iPad Pro 11 Zoll 2021 128GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2024-24-gb": {
+      "name": "Apple MacBook Pro (2024) 24GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-3-late-2017-256-gb": {
+      "name": "Apple MacBook Air 13,3\" Late 2017 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-geforce-gtx-1650-4-gb-gddr6-tuf-gaming": {
+      "name": "Asus GeForce GTX 1650 4GB GDDR6 TUF Gaming",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "assassin-s-creed-black-flag-resynced-launch-edition": {
+      "name": "Assassin's Creed Black Flag Resynced Launch Edition",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-wolverine-edition": {
+      "name": "Sony PlayStation 5 Wolverine Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-remote-player": {
+      "name": "Sony PlayStation 5 Remote-Player",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ccd-q7-digitalkamera": {
+      "name": "Sony CCD Q7 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-6300-kamera": {
+      "name": "Sony Alpha 6300 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "brinno-bcc2000-zeitraffer-kamera-set": {
+      "name": "Brinno BCC2000 Zeitraffer-Kamera-Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-osmo-7p-handyhalterung": {
+      "name": "DJI Osmo 7P Handyhalterung",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "analog-fotokameras-konvolut": {
+      "name": "Analog Fotokameras Konvolut",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-espio-115v-analoge-35mm-point-shoot-kamera": {
+      "name": "Pentax Espio 115V analoge 35mm Point & Shoot Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-canoscan-5600f": {
+      "name": "Canon CanoScan 5600F",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-kamera-zubehor": {
+      "name": "Konica Kamera Zubehör",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-2020": {
+      "name": "Apple MacBook Pro M1 (2020)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dash-camera": {
+      "name": "Dash Camera",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
