@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T12:29:36.918Z",
+  "updatedAt": "2026-10-09T12:34:21.030Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128GB",
+      "name": "Apple iPhone 13 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256gb",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -5758,7 +5758,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-256-gb": {
-      "name": "iPhone 16 Pro 256gb",
+      "name": "iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -6082,8 +6082,8 @@
       "updatedAt": null
     },
     "raleigh-e-bike": {
-      "name": "Raleigh E-Bike",
-      "category": "Fahrräder",
+      "name": "Raleigh E Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6880,7 +6880,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-825-gb": {
-      "name": "Sony PlayStation 5 825GB",
+      "name": "Sony PlayStation 5 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -11248,7 +11248,7 @@
       "updatedAt": null
     },
     "iphone-12-128-gb": {
-      "name": "iPhone 12 128 GB",
+      "name": "iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -14213,7 +14213,7 @@
     },
     "conway-cairon-e-bike": {
       "name": "Conway Cairon E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -28726,8 +28726,8 @@
       "updatedAt": null
     },
     "ps5-lenkrad": {
-      "name": "PS5 Lenkrad",
-      "category": "Controller",
+      "name": "Ps5 Lenkrad",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -50897,7 +50897,7 @@
     },
     "sony-playstation-5-slim-disc-version": {
       "name": "Sony PlayStation 5 Slim Disc Version",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -57748,7 +57748,7 @@
       "updatedAt": null
     },
     "kodak-pixpro-az401": {
-      "name": "Kodak Pixpro AZ401",
+      "name": "Kodak PixPro AZ401",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -69815,6 +69815,156 @@
     },
     "leica-lux-grip-18562": {
       "name": "Leica LUX Grip 18562",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-bike-cross-s6": {
+      "name": "Stevens E-Bike Cross S6",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "carver-citizen-28-zoll-e-bike": {
+      "name": "CARVER CITIZEN 28 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gepida-bonum-edge": {
+      "name": "Gepida Bonum Edge",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-1-b-move-damen-28-zoll": {
+      "name": "KALKHOFF Image 1.B Move Damen 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-140-hpc-slx-750": {
+      "name": "Cube Stereo Hybrid 140 HPC SLX 750",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-5-move-e-bike": {
+      "name": "Kalkhoff Image 5 Move E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-kathmandu-herren-28-zoll-e-bike": {
+      "name": "CUBE KATHMANDU Herren 28 Zoll E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kreidler-28-zoll-e-bike": {
+      "name": "Kreidler 28 Zoll E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-agattu-4-e-bike": {
+      "name": "Kalkhoff AGATTU 4 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "specialized-turbo-levo-fsr-comp-l-6fattie-29-e-mtb": {
+      "name": "Specialized Turbo Levo FSR Comp (L) 6Fattie/29 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-mountain-e-bike": {
+      "name": "Trek Mountain E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-aorus-geforce-rtx-5070-ti-infinity-16-gb": {
+      "name": "ASUS AORUS GeForce RTX 5070 Ti INFINITY 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-g29-g920-driving-wheel": {
+      "name": "Logitech G29/G920 Driving Wheel",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-spiel-wolverine": {
+      "name": "PlayStation 5 Spiel Wolverine",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kamerahalter-set": {
+      "name": "Kamerahalter Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-prima-115-analoge-kamera": {
+      "name": "Canon Prima 115 analoge Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-rebel-2000-spiegelreflexkamera": {
+      "name": "Canon EOS Rebel 2000 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-xd-spiegelreflex": {
+      "name": "Minolta XD Spiegelreflex",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hasselblad-xpan": {
+      "name": "Hasselblad XPan",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "polaroid-i-type-instant-camera": {
+      "name": "POLAROID i-Type Instant Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "edixa-prismat-ttl-kamera": {
+      "name": "Edixa Prismat TTL Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-auto-focus-motor-analog-kamera": {
+      "name": "Yashica Auto Focus Motor Analog Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "endoskop-kamera-gelenkendoskop-2-weg-180": {
+      "name": "Endoskop Kamera Gelenkendoskop 2-Weg 180°",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-kamera": {
+      "name": "GoPro Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mic-2-mikrofon": {
+      "name": "Dji Mic 2 Mikrofon",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
