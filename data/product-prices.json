@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T11:39:54.847Z",
+  "updatedAt": "2026-10-09T11:45:05.267Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -113,7 +113,7 @@
     },
     "e-bike-28-zoll": {
       "name": "E-Bike 28 Zoll",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1306,7 +1306,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-256-gb": {
-      "name": "iPhone 17 256gb",
+      "name": "iPhone 17 256GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256gb",
+      "name": "Apple iPhone 15 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -7019,7 +7019,7 @@
     },
     "haibike-e-bike": {
       "name": "Haibike E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -11404,7 +11404,7 @@
       "updatedAt": null
     },
     "apple-iphone-se-2022-64-gb": {
-      "name": "Apple iPhone SE (2022) 64 GB",
+      "name": "Apple iPhone SE 2022 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -13204,7 +13204,7 @@
       "updatedAt": null
     },
     "apple-iphone-13-pro-max-1-tb": {
-      "name": "Apple iPhone 13 Pro Max 1 TB",
+      "name": "Apple iPhone 13 Pro Max 1TB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -14026,7 +14026,7 @@
       "updatedAt": null
     },
     "iphone-12-pro-max-128-gb": {
-      "name": "iPhone 12 Pro Max 128 GB",
+      "name": "iPhone 12 Pro Max 128Gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -16781,7 +16781,7 @@
     },
     "rockmachine-crossride-e400": {
       "name": "RockMachine Crossride e400",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19780,7 +19780,7 @@
       "updatedAt": null
     },
     "panasonic-lumix-dmc-g6": {
-      "name": "Panasonic Lumix DMC-G6",
+      "name": "Panasonic Lumix dmc-g6",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -23950,7 +23950,7 @@
       "updatedAt": null
     },
     "panasonic-lumix-digitalkamera": {
-      "name": "Panasonic LUMIX Digitalkamera",
+      "name": "Panasonic Lumix Digitalkamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -49408,7 +49408,7 @@
       "updatedAt": null
     },
     "asus-nvidia-geforce-rtx-5060-ti-prime-16-gb": {
-      "name": "Asus Nvidia GeForce RTX 5060 Ti Prime 16GB",
+      "name": "Asus Nvidia GeForce RTX 5060 Ti Prime 16gb",
       "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
@@ -54544,7 +54544,7 @@
       "updatedAt": null
     },
     "iphone-14-pro-max-512-gb": {
-      "name": "iPhone 14 Pro Max 512GB",
+      "name": "iPhone 14 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -58222,8 +58222,8 @@
       "updatedAt": null
     },
     "e-bike-dreirad": {
-      "name": "E-Bike Dreirad",
-      "category": "Fahrräder",
+      "name": "E bike Dreirad",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -68340,6 +68340,162 @@
     "konvolut-kameras": {
       "name": "Konvolut Kameras",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-access-hybrid-one-500": {
+      "name": "Cube Access Hybrid ONE 500",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-akku-36v-13ah": {
+      "name": "E Bike Akku 36V 13Ah",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-one-trapeze-15": {
+      "name": "Cube Reaction Hybrid One Trapeze 15\"",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-mtb": {
+      "name": "Stevens E-MTB",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dyu-stroll-1-e-mountainbike": {
+      "name": "Dyu Stroll 1 E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leader-fox-awalon-e-mountainbike-29-zoll-17-5-zoll-alurahmen": {
+      "name": "Leader Fox Awalon E-Mountainbike 29 Zoll 17.5 Zoll Alurahmen",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-flyer-mittelmotor-26coll": {
+      "name": "E-bike Flyer Mittelmotor 26Coll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vanmoof-s3-x3-akku": {
+      "name": "VanMoof S3/X3 Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-2g-1-gen-8-gb": {
+      "name": "Apple iPhone 2G (1.Gen) 8GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-64-gb": {
+      "name": "iPhone 16 64 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-2024": {
+      "name": "Apple MacBook Air M2 2024",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-nvidia-geforce-gtx-1050-ti-4-gb": {
+      "name": "ASUS ROG Strix NVIDIA GeForce GTX 1050 Ti 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-2x-1080ti-11-gb-sli-verbund-wassergekuhlt": {
+      "name": "Nvidia 2x 1080Ti 11GB SLi Verbund Wassergekühlt",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-rtx-2060-12-gb": {
+      "name": "Zotac RTX 2060 12 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rohrreinigung-abflussreinigung-verstopfung": {
+      "name": "Rohrreinigung-Abflussreinigung/Verstopfung",
+      "category": "Rohrreinigung",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-6-black": {
+      "name": "GoPro 6 Black",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-dslr": {
+      "name": "Canon EOS DSLR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-video8-hi8-camcorder": {
+      "name": "Samsung Video8 Hi8 Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rs4mini": {
+      "name": "DJI RS4mini",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikkormat-analoge-spiegelreflexkamera": {
+      "name": "Nikkormat analoge Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "seissiger-wildkamera-18650-akku": {
+      "name": "Seissiger wildkamera 18650 akku",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gautier-balgenkamera": {
+      "name": "Gautier Balgenkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-instamatic-m26-super-8-movie-kamera": {
+      "name": "Kodak Instamatic M26 Super 8 Movie Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-xd7": {
+      "name": "Minolta XD7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360": {
+      "name": "Insta360",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elektrofahrrad": {
+      "name": "Elektrofahrrad",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     }
