@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T13:24:22.790Z",
+  "updatedAt": "2026-10-09T13:30:22.489Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128Gb",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,19 +58,19 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256GB",
+      "name": "Apple iPhone 13 256 GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1138,7 +1138,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-pro-13-zoll-16-gb": {
-      "name": "Apple MacBook Pro 13 Zoll 16GB",
+      "name": "Apple MacBook Pro 13 Zoll 16 GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2717,7 +2717,7 @@
     },
     "gazelle-miss-grace-c7-hmb-smart-system": {
       "name": "Gazelle Miss Grace C7+ HMB Smart System",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 1800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3604,7 +3604,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-128-gb": {
-      "name": "iPhone 16 Pro 128GB",
+      "name": "iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -4787,7 +4787,7 @@
     },
     "segway-navimow-mahroboter": {
       "name": "Segway Navimow Mähroboter",
-      "category": "Fahrräder",
+      "category": "Mähroboter",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7079,7 +7079,7 @@
     },
     "playstation-5-spiele": {
       "name": "PlayStation 5 Spiele",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -15244,8 +15244,8 @@
       "updatedAt": null
     },
     "playstation-5-slim-disk-edition": {
-      "name": "PlayStation 5 slim Disk Edition",
-      "category": "Spielekonsolen",
+      "name": "PlayStation 5 Slim Disk Edition",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -22985,7 +22985,7 @@
     },
     "sony-playstation-5-dualsense-edge-wireless-controller": {
       "name": "Sony PlayStation 5 DualSense Edge Wireless Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -29369,7 +29369,7 @@
     },
     "ktm-e-mountainbike": {
       "name": "KTM E-Mountainbike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -37205,7 +37205,7 @@
     },
     "cube-stereo-hybrid-140-hpc-pro-750-wh-carbon-e-fully-e-mtb": {
       "name": "Cube Stereo Hybrid 140 HPC Pro 750 Wh Carbon E-Fully e-MTB",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -52361,7 +52361,7 @@
     },
     "gro-er-kamera-nachlass": {
       "name": "Großer Kamera-Nachlass",
-      "category": "Kameras",
+      "category": "Kamera-Zubehör",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -71250,6 +71250,180 @@
     "flareon-flamara": {
       "name": "Flareon/Flamara",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-evo-cx-e-city": {
+      "name": "Pegasus EVO CX E-City",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhof-endeavur-1-b-move": {
+      "name": "Kalkhof Endeavur 1 .B Move",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-akku-tianneng-18650-tnli-itr-36v-17-5-ah-630-wh": {
+      "name": "E-Bike Akku Tianneng 18650 TNLi ITR 36V 17,5 Ah 630 Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-nuride-hybrid-slt-750-allroad-e-bike": {
+      "name": "Cube Nuride Hybrid SLT 750 Allroad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-entdecker-2-0-trekking-e-bike": {
+      "name": "prophete Entdecker 2.0 Trekking E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "raleigh-impulse-ir-hs-28-zoll": {
+      "name": "Raleigh Impulse IR HS 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hoheacht-e-bike": {
+      "name": "HOHEACHT E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "telefunken-e-bike-28-zoll-damen": {
+      "name": "Telefunken E-Bike 28 Zoll Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-trekking-e-bike": {
+      "name": "Hercules Trekking E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-cityrad-mit-mittelmotor": {
+      "name": "E-Bike Cityrad mit Mittelmotor",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "alu-rex-e-bike-28zoll-7gang-rucktritbremse": {
+      "name": "Alu-Rex E-Bike 28Zoll 7Gang Rücktritbremse",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-fahrad-5000w": {
+      "name": "E Fahrad 5000w",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "herren-fahrrad-e-bike": {
+      "name": "Herren Fahrrad E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-5g-256-gb": {
+      "name": "Apple iPhone 17 5G 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-256-gb": {
+      "name": "iPhone 256gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-nvidia-gforce-rtx-3060-12-gb": {
+      "name": "MSI NVIDIA GFORCE RTX 3060 12GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-radeon-rx-6900-xt-16-gb": {
+      "name": "Gigabyte Radeon RX 6900 XT 16GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "evga-1080-ti-ftw3-11-gb": {
+      "name": "EVGA 1080 Ti FTW3 11GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "powercolor-radeon-rx-570-4-gb": {
+      "name": "PowerColor Radeon RX 570 4GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-3060ti-8-gb-zotac": {
+      "name": "NVIDIA 3060TI 8GB ZOTAC",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-headset": {
+      "name": "Sony PlayStation 5 Headset",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-37-kamera": {
+      "name": "Sony Alpha 37 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero3-white-edition": {
+      "name": "GoPro Hero3 White Edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero12-black-creator-edition": {
+      "name": "GoPro HERO12 Black Creator Edition",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zv-1": {
+      "name": "ZV-1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-68-kamera": {
+      "name": "Sony Alpha 68 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "manfrotto-055xprob-kamerastativ": {
+      "name": "Manfrotto 055XPROB Kamerastativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xiaomi-mi-11-ultra-256-gb": {
+      "name": "Xiaomi Mi 11 Ultra 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vw-frontkamera-c110702": {
+      "name": "VW Frontkamera C110702",
+      "category": "Kamera-Zubehör",
       "referencePrice": null,
       "updatedAt": null
     }
