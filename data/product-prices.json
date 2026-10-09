@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T09:59:15.511Z",
+  "updatedAt": "2026-10-09T10:04:11.853Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128 GB",
+      "name": "Apple iPhone 14 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Smartphones",
+      "category": "Spielekonsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2452,7 +2452,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "macbook-air-2024-16-gb": {
-      "name": "MacBook Air 2024 16 Gb",
+      "name": "MacBook Air (2024) 16GB",
       "category": "Computer",
       "referencePrice": 200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Reparaturen",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4192,7 +4192,7 @@
       "updatedAt": null
     },
     "urtopia-carbon-1-e-bike": {
-      "name": "Urtopia Carbon 1 E-Bike",
+      "name": "Urtopia Carbon 1 E Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -4606,8 +4606,8 @@
       "updatedAt": null
     },
     "gopro-hero-8-black": {
-      "name": "GoPro Hero 8 Black",
-      "category": "kameras",
+      "name": "GoPro HERO 8 Black",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5531,7 +5531,7 @@
     },
     "e-bike-26-zoll": {
       "name": "E-Bike 26 Zoll",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10984,7 +10984,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-256-gb": {
-      "name": "Apple iPhone 12 Mini 256GB",
+      "name": "Apple iPhone 12 mini 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -11752,7 +11752,7 @@
       "updatedAt": null
     },
     "nikon-z6-ii": {
-      "name": "Nikon Z6 ii",
+      "name": "Nikon Z6 II",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -14020,7 +14020,7 @@
       "updatedAt": null
     },
     "iphone-12-mini-64-gb": {
-      "name": "iPhone 12 mini 64GB",
+      "name": "iPhone 12 mini 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -20914,7 +20914,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-gtx-1060-6-gb": {
-      "name": "Nvidia GeForce GTX 1060 6 GB",
+      "name": "NVIDIA GeForce GTX 1060 6GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -21610,7 +21610,7 @@
       "updatedAt": null
     },
     "playstation-5-digital-edition-825-gb": {
-      "name": "PlayStation 5 Digital Edition 825 GB",
+      "name": "PlayStation 5 Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -31708,7 +31708,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-zoll-2020-16-gb": {
-      "name": "Apple MacBook Pro 13 Zoll 2020 16GB",
+      "name": "Apple MacBook Pro 13 Zoll (2020) 16 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -47471,7 +47471,7 @@
     },
     "himiway-d5-2-0-fully-fat-e-bike": {
       "name": "Himiway D5 2.0 Fully Fat E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -65513,6 +65513,150 @@
     },
     "konvolut-objektive": {
       "name": "Konvolut Objektive",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-power-tube-500wh-horizontal-in-tube-akku": {
+      "name": "Bosch Power Tube 500Wh Horizontal In Tube Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "superior-e-trekking-e-sbt-600il-bosch-active-line-plus-e-bike": {
+      "name": "Superior E- Trekking E-SBT 600il Bosch Active Line Plus E- Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-sinus-ir8-e-bike": {
+      "name": "Winora Sinus iR8 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-alu-city-e-bike": {
+      "name": "Prophete Alu City E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-e-bike-bosch-mittelmotor": {
+      "name": "Hercules E-Bike Bosch Mittelmotor",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-trekking-series-damen-e-bike": {
+      "name": "GIANT Trekking Series Damen E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-mit-bosch-mittelmotor-cx": {
+      "name": "E-bike mit Bosch Mittelmotor CX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-rose-128-gb": {
+      "name": "Apple iPhone 13 Rosé 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-rot": {
+      "name": "Apple iPhone 13 Rot",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-a1534-2017": {
+      "name": "Apple MacBook A1534 (2017)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-3-m1-8-gb": {
+      "name": "Apple MacBook Air 13,3\" M1 8 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-a400-grafikkarte": {
+      "name": "Nvidia RTX A400 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-konsole": {
+      "name": "Sony PlayStation 5 Disc Konsole",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rocket-games-force-x-controller": {
+      "name": "Rocket Games Force X Controller",
+      "category": "Controller",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hasselblad-flexbody-72109": {
+      "name": "Hasselblad FlexBody 72109",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "reflecta-film-sanner-super-8": {
+      "name": "Reflecta Film Sanner Super 8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-legria-fs306-camcorder": {
+      "name": "Canon Legria FS306 Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-r7": {
+      "name": "Leica R7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "furbo-360-grad-hundekamera": {
+      "name": "Furbo 360 Grad Hundekamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-hs20exr": {
+      "name": "Fujifilm FinePix HS20EXR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nintendo-switch-2": {
+      "name": "Nintendo Switch 2",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-s3-pro-body": {
+      "name": "Fujifilm FinePix S3 Pro Body",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-promax-512-gb": {
+      "name": "Apple iPhone 17 Promax 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hytopb-s166-gps-drohne": {
+      "name": "HYTOPB S166 GPS Drohne",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
