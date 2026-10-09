@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T10:54:41.663Z",
+  "updatedAt": "2026-10-09T11:00:19.848Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -52,13 +52,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256Gb",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -238,7 +238,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-512-gb": {
-      "name": "Apple iPhone 15 Pro Max 512 GB",
+      "name": "Apple iPhone 15 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -262,7 +262,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-128-gb": {
-      "name": "Apple iPhone 13 Pro Max 128 GB",
+      "name": "Apple iPhone 13 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 405,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -328,13 +328,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-256-gb": {
-      "name": "Apple iPhone 14 Pro Max 256GB",
+      "name": "Apple iPhone 14 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 530,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256 gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1798,8 +1798,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-max-256-gb": {
-      "name": "Apple iPhone 13 Pro Max 256GB",
-      "category": "smartphones",
+      "name": "Apple iPhone 13 Pro Max 256 GB",
+      "category": "Smartphones",
       "referencePrice": 440,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1865,7 +1865,7 @@
     },
     "sony-playstation-portal": {
       "name": "Sony PlayStation Portal",
-      "category": "spielekonsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 150,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2680,7 +2680,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-pro-256-gb": {
-      "name": "Apple iPhone 11 Pro 256GB",
+      "name": "Apple iPhone 11 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 240,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Reparaturen",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -18790,8 +18790,8 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-2060-super-8-gb": {
-      "name": "NVIDIA GeForce RTX 2060 Super 8 GB",
-      "category": "Computer",
+      "name": "NVIDIA GeForce RTX 2060 Super 8GB",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -21557,7 +21557,7 @@
     },
     "tenways-cgo-compact-e-bike": {
       "name": "Tenways CGO Compact E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -45088,8 +45088,8 @@
       "updatedAt": null
     },
     "gazelle-medeo-t10-e-bike": {
-      "name": "Gazelle Medeo T10 E-Bike",
-      "category": "Fahrräder",
+      "name": "GAZELLE MEDEO T10 E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -67061,6 +67061,138 @@
     },
     "praktica-llc-analogkamera": {
       "name": "Praktica LLC Analogkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-inception-am-6-6-1-e-mountainbike": {
+      "name": "Stevens E-Inception AM 6.6 1 E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-28-zoll": {
+      "name": "KTM E-Bike 28\"Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-aera-771-lfc-wa": {
+      "name": "KTM Macina AERA 771 LFC WA",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "speedbox-1-1-b-tuning-fur-bosch-e-bike-motoren": {
+      "name": "SpeedBox 1.1 B Tuning für Bosch E-Bike Motoren",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-milano-28-e-bike": {
+      "name": "NCM Milano 28\" E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-severo-e-bike-elektrofahrrad-damen": {
+      "name": "KTM Severo E-Bike Elektrofahrrad Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-proline-eth-1401-e-bike": {
+      "name": "FISCHER Proline ETH 1401 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ati-radeon-hd-5970-2-gb": {
+      "name": "ATI Radeon HD 5970 2GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-pg500-216-32-gb": {
+      "name": "Nvidia PG500-216 32GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-6d-vollformat": {
+      "name": "Canon EOS 6D Vollformat",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "momcozy-bm04": {
+      "name": "Momcozy BM04",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-wide-400": {
+      "name": "Fujifilm Instax WIDE 400",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-nv-gs90": {
+      "name": "Panasonic NV GS90",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-hdr-cx220-camcorder": {
+      "name": "Sony HDR-CX220 Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-p700-digitalkamera": {
+      "name": "Casio Exilim EX-P700 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-zx3-digitalkamera": {
+      "name": "Panasonic Lumix DMC-ZX3 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-g7x-digitalkamera": {
+      "name": "Canon G7x Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f55-spiegelreflexkamera": {
+      "name": "Nikon F55 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-vp-d371-mini-dv-camcorder": {
+      "name": "Samsung VP-D371 Mini DV Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vintage-kamera-set-2x-kodak-instant-agfa-iso-rapid-ic": {
+      "name": "Vintage Kamera Set: 2x Kodak Instant & Agfa Iso-Rapid IC",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-tz101-digitalkamera": {
+      "name": "Panasonic Lumix DMC-TZ101 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-canon-camcorder-und-kameras": {
+      "name": "Sony & Canon Camcorder und Kameras",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
