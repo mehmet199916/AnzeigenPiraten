@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T10:34:34.465Z",
+  "updatedAt": "2026-10-09T10:39:09.867Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1492,8 +1492,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "nvidia-geforce-rtx-3060-12-gb": {
-      "name": "NVIDIA GeForce RTX 3060 12gb",
-      "category": "Grafikkarten",
+      "name": "Nvidia GeForce RTX 3060 12GB",
+      "category": "Computer",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -9389,7 +9389,7 @@
     },
     "brennabor-e-bike": {
       "name": "Brennabor E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14050,8 +14050,8 @@
       "updatedAt": null
     },
     "apple-macbook-air-13-16-gb": {
-      "name": "Apple MacBook Air 13\" 16 GB",
-      "category": "computer",
+      "name": "Apple MacBook Air 13\" 16GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -15862,7 +15862,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-1-tb": {
-      "name": "Sony PlayStation 5 Digital Edition 1 TB",
+      "name": "Sony PlayStation 5 Digital Edition 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -34006,7 +34006,7 @@
       "updatedAt": null
     },
     "apple-iphone-256-gb": {
-      "name": "Apple iPhone 256GB",
+      "name": "Apple iPhone 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -66437,6 +66437,180 @@
     },
     "panasonic-lumix-dc-tz91": {
       "name": "Panasonic LUMIX DC-TZ91",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ebike-carver-e-310": {
+      "name": "Ebike Carver E 310",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ms-energy-city-e-bike": {
+      "name": "MS Energy City E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-fahrradtrager-strada-sport-e-bike-ml-hecktrager": {
+      "name": "Atera Fahrradträger Strada Sport E-Bike ML - Heckträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-horizon-500-amsterdam": {
+      "name": "Bergamont E Horizon 500 Amsterdam",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-1-e-bike": {
+      "name": "Giant Explore E+ 1 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tenways-cgo-800s-e-bike": {
+      "name": "TENWAYS CGO 800S E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hiland-26-zoll-e-bike": {
+      "name": "Hiland 26 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "scott-axis-e-bike": {
+      "name": "Scott Axis E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sparta-m7b-e-bike": {
+      "name": "Sparta M7B E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "geniesser-e-8-7-e-bike": {
+      "name": "Geniesser e 8.7 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "batavus-finez-e-bike-set": {
+      "name": "Batavus Finez E-Bike Set",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-3060-ti-grafikkarte": {
+      "name": "Zotac Gaming GeForce RTX 3060 Ti Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-hd-camera": {
+      "name": "Sony PlayStation HD Camera",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-850-gb": {
+      "name": "Sony PlayStation 5 850 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fx10": {
+      "name": "Panasonic Lumix DMC-FX10",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gitzo-g320-studex-performance": {
+      "name": "Gitzo G320 Studex Performance",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-tz61": {
+      "name": "Panasonic Lumix TZ61",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hellobaby-babykamera": {
+      "name": "HelloBaby Babykamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exakta-hs-10-kamera": {
+      "name": "Exakta HS-10 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-vg-110-digitalkamera": {
+      "name": "Olympus VG-110 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mobile-8-gimbal": {
+      "name": "DJI Mobile 8 Gimbal",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agfa-isolette-l": {
+      "name": "Agfa Isolette L",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-s6500": {
+      "name": "Nikon Coolpix S6500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lego-creator-expert-100-years-kamera": {
+      "name": "Lego Creator Expert 100 Years Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-mini-70": {
+      "name": "Fujifilm Instax mini 70",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "miranda-sensomat-analog-kamera": {
+      "name": "Miranda Sensomat Analog Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-x-700-spiegelreflexkamera": {
+      "name": "Minolta X-700 Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos1100d": {
+      "name": "Canon EOS1100D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-fe-47": {
+      "name": "Olympus FE-47",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
