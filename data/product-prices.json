@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T12:59:25.709Z",
+  "updatedAt": "2026-10-09T13:04:23.276Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -52,7 +52,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128GB",
+      "name": "Apple iPhone 12 128 GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -647,7 +647,7 @@
     },
     "sony-dualsense-controller-fur-playstation-5": {
       "name": "Sony DualSense Controller für PlayStation 5",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 45,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1102,7 +1102,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-256-gb": {
-      "name": "Apple iPhone 13 Pro 256 GB",
+      "name": "Apple iPhone 13 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 390,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128gb",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128GB",
+      "name": "Apple iPhone 13 mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3340,7 +3340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-mini-128-gb": {
-      "name": "Apple iPhone 12 mini 128GB",
+      "name": "Apple iPhone 12 Mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 175,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4577,7 +4577,7 @@
     },
     "playstation-spiele": {
       "name": "PlayStation Spiele",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6551,7 +6551,7 @@
     },
     "gazelle-e-bike": {
       "name": "Gazelle E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8141,7 +8141,7 @@
     },
     "pegasus-e-bike": {
       "name": "Pegasus E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -20524,8 +20524,8 @@
       "updatedAt": null
     },
     "hitway-e-bike": {
-      "name": "Hitway E-Bike",
-      "category": "E-Bikes",
+      "name": "HITWAY E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -43943,7 +43943,7 @@
     },
     "fotograf-videograf-hochzeitsfotograf-kameramann-hochzeit-studio": {
       "name": "FOTOGRAF VIDEOGRAF HOCHZEITSFOTOGRAF KAMERAMANN HOCHZEIT STUDIO",
-      "category": "Dienstleistungen",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -46744,7 +46744,7 @@
       "updatedAt": null
     },
     "asus-nvidia-geforce-rtx-5060-ti-16-gb": {
-      "name": "Asus Nvidia GeForce RTX 5060 Ti 16gb",
+      "name": "Asus Nvidia GeForce RTX 5060 Ti 16 GB",
       "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
@@ -53206,7 +53206,7 @@
       "updatedAt": null
     },
     "gopro-hero8-black": {
-      "name": "GoPro Hero8 Black",
+      "name": "GoPro HERO8 Black",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -54772,8 +54772,8 @@
       "updatedAt": null
     },
     "e-bike-prophete-geniesser-3-3-city": {
-      "name": "E-Bike Prophete Geniesser 3.3 City",
-      "category": "E-Bikes",
+      "name": "E-Bike prophete geniesser 3.3 City",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -70511,6 +70511,126 @@
     },
     "dahua-ipc-hfw5831ep-ze-8mp-4k-ip-kamera": {
       "name": "Dahua IPC-HFW5831EP-ZE 8MP 4K IP Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "koga-e-worldtraveller": {
+      "name": "Koga E-WorldTraveller",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gudereit-et-7": {
+      "name": "Gudereit ET-7",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-slt": {
+      "name": "CUBE Reaction SLT",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "diamant-141-stepover-shimano-alfine-s7000-belt": {
+      "name": "Diamant 141 Stepover Shimano Alfine S7000 Belt",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-ktm-akku-750wh-bosch-perf-cx": {
+      "name": "E-Bike KTM Akku 750Wh Bosch Perf. CX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-umrustungssatz-ebike-kit-1000w-26-zoll": {
+      "name": "E-Bike Umrüstungssatz Ebike Kit 1000w 26 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-dice-3-8-e-mtb": {
+      "name": "Prophete DICE 3.8 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-traveller-e-gold-e-bike": {
+      "name": "Kettler Traveller E Gold E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2019-256-gb": {
+      "name": "Apple MacBook Air (2019) 256GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xfx-mercury-radeon-rx-9070-xt-16-gb": {
+      "name": "XFX Mercury Radeon RX 9070 XT 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-rx-580-grafikkarte": {
+      "name": "AMD RX 580 Grafikkarte",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1660-super-gaming-oc-6-gb": {
+      "name": "Gigabyte GeForce GTX 1660 SUPER Gaming OC 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-darksiders-2-avatar-dungeons-4": {
+      "name": "Playstation 5 - Darksiders 2 - Avatar - Dungeons 4",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "brinno-tlc2000-zeitrafferkamera": {
+      "name": "Brinno TLC2000 Zeitrafferkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "volvo-xc60-ii-au-enspiegel": {
+      "name": "Volvo XC60 II Außenspiegel",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-fm": {
+      "name": "Nikon FM",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-rx100-vi": {
+      "name": "Sony Cyber-shot RX100 VI",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-16-50-oss-ii-apsc": {
+      "name": "Sony 16 50 OSS II apsc",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-330": {
+      "name": "Sony 330",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-510": {
+      "name": "Olympus E-510",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
