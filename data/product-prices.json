@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T13:14:27.989Z",
+  "updatedAt": "2026-10-09T13:19:17.273Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128gb",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128 Gb",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128gb",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,7 +1054,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
+      "name": "Apple iPhone 17 Pro 256gb",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6832,7 +6832,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-2019": {
-      "name": "Apple MacBook Air (2019)",
+      "name": "Apple MacBook Air 2019",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -8830,7 +8830,7 @@
       "updatedAt": null
     },
     "canon-eos-600d": {
-      "name": "Canon EOS 600D",
+      "name": "Canon EOS 600d",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -13876,7 +13876,7 @@
       "updatedAt": null
     },
     "dji-osmo-360": {
-      "name": "Dji Osmo 360",
+      "name": "DJI OSMO 360",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -50651,7 +50651,7 @@
     },
     "himiway-d5-2-0": {
       "name": "Himiway D5 2.0",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -70968,6 +70968,132 @@
     "container-2-bikes": {
       "name": "Container 2 Bikes",
       "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "decathlon-e-mountainbike": {
+      "name": "Decathlon E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-velospace-xt-2-fur-2-e-bikes": {
+      "name": "Thule VeloSpace XT 2 für 2 E-Bikes",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elops-e-bike-city-trekking-bike-28-zoll-ld500e-hf": {
+      "name": "Elops E-Bike City Trekking Bike 28 Zoll LD500E HF",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-fahrradtrager": {
+      "name": "Thule Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-team-lfc-2024": {
+      "name": "KTM Macina Team LFC 2024",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-s327": {
+      "name": "Conway Cairon S327",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-128-gb-wei": {
+      "name": "Apple iPhone 13 128 GB weiß",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-m4-16-gb-512-gb-ssd": {
+      "name": "Apple MacBook Air 13 Zoll M4 16GB 512GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1660-oc-6-gb": {
+      "name": "Gigabyte GeForce GTX 1660 OC 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-gtx-1650-4-gb": {
+      "name": "MSI GeForce GTX 1650 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-portable": {
+      "name": "Sony PlayStation 5 Portable",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nuvint-digitalkamera": {
+      "name": "Nuvint Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-avata-2-fly-more": {
+      "name": "DJI Avata 2 Fly More",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-s1": {
+      "name": "Fujifilm X-S1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f60": {
+      "name": "Nikon F60",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-bg-r10-batteriegriff": {
+      "name": "Canon BG-R10 Batteriegriff",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-dsc-hx80": {
+      "name": "Sony DSC-HX80",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-1j1": {
+      "name": "Nikon 1j1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ezviz-cp8": {
+      "name": "EZVIZ CP8",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-alpha-a290": {
+      "name": "Sony Alpha a290",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-avata-drohne": {
+      "name": "DJI Avata Drohne",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
