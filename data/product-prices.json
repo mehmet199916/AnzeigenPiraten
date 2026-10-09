@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T11:45:05.267Z",
+  "updatedAt": "2026-10-09T11:49:53.802Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -64,7 +64,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-256-gb": {
-      "name": "Apple iPhone 13 256gb",
+      "name": "Apple iPhone 13 256GB",
       "category": "Smartphones",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,13 +334,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
+      "name": "Apple iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -652,7 +652,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-1-tb": {
-      "name": "Sony PlayStation 5 Konsole 1 TB",
+      "name": "Sony PlayStation 5 Konsole 1TB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1001,7 +1001,7 @@
     },
     "giant-talon-e": {
       "name": "Giant Talon E+",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": 1500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256gb",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,7 +1048,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256Gb",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128gb",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3592,7 +3592,7 @@
       "updatedAt": null
     },
     "iphone-16-pro-max-256-gb": {
-      "name": "iPhone 16 Pro Max 256 GB",
+      "name": "iPhone 16 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -3911,7 +3911,7 @@
     },
     "dji-avata-2": {
       "name": "DJI Avata 2",
-      "category": "Drones",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 mini 64GB",
+      "name": "Apple iPhone 12 Mini 64GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -19864,7 +19864,7 @@
       "updatedAt": null
     },
     "playstation-5-disc-version": {
-      "name": "PlayStation 5 Disc-Version",
+      "name": "PlayStation 5 Disc Version",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -34973,7 +34973,7 @@
     },
     "e-bike-focus-jarifa-ex": {
       "name": "E Bike Focus Jarifa EX",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -68496,6 +68496,96 @@
     "elektrofahrrad": {
       "name": "Elektrofahrrad",
       "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-bike-damenrad-mountainbike": {
+      "name": "Cube E-Bike Damenrad Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "molicycle-r1-e-bike-damen-26zoll": {
+      "name": "Molicycle R1 E Bike Damen 26Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-bike-wei": {
+      "name": "Haibike E-Bike weiß",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-cairon-suv-5-7-wave-modell-2023": {
+      "name": "Conway Cairon SUV 5.7 Wave (Modell 2023)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-hazard-e-bike": {
+      "name": "Stevens E-Hazard E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-analog-29zoll-ebike": {
+      "name": "Cube Analog 29Zoll Ebike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2012-256-gb": {
+      "name": "Apple MacBook Pro 2012 256 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-retina-13-mitte-2014": {
+      "name": "Apple MacBook Pro Retina 13\" (Mitte 2014)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-300-d-digital": {
+      "name": "Canon EOS 300 D Digital",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx710-hs-digitalkamera": {
+      "name": "Canon PowerShot SX710 HS Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "babyphone-angelcare-gerausch-und-bewegungsmelder-mit-kamera-ac25": {
+      "name": "Babyphone ANGELCARE Geräusch- und Bewegungsmelder mit Kamera AC25",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-tz25": {
+      "name": "Panasonic LUMIX DMC-TZ25",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "exa-ia-spiegelreflexkamera": {
+      "name": "Exa Ia Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1d-mark-iii-profi-kamera": {
+      "name": "Canon EOS-1D Mark III Profi Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx200v-18-2mp-digitalkamera": {
+      "name": "Sony Cyber-shot DSC-HX200V 18.2MP Digitalkamera",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
