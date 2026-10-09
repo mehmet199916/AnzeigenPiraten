@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T11:05:15.166Z",
+  "updatedAt": "2026-10-09T11:10:28.567Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -292,7 +292,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini": {
-      "name": "Apple iPhone 13 mini",
+      "name": "Apple iPhone 13 Mini",
       "category": "Smartphones",
       "referencePrice": 220,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128gb",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256gb",
+      "name": "Apple iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128GB",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1048,13 +1048,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256GB",
+      "name": "Apple iPhone 14 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128 GB",
+      "name": "Apple iPhone 14 Pro 128gb",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1786,7 +1786,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-128-gb": {
-      "name": "Apple iPhone 12 Pro 128 GB",
+      "name": "Apple iPhone 12 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1816,13 +1816,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-128-gb": {
-      "name": "iPhone 15 128GB",
+      "name": "iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512 GB",
+      "name": "Apple iPhone 16 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2476,7 +2476,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-neo-256-gb": {
-      "name": "Apple MacBook Neo 256GB",
+      "name": "Apple MacBook Neo 256 GB",
       "category": "Computer",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -4474,7 +4474,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-2060-6-gb": {
-      "name": "NVIDIA GeForce RTX 2060 6 GB",
+      "name": "NVIDIA GeForce RTX 2060 6GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -7187,7 +7187,7 @@
     },
     "bulls-e-bike": {
       "name": "Bulls E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7451,7 +7451,7 @@
     },
     "bosch-powerpack-500-e-bike-akku": {
       "name": "Bosch PowerPack 500 E-Bike Akku",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -67356,6 +67356,210 @@
     "mevo-start-livestreaming-kamera": {
       "name": "Mevo Start Livestreaming-Kamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-crussis": {
+      "name": "E-Bike Crussis",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ragos-al-ebk-7nxu-city": {
+      "name": "Ragos AL-EBK 7NXU City",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cyrusher-kommoda-pro": {
+      "name": "Cyrusher Kommoda Pro",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-team-xl-750": {
+      "name": "KTM Macina Team XL 750",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "agile-urban-carbon-fiber-e-bike": {
+      "name": "AGILE Urban Carbon Fiber E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-hazard": {
+      "name": "Stevens E-Hazard",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "merida-espresso-300": {
+      "name": "Merida eSpresso 300",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "uebler-i21-vw-nachfolger-f24-x": {
+      "name": "UEBLER I21 VW Nachfolger F24 X",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lapierre-e-sensium-e-bike-rennrad": {
+      "name": "Lapierre e-Sensium E-Bike Rennrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "muon-e-bike-gravel-bike": {
+      "name": "Muon E-Bike Gravel bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-charger3-e-bike": {
+      "name": "Riese Müller Charger3 E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-tourenrad-custom": {
+      "name": "E-Bike Tourenrad Custom",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-e-bike-vorderrad-trio-bf-fm-motor-36v-250w": {
+      "name": "Prophete E-Bike Vorderrad Trio BF FM Motor 36V/250W",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-e-bike-cross-plus-macina-28": {
+      "name": "KTM E-Bike Cross plus Macina 28\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-trail-2-fahrradtrager": {
+      "name": "Atera Trail 2 Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "atera-strada-dl-3-fahrradtrager": {
+      "name": "Atera Strada DL 3 Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-plus-512-gb": {
+      "name": "iPhone 16 Plus 512GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-14-1-tb": {
+      "name": "MacBook Pro 14 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-2020-m1-1-tb": {
+      "name": "MacBook Pro 2020 M1 1TB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rx-7600-xt-gaming-oc-16-gb": {
+      "name": "Gigabyte RX 7600 XT Gaming OC 16 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rohrkamera-20m-inspektionskamera": {
+      "name": "Rohrkamera 20m Inspektionskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fs6-digitalkamera": {
+      "name": "Panasonic Lumix DMC-FS6 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "aver-avervision-f15-schule-schulung-visualizer-projektor": {
+      "name": "AVER AVerVision F15 Schule Schulung Visualizer Projektor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-35s": {
+      "name": "Rollei 35S",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nuroum-konferenzkamera": {
+      "name": "Nuroum Konferenzkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-dslr-kamera": {
+      "name": "Pentax DSLR-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-a7s": {
+      "name": "Sony A7S",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28-zoll-herren-gazelle-heavy-duty": {
+      "name": "E Bike 28 Zoll Herren GAZELLE heavy duty",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-adventure-e-bike-bosch-85nm-625wh-riemen": {
+      "name": "Victoria Adventure E-Bike Bosch 85Nm 625Wh Riemen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "puch-classic-retro-vintage-bike": {
+      "name": "Puch Classic Retro Vintage Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-gazelle-paris-c7-hmb-400": {
+      "name": "E-Bike Gazelle Paris C7 HMB 400",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trek-checkpoint-alr-3-gen-3": {
+      "name": "Trek Checkpoint ALR 3 Gen 3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12-pro-graphit": {
+      "name": "Apple iPhone 12 Pro Graphit",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-titan-128-gb": {
+      "name": "Apple iPhone 15 Pro Titan 128 GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
