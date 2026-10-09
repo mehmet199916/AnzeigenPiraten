@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-09T12:09:35.122Z",
+  "updatedAt": "2026-10-09T12:14:50.030Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128GB",
+      "name": "Apple iPhone 15 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256Gb",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128gb",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -946,7 +946,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "hercules-e-bike": {
-      "name": "Hercules E-Bike",
+      "name": "HERCULES E-Bike",
       "category": "Fahrräder",
       "referencePrice": 900,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2129,7 +2129,7 @@
     },
     "sapphire-pulse-radeon-rx-5600-xt-be-oc-6-gb": {
       "name": "Sapphire Pulse Radeon RX 5600 XT BE OC 6GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 120,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2764,7 +2764,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-512-gb": {
-      "name": "Apple iPhone 17 Pro Max 512GB",
+      "name": "Apple iPhone 17 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3202,7 +3202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-256-gb": {
-      "name": "Apple iPhone 16 256GB",
+      "name": "Apple iPhone 16 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6551,7 +6551,7 @@
     },
     "gazelle-e-bike": {
       "name": "Gazelle E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -20458,7 +20458,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-2017-8-gb": {
-      "name": "Apple MacBook Pro 13\" (2017) 8GB",
+      "name": "Apple MacBook Pro 13\" 2017 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -32296,8 +32296,8 @@
       "updatedAt": null
     },
     "stevens-e-courier-luxe": {
-      "name": "Stevens E-Courier Luxe",
-      "category": "E-Bikes",
+      "name": "Stevens E-Courier LUXE",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -36760,7 +36760,7 @@
       "updatedAt": null
     },
     "sony-rx100-iii": {
-      "name": "Sony RX100 III",
+      "name": "Sony RX100 iii",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -48904,7 +48904,7 @@
       "updatedAt": null
     },
     "canon-powershot-g5x": {
-      "name": "Canon Powershot G5X",
+      "name": "Canon PowerShot G5X",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -62501,7 +62501,7 @@
     },
     "ktm-macina-tour-p510": {
       "name": "KTM Macina Tour P510",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -69186,6 +69186,222 @@
     "kuhlergrill-chrom-kamera": {
       "name": "Kühlergrill Chrom Kamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-navigator-6-6-e-bike": {
+      "name": "Prophete Navigator 6.6 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fastbikerz-e-bike-moped-style": {
+      "name": "FASTBIKERZ E-Bike Moped-Style",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-28-zoll-rh-43": {
+      "name": "Fischer E-Bike 28 Zoll RH 43",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-kalahoff-28er-zoll": {
+      "name": "E-Bike kalahoff 28er Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-performance-cx-gen-5-800wh-akku": {
+      "name": "Bosch Performance CX Gen. 5 800Wh Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "genesis-e-pro-3-3": {
+      "name": "Genesis E-Pro 3.3",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zundapp-z802-e-bike-damenrad": {
+      "name": "Zündapp Z802 E-Bike Damenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-sduro-hardnine-5-0-e-bike-29-zoll": {
+      "name": "Haibike SDURO HardNine 5.0 E-Bike (29 Zoll)",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-e-bike-28zoll-damen-arroyo-c7-elite": {
+      "name": "GAZELLE E-Bike 28Zoll Damen Arroyo C7 Elite",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mapfour-ray-air-st-e-bike-az": {
+      "name": "MapFour Ray Air ST E-Bike AZ",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-explore-e-2-sta": {
+      "name": "GIANT Explore E+ 2 STA",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-victoria-etrekking-6-5": {
+      "name": "E-Bike Victoria eTrekking 6.5",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-ultimate-xts-2022": {
+      "name": "KTM MACINA ULTIMATE XTS 2022",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-touring-hybrid-exc-625-2023": {
+      "name": "Cube TOURING HYBRID EXC 625 2023",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "trenga-de-gle-10i-gates-2024": {
+      "name": "Trenga De GLE 10i GATES 2024",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-fully": {
+      "name": "E Bike Fully",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cikada-urban-adventure-e-bike": {
+      "name": "Cikada Urban Adventure E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "orbea-rise-h30-2022": {
+      "name": "Orbea Rise H30 2022",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-allground-cx-27-e-bike": {
+      "name": "Bulls Allground CX 27 E bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "liv-vall-e-2-e-mtb": {
+      "name": "Liv Vall-E+ 2 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "wayscral-e-bike": {
+      "name": "Wayscral E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-retina-15-mitte-2015": {
+      "name": "Apple MacBook Pro (Retina, 15', Mitte 2015)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-6-m2-512-gb-ssd": {
+      "name": "Apple MacBook Air 13,6\" M2 – 512 GB SSD",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m3-8-gb": {
+      "name": "Apple MacBook Air 13\" M3 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-m5-2026": {
+      "name": "Apple MacBook Air 13 Zoll (M5) 2026",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-zoll-m2-2022": {
+      "name": "Apple MacBook Air 13 Zoll M2 (2022)",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-aorus-rtx-3060-ti-grafikkarte": {
+      "name": "Gigabyte AORUS RTX 3060 Ti Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-disc-4000": {
+      "name": "Kodak Disc 4000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-fx-700": {
+      "name": "Konica FX 700",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tasmanian-tiger-tt-modular-30-kamerarucksack-coyote-30l": {
+      "name": "Tasmanian Tiger TT modular 30 Kamerarucksack Coyote 30L",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "tauch-rig-griff-halterung-fur-uw-kamera": {
+      "name": "Tauch Rig Griff Halterung für UW Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "revue-fernglas-7x35": {
+      "name": "Revue Fernglas 7x35",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "brigade-ruckfahrkamera-be-810c-c": {
+      "name": "Brigade Rückfahrkamera BE-810C-C",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-s20-fe-haupt-kamera-wide-camera-modul": {
+      "name": "Samsung S20 FE Haupt Kamera Wide Camera Modul",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "360eyes-wifi-uberwachungskamera": {
+      "name": "360eyes WiFi Überwachungskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bianchi-impulso-comp-gravelbike": {
+      "name": "Bianchi Impulso COMP GravelBike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     }
