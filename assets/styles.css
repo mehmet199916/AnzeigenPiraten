@@ -228,6 +228,7 @@ code {
 }
 
 input[type="search"],
+input[type="text"],
 select {
   width: 100%;
   padding: 10px 12px;
@@ -240,6 +241,7 @@ select {
 }
 
 input[type="search"]:focus,
+input[type="text"]:focus,
 select:focus {
   outline: 2px solid rgba(56, 189, 248, 0.55);
   outline-offset: 1px;

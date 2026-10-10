@@ -11,6 +11,20 @@ A separate, stronger model can evaluate prices by product in a later step.
 
 ## How a scan works
 
+The website has an editable **Deine PLZ** field beside the radius selector.
+Entering a valid German postal code applies a 50 km radius by default. The
+radius and distance sorting then use approximate straight-line distances
+between postal-code centres, rather than the scanner's original search centre.
+Listings without a recognised postal code are excluded when a radius is active.
+This filters the existing shared feed; changing the browser input does not run a
+new scan or change `config/dealfinder.config.json`.
+
+`data/postal-centres.json` is derived from the German GeoNames postal-code dump
+by averaging places sharing a postal code. Source: https://download.geonames.org/export/zip/DE.zip
+(downloaded 2026-10-10), CC BY 4.0; attribution: https://www.geonames.org/.
+Regenerate after extracting DE.zip with
+`node scripts/build-postal-data.mjs /path/to/DE.txt`.
+
 1. Fetch the configured Kleinanzeigen searches.
 2. Classify listings without a known product identity.
 3. Keep the product identity, listing, asking price, and price history in

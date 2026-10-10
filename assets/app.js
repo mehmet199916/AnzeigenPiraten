@@ -1,4 +1,5 @@
 /* AnzeigenPiraten – static deal finder frontend (no build step, no deps). */
+import { postalCodeOf, postalDistance } from './postal.mjs';
 
 (() => {
   'use strict';
@@ -16,6 +17,9 @@
     productKey: '',
     priceStatus: '',
     maxDistance: '',
+    postalCode: '',
+    postalCodes: null,
+    scanLocation: null,
     sort: 'new',
     onlyNew: false,
   };
@@ -31,6 +35,8 @@
     product: document.getElementById('product'),
     priceStatus: document.getElementById('priceStatus'),
     maxDistance: document.getElementById('maxDistance'),
+    postalCode: document.getElementById('postalCode'),
+    locationHint: document.getElementById('locationHint'),
     sort: document.getElementById('sort'),
     onlyNew: document.getElementById('onlyNew'),
     reset: document.getElementById('reset'),
@@ -142,8 +148,32 @@
 
   /** Numeric distance in km, or null when the crawl did not report one. */
   function distanceOf(deal) {
+    if (state.postalCode) {
+      return postalDistance(state.postalCodes, state.postalCode, postalCodeOf(deal.location));
+    }
+    if (!deal.locationScope) return null; // Nationwide results have no reference point.
+    if (deal.distanceKm === null || deal.distanceKm === '') return null;
     const distance = Number(deal.distanceKm);
-    return Number.isFinite(distance) && distance > 0 ? distance : null;
+    return Number.isFinite(distance) && distance >= 0 ? distance : null;
+  }
+
+  function updateLocationHint() {
+    const postalCode = state.postalCode;
+    let validation = '';
+    if (postalCode && !/^\d{5}$/.test(postalCode)) validation = 'Bitte eine PLZ mit genau fünf Ziffern eingeben.';
+    else if (postalCode && !state.postalCodes?.[postalCode]) validation = 'Diese PLZ ist nicht im deutschen PLZ-Verzeichnis enthalten.';
+    el.postalCode.setCustomValidity(validation);
+    el.postalCode.setAttribute('aria-invalid', String(Boolean(validation)));
+    if (!state.postalCodes) el.locationHint.textContent = 'PLZ-Verzeichnis nicht verfügbar. Bitte die Seite neu laden.';
+    else if (validation) el.locationHint.textContent = validation;
+    else if (postalCode) {
+      const unknown = state.deals.filter((deal) => distanceOf(deal) === null).length;
+      el.locationHint.textContent = `Entfernungen ab ${postalCode}, ungefähr zwischen PLZ-Mittelpunkten. `
+        + (state.maxDistance ? `Filter: bis ${state.maxDistance} km. ${unknown} Anzeigen ohne zuordenbare PLZ werden ausgeschlossen. ` : '')
+        + 'Es werden die bereits gesammelten Anzeigen gefiltert; der Suchbestand wird dadurch nicht erweitert.';
+    } else el.locationHint.textContent = state.scanLocation?.plz
+      ? `Ohne eigene PLZ gelten die gespeicherten Entfernungen ab ${state.scanLocation.plz}.`
+      : 'Bitte deine PLZ eingeben, um nach Umkreis oder Entfernung zu filtern.';
   }
 
   async function loadJson(url) {
@@ -196,6 +226,7 @@
     const needle = state.search.trim().toLowerCase();
 
     const filtered = state.deals.filter((deal) => {
+      if (state.postalCode && !state.postalCodes?.[state.postalCode]) return false;
       if (state.queryId && deal.queryId !== state.queryId) return false;
       if (state.productKey && deal.product?.key !== state.productKey) return false;
       if (state.priceStatus && deal.referencePriceCheck?.status !== state.priceStatus) return false;
@@ -301,7 +332,7 @@
           ${comparisonSummary(deal.priceComparison)}
 
           <p class="card__meta">
-            <span>📍 ${escapeHtml(deal.location || 'Ort unbekannt')}${distanceOf(deal) !== null ? ` · ${distanceOf(deal).toLocaleString('de-DE')} km` : ''}</span>
+            <span>📍 ${escapeHtml(deal.location || 'Ort unbekannt')}${distanceOf(deal) !== null ? ` · ${distanceOf(deal).toLocaleString('de-DE', { maximumFractionDigits: 1 })} km` : ''}</span>
             <span>🕒 ${escapeHtml(formatRelative(deal.postedAt || deal.firstSeenAt))}</span>
           </p>
 
@@ -314,6 +345,7 @@
   }
 
   function render() {
+    updateLocationHint();
     const deals = currentDeals();
 
     el.feed.setAttribute('aria-busy', 'false');
@@ -378,7 +410,7 @@
         <dl class="detail__facts">
           <div><dt>Suchauftrag</dt><dd>${escapeHtml(deal.queryLabel || '–')}</dd></div>
           <div><dt>Ort</dt><dd>${escapeHtml(deal.location || '–')}</dd></div>
-          <div><dt>Entfernung</dt><dd>${distanceOf(deal) !== null ? `${distanceOf(deal).toLocaleString('de-DE')} km` : '–'}</dd></div>
+          <div><dt>Entfernung</dt><dd>${distanceOf(deal) !== null ? `${distanceOf(deal).toLocaleString('de-DE', { maximumFractionDigits: 1 })} km` : '–'}</dd></div>
           <div><dt>Inseriert</dt><dd>${escapeHtml(formatDateTime(deal.postedAt))}</dd></div>
           <div><dt>Gefunden</dt><dd>${escapeHtml(formatDateTime(deal.firstSeenAt))}</dd></div>
         </dl>
@@ -458,6 +490,14 @@
       render();
     });
 
+    el.postalCode.addEventListener('input', () => {
+      state.postalCode = el.postalCode.value.trim();
+      if (/^\d{5}$/.test(state.postalCode) && !state.maxDistance) {
+        state.maxDistance = '50'; el.maxDistance.value = '50';
+      }
+      render();
+    });
+
     el.maxDistance.addEventListener('change', () => {
       state.maxDistance = el.maxDistance.value;
       render();
@@ -479,6 +519,7 @@
       state.productKey = '';
       state.priceStatus = '';
       state.maxDistance = '';
+      state.postalCode = '';
       state.sort = 'new';
       state.onlyNew = false;
 
@@ -487,6 +528,7 @@
       el.product.value = '';
       el.priceStatus.value = '';
       el.maxDistance.value = '';
+      el.postalCode.value = '';
       el.sort.value = 'new';
       el.onlyNew.checked = false;
 
@@ -520,12 +562,21 @@
     wireEvents();
 
     try {
-      const [data, meta] = await Promise.all([
+      const [data, meta, postalData] = await Promise.all([
         loadJson(DATA_URL),
         loadJson(META_URL).catch(() => null),
+        loadJson('data/postal-centres.json').catch(() => null),
       ]);
 
       state.deals = Array.isArray(data.deals) ? data.deals : [];
+      state.postalCodes = postalData?.postalCodes || null;
+      state.scanLocation = data.location || meta?.location || null;
+      if (state.scanLocation?.plz && state.postalCodes?.[state.scanLocation.plz]) {
+        state.postalCode = state.scanLocation.plz;
+        el.postalCode.value = state.postalCode;
+        state.maxDistance = String(state.scanLocation.radius || '50');
+        el.maxDistance.value = state.maxDistance;
+      }
       state.queries = Array.isArray(data.queries) ? data.queries : [];
       state.generatedAt = data.generatedAt ?? null;
 

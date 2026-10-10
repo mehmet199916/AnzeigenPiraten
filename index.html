@@ -64,7 +64,12 @@
       </div>
 
       <div class="field">
-        <label for="maxDistance">Umkreis</label>
+        <label for="postalCode">Deine PLZ</label>
+        <input id="postalCode" type="text" inputmode="numeric" maxlength="5" pattern="[0-9]{5}" placeholder="z. B. 86424" autocomplete="postal-code" aria-describedby="locationHint">
+      </div>
+
+      <div class="field">
+        <label for="maxDistance">Umkreis um deine PLZ</label>
         <select id="maxDistance">
           <option value="">Alle Entfernungen</option>
           <option value="5">bis 5 km</option>
@@ -94,6 +99,7 @@
 
       <button id="reset" class="btn btn--ghost" type="button">Zurücksetzen</button>
     </section>
+    <p id="locationHint" class="footer__meta" aria-live="polite">PLZ eingeben und Umkreis auswählen. Filtert die bereits gesammelten Anzeigen nach ungefährer Luftlinie zwischen PLZ-Mittelpunkten.</p>
 
     <section id="feed" class="grid" aria-live="polite" aria-busy="true"></section>
     <p id="empty" class="empty" hidden></p>
@@ -106,6 +112,7 @@
       Suchfilter gelten nur für deinen aktuellen Besuch.
     </p>
     <p class="footer__meta" id="footerMeta"></p>
+    <p class="footer__meta">PLZ-Koordinaten: <a href="https://www.geonames.org/">GeoNames</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>; je PLZ gemittelt.</p>
     <p class="footer__legal">
       Alle Angaben ohne Gewähr. Preise und Verfügbarkeiten können sich jederzeit ändern.
       Dieses Projekt steht in keiner Verbindung zu kleinanzeigen.de.
@@ -117,6 +124,6 @@
     <div class="detail__body" id="detailBody"></div>
   </dialog>
 
-  <script src="assets/app.js" defer></script>
+  <script src="assets/app.js" type="module"></script>
 </body>
 </html>
