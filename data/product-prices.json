@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T16:04:29.831Z",
+  "updatedAt": "2026-10-10T16:19:22.593Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -479,7 +479,7 @@
     },
     "nvidia-rtx-3080-ti-12-gb": {
       "name": "NVIDIA RTX 3080 TI 12GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -16019,7 +16019,7 @@
     },
     "apple-iphone-x-256-gb": {
       "name": "Apple iPhone X 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -37007,7 +37007,7 @@
     },
     "apple-iphone-8-plus-256-gb": {
       "name": "Apple iPhone 8 Plus 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -48725,7 +48725,7 @@
     },
     "apple-iphone-17-128-gb": {
       "name": "Apple iPhone 17 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78299,6 +78299,66 @@
     },
     "panasonic-lumix-fz83": {
       "name": "Panasonic Lumix fz83",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16-e": {
+      "name": "Apple iPhone 16 e",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-11pro": {
+      "name": "Apple iPhone 11Pro",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13pro": {
+      "name": "Apple IPhone 13Pro",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-2021-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro M1 2021 16 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-6700xt-12-gb": {
+      "name": "RX 6700XT 12 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-3-500-gb": {
+      "name": "Sony PlayStation 3 500 GB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-2-tb": {
+      "name": "Sony PlayStation 5 Slim 2 TB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-512-gb": {
+      "name": "Sony PlayStation 5 slim 512 GB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-hybrid-kamera": {
+      "name": "Panasonic Hybrid Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-mit-12": {
+      "name": "Panasonic mit 12",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
