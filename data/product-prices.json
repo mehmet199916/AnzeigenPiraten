@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T14:53:09.802Z",
+  "updatedAt": "2026-10-10T14:58:20.732Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -323,7 +323,7 @@
     },
     "apple-iphone-se-2": {
       "name": "Apple iPhone SE 2",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 110,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1445,7 +1445,7 @@
     },
     "apple-iphone-14-256-gb": {
       "name": "Apple iPhone 14 256GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2969,7 +2969,7 @@
     },
     "playstation-5-pro": {
       "name": "PlayStation 5 Pro",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -22943,7 +22943,7 @@
     },
     "amd-radeon-rx-9070-xt-16-gb": {
       "name": "AMD Radeon RX 9070 XT 16 GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26075,7 +26075,7 @@
     },
     "apple-iphone-se": {
       "name": "Apple iPhone SE",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -30413,7 +30413,7 @@
     },
     "apple-iphone-15pro": {
       "name": "Apple iPhone 15pro",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -39839,7 +39839,7 @@
     },
     "amd-radeon-rx-7800-xt-16-gb": {
       "name": "AMD Radeon RX 7800 XT 16GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78126,6 +78126,24 @@
     "apple-macbook-pro-2017-8-gb-ram": {
       "name": "Apple MacBook Pro 2017 8GB RAM",
       "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-16-gb-ram-256-gb-ssd": {
+      "name": "Apple Macbook Air M1 16GB RAM 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-7900-xtx": {
+      "name": "RX 7900 XTX",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-660": {
+      "name": "GTX 660",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     }
