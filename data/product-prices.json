@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T13:34:22.576Z",
+  "updatedAt": "2026-10-10T13:40:39.227Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128 GB",
+      "name": "Apple iPhone 15 128GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -292,7 +292,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini": {
-      "name": "Apple iPhone 13 Mini",
+      "name": "Apple iPhone 13 mini",
       "category": "Smartphones",
       "referencePrice": 220,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -335,7 +335,7 @@
     },
     "apple-iphone-17-pro-max-256-gb": {
       "name": "Apple iPhone 17 Pro Max 256 GB",
-      "category": "smartphones",
+      "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1012,7 +1012,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "cube-e-bike": {
-      "name": "Cube E-Bike",
+      "name": "Cube E Bike",
       "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256 GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1054,8 +1054,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256 GB",
-      "category": "smartphones",
+      "name": "Apple iPhone 17 Pro 256GB",
+      "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1811,7 +1811,7 @@
     },
     "apple-iphone-13-128-gb": {
       "name": "Apple iPhone 13 128 GB",
-      "category": "smartphones",
+      "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2674,7 +2674,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-plus-128-gb": {
-      "name": "Apple iPhone 16 Plus 128 GB",
+      "name": "Apple iPhone 16 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8026,7 +8026,7 @@
       "updatedAt": null
     },
     "apple-iphone-air-256-gb": {
-      "name": "Apple iPhone Air 256 GB",
+      "name": "Apple iPhone Air 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -15766,7 +15766,7 @@
       "updatedAt": null
     },
     "sony-a7iv": {
-      "name": "Sony a7IV",
+      "name": "Sony A7IV",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -41777,7 +41777,7 @@
     },
     "prophete-dice-1-0-e-mtb": {
       "name": "Prophete Dice 1.0 E-MTB",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -66286,7 +66286,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-1-tb": {
-      "name": "Apple MacBook Pro 13\" 1 TB",
+      "name": "Apple MacBook Pro 13\" 1TB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -77399,6 +77399,138 @@
     },
     "contax-137-ma-quarz": {
       "name": "Contax 137 MA Quarz",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-kreidler-gazelle-rose-kettler-e-bike": {
+      "name": "Victoria Kreidler Gazelle Rose Kettler E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-bulls-top": {
+      "name": "E Bike Bulls Top",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-giant-explorer-e-3": {
+      "name": "e-Bike Giant Explorer E +3",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-alltrail-7": {
+      "name": "Haibike AllTrail 7",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hercules-roberta-7-damen-fahrrad": {
+      "name": "Hercules ROBERTA 7 Damen Fahrrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-full-suspension-e-mountainbike": {
+      "name": "Conway Full-Suspension E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bergamont-e-line-metric-c-7-4-eq-e-bike": {
+      "name": "Bergamont E-Line Metric C-7.4 EQ E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-nvidia-rtx-5060-ti-16-gb": {
+      "name": "Asus Nvidia RTX 5060 Ti 16gb",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-2060-evga-sc": {
+      "name": "NVIDIA RTX 2060 EVGA SC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-3-slim-500-gb": {
+      "name": "PlayStation 3 Slim 500GB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-disk-version": {
+      "name": "PlayStation 5 Disk Version",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-ps5-portable": {
+      "name": "Sony PS5 Portable",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "autodarts-winmau-plasma-kamerahalter-set": {
+      "name": "Autodarts Winmau Plasma Kamerahalter Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eastman-kodak-vintage-studio-kamera": {
+      "name": "Eastman Kodak Vintage Studio Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-nv-ds15-camcorder": {
+      "name": "Panasonic NV-DS15 Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-vr-komplettset": {
+      "name": "Sony PlayStation VR Komplettset",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vintage-agfa-fotoapparate": {
+      "name": "Vintage Agfa Fotoapparate",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-link-wide-smartphone-drucker": {
+      "name": "Fujifilm Instax Link WIDE Smartphone-Drucker",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "leica-d-lux-6": {
+      "name": "Leica D-Lux 6",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-coolpix-s6300": {
+      "name": "Nikon Coolpix S6300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-fx7": {
+      "name": "Panasonic DMC-FX7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "original-exa-exakt-kamera": {
+      "name": "Original Exa Exakt Kamera",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
