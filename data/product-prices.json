@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T14:03:53.951Z",
+  "updatedAt": "2026-10-10T14:08:52.802Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -317,7 +317,7 @@
     },
     "apple-iphone-11": {
       "name": "Apple iPhone 11",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "iPhone",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1043,13 +1043,13 @@
     },
     "apple-iphone-14-pro-max": {
       "name": "Apple iPhone 14 Pro Max",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 470,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
       "name": "Apple iPhone 14 Pro 256GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1061,7 +1061,7 @@
     },
     "apple-iphone-12-pro-256-gb": {
       "name": "Apple iPhone 12 Pro 256Gb",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 270,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1205,7 +1205,7 @@
     },
     "nvidia-geforce-rtx-3060-ti": {
       "name": "NVIDIA GeForce RTX 3060 Ti",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 220,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1787,7 +1787,7 @@
     },
     "apple-iphone-12-pro-128-gb": {
       "name": "Apple iPhone 12 Pro 128 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 235,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -4727,7 +4727,7 @@
     },
     "apple-macbook-pro-15-zoll": {
       "name": "Apple MacBook Pro 15 Zoll",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7301,7 +7301,7 @@
     },
     "nvidia-geforce-gtx-1070-8-gb": {
       "name": "NVIDIA GeForce GTX 1070 8 GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8279,7 +8279,7 @@
     },
     "sony-playstation-4": {
       "name": "Sony PlayStation 4",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -16589,7 +16589,7 @@
     },
     "apple-iphone-11-256-gb": {
       "name": "Apple iPhone 11 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18941,7 +18941,7 @@
     },
     "apple-iphone-se-128-gb": {
       "name": "Apple iPhone SE 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -40721,7 +40721,7 @@
     },
     "amd-radeon-rx-5700-xt-8-gb": {
       "name": "AMD Radeon RX 5700 XT 8GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -77748,6 +77748,42 @@
     "panasonic-lumix-dmc": {
       "name": "Panasonic Lumix DMC",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m3-pro-2023-18-gb-ram-500-gb-ssd": {
+      "name": "Apple MacBook Pro M3 Pro 2023 18GB RAM 500GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-2026-15-zoll": {
+      "name": "Apple Macbook Air M5 2026 15 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m3-pro-2023": {
+      "name": "Apple MacBook Pro M3 Pro 2023",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m4-2025-256-gb-ssd": {
+      "name": "Apple MacBook Air M4 2025 256 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m4-2024-16-gb-ram-512-gb-ssd": {
+      "name": "Apple Macbook Pro M4 2024 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2019-16-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro 2019 16GB RAM 1TB SSD",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     }
