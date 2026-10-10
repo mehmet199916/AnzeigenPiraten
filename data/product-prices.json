@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T14:38:31.014Z",
+  "updatedAt": "2026-10-10T14:43:25.222Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -503,7 +503,7 @@
     },
     "amd-radeon-rx-7600-8-gb": {
       "name": "AMD Radeon RX 7600 8GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3035,7 +3035,7 @@
     },
     "apple-iphone-se-2022-128-gb": {
       "name": "Apple iPhone SE 2022 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 225,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6713,7 +6713,7 @@
     },
     "apple-iphone-12-mini": {
       "name": "Apple iPhone 12 Mini",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78072,6 +78072,42 @@
     "rx5700xt-8-gb": {
       "name": "RX5700XT 8 GB",
       "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17pro-512-gb": {
+      "name": "Apple Iphone 17pro 512 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17pro-max-256-gb": {
+      "name": "Apple iPhone 17Pro Max 256 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2023": {
+      "name": "Apple Macbook pro 2023",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m4-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M4 16 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-20d": {
+      "name": "Canon EOS 20D",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero4": {
+      "name": "GoPro HERO4",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
