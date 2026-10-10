@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T17:48:44.543Z",
+  "updatedAt": "2026-10-10T18:04:07.937Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -1331,7 +1331,7 @@
     },
     "sony-playstation-5-pro-2-tb": {
       "name": "Sony PlayStation 5 Pro 2TB",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1847,7 +1847,7 @@
     },
     "apple-macbook-air-2025": {
       "name": "Apple MacBook Air (2025)",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2939,7 +2939,7 @@
     },
     "apple-iphone-xs-max-64-gb": {
       "name": "Apple iPhone XS Max 64 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6719,7 +6719,7 @@
     },
     "apple-iphone-11-pro-512-gb": {
       "name": "Apple iPhone 11 Pro 512GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13661,7 +13661,7 @@
     },
     "apple-iphone-14-pro-512-gb": {
       "name": "Apple iPhone 14 Pro 512 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -34487,7 +34487,7 @@
     },
     "nvidia-rtx-2070": {
       "name": "NVIDIA RTX 2070",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -60443,7 +60443,7 @@
     },
     "apple-macbook-pro-17-zoll": {
       "name": "Apple MacBook Pro 17 Zoll",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -64817,7 +64817,7 @@
     },
     "apple-macbook-air-m2-13-zoll": {
       "name": "Apple MacBook Air M2 13 Zoll",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78564,6 +78564,54 @@
     "apple-iphone-8plus-256-gb": {
       "name": "Apple iPhone 8Plus 256 GB",
       "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-max-1024-gb": {
+      "name": "Apple IPhone 17 Pro Max 1024 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-2022-16-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Air M2 2022 16 GB RAM 256 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-8-gb-ram-128-gb-ssd": {
+      "name": "Apple MacBook Air 8GB RAM 128GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-2023": {
+      "name": "Apple MacBook Air M2 2023",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-tz300": {
+      "name": "Panasonic LUMIX TZ300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-hx-a500": {
+      "name": "Panasonic HX-A500",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1200": {
+      "name": "Canon EOS 1200",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-256-gb-ssd": {
+      "name": "Apple MacBook Pro 13 Zoll 256 GB SSD",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     }
