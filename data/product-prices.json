@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T13:58:46.372Z",
+  "updatedAt": "2026-10-10T14:03:53.951Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -269,7 +269,7 @@
     },
     "apple-iphone-17": {
       "name": "Apple iPhone 17",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -293,13 +293,13 @@
     },
     "apple-iphone-13-mini": {
       "name": "Apple iPhone 13 mini",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 220,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
       "name": "Apple iPhone 14 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -335,7 +335,7 @@
     },
     "apple-iphone-17-pro-max-256-gb": {
       "name": "Apple iPhone 17 Pro Max 256GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -347,7 +347,7 @@
     },
     "apple-iphone-12-128-gb": {
       "name": "Apple iPhone 12 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1031,7 +1031,7 @@
     },
     "apple-iphone-17-256-gb": {
       "name": "Apple iPhone 17 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1073,7 +1073,7 @@
     },
     "apple-iphone-15": {
       "name": "Apple iPhone 15",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 400,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2447,7 +2447,7 @@
     },
     "apple-iphone-17-pro-max": {
       "name": "Apple iPhone 17 Pro Max",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 1100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2675,7 +2675,7 @@
     },
     "apple-iphone-16-plus-128-gb": {
       "name": "Apple iPhone 16 Plus 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -8027,7 +8027,7 @@
     },
     "apple-iphone-air-256-gb": {
       "name": "Apple iPhone Air 256GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -38261,7 +38261,7 @@
     },
     "playstation-4-slim": {
       "name": "PlayStation 4 Slim",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -68741,7 +68741,7 @@
     },
     "apple-iphone-17-pro-max-258-gb": {
       "name": "Apple iPhone 17 Pro Max 258 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -77699,6 +77699,54 @@
     },
     "gopro-hero-11": {
       "name": "GoPro Hero 11",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-pro-8-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Pro M1 Pro 8 GB RAM 256 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-8-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro 8GB RAM 1TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m2-pro-2023-14-zoll": {
+      "name": "Apple MacBook Pro M2 Pro 2023 14 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-nv-ds15": {
+      "name": "Panasonic NV-DS15",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15pro-256-gb": {
+      "name": "Apple iPhone 15pro 256 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14pro-128-gb": {
+      "name": "Apple Iphone 14pro 128 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc": {
+      "name": "Panasonic Lumix DMC",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
