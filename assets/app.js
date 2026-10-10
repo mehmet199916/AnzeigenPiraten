@@ -324,7 +324,7 @@ import { isVisibleListing, TRADING_CATEGORIES } from './categories.mjs';
           <div class="card__badges">${badges.join('')}</div>
           <h2 class="card__title">${escapeHtml(deal.title || 'Ohne Titel')}</h2>
 
-          <p class="card__product">${escapeHtml(product.name ?? 'Produkt noch nicht erkannt')}${product.variant ? ` · ${escapeHtml(product.variant)}` : ''}</p>
+          <p class="card__product">${escapeHtml(product.key === 'unknown' && !product.decision ? 'Produktprüfung ausstehend' : (product.name ?? 'Produktprüfung ausstehend'))}${product.variant ? ` · ${escapeHtml(product.variant)}` : ''}</p>
 
           <p class="card__price">
             <strong>${escapeHtml(deal.priceRaw || formatPrice(deal.price))}</strong>
@@ -453,6 +453,7 @@ import { isVisibleListing, TRADING_CATEGORIES } from './categories.mjs';
     el.status.innerHTML = `Letzter Scan: <strong>${escapeHtml(formatDateTime(meta?.generatedAt ?? state.generatedAt))}</strong>`;
     el.statusSub.textContent = [
       `Produktzuordnung: ${friendly}`,
+      Number.isFinite(meta?.pendingClassifications) ? `${meta.pendingClassifications} Produktprüfungen ausstehend` : null,
       Number.isFinite(meta?.fetchedListings) ? `${meta.fetchedListings} Anzeigen geprüft` : null,
       Number.isFinite(meta?.newDeals) ? `${meta.newDeals} neu` : null,
       Number.isFinite(meta?.durationMs) ? `in ${(meta.durationMs / 1000).toFixed(1)}s` : null,

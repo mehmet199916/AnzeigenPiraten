@@ -77,7 +77,7 @@
     "model": "tev1:0.8b",
     "temperature": 0.2,
     "batchSize": 8,
-    "maxClassificationsPerRun": 80,
+    "maxClassificationsPerRun": 200,
     "maxDescriptionChars": 700,
     "timeoutMs": 60000,
     "reasoningEffort": "",

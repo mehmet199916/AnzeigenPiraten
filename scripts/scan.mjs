@@ -15,6 +15,7 @@ import { fileURLToPath } from 'node:url';
 import { aiIsConfigured, loadConfig } from './lib/config.mjs';
 import { collectListings, isNearbyDeal } from './lib/kleinanzeigen.mjs';
 import { classifyListings, DECISION_VERSION } from './lib/products.mjs';
+import { selectClassificationItems } from './lib/classification-queue.mjs';
 import { isExcludedListing } from '../assets/categories.mjs';
 import {
   checkProductPrice,
@@ -136,10 +137,7 @@ async function main() {
     }
   }
 
-  pendingClassification.sort((a, b) => (
-    new Date(a.listing.postedAt ?? 0).getTime() - new Date(b.listing.postedAt ?? 0).getTime()
-  ));
-  const capped = pendingClassification.slice(0, config.ai.maxClassificationsPerRun);
+  const capped = selectClassificationItems(pendingClassification, config.ai.maxClassificationsPerRun, fetchedIds, previousById);
   if (capped.length < pendingClassification.length) {
     log(`Classification cap reached: classifying ${capped.length} of ${pendingClassification.length} listings.`);
   }
@@ -267,6 +265,7 @@ async function main() {
     previouslyStored: previousDeals.length,
     newDeals: newDeals.length,
     classified: freshClassifications.size,
+    pendingClassifications: deals.filter(deal => deal.product?.decision?.version !== DECISION_VERSION || deal.product.decision.status === 'pending').length,
     totalDeals: deals.length,
     priceDatabase: {
       products: Object.keys(priceDb.products ?? {}).length,

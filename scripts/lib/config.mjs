@@ -28,7 +28,7 @@ export const CONFIG_DEFAULTS = {
     decisionThreshold: 0.75,
     temperature: 0.2,
     batchSize: 8,
-    maxClassificationsPerRun: 80,
+    maxClassificationsPerRun: 200,
     maxDescriptionChars: 700,
     timeoutMs: 60000,
     // Optional reasoning_effort for OpenAI-compatible classification endpoints.

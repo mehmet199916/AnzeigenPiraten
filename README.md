@@ -187,6 +187,13 @@ scores or model-generated fair prices.
 
 ## Fixed categories and Tev1 decisions
 
+Each scan checks up to 200 listings by default. Unclassified current search results
+come first; 20% of capacity is reserved for the historical backlog when both queues
+are present. Unused capacity is shared. `meta.pendingClassifications` reports the
+remaining queue. Unchecked listings show “Produktprüfung ausstehend” rather than
+claiming that the product was unrecognisable. Higher limits can lengthen scans;
+the local runner's existing mutex prevents overlapping scheduled scans.
+
 Ollama 0.35+ and `tev1:0.8b` are required (https://ollama.com/library/tev1).
 No Qwen chat calls are used by the scanner. Tev1 receives one listing at a time
 and returns yes/no probabilities for the five fixed trading categories in
