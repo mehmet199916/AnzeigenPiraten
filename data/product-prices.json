@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T12:34:40.985Z",
+  "updatedAt": "2026-10-10T12:39:48.810Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256Gb",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -346,7 +346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-128-gb": {
-      "name": "Apple iPhone 12 128 GB",
+      "name": "Apple iPhone 12 128Gb",
       "category": "Smartphones",
       "referencePrice": 195,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1444,7 +1444,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-256-gb": {
-      "name": "Apple iPhone 14 256GB",
+      "name": "Apple iPhone 14 256 GB",
       "category": "Smartphones",
       "referencePrice": 360,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1822,7 +1822,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-512-gb": {
-      "name": "Apple iPhone 16 Pro Max 512 GB",
+      "name": "Apple iPhone 16 Pro Max 512GB",
       "category": "Smartphones",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2890,7 +2890,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-15-pro-max-256-gb": {
-      "name": "iPhone 15 Pro Max 256 GB",
+      "name": "iPhone 15 pro max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6490,7 +6490,7 @@
       "updatedAt": null
     },
     "apple-iphone-12-mini-64-gb": {
-      "name": "Apple iPhone 12 mini 64GB",
+      "name": "Apple iPhone 12 mini 64 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7516,7 +7516,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-max-512-gb": {
-      "name": "Apple iPhone 14 Pro Max 512GB",
+      "name": "Apple iPhone 14 Pro Max 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -11680,8 +11680,8 @@
       "updatedAt": null
     },
     "ea-sports-fc-27": {
-      "name": "EA Sports FC 27",
-      "category": "Spielekonsolen",
+      "name": "EA SPORTS FC 27",
+      "category": "Spiele",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14615,7 +14615,7 @@
     },
     "victoria-e-bike": {
       "name": "Victoria E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17836,7 +17836,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-m2-8-gb": {
-      "name": "Apple MacBook Air M2 8 GB",
+      "name": "Apple MacBook Air M2 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -29842,7 +29842,7 @@
       "updatedAt": null
     },
     "apple-iphone-14-pro-265-gb": {
-      "name": "Apple iPhone 14 Pro 265 GB",
+      "name": "Apple iPhone 14 Pro 265GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -39724,7 +39724,7 @@
       "updatedAt": null
     },
     "insta-360-x3": {
-      "name": "Insta 360 X3",
+      "name": "insta 360 X3",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -47524,7 +47524,7 @@
       "updatedAt": null
     },
     "haibike-trekking-9-e-bike": {
-      "name": "Haibike Trekking 9 E-Bike",
+      "name": "Haibike Trekking 9 e-bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -49840,7 +49840,7 @@
       "updatedAt": null
     },
     "apple-iphone-17-air-1-tb": {
-      "name": "Apple iPhone 17 Air 1TB",
+      "name": "Apple iPhone 17 air 1 tb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -75485,6 +75485,204 @@
     },
     "olympus-stylus-xz-2": {
       "name": "Olympus Stylus XZ-2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-drvetion": {
+      "name": "E-Bike DRVETION",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-pfm-gr-l-e-bike": {
+      "name": "CUBE Reaction Hybrid PFM Gr. L E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "winora-yakun-x12-e-bike": {
+      "name": "Winora Yakun X12 e-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-26-zoll-e-bike": {
+      "name": "Kalkhoff 26 Zoll E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-120-race": {
+      "name": "CUBE Stereo Hybrid 120 Race",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m5-16-512": {
+      "name": "Apple MacBook Air 13 M5 16 512",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-r9-380x": {
+      "name": "AMD Radeon R9 380X",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-quadro-p2200-grafikkarte": {
+      "name": "NVIDIA Quadro P2200 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-radeon-rx-9060-xt-16-gb-oc": {
+      "name": "AMD Radeon RX 9060 XT 16GB OC",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-pro-2-tb-digital": {
+      "name": "Sony PlayStation 5 Pro 2TB Digital",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dreirad-e-bike": {
+      "name": "Dreirad E-bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-touring-hybrid-one-500": {
+      "name": "Cube Touring Hybrid ONE 500",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-hamburg-e-bike": {
+      "name": "NCM Hamburg E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-300d-digitalkamera": {
+      "name": "Canon EOS 300D Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-handycam-ccd-tr-2000-video-hi-8-camcorder": {
+      "name": "Sony Handycam CCD-TR 2000 Video Hi 8 Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zenit-ttl-spiegelreflexkamera": {
+      "name": "Zenit TTL Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-e-420-slr-kamera-kit": {
+      "name": "Olympus E-420 SLR-Kamera-Kit",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jvc-gz-e15be-camcorder": {
+      "name": "JVC GZ-E15BE Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-nv-ds29-eg-minidv-camcorder": {
+      "name": "Panasonic NV-DS29 EG MiniDV Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-tz36": {
+      "name": "Panasonic Lumix DMC-TZ36",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-dynax-8000i-spiegelreflex": {
+      "name": "Minolta Dynax 8000i Spiegelreflex",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bresser-spektiv-dachstein-20-60x80-ed-45-mit-stativ": {
+      "name": "BRESSER Spektiv Dachstein 20-60x80 ED 45° mit Stativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "unifi-g6-bullet-kamera": {
+      "name": "Unifi G6 Bullet Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-fs40": {
+      "name": "Panasonic Lumix FS40",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blaupunkt-cr4300": {
+      "name": "Blaupunkt CR4300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-bessa-kamera-heliar-15mm": {
+      "name": "Voigtländer Bessa Kamera Heliar 15mm",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-17-nebelblau": {
+      "name": "iPhone 17 Nebelblau",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "einer-drei-pack-von-iphones-128-gb": {
+      "name": "einer drei pack von IPhones 128gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-handy": {
+      "name": "iPhone 14 Handy",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-pro-128-gb-titan-blau": {
+      "name": "Apple IPhone 15 pro 128 GB - Titan Blau",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-15-pro-256-gb-schwarz": {
+      "name": "iPhone 15 pro - 256GB schwarz",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ae1-spiegelreflex": {
+      "name": "Canon AE1 Spiegelreflex",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "yashica-mf-1-point-shoot": {
+      "name": "YASHICA MF-1 Point & Shoot",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
