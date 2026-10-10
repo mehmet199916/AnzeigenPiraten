@@ -16,7 +16,7 @@
       "maxPrice": "1200",
       "adType": "OFFER",
       "posterType": "",
-      "maxPages": 1
+      "maxPages": 0
     },
     {
       "id": "macbook",
@@ -29,7 +29,7 @@
       "maxPrice": "2000",
       "adType": "OFFER",
       "posterType": "",
-      "maxPages": 1
+      "maxPages": 0
     },
     {
       "id": "gpu",
@@ -42,7 +42,7 @@
       "maxPrice": "1500",
       "adType": "OFFER",
       "posterType": "",
-      "maxPages": 1
+      "maxPages": 0
     },
     {
       "id": "console",
@@ -55,7 +55,7 @@
       "maxPrice": "700",
       "adType": "OFFER",
       "posterType": "",
-      "maxPages": 1
+      "maxPages": 0
     },
     {
       "id": "kamera",
@@ -68,7 +68,7 @@
       "maxPrice": "2000",
       "adType": "OFFER",
       "posterType": "",
-      "maxPages": 1
+      "maxPages": 0
     }
   ],
   "ai": {
@@ -84,8 +84,8 @@
     "decisionThreshold": 0.75
   },
   "output": {
-    "maxDeals": 600,
-    "maxAgeHours": 336
+    "maxDeals": 0,
+    "maxAgeHours": 168
   },
   "state": {
     "maxSeenIds": 40000

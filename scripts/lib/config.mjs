@@ -35,8 +35,8 @@ export const CONFIG_DEFAULTS = {
     reasoningEffort: '',
   },
   output: {
-    maxDeals: 600,
-    maxAgeHours: 336,
+    maxDeals: 0,
+    maxAgeHours: 168,
   },
   state: {
     maxSeenIds: 40000,
@@ -115,8 +115,8 @@ export function normaliseSearch(search, index) {
     maxPrice: String(search.maxPrice ?? ''),
     adType: String(search.adType ?? 'OFFER'),
     posterType: String(search.posterType ?? ''),
-    sortingField: String(search.sortingField ?? 'SORTING_DATE'),
-    maxPages: Math.max(1, Math.min(5, Number(search.maxPages) || 1)),
+    sortingField: 'SORTING_DATE',
+    maxPages: Math.max(0, Math.floor(Number(search.maxPages) || 0)),
   };
 }
 

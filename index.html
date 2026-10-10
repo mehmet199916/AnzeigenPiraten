@@ -35,7 +35,7 @@
     <section class="controls" aria-label="Filter und Sortierung">
       <div class="field field--grow">
         <label for="q">Was suchst du?</label>
-        <input id="q" type="search" placeholder="z. B. E-Bike, iPhone oder Kamera …" autocomplete="off" spellcheck="false">
+        <input id="q" type="search" placeholder="z. B. iPhone, MacBook oder Kamera …" autocomplete="off" spellcheck="false">
       </div>
 
       <div class="field">
@@ -55,10 +55,9 @@
       <div class="field">
         <label for="priceStatus">Produktpreis-Abgleich</label>
         <select id="priceStatus">
-          <option value="">Alle Preisstände</option>
+          <option value="">Alle bis zum Referenzpreis</option>
           <option value="good_price">Guter Preis</option>
           <option value="at_reference_price">Zum Referenzpreis</option>
-          <option value="above_reference_price">Über Referenzpreis</option>
           <option value="reference_price_missing">Referenzpreis fehlt</option>
         </select>
       </div>
@@ -101,6 +100,7 @@
     </section>
     <p id="locationHint" class="footer__meta" aria-live="polite">PLZ eingeben und Umkreis auswählen. Filtert die bereits gesammelten Anzeigen nach ungefährer Luftlinie zwischen PLZ-Mittelpunkten.</p>
 
+    <p class="footer__meta">Angebote der letzten sieben Tage. Angebote über ihrem Referenzpreis sind ausgeblendet; ohne Referenzpreis ist keine Preisprüfung möglich.</p>
     <section id="feed" class="grid" aria-live="polite" aria-busy="true"></section>
     <p id="empty" class="empty" hidden></p>
   </main>
@@ -124,6 +124,6 @@
     <div class="detail__body" id="detailBody"></div>
   </dialog>
 
-  <script src="assets/app.js?v=tev1-queue-2" type="module"></script>
+  <script src="assets/app.js?v=seven-days-1" type="module"></script>
 </body>
 </html>

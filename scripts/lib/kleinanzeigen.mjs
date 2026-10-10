@@ -5,6 +5,7 @@
 
 import { fetchWithRetry, log, randomBetween, sleep, uniqueBy } from './util.mjs';
 import { normaliseRadius } from './config.mjs';
+import { isRecentListing, WINDOW_MS } from '../../assets/listing-window.mjs';
 import {
   parseDetailPage,
   parsePostedAt,
@@ -179,7 +180,12 @@ export async function fetchSearchPage(url, config) {
   }
 
   const html = await response.text();
-  return parseSearchResults(html);
+  const listings = parseSearchResults(html);
+  // A login, challenge or changed markup must not masquerade as an empty search.
+  if (!listings.length && !/keine (?:anzeigen|ergebnisse)|keine passenden|0 Treffer/i.test(html)) {
+    throw new Error('Keine Ergebnisse lesbar; Seitenende nicht bestätigt (Blockierung oder geändertes HTML möglich)');
+  }
+  return listings;
 }
 
 /** Optionally fetches a listing detail page to obtain the full description. */
@@ -202,6 +208,8 @@ export async function fetchDetail(id, config) {
 export async function collectListings(config, options = {}) {
   const raw = [];
   const errors = [];
+  const coverage = { windowDays: 7, complete: true, searches: [] };
+  const referenceTime = Date.now();
 
   // Resolve the configured PLZ/place once per scan and apply it to every
   // search that does not pin its own locationId. A failed resolution aborts
@@ -222,26 +230,54 @@ export async function collectListings(config, options = {}) {
 
   for (const search of config.searches) {
     const effective = applyLocation(search, location);
-    for (let page = 1; page <= effective.maxPages; page += 1) {
+    const report = { id: search.id, pages: 0, stopReason: null, missingDates: 0 };
+    coverage.searches.push(report);
+    const seenIds = new Set();
+    let oldPages = 0;
+    for (let page = 1; !effective.maxPages || page <= effective.maxPages; page += 1) {
       const url = buildSearchUrl(effective, page);
 
       try {
         const pageListings = await fetchSearchPage(url, config);
         log(`search "${effective.keywords}" page ${page}: ${pageListings.length} listings`);
 
-        if (!pageListings.length) break;
-        raw.push(...pageListings.map((listing) => ({ listing, search: effective })));
+        report.pages = page;
+        if (!pageListings.length) { report.stopReason = 'source_empty'; break; }
+        const normalised = pageListings.map(listing => normaliseListing(listing, effective));
+        const fresh = normalised.filter(listing => !seenIds.has(listing.id));
+        if (!fresh.length) {
+          report.stopReason = 'repeated_results';
+          errors.push(`search "${effective.keywords}": Quelle wiederholt Ergebnisse auf Seite ${page}; Erfassung unvollständig`);
+          break;
+        }
+        normalised.forEach(listing => seenIds.add(listing.id));
+        report.missingDates += fresh.filter(listing => !Number.isFinite(Date.parse(listing.postedAt || ''))).length;
+        raw.push(...pageListings.filter(listing => isRecentListing(normaliseListing(listing, effective), referenceTime))
+          .map(listing => ({ listing, search: effective })));
+        // Two entirely old pages avoid stopping on a single promoted/old result.
+        const allOld = fresh.every(listing => {
+          const stamp = Date.parse(listing.postedAt || '');
+          return Number.isFinite(stamp) && stamp < referenceTime - WINDOW_MS;
+        });
+        oldPages = allOld ? oldPages + 1 : 0;
+        if (oldPages >= 2) { report.stopReason = 'date_boundary'; break; }
       } catch (error) {
         const message = `search "${effective.keywords}" page ${page} failed: ${error.message}`;
         errors.push(message);
         log(message);
+        report.stopReason = 'request_failed';
+        break;
       }
 
-      if (page < effective.maxPages) {
+      if (!effective.maxPages || page < effective.maxPages) {
         await sleep(randomBetween(config.http.requestDelayMs, config.http.requestDelayMs * 1.6));
       }
     }
 
+    if (!report.stopReason) report.stopReason = 'configured_page_limit';
+    if (report.missingDates) errors.push(`search "${effective.keywords}": ${report.missingDates} Anzeigen ohne lesbares Datum ausgeschlossen`);
+    if (!['date_boundary', 'source_empty'].includes(report.stopReason) || report.missingDates) coverage.complete = false;
+    if (report.stopReason === 'configured_page_limit') errors.push(`search "${effective.keywords}": konfiguriertes Seitenlimit erreicht`);
     await sleep(randomBetween(config.http.requestDelayMs, config.http.requestDelayMs * 1.6));
   }
 
@@ -255,7 +291,7 @@ export async function collectListings(config, options = {}) {
   }
 
   options.onProgress?.({ count: listings.length, errors });
-  return { listings, errors, location };
+  return { listings, errors, location, coverage };
 }
 
 async function enrichDescriptions(listings, config) {

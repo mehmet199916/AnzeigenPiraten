@@ -90,7 +90,7 @@ leave it `null` until you know the price. For example:
 Commit and push edits to this file so the scanner can pull them and the site can
 publish the results. A listing below its product's reference price is marked
 **Guter Preis**; one at the reference is marked accordingly, and one above it
-shows the difference. When no manual price is set, the scanner falls back to
+is hidden from the app. When no manual price is set, the scanner falls back to
 the average of the collected asking prices for that product and labels it with
 its sample count in the feed. The separate `data/prices.json` remains the
 history of observed asking prices: it powers the market median/range comparison
@@ -217,3 +217,32 @@ must pull the updated repository and run to apply Tev1 to the feed. A hosted
 GitHub runner cannot reach `127.0.0.1` on your computer. Remote deployments require
 a compatible decision endpoint configured with `AI_BASE_URL` and `AI_MODEL`;
 there is no fallback to Qwen or an OpenAI chat model.
+
+## Seven-day feed without a listing cap
+
+The feed no longer slices to 600 entries. Publication/search sorting dates determine
+the rolling 168-hour window, never lastSeenAt. Missing/unparseable dates are excluded
+and reported. The browser also applies the window to older published feeds and hides
+above_reference_price listings before constructing filters and counts. Listings
+without a reference stay visible, with an explanation that no price check is possible.
+Higher-priced listings remain in the scanner's price observations for comparisons.
+
+All configured searches use date sorting and maxPages: 0 (no application page cap).
+The crawler follows pageNum until an explicitly empty search or two entirely old
+pages. It deduplicates IDs and stops with an incomplete report on repeated results,
+HTTP failures/challenges, unknown empty markup, missing dates or an explicit positive
+maxPages limit. data/meta.json.coverage records pages and stop reasons; the UI shows
+incomplete coverage. output.maxDeals is retained as a legacy setting but is ignored.
+
+This does not guarantee every offer on Kleinanzeigen: source pagination limits,
+changing results during traversal, promoted listings, search keyword/price restrictions,
+removed offers and markup/date inaccuracies can cause omissions. Existing search price
+bounds remain configured. Stored entries can remain visible until seven days old even
+if removed at the source. Browser PLZ filtering selects from the shared collected feed;
+it does not launch another crawl. The site is scraped without a completeness API;
+blocks are reported, never bypassed. Full nationwide scans can take much longer than
+five minutes; the local mutex skips overlapping ticks. Hosted workflow timeouts can
+prevent publication. Product classification still processes up to 200 per run, and
+pending decisions can therefore delay visible product assignment. This classification
+budget is separate from collecting/storing listings. Historical observations retain
+their separate database limits and are not the display limit.

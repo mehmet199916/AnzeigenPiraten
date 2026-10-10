@@ -1,6 +1,7 @@
 /* AnzeigenPiraten – static deal finder frontend (no build step, no deps). */
 import { postalCodeOf, postalDistance } from './postal.mjs';
 import { isVisibleListing, TRADING_CATEGORIES } from './categories.mjs';
+import { isRecentListing, isAffordableListing } from './listing-window.mjs';
 
 (() => {
   'use strict';
@@ -452,6 +453,7 @@ import { isVisibleListing, TRADING_CATEGORIES } from './categories.mjs';
 
     el.status.innerHTML = `Letzter Scan: <strong>${escapeHtml(formatDateTime(meta?.generatedAt ?? state.generatedAt))}</strong>`;
     el.statusSub.textContent = [
+      meta?.coverage ? (meta.coverage.complete ? '7-Tage-Suche durchlaufen' : '7-Tage-Erfassung unvollständig') : '7-Tage-Erfassung noch ausstehend',
       `Produktzuordnung: ${friendly}`,
       Number.isFinite(meta?.pendingClassifications) ? `${meta.pendingClassifications} Produktprüfungen ausstehend` : null,
       Number.isFinite(meta?.fetchedListings) ? `${meta.fetchedListings} Anzeigen geprüft` : null,
@@ -459,6 +461,7 @@ import { isVisibleListing, TRADING_CATEGORIES } from './categories.mjs';
       Number.isFinite(meta?.durationMs) ? `in ${(meta.durationMs / 1000).toFixed(1)}s` : null,
     ].filter(Boolean).join(' · ');
 
+    if (meta?.coverage && !meta.coverage.complete) el.statusSub.textContent += ' | ' + (meta.errors || []).slice(0, 3).join(' | ');
     if (el.footerMeta) {
       const locationInfo = meta?.location?.plz
         ? ` · Umkreis: ${meta.location.plz}`
@@ -570,7 +573,7 @@ import { isVisibleListing, TRADING_CATEGORIES } from './categories.mjs';
         loadJson('data/postal-centres.json').catch(() => null),
       ]);
 
-      state.deals = (Array.isArray(data.deals) ? data.deals : []).filter(isVisibleListing);
+      state.deals = (Array.isArray(data.deals) ? data.deals : []).filter(deal => isVisibleListing(deal) && isRecentListing(deal) && isAffordableListing(deal));
       state.postalCodes = postalData?.postalCodes || null;
       state.scanLocation = data.location || meta?.location || null;
       if (state.scanLocation?.plz && state.postalCodes?.[state.scanLocation.plz]) {

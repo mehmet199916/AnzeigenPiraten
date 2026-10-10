@@ -17,6 +17,7 @@ import { collectListings, isNearbyDeal } from './lib/kleinanzeigen.mjs';
 import { classifyListings, DECISION_VERSION } from './lib/products.mjs';
 import { selectClassificationItems } from './lib/classification-queue.mjs';
 import { isExcludedListing } from '../assets/categories.mjs';
+import { isRecentListing } from '../assets/listing-window.mjs';
 import {
   checkProductPrice,
   loadProductCatalog,
@@ -69,11 +70,7 @@ function parseArgs(argv) {
 }
 
 function isExpired(deal, maxAgeHours, referenceTime) {
-  if (!Number.isFinite(maxAgeHours) || maxAgeHours <= 0) return false;
-  const stamp = deal.lastSeenAt || deal.firstSeenAt || deal.postedAt;
-  if (!stamp) return false;
-  const age = referenceTime - new Date(stamp).getTime();
-  return age > maxAgeHours * 60 * 60 * 1000;
+  return !isRecentListing(deal, referenceTime);
 }
 
 function pruneSeen(seen, maxEntries) {
@@ -115,7 +112,7 @@ async function main() {
 
   log(`Scanning ${config.searches.length} searches (AI ${aiIsConfigured(config) ? 'enabled' : 'disabled'})…`);
 
-  const { listings: crawledListings, errors: crawlErrors, location } = await collectListings(config);
+  const { listings: crawledListings, errors: crawlErrors, location, coverage } = await collectListings(config);
   const listings = crawledListings.filter(listing => !isExcludedListing(listing));
   log(`Fetched ${listings.length} unique listings.`);
 
@@ -203,7 +200,7 @@ async function main() {
   }
 
   merged.sort((a, b) => new Date(b.lastSeenAt).getTime() - new Date(a.lastSeenAt).getTime());
-  const limitedDeals = merged.slice(0, config.output.maxDeals);
+  const limitedDeals = merged.filter(deal => isRecentListing(deal));
 
   // Keep a unique, manually editable reference price for each known product.
   // Existing referencePrice values are never replaced by observed listing prices.
@@ -260,6 +257,7 @@ async function main() {
     classifierConfigured: aiIsConfigured(config),
     aiUsed,
     location,
+    coverage,
     searches: config.searches.map((search) => search.label),
     fetchedListings: listings.length,
     previouslyStored: previousDeals.length,
