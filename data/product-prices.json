@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T16:49:07.499Z",
+  "updatedAt": "2026-10-10T17:03:53.988Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -1835,7 +1835,7 @@
     },
     "apple-iphone-xs-256-gb": {
       "name": "Apple iPhone XS 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 190,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -37727,7 +37727,7 @@
     },
     "nvidia-geforce-rtx-5060-8-gb": {
       "name": "NVIDIA GeForce RTX 5060 8GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -62849,7 +62849,7 @@
     },
     "apple-iphone-14-plus-512-gb": {
       "name": "Apple iPhone 14 Plus 512GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78462,6 +78462,36 @@
     "apple-iphone-14pro": {
       "name": "Apple iPhone 14pro",
       "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2017-13-zoll": {
+      "name": "Apple MacBook Air 2017 13 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2014-16-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro 2014 16 GB RAM 1 TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2011-8-gb-ram-250-gb-ssd": {
+      "name": "Apple MacBook Pro 2011 8GB RAM 250GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2020-13-zoll-8-gb-ram": {
+      "name": "Apple MacBook Air 2020 13 Zoll 8 GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-6800-16-gb": {
+      "name": "RX 6800 16 GB",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     }
