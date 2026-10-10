@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T14:29:30.770Z",
-  "startedAt": "2026-10-10T14:27:34.700Z",
-  "finishedAt": "2026-10-10T14:29:30.958Z",
-  "durationMs": 116257,
+  "generatedAt": "2026-10-10T14:33:28.173Z",
+  "startedAt": "2026-10-10T14:32:34.642Z",
+  "finishedAt": "2026-10-10T14:33:28.370Z",
+  "durationMs": 53726,
   "engine": "decision:tev1:0.8b",
   "classifierConfigured": true,
   "aiUsed": true,
@@ -16,21 +16,21 @@
   ],
   "fetchedListings": 135,
   "previouslyStored": 600,
-  "newDeals": 66,
-  "classified": 143,
+  "newDeals": 64,
+  "classified": 64,
   "pendingClassifications": 0,
   "totalDeals": 600,
   "priceDatabase": {
-    "products": 11022,
+    "products": 11029,
     "observations": 20000,
-    "historyPoints": 25383,
-    "productsWithHistory": 11022,
-    "comparableListings": 318
+    "historyPoints": 25430,
+    "productsWithHistory": 11029,
+    "comparableListings": 320
   },
   "productPriceCatalog": {
-    "products": 13002,
+    "products": 13009,
     "pricesSet": 592,
-    "goodPriceListings": 219
+    "goodPriceListings": 215
   },
   "errors": []
 }

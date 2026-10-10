@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T14:29:30.770Z",
+  "updatedAt": "2026-10-10T14:33:28.173Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -78012,6 +78012,48 @@
     "apple-iphone-15pro-512-gb": {
       "name": "Apple iPhone 15pro 512 GB",
       "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-promax-256-gb": {
+      "name": "Apple iPhone 15 ProMax 256 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m5-pro-24-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro M5 Pro 24GB RAM 1TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m5-pro-1-tb-ssd": {
+      "name": "Apple MacBook Pro M5 Pro 1 TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-2020-16-gb-ram": {
+      "name": "Apple MacBook Air M1 2020 16GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m3-2023-8-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro M3 2023 8 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2020-8-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air 2020 8 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx9070xt-16-gb": {
+      "name": "RX9070XT 16 GB",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     }
