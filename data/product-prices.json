@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T17:18:50.795Z",
+  "updatedAt": "2026-10-10T17:34:23.470Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -9413,7 +9413,7 @@
     },
     "apple-iphone-13-pro-max-512-gb": {
       "name": "Apple iPhone 13 Pro Max 512 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14663,7 +14663,7 @@
     },
     "apple-macbook-air-m2-2022": {
       "name": "Apple MacBook Air M2 (2022)",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18797,7 +18797,7 @@
     },
     "nvidia-geforce-rtx-4070-super-12-gb": {
       "name": "NVIDIA GeForce RTX 4070 Super 12GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -29273,7 +29273,7 @@
     },
     "nvidia-geforce-rtx-4070-12-gb": {
       "name": "NVIDIA GeForce RTX 4070 12 GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -34943,7 +34943,7 @@
     },
     "nvidia-geforce-rtx-2060-super": {
       "name": "NVIDIA GeForce RTX 2060 SUPER",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -43487,7 +43487,7 @@
     },
     "apple-macbook-pro-m1-pro": {
       "name": "Apple MacBook Pro M1 Pro",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -50711,7 +50711,7 @@
     },
     "apple-macbook-pro-m4": {
       "name": "Apple MacBook Pro (M4)",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78527,6 +78527,24 @@
     },
     "rx-480": {
       "name": "RX 480",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13mini": {
+      "name": "Apple iPhone 13mini",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-32-gb": {
+      "name": "Apple iPhone SE 32 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-460": {
+      "name": "RX 460",
       "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
