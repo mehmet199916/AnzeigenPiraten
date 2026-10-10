@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T11:35:40.065Z",
+  "updatedAt": "2026-10-10T11:40:32.543Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -1804,7 +1804,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17e-256-gb": {
-      "name": "Apple iPhone 17e 256GB",
+      "name": "Apple iPhone 17e 256gb",
       "category": "Smartphones",
       "referencePrice": 610,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2135,7 +2135,7 @@
     },
     "gigabyte-rtx-3080-10-gb-aorus-xtreme": {
       "name": "Gigabyte RTX 3080 10GB Aorus Xtreme",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2297,7 +2297,7 @@
     },
     "playstation-5-controller": {
       "name": "PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 40,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2885,7 +2885,7 @@
     },
     "dji-mini-4-pro": {
       "name": "DJI Mini 4 Pro",
-      "category": "Drohnen",
+      "category": "Kameras",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -8026,7 +8026,7 @@
       "updatedAt": null
     },
     "apple-iphone-air-256-gb": {
-      "name": "Apple iPhone Air 256 GB",
+      "name": "Apple iPhone Air 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -8399,7 +8399,7 @@
     },
     "ktm-e-bike": {
       "name": "KTM E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -20266,7 +20266,7 @@
       "updatedAt": null
     },
     "playstation-5-pro-2-tb": {
-      "name": "PlayStation 5 Pro 2TB",
+      "name": "PlayStation 5 Pro 2Tb",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -22985,7 +22985,7 @@
     },
     "sony-playstation-5-dualsense-edge-wireless-controller": {
       "name": "Sony PlayStation 5 DualSense Edge Wireless Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -42377,7 +42377,7 @@
     },
     "nvidia-geforce-rtx-2070-super": {
       "name": "NVIDIA GeForce RTX 2070 Super",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -44968,8 +44968,8 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-5070-ti-16-gb": {
-      "name": "NVIDIA GeForce RTX 5070 Ti 16GB",
-      "category": "Computer",
+      "name": "Nvidia GeForce RTX 5070 TI 16 GB",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -48473,7 +48473,7 @@
     },
     "giant-talon-e-2": {
       "name": "Giant Talon E+2",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -73536,6 +73536,186 @@
     "olympus-mju-ii-mju-1-superzoom": {
       "name": "Olympus mju -II mju -1 Superzoom",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-xyron-s-7-9-carbon-e-mtb": {
+      "name": "Conway Xyron S 7.9 Carbon E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-velo-de-ville-e-bike-500wh": {
+      "name": "Bosch Velo de Ville E-Bike 500Wh",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-m2-2023-512-gb": {
+      "name": "Apple MacBook Air 15\" M2 (2023) 512gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-2020-i7-32-gb-ram": {
+      "name": "Apple MacBook Pro 13\" (2020) i7 32GB RAM",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "powercolor-red-dragon-radeon-rx-5700-8-gb": {
+      "name": "PowerColor Red Dragon Radeon RX 5700 8 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-astral-geforce-rtx-5080-16-gb": {
+      "name": "ASUS ROG Astral GeForce RTX 5080 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-the-blood-of-dawnwalker-day-one-edition": {
+      "name": "PlayStation 5 The Blood of Dawnwalker Day One Edition",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-5d-mark-iv-64-gb": {
+      "name": "Canon EOS 5D Mark IV 64 GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "arlo-uberwachungskamera-set": {
+      "name": "Arlo Überwachungskamera Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-rx100-iii-cyber-shot": {
+      "name": "Sony RX100 III Cyber-shot",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-vr-brille-1-generation": {
+      "name": "PlayStation VR Brille 1. Generation",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-tz1-digitalkamera": {
+      "name": "Panasonic Lumix DMC-TZ1 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elmo-l-12g-4k-visual-presenter": {
+      "name": "Elmo L-12G 4K Visual Presenter",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pentax-k-30-digital-kamera": {
+      "name": "Pentax K-30 Digital Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-gf1": {
+      "name": "Panasonic DMC-GF1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "analog-spiegelreflexkamera": {
+      "name": "Analog Spiegelreflexkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canal-toys-video-creator-3-in-1-kamera": {
+      "name": "Canal Toys Video Creator 3-in-1 Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-gadino-stevens-form": {
+      "name": "E-Gadino Stevens Form",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-e8f": {
+      "name": "Pegasus Premio E8F",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-28-zoll-von-bratavus": {
+      "name": "E-Bike 28 Zoll von bratavus",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-stereo-hybrid-120-exc-500-e-mountainbike": {
+      "name": "Cube Stereo Hybrid 120 EXC 500 E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-damen-28-zoll": {
+      "name": "E Bike Damen 28 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "huawei-p30": {
+      "name": "Huawei P30",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-prima-bf-800": {
+      "name": "Canon Prima BF-800",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "faro-8-5-e-bike": {
+      "name": "Faro 8.5+ E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalhoff-e-bike": {
+      "name": "Kalhoff E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "riese-muller-cruiser-vario": {
+      "name": "Riese & Müller Cruiser Vario",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-14-pro-256-gb-lila": {
+      "name": "iPhone 14 Pro 256 GB Lila",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "iphone-16-ultramarine-blau-128-gb": {
+      "name": "iPhone 16 Ultramarine Blau 128 GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14-pro-black-512-gb": {
+      "name": "Apple iPhone 14 Pro Black 512GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
