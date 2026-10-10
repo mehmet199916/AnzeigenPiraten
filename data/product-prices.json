@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T14:43:25.222Z",
+  "updatedAt": "2026-10-10T14:48:30.065Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256GB",
+      "name": "Apple iPhone 16 Pro 256 GB",
       "category": "iPhone",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3269,7 +3269,7 @@
     },
     "nvidia-geforce-rtx-2080-super": {
       "name": "NVIDIA GeForce RTX 2080 Super",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -12575,7 +12575,7 @@
     },
     "apple-iphone-16pro-max": {
       "name": "Apple iPhone 16pro Max",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78108,6 +78108,18 @@
     "gopro-hero4": {
       "name": "GoPro HERO4",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16pro-128-gb": {
+      "name": "Apple iPhone 16pro 128 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m5-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro M5 16GB RAM 512 GB SSD",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     }
