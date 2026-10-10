@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T13:29:14.870Z",
+  "updatedAt": "2026-10-10T13:34:22.576Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -22,7 +22,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-max-128-gb": {
-      "name": "Apple iPhone 14 Pro Max 128GB",
+      "name": "Apple iPhone 14 Pro Max 128 GB",
       "category": "Smartphones",
       "referencePrice": 495,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,8 +334,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256GB",
-      "category": "Smartphones",
+      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "category": "smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1054,8 +1054,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256GB",
-      "category": "Smartphones",
+      "name": "Apple iPhone 17 Pro 256 GB",
+      "category": "smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,12 +1235,12 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-konsole-825-gb": {
-      "name": "Sony PlayStation 5 Konsole 825 GB",
+      "name": "Sony PlayStation 5 Konsole 825GB",
       "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,8 +1810,8 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
-      "category": "Smartphones",
+      "name": "Apple iPhone 13 128 GB",
+      "category": "smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2297,7 +2297,7 @@
     },
     "playstation-5-controller": {
       "name": "PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 40,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Dienstleistungen",
+      "category": "Spielekonsolen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128 GB",
+      "name": "Apple iPhone 13 mini 128GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3346,7 +3346,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "iphone-17-pro-256-gb": {
-      "name": "iPhone 17 Pro 256GB",
+      "name": "iPhone 17 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6887,7 +6887,7 @@
     },
     "sanitarmontage-rohrreinigung-24-7-in-ganz-nrw": {
       "name": "Sanitärmontage-Rohrreinigung 24/7 in ganz NRW",
-      "category": "Sanitärmontage",
+      "category": "Dienstleistungen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9556,7 +9556,7 @@
       "updatedAt": null
     },
     "iphone-13-pro-256-gb": {
-      "name": "iPhone 13 Pro 256GB",
+      "name": "iPhone 13 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -36298,7 +36298,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-rtx-4060-ti-8-gb": {
-      "name": "NVIDIA GeForce RTX 4060 Ti 8GB",
+      "name": "NVIDIA GeForce RTX 4060 Ti 8 GB",
       "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
@@ -60161,7 +60161,7 @@
     },
     "zotac-geforce-gtx-1050-ti-4-gb": {
       "name": "ZOTAC GeForce GTX 1050 Ti 4GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -77255,6 +77255,150 @@
     },
     "redmi-note-13-pro": {
       "name": "Redmi Note 13 Pro",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-greens-bromley-r750-53-low": {
+      "name": "E-Bike Greens Bromley R750 53 Low",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-damenfahrrad-28-zoll": {
+      "name": "Kalkhoff Damenfahrrad 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macia-central-b": {
+      "name": "KTM Macia Central B",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blaupunkt-berta-falt-e-bike-20-zoll": {
+      "name": "Blaupunkt Berta Falt E-Bike 20 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-kynast": {
+      "name": "E Bike Kynast",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sram-gx-axs-kit": {
+      "name": "SRAM GX AXS Kit",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "morrison-e-6-0-wave": {
+      "name": "Morrison E 6.0 Wave",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-stance-e-29": {
+      "name": "Giant Stance E 29\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ghost-andasol-5": {
+      "name": "Ghost Andasol 5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-neo-13-2026-512-gb": {
+      "name": "Apple MacBook Neo 13\" (2026) 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-zoll-2023-16-gb": {
+      "name": "Apple MacBook Pro 14 Zoll (2023) 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2018-16-gb": {
+      "name": "Apple MacBook Pro 2018 16GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-rtx-360-ti-grafikkarte": {
+      "name": "NVIDIA RTX 360 Ti Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-cfi-1216-disc-version-825-gb": {
+      "name": "Sony PlayStation 5 CFI-1216 Disc Version 825GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-disk-version": {
+      "name": "Sony PlayStation 5 Slim Disk Version",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zeiss-ikon-520-2-ikonta": {
+      "name": "Zeiss Ikon 520/2 Ikonta",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "handycam": {
+      "name": "Handycam",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sigma-30mm-f1-4-dc-dn-contemporary-objektiv": {
+      "name": "Sigma 30mm F1.4 DC DN Contemporary Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "abus-8mpx-ip-poe-mini-dome-kamera": {
+      "name": "ABUS 8MPX IP POE MINI DOME-KAMERA",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "oberwerth-the-q-backpack": {
+      "name": "Oberwerth The Q Backpack",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mercedes-benz-a-200": {
+      "name": "Mercedes-Benz A 200",
+      "category": "Fahrzeuge",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-g1-x-mark-ii-64-gb": {
+      "name": "Canon PowerShot G1 X Mark II 64GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-digitalkamera": {
+      "name": "Panasonic Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "contax-137-ma-quarz": {
+      "name": "Contax 137 MA Quarz",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
