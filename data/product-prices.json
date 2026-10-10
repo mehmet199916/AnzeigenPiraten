@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T16:33:49.815Z",
+  "updatedAt": "2026-10-10T16:49:07.499Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -16325,7 +16325,7 @@
     },
     "nvidia-gtx-1080-8-gb": {
       "name": "NVIDIA GTX 1080 8GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -23057,7 +23057,7 @@
     },
     "apple-iphone-x": {
       "name": "Apple iPhone X",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -63323,7 +63323,7 @@
     },
     "apple-iphone-14-512-gb": {
       "name": "Apple iPhone 14 512GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78396,6 +78396,72 @@
     "gopro-hero8": {
       "name": "GoPro HERO8",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15pro-128-gb": {
+      "name": "Apple iPhone 15Pro 128 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m4-2024": {
+      "name": "Apple MacBook Pro M4 2024",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m4-16-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Air M4 16GB RAM 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-15-zoll": {
+      "name": "Apple Macbook Air M3 15 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-580-4-gb": {
+      "name": "RX 580 4 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx-5050": {
+      "name": "RTX 5050",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx-4000-20-gb": {
+      "name": "RTX 4000 20 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-6750-xt": {
+      "name": "rx 6750 xt",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-aj-mc700p": {
+      "name": "Panasonic AJ-MC700P",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-tz25": {
+      "name": "Panasonic LUMIX TZ25",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-14pro": {
+      "name": "Apple iPhone 14pro",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     }
