@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T17:34:23.470Z",
+  "updatedAt": "2026-10-10T17:48:44.543Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -16427,7 +16427,7 @@
     },
     "apple-iphone-se-2020-128-gb": {
       "name": "Apple iPhone SE 2020 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -47837,7 +47837,7 @@
     },
     "nvidia-geforce-gtx-980-4-gb": {
       "name": "NVIDIA GeForce GTX 980 4GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -64673,7 +64673,7 @@
     },
     "nvidia-geforce-rtx-5080": {
       "name": "NVIDIA GeForce RTX 5080",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -69089,7 +69089,7 @@
     },
     "nvidia-rtx-4090": {
       "name": "NVIDIA RTX 4090",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78546,6 +78546,24 @@
     "rx-460": {
       "name": "RX 460",
       "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m2-pro-16-zoll-16-gb-ram": {
+      "name": "Apple MacBook Pro M2 PRO 16 Zoll 16gb ram",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2020-32-gb-ram-2-gb-ssd": {
+      "name": "Apple MacBook Pro 2020 32GB RAM 2GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-8plus-256-gb": {
+      "name": "Apple iPhone 8Plus 256 GB",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     }
