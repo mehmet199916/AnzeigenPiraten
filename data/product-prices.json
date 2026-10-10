@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T12:44:46.326Z",
+  "updatedAt": "2026-10-10T12:49:42.436Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128gb",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -887,7 +887,7 @@
     },
     "apple-macbook-pro": {
       "name": "Apple MacBook Pro",
-      "category": "Computer",
+      "category": "Computers",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1030,7 +1030,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-256-gb": {
-      "name": "Apple iPhone 17 256GB",
+      "name": "Apple iPhone 17 256 GB",
       "category": "Smartphones",
       "referencePrice": 760,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1229,7 +1229,7 @@
     },
     "playstation-5-digital": {
       "name": "PlayStation 5 Digital",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3196,7 +3196,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-256-gb": {
-      "name": "Apple iPhone 12 Pro Max 256GB",
+      "name": "Apple iPhone 12 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8435,7 +8435,7 @@
     },
     "radon-zr-team-hybrid-e-mtb": {
       "name": "Radon ZR Team Hybrid E-MTB",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9670,7 +9670,7 @@
       "updatedAt": null
     },
     "canon-g7x-mark-ii": {
-      "name": "Canon G7X Mark II",
+      "name": "Canon g7x Mark II",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -10145,7 +10145,7 @@
     },
     "univega-e-bike": {
       "name": "Univega E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19714,7 +19714,7 @@
       "updatedAt": null
     },
     "apple-iphone-17-pro-max-1-tb": {
-      "name": "Apple iPhone 17 Pro Max 1TB",
+      "name": "Apple iPhone 17 Pro Max 1Tb",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -24473,7 +24473,7 @@
     },
     "cube-reaction-hybrid-pro-750": {
       "name": "Cube Reaction Hybrid Pro 750",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -38272,7 +38272,7 @@
       "updatedAt": null
     },
     "macbook-air-2018-8-gb": {
-      "name": "MacBook Air 2018 8GB",
+      "name": "MacBook Air 2018 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -45220,8 +45220,8 @@
       "updatedAt": null
     },
     "city-e-bike": {
-      "name": "City-E-Bike",
-      "category": "Fahrräder",
+      "name": "City E-Bike",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -49847,7 +49847,7 @@
     },
     "trekking-5-i500wh-e-bike": {
       "name": "Trekking 5 i500Wh E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -57976,8 +57976,8 @@
       "updatedAt": null
     },
     "nvidia-geforce-gtx-1060-oc-6-gb": {
-      "name": "Nvidia GeForce GTX 1060 OC 6GB",
-      "category": "Grafikkarten",
+      "name": "NVIDIA GeForce GTX 1060 OC 6 GB",
+      "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -58175,7 +58175,7 @@
     },
     "playstation-4": {
       "name": "PlayStation 4",
-      "category": "Konsolen",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -65536,7 +65536,7 @@
       "updatedAt": null
     },
     "prophete-alu-city-e-bike": {
-      "name": "Prophete Alu City E-Bike",
+      "name": "Prophete Alu City e-bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -75839,6 +75839,162 @@
     },
     "poweradd-video-babyphone-mit-kamera": {
       "name": "Poweradd Video-Babyphone mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-trekking-expedition-xt480-xt481": {
+      "name": "E-Bike Trekking Expedition XT480 / XT481",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-powertube-750-wh-akku": {
+      "name": "Bosch PowerTube 750 Wh Akku",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-manufaktur-15zehn-elektrofahrrad": {
+      "name": "E-Bike Manufaktur 15Zehn Elektrofahrrad",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-em-1724": {
+      "name": "Fischer EM 1724",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15-inch-2017-500-gb": {
+      "name": "Apple MacBook Pro (15-inch, 2017) 500 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3060-12-gb": {
+      "name": "Gigabyte RTX 3060 12GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-5-slim-mit-laufwerk-disk-edition-fc26": {
+      "name": "PlayStation 5 Slim mit Laufwerk Disk Edition FC26",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "annke-3er-set-poe-panorama-kameras": {
+      "name": "ANNKE 3er-Set PoE Panorama-Kameras",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-image-5": {
+      "name": "Kalkhoff Image 5",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hiland-27-5-zoll": {
+      "name": "E-Bike Hiland 27,5 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "flyer-gotour6-7-03-e-bike": {
+      "name": "Flyer Gotour6 7.03 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "falt-e-bike-clara400": {
+      "name": "Falt-E-Bike Clara400",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-s-duro-6-0": {
+      "name": "Haibike Trekking S-Duro 6.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vintage-und-sofortbildkameras": {
+      "name": "Vintage- und Sofortbildkameras",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "spur-1-kamerawagen": {
+      "name": "Spur 1 Kamerawagen",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "konica-hexar-lens-af-fotoapparat": {
+      "name": "Konica Hexar Lens AF Fotoapparat",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hp-photosmart-945": {
+      "name": "HP Photosmart 945",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "swann-swifi-cam-1080p-full-hd": {
+      "name": "Swann SWIFI-CAM 1080p Full HD",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-750-analog": {
+      "name": "Canon EOS 750 analog",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-3d1-digitalkamera": {
+      "name": "Panasonic LUMIX 3D1 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-x-120-gb": {
+      "name": "Apple iPhone X 120gb",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d60-dslr-kamera": {
+      "name": "Nikon D60 DSLR Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "carl-zeiss-objektiv-90mm-90-f-2-8-sonnar-t": {
+      "name": "Carl Zeiss Objektiv 90mm 90 F 2.8 Sonnar T",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-video-camera-recorder-8-ccd-v7af": {
+      "name": "SONY Video Camera Recorder 8 CCD V7AF",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eddycam-kameragurt": {
+      "name": "EDDYCAM Kameragurt",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-srt-100x": {
+      "name": "Minolta SRT-100X",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
