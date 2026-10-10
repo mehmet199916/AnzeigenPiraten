@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T15:34:40.569Z",
+  "updatedAt": "2026-10-10T15:49:19.887Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -19157,7 +19157,7 @@
     },
     "apple-macbook-air-m3": {
       "name": "Apple MacBook Air M3",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -61889,7 +61889,7 @@
     },
     "apple-iphone-13-512-gb": {
       "name": "Apple iPhone 13 512 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -69611,7 +69611,7 @@
     },
     "nvidia-geforce-rtx-4080-16-gb": {
       "name": "NVIDIA GeForce RTX 4080 16 GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78221,6 +78221,42 @@
     },
     "panasonic-tm-900": {
       "name": "Panasonic TM 900",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se-3-64-gb": {
+      "name": "Apple Iphone Se 3 64 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m5-32-gb-ram-1-tb-ssd": {
+      "name": "Apple Macbook Pro M5 32GB Ram 1TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2017-13-zoll": {
+      "name": "Apple MacBook Pro 2017 13 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m5-1-tb-ssd": {
+      "name": "Apple MacBook Pro M5 1TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-1080-ti-11-gb": {
+      "name": "GTX 1080 Ti 11 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-z-50-ii": {
+      "name": "Nikon Z 50 II",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
