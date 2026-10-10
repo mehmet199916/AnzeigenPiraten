@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T15:49:19.887Z",
+  "updatedAt": "2026-10-10T16:04:29.831Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -1067,7 +1067,7 @@
     },
     "apple-iphone-14-plus-128-gb": {
       "name": "Apple iPhone 14 Plus 128 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 365,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1085,7 +1085,7 @@
     },
     "apple-iphone-17-512-gb": {
       "name": "Apple iPhone 17 512GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 800,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1133,7 +1133,7 @@
     },
     "apple-macbook-pro-13-zoll": {
       "name": "Apple MacBook Pro 13 Zoll",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -7025,7 +7025,7 @@
     },
     "apple-iphone-15-pro-1-tb": {
       "name": "Apple iPhone 15 Pro 1TB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -10985,7 +10985,7 @@
     },
     "apple-iphone-12-mini-256-gb": {
       "name": "Apple iPhone 12 mini 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33479,7 +33479,7 @@
     },
     "amd-radeon-rx-6750-xt-12-gb": {
       "name": "AMD Radeon RX 6750 XT 12GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -37415,7 +37415,7 @@
     },
     "nvidia-geforce-rtx-5060-ti-16-gb": {
       "name": "NVIDIA GeForce RTX 5060 Ti 16GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -41639,7 +41639,7 @@
     },
     "apple-iphone-se-3-128-gb": {
       "name": "Apple iPhone SE 3 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78257,6 +78257,48 @@
     },
     "nikon-z-50-ii": {
       "name": "Nikon Z 50 II",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-se2020": {
+      "name": "Apple iPhone SE2020",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2014-16-gb-ram": {
+      "name": "Apple MacBook Pro 2014 16 GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2019-16-zoll-32-gb-ram": {
+      "name": "Apple MacBook Pro 2019 16 Zoll 32GB ram",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-2020-8-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Pro M1 2020 8GB RAM 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-edition-667-gb": {
+      "name": "Sony PlayStation 5 Disc Edition 667 GB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-hero5": {
+      "name": "GoPro HERO5",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-fz83": {
+      "name": "Panasonic Lumix fz83",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
