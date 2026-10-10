@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T15:03:21.112Z",
+  "updatedAt": "2026-10-10T15:08:34.431Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "iPhone",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -17705,7 +17705,7 @@
     },
     "amd-radeon-rx-9070-16-gb": {
       "name": "AMD Radeon RX 9070 16GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -27503,7 +27503,7 @@
     },
     "apple-iphone-18": {
       "name": "Apple iPhone 18",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -50255,7 +50255,7 @@
     },
     "amd-radeon-rx-5700-xt": {
       "name": "AMD RADEON RX 5700 XT",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78150,6 +78150,12 @@
     "canon-60d": {
       "name": "Canon 60D",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-9070-xt": {
+      "name": "RX 9070 XT",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     }
