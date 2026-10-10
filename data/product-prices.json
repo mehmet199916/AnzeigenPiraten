@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T10:55:23.015Z",
+  "updatedAt": "2026-10-10T11:00:22.355Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 Gb",
@@ -280,7 +280,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-512-gb": {
-      "name": "Apple iPhone 17 Pro 512GB",
+      "name": "Apple iPhone 17 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": 1050,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -334,7 +334,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-max-256-gb": {
-      "name": "Apple iPhone 17 Pro Max 256 GB",
+      "name": "Apple iPhone 17 Pro Max 256gb",
       "category": "Smartphones",
       "referencePrice": 1160,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -623,7 +623,7 @@
     },
     "nvidia-geforce-rtx-2070-8-gb": {
       "name": "NVIDIA GeForce RTX 2070 8GB",
-      "category": "Grafikkarten",
+      "category": "Computer",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1235,7 +1235,7 @@
     },
     "sony-playstation-5-controller": {
       "name": "Sony PlayStation 5 Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1330,7 +1330,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "sony-playstation-5-pro-2-tb": {
-      "name": "Sony PlayStation 5 Pro 2Tb",
+      "name": "Sony PlayStation 5 Pro 2 TB",
       "category": "Spielekonsolen",
       "referencePrice": 650,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1828,7 +1828,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-pro-max-128-gb": {
-      "name": "Apple iPhone 12 Pro Max 128 GB",
+      "name": "Apple iPhone 12 Pro Max 128GB",
       "category": "Smartphones",
       "referencePrice": 265,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Reparaturen",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825GB",
+      "name": "Sony PlayStation 5 Digital Edition 825Gb",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -10672,8 +10672,8 @@
       "updatedAt": null
     },
     "kalkhoff-e-bike-28-zoll": {
-      "name": "Kalkhoff E Bike 28 Zoll",
-      "category": "E-Bikes",
+      "name": "Kalkhoff E-Bike 28 Zoll",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -32759,7 +32759,7 @@
     },
     "ps5-controller": {
       "name": "PS5 Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -41686,7 +41686,7 @@
       "updatedAt": null
     },
     "insta360-go-3s": {
-      "name": "Insta360 GO 3S",
+      "name": "Insta360 Go 3S",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -46534,8 +46534,8 @@
       "updatedAt": null
     },
     "prophete-dice-1-0": {
-      "name": "PROPHETE DICE 1.0",
-      "category": "E-Bikes",
+      "name": "Prophete Dice 1.0",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -48851,7 +48851,7 @@
     },
     "sony-playstation-5-digital-edition-2-tb": {
       "name": "Sony PlayStation 5 Digital Edition 2TB",
-      "category": "Spielekonsolen",
+      "category": "Games",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -72096,6 +72096,180 @@
     "apple-iphone-6s-32-gb": {
       "name": "Apple iPhone 6s 32GB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-pro-13-500-gb": {
+      "name": "MacBook Pro 13 500GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-2018": {
+      "name": "MacBook Air 2018",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-760-4-gb": {
+      "name": "NVIDIA GeForce GTX 760 4GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-rtx-3070-grafikkarte": {
+      "name": "Gigabyte RTX 3070 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-w180": {
+      "name": "Sony Cyber-shot DSC-W180",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-tounis-3-0": {
+      "name": "E-Bike Tounis 3.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-hardseven-5-e-mtb": {
+      "name": "Haibike HardSeven 5 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "centurion-e-fire-e-bike-56cm": {
+      "name": "Centurion E-Fire E-Bike 56cm",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "westfalia-fahrradtrager": {
+      "name": "Westfalia Fahrradträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-trekking-2-5-e-bike": {
+      "name": "Haibike Trekking 2.5 E Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-six50-evo-1-cx-e-bike": {
+      "name": "BULLS Six50 Evo 1 CX E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-proline-em1608-e-bike": {
+      "name": "Fischer Proline EM1608 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-e-bike-damen": {
+      "name": "Fischer E-Bike Damen",
+      "category": "Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-console-slim": {
+      "name": "Sony PlayStation 5 Console Slim",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ps5-konsole": {
+      "name": "PS5 Konsole",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fotografie": {
+      "name": "Fotografie",
+      "category": "Dienstleistungen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-jubilar": {
+      "name": "Voigtländer Jubilar",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-mini-3-4-pro-ladegerat": {
+      "name": "DJI Mini 3/4 Pro Ladegerät",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dashcam-alpha-3x": {
+      "name": "Dashcam Alpha 3X",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-pxw-x70-camcorder": {
+      "name": "Sony PXW-X70 Camcorder",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "logitech-ptz-pro-2-konferenzkamera": {
+      "name": "Logitech Ptz Pro 2 Konferenzkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dahua-pfm906-kameratester": {
+      "name": "Dahua PFM906 Kameratester",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "revue-analog-spiegelreflexkamera": {
+      "name": "Revue Analog Spiegelreflexkamera",
+      "category": "Cameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-gf3": {
+      "name": "Panasonic Lumix DMC-GF3",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-e-mtb-29-zoll": {
+      "name": "Haibike E-MTB 29 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "giant-e-bike-26-zoll": {
+      "name": "Giant E-Bike 26 Zoll",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "allegro-e-bike-alltour-atil-2-0": {
+      "name": "Allegro E-Bike Alltour Atil 2.0",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-e-hazard-29": {
+      "name": "Stevens E-Hazard 29\"",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-e-bike-pedelec-damenrad": {
+      "name": "Victoria E-Bike Pedelec Damenrad",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     }
