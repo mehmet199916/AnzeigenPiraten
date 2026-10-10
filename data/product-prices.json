@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T15:21:51.595Z",
+  "updatedAt": "2026-10-10T15:34:40.569Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -7529,7 +7529,7 @@
     },
     "apple-iphone-13-mini-256-gb": {
       "name": "Apple iPhone 13 mini 256gb",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -11999,7 +11999,7 @@
     },
     "apple-iphone-14-pro-1-tb": {
       "name": "Apple iPhone 14 Pro 1 TB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -38927,7 +38927,7 @@
     },
     "apple-macbook-air-m5": {
       "name": "Apple MacBook Air M5",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78168,6 +78168,60 @@
     "apple-macbook-pro-2019-16-gb-ram-512-gb-ssd": {
       "name": "Apple MacBook Pro 2019 16 GB RAM 512 GB SSD",
       "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-pro-255-gb": {
+      "name": "Apple iPhone 17 pro 255 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m4-13-zoll-16-gb-ram": {
+      "name": "Apple MacBook Air M4 13 Zoll 16GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-15zoll": {
+      "name": "Apple Macbook Pro 15Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx-2080-8-gb": {
+      "name": "RTX 2080 8 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-6900-xt-16-gb": {
+      "name": "RX 6900 xt 16 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-pro-digital-edition": {
+      "name": "Sony PlayStation 5 PRO Digital Edition",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-sdr-h80": {
+      "name": "Panasonic SDR-H80",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-400": {
+      "name": "Canon EOS 400",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-tm-900": {
+      "name": "Panasonic TM 900",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
