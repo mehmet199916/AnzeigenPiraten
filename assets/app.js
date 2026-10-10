@@ -1,5 +1,6 @@
 /* AnzeigenPiraten – static deal finder frontend (no build step, no deps). */
 import { postalCodeOf, postalDistance } from './postal.mjs';
+import { isVisibleListing, TRADING_CATEGORIES } from './categories.mjs';
 
 (() => {
   'use strict';
@@ -338,7 +339,7 @@ import { postalCodeOf, postalDistance } from './postal.mjs';
 
           <div class="card__footer">
             <span class="tag">${escapeHtml(deal.queryLabel || '')}</span>
-            <span class="engine">${product.confidence ? `${Math.round(product.confidence * 100)}% sicher` : ''}</span>
+            <span class="engine">${product.confidence ? `${Math.round(product.confidence * 100)}% Zuordnungsscore` : ''}</span>
           </div>
         </div>
       </article>`;
@@ -401,7 +402,7 @@ import { postalCodeOf, postalDistance } from './postal.mjs';
         <h4>Produktzuordnung</h4>
         <p><strong>${escapeHtml(product.name ?? 'Produkt noch nicht erkannt')}</strong></p>
         ${product.variant ? `<p>Ausführung: ${escapeHtml(product.variant)}</p>` : ''}
-        <p class="detail__muted">${product.confidence ? `${Math.round(product.confidence * 100)} % Zuordnungssicherheit` : 'Keine sichere Zuordnung'}</p>
+        <p class="detail__muted">${product.confidence ? `${Math.round(product.confidence * 100)} % Zuordnungsscore` : 'Keine sichere Zuordnung'}</p>
         <h4>Referenzpreis-Abgleich</h4>
         ${referencePriceSummary(deal.referencePriceCheck)}
         <h4>Vergleich mit anderen Anzeigen</h4>
@@ -445,7 +446,7 @@ import { postalCodeOf, postalDistance } from './postal.mjs';
 
   function setStatus(meta) {
     const engine = meta?.engine ?? '–';
-    const friendly = engine.startsWith('ai:')
+    const friendly = engine.startsWith('decision:') ? `Kategorieprüfung (${engine.slice(9)})` : engine.startsWith('ai:')
       ? `Produkt-KI (${engine.slice(3)})`
       : 'Produkte nicht automatisch zugeordnet';
 
@@ -464,7 +465,7 @@ import { postalCodeOf, postalDistance } from './postal.mjs';
           + (meta.location.label ? ` (${meta.location.label})` : '')
         : '';
       el.footerMeta.textContent = `Datenstand: ${formatDateTime(meta?.generatedAt ?? state.generatedAt)}`
-        + (meta?.searches?.length ? ` · Suchaufträge: ${meta.searches.join(', ')}` : '')
+        + ` · Suchaufträge: ${TRADING_CATEGORIES.map(category => category.label).join(', ')}`
         + locationInfo;
     }
   }
@@ -568,7 +569,7 @@ import { postalCodeOf, postalDistance } from './postal.mjs';
         loadJson('data/postal-centres.json').catch(() => null),
       ]);
 
-      state.deals = Array.isArray(data.deals) ? data.deals : [];
+      state.deals = (Array.isArray(data.deals) ? data.deals : []).filter(isVisibleListing);
       state.postalCodes = postalData?.postalCodes || null;
       state.scanLocation = data.location || meta?.location || null;
       if (state.scanLocation?.plz && state.postalCodes?.[state.scanLocation.plz]) {
@@ -577,7 +578,7 @@ import { postalCodeOf, postalDistance } from './postal.mjs';
         state.maxDistance = String(state.scanLocation.radius || '50');
         el.maxDistance.value = state.maxDistance;
       }
-      state.queries = Array.isArray(data.queries) ? data.queries : [];
+      state.queries = TRADING_CATEGORIES.map(category => ({ ...category, count: state.deals.filter(deal => deal.queryId === category.id).length }));
       state.generatedAt = data.generatedAt ?? null;
 
       populateQueryFilter();

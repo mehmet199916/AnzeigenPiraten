@@ -6,19 +6,6 @@
   },
   "searches": [
     {
-      "id": "ebike",
-      "label": "E-Bikes",
-      "keywords": "e-bike",
-      "categoryId": "",
-      "locationId": "",
-      "radius": "",
-      "minPrice": "150",
-      "maxPrice": "2500",
-      "adType": "OFFER",
-      "posterType": "",
-      "maxPages": 1
-    },
-    {
       "id": "iphone",
       "label": "iPhone",
       "keywords": "iphone",
@@ -86,14 +73,15 @@
   ],
   "ai": {
     "enabled": true,
-    "baseUrl": "https://api.openai.com/v1",
-    "model": "gpt-4o-mini",
+    "baseUrl": "http://127.0.0.1:11434/v1",
+    "model": "tev1:0.8b",
     "temperature": 0.2,
     "batchSize": 8,
     "maxClassificationsPerRun": 80,
     "maxDescriptionChars": 700,
     "timeoutMs": 60000,
-    "reasoningEffort": ""
+    "reasoningEffort": "",
+    "decisionThreshold": 0.75
   },
   "output": {
     "maxDeals": 600,

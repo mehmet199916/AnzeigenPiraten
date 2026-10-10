@@ -14,7 +14,8 @@ import { fileURLToPath } from 'node:url';
 
 import { aiIsConfigured, loadConfig } from './lib/config.mjs';
 import { collectListings, isNearbyDeal } from './lib/kleinanzeigen.mjs';
-import { classifyListings } from './lib/products.mjs';
+import { classifyListings, DECISION_VERSION } from './lib/products.mjs';
+import { isExcludedListing } from '../assets/categories.mjs';
 import {
   checkProductPrice,
   loadProductCatalog,
@@ -56,9 +57,9 @@ function parseArgs(argv) {
     if (arg === '--force') args.force = true;
     if (arg === '--local') {
       process.env.AI_BASE_URL = 'http://127.0.0.1:11434/v1';
-      process.env.AI_MODEL = 'qwen3:4b';
+      process.env.AI_MODEL = 'tev1:0.8b';
       process.env.AI_API_KEY = 'ollama';
-      // Qwen3's native Ollama endpoint disables thinking for structured output.
+      // Tev1 uses the dedicated /v1/systemone decision endpoint.
       process.env.AI_REASONING_EFFORT = process.env.AI_REASONING_EFFORT || 'none';
     }
   }
@@ -108,12 +109,13 @@ async function main() {
   const productCatalog = await loadProductCatalog(PATHS.productPrices, config.currency);
   state.seen = state.seen && typeof state.seen === 'object' ? state.seen : {};
 
-  const previousDeals = Array.isArray(previous.deals) ? previous.deals : [];
+  const previousDeals = (Array.isArray(previous.deals) ? previous.deals : []).filter(deal => !isExcludedListing(deal));
   const previousById = new Map(previousDeals.map((deal) => [String(deal.id), deal]));
 
   log(`Scanning ${config.searches.length} searches (AI ${aiIsConfigured(config) ? 'enabled' : 'disabled'})…`);
 
-  const { listings, errors: crawlErrors, location } = await collectListings(config);
+  const { listings: crawledListings, errors: crawlErrors, location } = await collectListings(config);
+  const listings = crawledListings.filter(listing => !isExcludedListing(listing));
   log(`Fetched ${listings.length} unique listings.`);
 
   // --- classify listings that have no product identity yet -------------------
@@ -122,14 +124,14 @@ async function main() {
   for (const listing of listings) {
     const previousDeal = previousById.get(listing.id);
     const product = previousDeal?.product;
-    if (args.force || !product || product.key === 'unknown') pendingClassification.push({ listing });
+    if (args.force || product?.decision?.version !== DECISION_VERSION || product.decision.status === 'pending') pendingClassification.push({ listing });
   }
   // Work through retained feed rows too; a listing can age out of the crawl
   // window before it reaches the model's per-run classification cap.
   for (const previousDeal of previousDeals) {
     if (fetchedIds.has(String(previousDeal.id))) continue;
     if (isExpired(previousDeal, config.output.maxAgeHours, Date.now())) continue;
-    if (args.force || !previousDeal.product || previousDeal.product.key === 'unknown') {
+    if (args.force || previousDeal.product?.decision?.version !== DECISION_VERSION || previousDeal.product.decision.status === 'pending') {
       pendingClassification.push({ listing: previousDeal });
     }
   }
@@ -150,6 +152,7 @@ async function main() {
   } = await classifyListings({
     items: capped,
     config,
+    catalog: productCatalog,
   });
 
   // --- merge ----------------------------------------------------------------
@@ -170,6 +173,7 @@ async function main() {
 
     merged.push({
       ...listing,
+      ...(product.decision?.accepted ? { queryId: product.decision.categoryId, queryLabel: product.category } : {}),
       description: truncate(listing.description, 900),
       product,
       firstSeenAt: previousDeal?.firstSeenAt ?? timestamp,
@@ -190,6 +194,10 @@ async function main() {
     const retainedDeal = { ...previousDeal };
     const freshProduct = freshClassifications.get(String(previousDeal.id));
     if (freshProduct) retainedDeal.product = freshProduct;
+    if (retainedDeal.product?.decision?.accepted) {
+      retainedDeal.queryId = retainedDeal.product.decision.categoryId;
+      retainedDeal.queryLabel = retainedDeal.product.category;
+    }
     delete retainedDeal.ai;
     delete retainedDeal.heuristic;
     merged.push({ ...retainedDeal, stale: true });

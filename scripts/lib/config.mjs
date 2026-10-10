@@ -23,8 +23,9 @@ export const CONFIG_DEFAULTS = {
   },
   ai: {
     enabled: true,
-    baseUrl: 'https://api.openai.com/v1',
-    model: 'gpt-4o-mini',
+    baseUrl: 'http://127.0.0.1:11434/v1',
+    model: 'tev1:0.8b',
+    decisionThreshold: 0.75,
     temperature: 0.2,
     batchSize: 8,
     maxClassificationsPerRun: 80,
@@ -148,6 +149,9 @@ export async function loadConfig(configPath, env = process.env) {
   // key as its enabled signal. Only supply a placeholder for loopback hosts.
   if (!config.ai.apiKey && isLoopbackUrl(config.ai.baseUrl)) config.ai.apiKey = 'ollama';
   config.ai.enabled = Boolean(config.ai.enabled);
+  const threshold = Number(config.ai.decisionThreshold);
+  if (!Number.isFinite(threshold) || threshold <= 0.5 || threshold > 1) throw new Error('ai.decisionThreshold must be greater than 0.5 and at most 1');
+  config.ai.decisionThreshold = threshold;
 
   return config;
 }
