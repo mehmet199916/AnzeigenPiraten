@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T13:40:39.227Z",
+  "updatedAt": "2026-10-10T13:43:48.069Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -65,7 +65,7 @@
     },
     "apple-iphone-13-256-gb": {
       "name": "Apple iPhone 13 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 320,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -287,7 +287,7 @@
     },
     "apple-iphone-16-128-gb": {
       "name": "Apple iPhone 16 128 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -407,7 +407,7 @@
     },
     "apple-macbook-air-m4": {
       "name": "Apple MacBook Air M4",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": 750,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -887,7 +887,7 @@
     },
     "apple-macbook-pro": {
       "name": "Apple MacBook Pro",
-      "category": "Computers",
+      "category": "MacBook",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1493,7 +1493,7 @@
     },
     "nvidia-geforce-rtx-3060-12-gb": {
       "name": "Nvidia GeForce RTX 3060 12GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": 180,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1823,7 +1823,7 @@
     },
     "apple-iphone-16-pro-max-512-gb": {
       "name": "Apple iPhone 16 Pro Max 512 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 850,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1841,7 +1841,7 @@
     },
     "apple-macbook-air": {
       "name": "Apple MacBook Air",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2765,7 +2765,7 @@
     },
     "apple-iphone-17-pro-max-512-gb": {
       "name": "Apple iPhone 17 Pro Max 512GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -14387,7 +14387,7 @@
     },
     "nvidia-geforce-gtx-1660-super": {
       "name": "Nvidia GeForce GTX 1660 Super",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18011,7 +18011,7 @@
     },
     "apple-macbook-pro-2015": {
       "name": "Apple MacBook Pro (2015)",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -18821,7 +18821,7 @@
     },
     "nvidia-gtx-1060-6-gb": {
       "name": "NVIDIA GTX 1060 6GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -19715,7 +19715,7 @@
     },
     "apple-iphone-17-pro-max-1-tb": {
       "name": "Apple iPhone 17 Pro Max 1TB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -26099,7 +26099,7 @@
     },
     "apple-macbook-pro-2017": {
       "name": "Apple MacBook Pro 2017",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -42377,7 +42377,7 @@
     },
     "nvidia-geforce-rtx-2070-super": {
       "name": "NVIDIA GeForce RTX 2070 Super",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -49667,7 +49667,7 @@
     },
     "apple-macbook-pro-2018": {
       "name": "Apple MacBook Pro 2018",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -65177,7 +65177,7 @@
     },
     "nvidia-geforce-rtx-5060ti-16-gb": {
       "name": "NVIDIA GeForce RTX 5060TI 16GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -75701,7 +75701,7 @@
     },
     "amd-radeon-rx-6800": {
       "name": "AMD Radeon RX 6800",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -77532,6 +77532,96 @@
     "original-exa-exakt-kamera": {
       "name": "Original Exa Exakt Kamera",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-15-zoll": {
+      "name": "Apple MacBook Air M5 15 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-pro-2021": {
+      "name": "Apple MacBook Pro M1 Pro 2021",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-pro-32-gb-ram": {
+      "name": "Apple MacBook Pro M1 Pro 32 GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2021-16-zoll-16-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro 2021 16 Zoll 16GB RAM 1 TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2020-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro 2020 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-980ti": {
+      "name": "GTX 980ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m3-16-zoll": {
+      "name": "Apple MacBook Pro M3 16 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2018-8-gb-ram-512-gb-ssd": {
+      "name": "Apple Macbook Pro 2018 8GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx650-1-gb": {
+      "name": "GTX650 1 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-2022-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M2 2022 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-5600-xt-6-gb": {
+      "name": "RX 5600 XT 6 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx-3090-ti": {
+      "name": "RTX 3090 Ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx-3070ti": {
+      "name": "RTX 3070Ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2018-13-zoll-8-gb-ram": {
+      "name": "Apple MacBook Air 2018 13 Zoll 8 GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-16-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Air m2 16gb RAM 1TB SSD",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     }
