@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T11:54:43.297Z",
+  "updatedAt": "2026-10-10T11:59:56.098Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -52,13 +52,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-12-64-gb": {
-      "name": "Apple iPhone 12 64GB",
+      "name": "Apple iPhone 12 64 GB",
       "category": "Smartphones",
       "referencePrice": 170,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256 GB",
+      "name": "Apple iPhone 15 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256GB",
+      "name": "Apple iPhone 16 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -250,7 +250,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-air-256-gb": {
-      "name": "Apple iPhone 17 Air 256 GB",
+      "name": "Apple iPhone 17 Air 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128 GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128GB",
+      "name": "Apple iPhone 16 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -659,7 +659,7 @@
     },
     "sony-playstation-5-slim-konsole": {
       "name": "Sony PlayStation 5 Slim Konsole",
-      "category": "Smartphones",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2699,7 +2699,7 @@
     },
     "ps5-reparatur": {
       "name": "PS5 Reparatur",
-      "category": "Konsolen",
+      "category": "Dienstleistungen",
       "referencePrice": 100,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128gb",
+      "name": "Apple iPhone 13 Mini 128 GB",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3700,7 +3700,7 @@
       "updatedAt": null
     },
     "apple-iphone-16-pro-512-gb": {
-      "name": "Apple iPhone 16 Pro 512GB",
+      "name": "Apple iPhone 16 Pro 512 GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -7079,7 +7079,7 @@
     },
     "playstation-5-spiele": {
       "name": "PlayStation 5 Spiele",
-      "category": "Spiele",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -8608,7 +8608,7 @@
       "updatedAt": null
     },
     "olympus-mju-zoom-130": {
-      "name": "Olympus µ[mju:] Zoom 130",
+      "name": "Olympus Mju Zoom 130",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -12334,8 +12334,8 @@
       "updatedAt": null
     },
     "focus-jam2-6-8-e-bike": {
-      "name": "Focus Jam² 6.8 E Bike",
-      "category": "E-Bikes",
+      "name": "Focus Jam² 6.8 E-Bike",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13475,7 +13475,7 @@
     },
     "sony-playstation-5-slim-digital-edition-1-tb": {
       "name": "Sony PlayStation 5 Slim Digital Edition 1TB",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -28205,7 +28205,7 @@
     },
     "sony-playstation-5-dualsense-wireless-controller": {
       "name": "Sony PlayStation 5 DualSense Wireless Controller",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -37660,7 +37660,7 @@
       "updatedAt": null
     },
     "playstation-5-1-tb": {
-      "name": "PlayStation 5 1tb",
+      "name": "PlayStation 5 1 TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -37895,7 +37895,7 @@
     },
     "nvidia-rtx-3060-12-gb": {
       "name": "NVIDIA RTX 3060 12GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -43193,7 +43193,7 @@
     },
     "e-bike-28zoll-7gang": {
       "name": "E-Bike 28Zoll 7Gang",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -48323,7 +48323,7 @@
     },
     "e-bike-victoria": {
       "name": "E-Bike Victoria",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -52804,7 +52804,7 @@
       "updatedAt": null
     },
     "viktoria-damen-e-bike-8-8-trekking": {
-      "name": "Viktoria Damen E-Bike 8.8 trekking",
+      "name": "Viktoria Damen E-Bike 8.8 Trekking",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -68429,7 +68429,7 @@
     },
     "rohrreinigung-abflussreinigung-verstopfung": {
       "name": "Rohrreinigung-Abflussreinigung/Verstopfung",
-      "category": "Rohrreinigung",
+      "category": "Dienstleistungen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -74213,6 +74213,174 @@
     },
     "canon-powershot-sx240-hs": {
       "name": "Canon PowerShot SX240 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bottrop-e-bike-trek-diamant-kreidler-trenoli-mtb-trekkingrad-city": {
+      "name": "Bottrop E-Bike Trek Diamant Kreidler Trenoli MTB Trekkingrad City",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "shengmilo-s900-e-bike-fatbike": {
+      "name": "Shengmilo S900 E-Bike Fatbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-pegasus-e7r-e-bike": {
+      "name": "Bosch Pegasus e7R E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "elops-e-bike-city-trekking-28-zoll-ld500e-lf-damen": {
+      "name": "Elops E-Bike City Trekking 28 Zoll LD500E LF Damen",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "decathlon-rockrider-e-bike": {
+      "name": "Decathlon Rockrider E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-13-m2-512-gb-8-gb": {
+      "name": "Apple MacBook Air 13 M2 512GB 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1060-grafikkarte": {
+      "name": "NVIDIA GeForce GTX 1060 Grafikkarte",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-gtx-1050ti-grafikkarte-4-gb": {
+      "name": "ASUS GTX 1050Ti Grafikkarte 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-4-spiel-project-warlock": {
+      "name": "PlayStation 4 Spiel Project Warlock",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-finepix-f200-exr": {
+      "name": "Fujifilm FinePix F200 EXR",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a1200": {
+      "name": "Canon PowerShot A1200",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "big-royal-view-fotoapparat": {
+      "name": "Big Royal View Fotoapparat",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta-360-go-3-128-gb": {
+      "name": "Insta 360 GO 3 128GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "video-doorbell": {
+      "name": "Video Doorbell",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "stevens-cito-e-bike": {
+      "name": "Stevens Cito E-Bike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "conway-xyron-s-4-9-e-fully": {
+      "name": "Conway Xyron S 4.9 E-Fully",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "technibike-e-bike-defekt-damenrad": {
+      "name": "Technibike E-Bike Defekt Damenrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-touring-hybrid-e-bike": {
+      "name": "Cube Touring Hybrid E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ncm-milano-ts3-e-bike": {
+      "name": "NCM Milano ts3 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "vtech-kidizoom-touch-5-0-kinderkamera": {
+      "name": "VTech Kidizoom Touch 5.0 Kinderkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fuji-instax-evo-wide-hybrid-kamera": {
+      "name": "Fuji Instax Evo Wide Hybrid Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju-kamera": {
+      "name": "Olympus Mju Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-cyber-shot-dsc-hx300-carl-zeiss": {
+      "name": "Sony Cyber Shot DSC-HX300 Carl Zeiss",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-sure-shot-115u": {
+      "name": "Canon Sure Shot 115u",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15-schwarz-256-gb": {
+      "name": "Apple iPhone 15 Schwarz 256GB",
+      "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-speedlite-mk-320-ttl": {
+      "name": "Sony Speedlite MK-320 TTL",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "babytime-babyphone-mit-kamera": {
+      "name": "Babytime Babyphone mit Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-s5": {
+      "name": "Panasonic S5",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
