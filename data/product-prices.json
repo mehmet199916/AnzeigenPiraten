@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T14:17:53.116Z",
+  "updatedAt": "2026-10-10T14:24:59.855Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -11,7 +11,7 @@
     },
     "apple-iphone-11-64-gb": {
       "name": "Apple iPhone 11 64GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -239,7 +239,7 @@
     },
     "apple-iphone-15-pro-max-512-gb": {
       "name": "Apple iPhone 15 Pro Max 512GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 720,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -257,7 +257,7 @@
     },
     "apple-iphone-13-pro": {
       "name": "Apple iPhone 13 Pro",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -305,7 +305,7 @@
     },
     "apple-iphone-16e": {
       "name": "Apple iPhone 16e",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3383,7 +3383,7 @@
     },
     "apple-iphone-12-pro-max-512-gb": {
       "name": "Apple iPhone 12 Pro Max 512 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 340,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -6257,7 +6257,7 @@
     },
     "apple-iphone-x-64-gb": {
       "name": "Apple iPhone X 64GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7037,7 +7037,7 @@
     },
     "apple-iphone-11-pro-max": {
       "name": "Apple iPhone 11 Pro Max",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -20807,7 +20807,7 @@
     },
     "apple-iphone-8-plus": {
       "name": "Apple iPhone 8 Plus",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -29213,7 +29213,7 @@
     },
     "apple-iphone-18-pro": {
       "name": "Apple iPhone 18 Pro",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -29681,7 +29681,7 @@
     },
     "apple-iphone-8-plus-64-gb": {
       "name": "Apple iPhone 8 Plus 64GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -77898,6 +77898,84 @@
     "sony-playstation-5-disc-edition-660-gb": {
       "name": "Sony PlayStation 5 Disc Edition 660 GB",
       "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m5-14-zoll": {
+      "name": "Apple MacBook Pro M5 14 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m3-pro-2023-16-zoll": {
+      "name": "Apple MacBook Pro M3 Pro 2023 16 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx-3070": {
+      "name": "RTX 3070",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-5700xt": {
+      "name": "rx 5700xt",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-450": {
+      "name": "Canon EOS 450",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-g7": {
+      "name": "Canon G7",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16pro-256-gb": {
+      "name": "Apple iPhone 16pro 256 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15pro-max-512-gb": {
+      "name": "Apple iPhone 15Pro Max 512 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-x-h2": {
+      "name": "Fujifilm X-H2",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-500n": {
+      "name": "Canon EOS 500n",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-mit-zubeh": {
+      "name": "Panasonic mit Zubeh",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-16pro": {
+      "name": "Apple iPhone 16Pro",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-250": {
+      "name": "Canon EOS 250",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
