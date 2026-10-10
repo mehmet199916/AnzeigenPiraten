@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T12:04:45.096Z",
+  "updatedAt": "2026-10-10T12:09:49.302Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 GB",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128GB",
+      "name": "Apple iPhone 13 Pro 128Gb",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -58,7 +58,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-max-256-gb": {
-      "name": "Apple iPhone 15 Pro Max 256GB",
+      "name": "Apple iPhone 15 Pro Max 256 GB",
       "category": "Smartphones",
       "referencePrice": 680,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -689,7 +689,7 @@
     },
     "sony-playstation-5-digital-edition": {
       "name": "Sony PlayStation 5 Digital Edition",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 300,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1102,7 +1102,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-256-gb": {
-      "name": "Apple iPhone 13 Pro 256gb",
+      "name": "Apple iPhone 13 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 390,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -8638,7 +8638,7 @@
       "updatedAt": null
     },
     "iphone-17-pro-max-256-gb": {
-      "name": "iPhone 17 Pro Max 256 GB",
+      "name": "iPhone 17 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -17783,7 +17783,7 @@
     },
     "kalkhoff-image-3-s-lease-7-e-bike": {
       "name": "Kalkhoff Image 3.S Lease 7 E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -24064,7 +24064,7 @@
       "updatedAt": null
     },
     "minolta-x-700": {
-      "name": "Minolta X 700",
+      "name": "Minolta X-700",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -36791,7 +36791,7 @@
     },
     "koolux-e-bike-fatbike": {
       "name": "KOOLUX E-Bike Fatbike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -39269,7 +39269,7 @@
     },
     "sony-playstation-5-digital-edition-slim-825-gb": {
       "name": "Sony PlayStation 5 Digital Edition Slim 825 GB",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -41686,7 +41686,7 @@
       "updatedAt": null
     },
     "insta360-go-3s": {
-      "name": "Insta360 Go 3S",
+      "name": "Insta360 GO 3s",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -58888,7 +58888,7 @@
       "updatedAt": null
     },
     "sony-cyber-shot-dsc-h300": {
-      "name": "Sony Cyber-shot DSC-H300",
+      "name": "Sony Cyber-Shot DSC-H300",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -74544,6 +74544,138 @@
     "apple-iphone-13-50-gb": {
       "name": "Apple iPhone 13 50GB",
       "category": "Smartphones",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-nvidia-geforce-rtx-2070-super": {
+      "name": "MSI NVIDIA GeForce RTX 2070 Super",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1050-ti-4-gb": {
+      "name": "NVIDIA GeForce GTX 1050 Ti 4GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "amd-rx-5700-xt-gigabyte-aorus-8-gb": {
+      "name": "AMD RX 5700 XT Gigabyte Aorus 8GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "playstation-007-frist-light": {
+      "name": "PlayStation 007 Frist Light",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-slim-848-gb": {
+      "name": "Sony PlayStation 5 Slim 848 GB",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ouxi-v20-fatbikes": {
+      "name": "Ouxi V20 Fatbikes",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-reaction-hybrid-sl-625-e-mtb": {
+      "name": "Cube Reaction Hybrid SL 625 E-MTB",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "ktm-macina-action-291": {
+      "name": "KTM Macina Action 291",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "btwin-klapprad-e-bike-hoptown-500e": {
+      "name": "Btwin Klapprad E Bike Hoptown 500E",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-mountainbike-stereo-hybrid-sl-625": {
+      "name": "Cube E-Mountainbike Stereo Hybrid SL 625",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "decathlon-stilus-v2-e-mtb-fully": {
+      "name": "Decathlon Stilus V2 E-MTB Fully",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cannondale-e-mountainbike": {
+      "name": "Cannondale E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-tenways-ago-x": {
+      "name": "E-bike Tenways AGO X",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gepida-berig-2920i-m10s-e-bike": {
+      "name": "Gepida Berig 2920i M10S E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhoff-28-zoll-e-bike": {
+      "name": "Kalkhoff 28 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikkormat-kamera": {
+      "name": "Nikkormat Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-go-3s-64-gb": {
+      "name": "Insta360 GO 3s 64GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-rsc-2-pro-gimbal-combo": {
+      "name": "DJI RSC 2 Pro Gimbal Combo",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "samsung-wb110-digitalkamera": {
+      "name": "Samsung WB110 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "action-cam-halterung-ishoxs": {
+      "name": "Action Cam Halterung ISHOXS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "manfrotto-video-einstativ": {
+      "name": "Manfrotto Video Einstativ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-outdoor-kamerasystem": {
+      "name": "Blink Outdoor Kamerasystem",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     }
