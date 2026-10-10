@@ -4,6 +4,7 @@
  */
 
 import { fetchWithRetry, log, randomBetween, sleep, uniqueBy } from './util.mjs';
+import { normaliseRadius } from './config.mjs';
 import {
   parseDetailPage,
   parsePostedAt,
@@ -38,6 +39,100 @@ export function buildSearchUrl(search, page = 1) {
   return `${BASE_URL}/s-suchanfrage.html?${params.toString()}`;
 }
 
+/**
+ * Parses the `/s-ort-empfehlungen.json` payload into entries:
+ * `{"_0": "Deutschland", "_9668": "10115 Mitte"}` → `[{id,label}, …]`.
+ * The `_0` entry is the country-wide fallback and keeps id `"0"`.
+ */
+export function parseLocationSuggestions(payload) {
+  if (!payload || typeof payload !== 'object' || Array.isArray(payload)) return [];
+  return Object.entries(payload)
+    .map(([key, label]) => ({ id: key.replace(/^_/, ''), label: String(label ?? '').trim() }))
+    .filter((entry) => entry.id && entry.label);
+}
+
+/**
+ * Picks the best suggestion for a PLZ/place query: exact label prefix wins,
+ * then a label containing the query; the country-wide entry (id "0") is only
+ * used when nothing else matches. Returns null when nothing matches at all.
+ */
+export function pickLocation(suggestions, query) {
+  const needle = String(query ?? '').trim().toLowerCase();
+  if (!needle || !suggestions.length) return null;
+
+  const scoped = suggestions.filter((entry) => entry.id !== '0');
+  const candidates = scoped.length ? scoped : suggestions;
+  return candidates.find((entry) => entry.label.toLowerCase().startsWith(needle))
+    ?? candidates.find((entry) => entry.label.toLowerCase().includes(needle))
+    ?? null;
+}
+
+/**
+ * Resolves a PLZ or place name to a Kleinanzeigen location id via the site's
+ * own suggestion endpoint. Throws when the query cannot be resolved, so a
+ * typo never silently widens the search back to all of Germany.
+ *
+ * @param {string} query PLZ or place name
+ * @param {object} config loaded dealfinder config
+ * @returns {Promise<{id: string, label: string}>}
+ */
+export async function resolveLocation(query, config) {
+  const url = `${BASE_URL}/s-ort-empfehlungen.json?query=${encodeURIComponent(query)}`;
+  const response = await fetchWithRetry(url, {}, {
+    attempts: config.http.attempts,
+    timeoutMs: config.http.timeoutMs,
+  });
+
+  if (!response.ok) {
+    throw new Error(`Location lookup for "${query}" failed with HTTP ${response.status}`);
+  }
+
+  const match = pickLocation(parseLocationSuggestions(await response.json()), query);
+  if (!match) {
+    throw new Error(`Location "${query}" could not be resolved on kleinanzeigen.de`);
+  }
+  return match;
+}
+
+/**
+ * Applies the global location filter to one search. Values set on the search
+ * itself win, so per-search `locationId`/`radius` overrides stay possible.
+ */
+export function applyLocation(search, location) {
+  if (!location) return search;
+  return {
+    ...search,
+    locationId: search.locationId || location.id,
+    radius: search.radius || normaliseRadius(location.radius),
+  };
+}
+
+/**
+ * Retention check for previously stored feed rows while the global location
+ * filter is active. Rows keep their crawl-time scope stamp in `locationScope`:
+ *
+ *  - no active filter              → keep everything (status quo),
+ *  - stamp differs from the filter → the row belongs to another place (or to an
+ *    earlier nationwide crawl) and leaves the feed immediately,
+ *  - stamp matches                 → keep when the reported distance still fits
+ *    the configured radius; without a radius ("ganzer Ort") the site reports
+ *    no distances, so the stamp alone decides.
+ *
+ * Freshly crawled rows never pass through this check — the site already
+ * applies the radius server-side.
+ */
+export function isNearbyDeal(deal, location) {
+  if (!location) return true;
+  if (String(deal?.locationScope ?? '') !== String(location.id)) return false;
+
+  const radius = Number(location.radius);
+  if (!Number.isFinite(radius) || radius <= 0) return true;
+
+  const distance = Number(deal?.distanceKm);
+  if (!Number.isFinite(distance) || distance <= 0) return true;
+  return distance <= radius;
+}
+
 /** Normalises a raw parsed listing into the scanner's internal shape. */
 export function normaliseListing(raw, search) {
   const price = parsePrice(raw.priceRaw);
@@ -58,6 +153,10 @@ export function normaliseListing(raw, search) {
     },
     location: raw.location || '',
     distanceKm: raw.distanceKm ?? null,
+    // Scope stamp: the location id this listing was crawled under (empty for
+    // nationwide crawls). Used to age old nationwide rows out of the feed
+    // once a location filter becomes active.
+    locationScope: String(search.locationId || ''),
     postedAt: parsePostedAt(raw.postedRaw) ?? null,
     postedRaw: raw.postedRaw || '',
     image: raw.image || '',
@@ -104,23 +203,41 @@ export async function collectListings(config, options = {}) {
   const raw = [];
   const errors = [];
 
+  // Resolve the configured PLZ/place once per scan and apply it to every
+  // search that does not pin its own locationId. A failed resolution aborts
+  // the scan instead of silently widening the search back to all of Germany.
+  let location = null;
+  const plz = config.location?.plz ?? '';
+  if (plz) {
+    const resolved = await resolveLocation(plz, config);
+    location = {
+      id: resolved.id,
+      label: resolved.label,
+      plz,
+      radius: config.location.radius ?? '',
+    };
+    log(`location "${plz}" resolved to ${location.label} (id ${location.id}), `
+      + `radius ${location.radius ? `${location.radius} km` : 'ganzer Ort'}`);
+  }
+
   for (const search of config.searches) {
-    for (let page = 1; page <= search.maxPages; page += 1) {
-      const url = buildSearchUrl(search, page);
+    const effective = applyLocation(search, location);
+    for (let page = 1; page <= effective.maxPages; page += 1) {
+      const url = buildSearchUrl(effective, page);
 
       try {
         const pageListings = await fetchSearchPage(url, config);
-        log(`search "${search.keywords}" page ${page}: ${pageListings.length} listings`);
+        log(`search "${effective.keywords}" page ${page}: ${pageListings.length} listings`);
 
         if (!pageListings.length) break;
-        raw.push(...pageListings.map((listing) => ({ listing, search })));
+        raw.push(...pageListings.map((listing) => ({ listing, search: effective })));
       } catch (error) {
-        const message = `search "${search.keywords}" page ${page} failed: ${error.message}`;
+        const message = `search "${effective.keywords}" page ${page} failed: ${error.message}`;
         errors.push(message);
         log(message);
       }
 
-      if (page < search.maxPages) {
+      if (page < effective.maxPages) {
         await sleep(randomBetween(config.http.requestDelayMs, config.http.requestDelayMs * 1.6));
       }
     }
@@ -138,7 +255,7 @@ export async function collectListings(config, options = {}) {
   }
 
   options.onProgress?.({ count: listings.length, errors });
-  return { listings, errors };
+  return { listings, errors, location };
 }
 
 async function enrichDescriptions(listings, config) {

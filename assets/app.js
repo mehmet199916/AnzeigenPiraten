@@ -15,6 +15,7 @@
     queryId: '',
     productKey: '',
     priceStatus: '',
+    maxDistance: '',
     sort: 'new',
     onlyNew: false,
   };
@@ -29,6 +30,7 @@
     query: document.getElementById('query'),
     product: document.getElementById('product'),
     priceStatus: document.getElementById('priceStatus'),
+    maxDistance: document.getElementById('maxDistance'),
     sort: document.getElementById('sort'),
     onlyNew: document.getElementById('onlyNew'),
     reset: document.getElementById('reset'),
@@ -138,6 +140,12 @@
     return new Date(deal.firstSeenAt).getTime() > state.lastVisit;
   }
 
+  /** Numeric distance in km, or null when the crawl did not report one. */
+  function distanceOf(deal) {
+    const distance = Number(deal.distanceKm);
+    return Number.isFinite(distance) && distance > 0 ? distance : null;
+  }
+
   async function loadJson(url) {
     const response = await fetch(url, { cache: 'no-store' });
     if (!response.ok) throw new Error(`${url} → HTTP ${response.status}`);
@@ -192,6 +200,12 @@
       if (state.productKey && deal.product?.key !== state.productKey) return false;
       if (state.priceStatus && deal.referencePriceCheck?.status !== state.priceStatus) return false;
       if (state.onlyNew && !isNew(deal)) return false;
+      // A distance limit only keeps deals with a known distance: rows from
+      // nationwide crawls cannot be placed near the configured PLZ.
+      if (state.maxDistance) {
+        const distance = distanceOf(deal);
+        if (distance === null || distance > Number(state.maxDistance)) return false;
+      }
       if (!needle) return true;
 
       const haystack = [
@@ -215,6 +229,11 @@
       new: (a, b) => seenOf(b) - seenOf(a),
       price_asc: (a, b) => priceOf(a) - priceOf(b),
       price_desc: (a, b) => priceOf(b) - priceOf(a),
+      distance_asc: (a, b) => {
+        const left = distanceOf(a) ?? Number.POSITIVE_INFINITY;
+        const right = distanceOf(b) ?? Number.POSITIVE_INFINITY;
+        return left === right ? seenOf(b) - seenOf(a) : left - right;
+      },
     };
 
     return filtered.sort(sorters[state.sort] ?? sorters.new);
@@ -282,7 +301,7 @@
           ${comparisonSummary(deal.priceComparison)}
 
           <p class="card__meta">
-            <span>📍 ${escapeHtml(deal.location || 'Ort unbekannt')}</span>
+            <span>📍 ${escapeHtml(deal.location || 'Ort unbekannt')}${distanceOf(deal) !== null ? ` · ${distanceOf(deal).toLocaleString('de-DE')} km` : ''}</span>
             <span>🕒 ${escapeHtml(formatRelative(deal.postedAt || deal.firstSeenAt))}</span>
           </p>
 
@@ -359,6 +378,7 @@
         <dl class="detail__facts">
           <div><dt>Suchauftrag</dt><dd>${escapeHtml(deal.queryLabel || '–')}</dd></div>
           <div><dt>Ort</dt><dd>${escapeHtml(deal.location || '–')}</dd></div>
+          <div><dt>Entfernung</dt><dd>${distanceOf(deal) !== null ? `${distanceOf(deal).toLocaleString('de-DE')} km` : '–'}</dd></div>
           <div><dt>Inseriert</dt><dd>${escapeHtml(formatDateTime(deal.postedAt))}</dd></div>
           <div><dt>Gefunden</dt><dd>${escapeHtml(formatDateTime(deal.firstSeenAt))}</dd></div>
         </dl>
@@ -406,8 +426,14 @@
     ].filter(Boolean).join(' · ');
 
     if (el.footerMeta) {
+      const locationInfo = meta?.location?.plz
+        ? ` · Umkreis: ${meta.location.plz}`
+          + (meta.location.radius ? ` +${meta.location.radius} km` : '')
+          + (meta.location.label ? ` (${meta.location.label})` : '')
+        : '';
       el.footerMeta.textContent = `Datenstand: ${formatDateTime(meta?.generatedAt ?? state.generatedAt)}`
-        + (meta?.searches?.length ? ` · Suchaufträge: ${meta.searches.join(', ')}` : '');
+        + (meta?.searches?.length ? ` · Suchaufträge: ${meta.searches.join(', ')}` : '')
+        + locationInfo;
     }
   }
 
@@ -432,6 +458,11 @@
       render();
     });
 
+    el.maxDistance.addEventListener('change', () => {
+      state.maxDistance = el.maxDistance.value;
+      render();
+    });
+
     el.sort.addEventListener('change', () => {
       state.sort = el.sort.value;
       render();
@@ -447,6 +478,7 @@
       state.queryId = '';
       state.productKey = '';
       state.priceStatus = '';
+      state.maxDistance = '';
       state.sort = 'new';
       state.onlyNew = false;
 
@@ -454,6 +486,7 @@
       el.query.value = '';
       el.product.value = '';
       el.priceStatus.value = '';
+      el.maxDistance.value = '';
       el.sort.value = 'new';
       el.onlyNew.checked = false;
 

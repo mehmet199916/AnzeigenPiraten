@@ -13,7 +13,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { aiIsConfigured, loadConfig } from './lib/config.mjs';
-import { collectListings } from './lib/kleinanzeigen.mjs';
+import { collectListings, isNearbyDeal } from './lib/kleinanzeigen.mjs';
 import { classifyListings } from './lib/products.mjs';
 import {
   checkProductPrice,
@@ -113,7 +113,7 @@ async function main() {
 
   log(`Scanning ${config.searches.length} searches (AI ${aiIsConfigured(config) ? 'enabled' : 'disabled'})…`);
 
-  const { listings, errors: crawlErrors } = await collectListings(config);
+  const { listings, errors: crawlErrors, location } = await collectListings(config);
   log(`Fetched ${listings.length} unique listings.`);
 
   // --- classify listings that have no product identity yet -------------------
@@ -179,11 +179,14 @@ async function main() {
   }
 
   // Keep previously stored deals that did not show up in this crawl's result
-  // window but are still recent, so the feed does not flicker.
+  // window but are still recent, so the feed does not flicker. When a location
+  // filter is active, only deals near the configured PLZ are retained so old
+  // nationwide results leave the feed immediately.
   const mergedIds = new Set(merged.map((deal) => deal.id));
   for (const previousDeal of previousDeals) {
     if (mergedIds.has(String(previousDeal.id))) continue;
     if (isExpired(previousDeal, config.output.maxAgeHours, Date.now())) continue;
+    if (!isNearbyDeal(previousDeal, location)) continue;
     const retainedDeal = { ...previousDeal };
     const freshProduct = freshClassifications.get(String(previousDeal.id));
     if (freshProduct) retainedDeal.product = freshProduct;
@@ -236,6 +239,7 @@ async function main() {
     generatedAt: timestamp,
     engine,
     count: deals.length,
+    location,
     queries: summariseQueries(deals),
     deals,
   };
@@ -249,6 +253,7 @@ async function main() {
     engine,
     classifierConfigured: aiIsConfigured(config),
     aiUsed,
+    location,
     searches: config.searches.map((search) => search.label),
     fetchedListings: listings.length,
     previouslyStored: previousDeals.length,

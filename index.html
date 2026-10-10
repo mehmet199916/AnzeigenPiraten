@@ -64,11 +64,24 @@
       </div>
 
       <div class="field">
+        <label for="maxDistance">Umkreis</label>
+        <select id="maxDistance">
+          <option value="">Alle Entfernungen</option>
+          <option value="5">bis 5 km</option>
+          <option value="10">bis 10 km</option>
+          <option value="20">bis 20 km</option>
+          <option value="50">bis 50 km</option>
+          <option value="100">bis 100 km</option>
+        </select>
+      </div>
+
+      <div class="field">
         <label for="sort">Sortierung</label>
         <select id="sort">
           <option value="new">Zuletzt gefunden</option>
           <option value="price_asc">Preis aufsteigend</option>
           <option value="price_desc">Preis absteigend</option>
+          <option value="distance_asc">Entfernung (nächste zuerst)</option>
         </select>
       </div>
 

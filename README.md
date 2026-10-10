@@ -89,6 +89,34 @@ Kleinanzeigen search. `maxClassificationsPerRun` limits the number of listings
 sent to the model in one run; uncategorized listings remain in the feed and are
 eligible on a later scan.
 
+### Standort und Umkreis
+
+Mit dem oberen `location`-Block suchst du nur noch in deiner Nähe:
+
+```json
+"location": {
+  "plz": "50667",
+  "radius": "50"
+}
+```
+
+* `plz` ist deine Postleitzahl (oder ein Ort). Der Scan löst sie zu Beginn über
+  den offiziellen Vorschlags-Endpunkt von kleinanzeigen.de auf und hängt den
+  Standort an alle Suchaufträge, die nicht selbst eine `locationId` gesetzt
+  haben. Ist `plz` leer, gilt weiterhin die bundesweite Suche.
+* `radius` ist der Umkreis in Kilometern. Erlaubt sind die von der Seite
+  angebotenen Stufen `5`, `10`, `20`, `30`, `50`, `100`, `150`, `200`;
+  andere Werte werden auf die nächstgelegene Stufe gerundet. Ein leerer
+  String oder `0` bedeutet „ganzer Ort" ohne Umkreis.
+* Wird die PLZ nicht gefunden, bricht der Scan mit einer Fehlermeldung ab,
+  statt stillschweigend bundesweit zu suchen.
+* Die Distanz jeder Anzeige (`distanceKm`) wird mitgeliefert: Die Karten und
+  die Detailansicht zeigen die Entfernung, die Filterleiste kennt einen
+  Umkreis-Filter und eine Sortierung nach Entfernung.
+* Bereits gespeicherte Feed-Einträge außerhalb des Umkreises verlassen den
+  Feed beim nächsten Scan (Preis- und Produktgeschichten in `data/prices.json`
+  bleiben davon unberührt).
+
 The classifier model and endpoint can also be configured with `AI_MODEL` and
 `AI_BASE_URL`. For a non-local OpenAI-compatible endpoint, set `AI_API_KEY` (or
 `OPENAI_API_KEY`).

@@ -217,6 +217,8 @@ code {
 .field { display: flex; flex-direction: column; gap: 6px; min-width: 170px; }
 .field--grow { flex: 1 1 260px; }
 .field--inline { justify-content: flex-end; }
+/* Author styles would otherwise override the UA rule for the hidden attribute. */
+[hidden] { display: none !important; }
 
 .field label {
   font-size: 0.78rem;

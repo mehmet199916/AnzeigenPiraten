@@ -9,6 +9,12 @@ import { readFile } from 'node:fs/promises';
 export const CONFIG_DEFAULTS = {
   currency: 'EUR',
   searches: [],
+  // Global location filter: resolves `plz` to a Kleinanzeigen location id once
+  // per scan and limits every search to `radius` around it. Empty plz = off.
+  location: {
+    plz: '',
+    radius: '',
+  },
   http: {
     requestDelayMs: 1200,
     timeoutMs: 20000,
@@ -63,6 +69,33 @@ export function deepMerge(target, source) {
   return result;
 }
 
+/** Radius steps offered by kleinanzeigen.de, in kilometres. */
+export const LOCATION_RADIUS_STEPS = [5, 10, 20, 30, 50, 100, 150, 200];
+
+/**
+ * Normalises a radius value to the steps kleinanzeigen.de supports.
+ * Empty, zero or negative input becomes `''` (the place itself, no radius);
+ * other values snap to the nearest supported step.
+ */
+export function normaliseRadius(value) {
+  const raw = String(value ?? '').trim();
+  if (!raw) return '';
+  const num = Number.parseFloat(raw.replace(',', '.'));
+  if (!Number.isFinite(num) || num <= 0) return '';
+  const nearest = LOCATION_RADIUS_STEPS.reduce((best, step) => (
+    Math.abs(step - num) < Math.abs(best - num) ? step : best
+  ));
+  return String(nearest);
+}
+
+/** Normalises the top-level `location` block (PLZ/place + radius). */
+export function normaliseLocation(location) {
+  return {
+    plz: String(location?.plz ?? '').trim(),
+    radius: normaliseRadius(location?.radius ?? ''),
+  };
+}
+
 /** Normalises a single search definition so the rest of the code can rely on it. */
 export function normaliseSearch(search, index) {
   const keywords = String(search?.keywords ?? '').trim();
@@ -76,7 +109,7 @@ export function normaliseSearch(search, index) {
     keywords,
     categoryId: String(search.categoryId ?? ''),
     locationId: String(search.locationId ?? ''),
-    radius: String(search.radius ?? ''),
+    radius: normaliseRadius(search.radius ?? ''),
     minPrice: String(search.minPrice ?? ''),
     maxPrice: String(search.maxPrice ?? ''),
     adType: String(search.adType ?? 'OFFER'),
@@ -106,6 +139,7 @@ export async function loadConfig(configPath, env = process.env) {
   const config = deepMerge(CONFIG_DEFAULTS, parsed);
 
   config.searches = (config.searches ?? []).map(normaliseSearch);
+  config.location = normaliseLocation(config.location);
   config.ai.baseUrl = String(env.AI_BASE_URL || config.ai.baseUrl).replace(/\/+$/, '');
   config.ai.model = String(env.AI_MODEL || config.ai.model);
   config.ai.apiKey = String(env.AI_API_KEY || env.OPENAI_API_KEY || '');
