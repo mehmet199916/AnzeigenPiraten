@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T14:48:30.065Z",
+  "updatedAt": "2026-10-10T14:53:09.802Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -1769,7 +1769,7 @@
     },
     "apple-iphone-16e-128-gb": {
       "name": "Apple iPhone 16e 128 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 450,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -71537,7 +71537,7 @@
     },
     "nvidia-geforce-rtx-2080-ti-11-gb": {
       "name": "NVIDIA GeForce RTX 2080 Ti 11GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78119,6 +78119,12 @@
     },
     "apple-macbook-pro-m5-16-gb-ram-512-gb-ssd": {
       "name": "Apple MacBook Pro M5 16GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2017-8-gb-ram": {
+      "name": "Apple MacBook Pro 2017 8GB RAM",
       "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
