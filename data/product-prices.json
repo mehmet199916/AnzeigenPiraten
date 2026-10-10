@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T11:30:30.488Z",
+  "updatedAt": "2026-10-10T11:35:40.065Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128 GB",
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128 GB",
+      "name": "Apple iPhone 15 Plus 128GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -286,7 +286,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-128-gb": {
-      "name": "Apple iPhone 16 128 GB",
+      "name": "Apple iPhone 16 128GB",
       "category": "Smartphones",
       "referencePrice": 500,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -382,7 +382,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-macbook-air-m2-2022-8-gb": {
-      "name": "Apple MacBook Air M2 (2022) 8GB",
+      "name": "Apple MacBook Air M2 2022 8GB",
       "category": "Computer",
       "referencePrice": 550,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -659,7 +659,7 @@
     },
     "sony-playstation-5-slim-konsole": {
       "name": "Sony PlayStation 5 Slim Konsole",
-      "category": "Spielekonsolen",
+      "category": "Smartphones",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -1048,13 +1048,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-256-gb": {
-      "name": "Apple iPhone 14 Pro 256 GB",
+      "name": "Apple iPhone 14 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 460,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17-pro-256-gb": {
-      "name": "Apple iPhone 17 Pro 256gb",
+      "name": "Apple iPhone 17 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 1010,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1078,7 +1078,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-pro-128-gb": {
-      "name": "Apple iPhone 14 Pro 128GB",
+      "name": "Apple iPhone 14 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128 GB",
+      "name": "Apple iPhone 13 128gb",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2267,7 +2267,7 @@
     },
     "playstation-5-slim": {
       "name": "PlayStation 5 Slim",
-      "category": "Konsolen",
+      "category": "Spielekonsolen",
       "referencePrice": 330,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3058,7 +3058,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-128-gb": {
-      "name": "Apple iPhone 11 128GB",
+      "name": "Apple iPhone 11 128 GB",
       "category": "Smartphones",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825 GB",
+      "name": "Sony PlayStation 5 Digital Edition 825Gb",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -9293,7 +9293,7 @@
     },
     "sony-playstation-portal-remote-player": {
       "name": "Sony PlayStation Portal Remote Player",
-      "category": "Spielekonsolen",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9719,7 +9719,7 @@
     },
     "bosch-e-bike": {
       "name": "Bosch E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -34396,7 +34396,7 @@
       "updatedAt": null
     },
     "dji-air-3s": {
-      "name": "DJI Air 3S",
+      "name": "DJI Air 3s",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -51814,7 +51814,7 @@
       "updatedAt": null
     },
     "allegro-invisible-alltour-atil-03-e-bike": {
-      "name": "AlLEGRO Invisible Alltour ATIL°03 E-Bike",
+      "name": "ALLEGRO Invisible Alltour ATIL°03 E-Bike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -62176,7 +62176,7 @@
       "updatedAt": null
     },
     "apple-iphone-17-pro-128-gb": {
-      "name": "Apple iPhone 17 Pro 128 GB",
+      "name": "Apple iPhone 17 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -67924,7 +67924,7 @@
       "updatedAt": null
     },
     "apple-iphone-11-pro-128-gb": {
-      "name": "Apple iPhone 11 Pro 128 GB",
+      "name": "Apple iPhone 11 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
@@ -73367,6 +73367,174 @@
     },
     "dji-avatar-1": {
       "name": "DJI Avatar 1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kettler-quadriga-town-country-cx10": {
+      "name": "Kettler Quadriga Town & Country CX10",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-15-3-m2-2023-512-gb": {
+      "name": "Apple MacBook Air 15,3 M2 2023 512GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-gaming-geforce-rtx-3070-ti-trinity-oc-8-gb": {
+      "name": "Zotac Gaming GeForce RTX 3070 Ti Trinity OC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-gtx-1650-super": {
+      "name": "NVIDIA GeForce GTX 1650 Super",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "msi-geforce-rtx-5080-inspire-3x-black": {
+      "name": "MSI GeForce RTX 5080 Inspire 3X Black",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "palit-geforce-gtx-1660-super-6-gb": {
+      "name": "Palit GeForce GTX 1660 Super 6GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "zotac-geforce-gtx-3070": {
+      "name": "ZOTAC GeForce GTX 3070",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-geforce-rtx-3080-ti": {
+      "name": "NVIDIA GeForce RTX 3080 Ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "juko-ega-1024-grafikkarte": {
+      "name": "JUKO EGA 1024 Grafikkarte",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gvm-kameraschiene": {
+      "name": "GVM Kameraschiene",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "blink-kamerasystem": {
+      "name": "Blink Kamerasystem",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kalkhhoff-e-bike-28-zoll": {
+      "name": "Kalkhhoff E-Bike 28 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-hardnine-4-29-zoll": {
+      "name": "Haibike Hardnine 4 29 Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "victoria-etrekking-7-6": {
+      "name": "Victoria eTrekking 7.6",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hansa-28zoll": {
+      "name": "E-Bike Hansa 28Zoll",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "qio-eins-p-5-20-zoll-e-bike": {
+      "name": "QIO eins P-5 20 Zoll E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hepha-ultra-7": {
+      "name": "E-Bike HEPHA ultra 7",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "triumph-e-cloud-plus-5-e-bike": {
+      "name": "Triumph E-Cloud Plus 5 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-dmc-fz2000": {
+      "name": "Panasonic Lumix DMC-FZ2000",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "kodak-pixpro-fz55-digital-camera": {
+      "name": "Kodak Pixpro FZ55 Digital Camera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1200d-dslr-set": {
+      "name": "Canon EOS 1200D DSLR Set",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx730-hs": {
+      "name": "Canon PowerShot SX730 HS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-d300": {
+      "name": "Nikon D300",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fujifilm-instax-210": {
+      "name": "Fujifilm instax 210",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "heimvision-uberwachungskamera": {
+      "name": "HeimVision Überwachungskamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gopro-11-black-64-gb": {
+      "name": "GoPro 11 Black 64GB",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-dmc-sz3-digitalkamera": {
+      "name": "Panasonic DMC-SZ3 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "olympus-mju-ii-mju-1-superzoom": {
+      "name": "Olympus mju -II mju -1 Superzoom",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
