@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T14:24:59.855Z",
+  "updatedAt": "2026-10-10T14:29:30.770Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -3059,7 +3059,7 @@
     },
     "apple-iphone-11-128-gb": {
       "name": "Apple iPhone 11 128 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": 165,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -3599,7 +3599,7 @@
     },
     "apple-iphone-15-pro-512-gb": {
       "name": "Apple iPhone 15 Pro 512GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -4475,7 +4475,7 @@
     },
     "nvidia-geforce-rtx-2060-6-gb": {
       "name": "Nvidia GeForce RTX 2060 6 Gb",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -5747,7 +5747,7 @@
     },
     "apple-iphone-15-plus": {
       "name": "Apple iPhone 15 Plus",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -6491,7 +6491,7 @@
     },
     "apple-iphone-12-mini-64-gb": {
       "name": "Apple iPhone 12 mini 64GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -7283,7 +7283,7 @@
     },
     "apple-iphone-se-2022": {
       "name": "Apple iPhone SE 2022",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -11405,7 +11405,7 @@
     },
     "apple-iphone-se-2022-64-gb": {
       "name": "Apple iPhone SE 2022 64GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -13823,7 +13823,7 @@
     },
     "apple-iphone-air": {
       "name": "Apple iPhone Air",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14657,7 +14657,7 @@
     },
     "apple-iphone-17-pro-1-tb": {
       "name": "Apple iPhone 17 Pro 1TB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14927,7 +14927,7 @@
     },
     "nvidia-rtx-4060-ti-16-gb": {
       "name": "NVIDIA RTX 4060 Ti 16GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -17831,7 +17831,7 @@
     },
     "apple-iphone-12-256-gb": {
       "name": "Apple iPhone 12 256GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -25217,7 +25217,7 @@
     },
     "apple-iphone-15-plus-256-gb": {
       "name": "Apple iPhone 15 Plus 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33605,7 +33605,7 @@
     },
     "apple-iphone-15-pro-max-1-tb": {
       "name": "Apple iPhone 15 Pro Max 1TB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -35423,7 +35423,7 @@
     },
     "apple-iphone-17pro-256-gb": {
       "name": "Apple iPhone 17Pro 256gb",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -77976,6 +77976,42 @@
     "canon-eos-250": {
       "name": "Canon EOS 250",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-13-zoll-8-gb-ram": {
+      "name": "Apple MacBook Pro M1 13 Zoll 8GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-2020-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro M1 2020 16 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-1660-ti-6-gb": {
+      "name": "GTX 1660 TI 6 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-1ds": {
+      "name": "Canon EOS 1DS",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12pro-256-gb": {
+      "name": "Apple iPhone 12Pro 256 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-15pro-512-gb": {
+      "name": "Apple iPhone 15pro 512 GB",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     }
