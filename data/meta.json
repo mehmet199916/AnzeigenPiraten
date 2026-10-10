@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-09T13:30:22.489Z",
-  "startedAt": "2026-10-09T13:27:36.129Z",
-  "finishedAt": "2026-10-09T13:30:22.684Z",
-  "durationMs": 166554,
+  "generatedAt": "2026-10-10T10:39:37.849Z",
+  "startedAt": "2026-10-10T10:37:35.372Z",
+  "finishedAt": "2026-10-10T10:39:38.097Z",
+  "durationMs": 122715,
   "engine": "ai:qwen3:4b",
   "classifierConfigured": true,
   "aiUsed": true,
+  "location": null,
   "searches": [
     "E-Bikes",
     "iPhone",
@@ -16,20 +17,20 @@
   ],
   "fetchedListings": 162,
   "previouslyStored": 600,
-  "newDeals": 73,
-  "classified": 79,
+  "newDeals": 158,
+  "classified": 80,
   "totalDeals": 600,
   "priceDatabase": {
-    "products": 9968,
+    "products": 10006,
     "observations": 20000,
-    "historyPoints": 22301,
-    "productsWithHistory": 9968,
-    "comparableListings": 294
+    "historyPoints": 22372,
+    "productsWithHistory": 10006,
+    "comparableListings": 236
   },
   "productPriceCatalog": {
-    "products": 11904,
+    "products": 11940,
     "pricesSet": 592,
-    "goodPriceListings": 205
+    "goodPriceListings": 167
   },
   "errors": []
 }
