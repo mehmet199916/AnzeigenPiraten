@@ -1,10 +1,10 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T11:50:27.916Z",
+  "updatedAt": "2026-10-10T11:54:43.297Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128 gb",
+      "name": "Apple iPhone 15 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -46,7 +46,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-pro-128-gb": {
-      "name": "Apple iPhone 13 Pro 128 GB",
+      "name": "Apple iPhone 13 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 355,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -113,7 +113,7 @@
     },
     "e-bike-28-zoll": {
       "name": "E-Bike 28 Zoll",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-128-gb": {
-      "name": "Apple iPhone 15 128GB",
+      "name": "Apple iPhone 15 128 GB",
       "category": "Smartphones",
       "referencePrice": 425,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -292,13 +292,13 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini": {
-      "name": "Apple iPhone 13 mini",
+      "name": "Apple iPhone 13 Mini",
       "category": "Smartphones",
       "referencePrice": 220,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128GB",
+      "name": "Apple iPhone 14 128 GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -310,7 +310,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-128-gb": {
-      "name": "Apple iPhone 16 Pro 128 GB",
+      "name": "Apple iPhone 16 Pro 128GB",
       "category": "Smartphones",
       "referencePrice": 600,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1810,7 +1810,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-128-gb": {
-      "name": "Apple iPhone 13 128GB",
+      "name": "Apple iPhone 13 128 GB",
       "category": "Smartphones",
       "referencePrice": 285,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2531,7 +2531,7 @@
     },
     "playstation-5": {
       "name": "PlayStation 5",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": 350,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256 gb",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2932,7 +2932,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-13-mini-128-gb": {
-      "name": "Apple iPhone 13 mini 128 gb",
+      "name": "Apple iPhone 13 mini 128gb",
       "category": "Smartphones",
       "referencePrice": 245,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -3202,7 +3202,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-256-gb": {
-      "name": "Apple iPhone 16 256GB",
+      "name": "Apple iPhone 16 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6580,7 +6580,7 @@
       "updatedAt": null
     },
     "apple-macbook-air-8-gb": {
-      "name": "Apple MacBook Air 8GB",
+      "name": "Apple MacBook Air 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -6880,7 +6880,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-825-gb": {
-      "name": "Sony PlayStation 5 825 GB",
+      "name": "Sony PlayStation 5 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7606,7 +7606,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-1-tb": {
-      "name": "Sony PlayStation 5 1 tb",
+      "name": "Sony PlayStation 5 1TB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -9719,7 +9719,7 @@
     },
     "bosch-e-bike": {
       "name": "Bosch E-Bike",
-      "category": "Fahrräder",
+      "category": "E-Bikes",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -9959,7 +9959,7 @@
     },
     "flyer-e-bike": {
       "name": "Flyer E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -14908,7 +14908,7 @@
       "updatedAt": null
     },
     "apple-macbook-pro-13-8-gb": {
-      "name": "Apple MacBook Pro 13 8GB",
+      "name": "Apple MacBook Pro 13\" 8GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -15772,7 +15772,7 @@
       "updatedAt": null
     },
     "gopro-hero-9-black": {
-      "name": "GoPro Hero 9 Black",
+      "name": "GoPro HERO 9 Black",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -25000,7 +25000,7 @@
       "updatedAt": null
     },
     "cube-e-mountainbike": {
-      "name": "Cube E-Mountainbike",
+      "name": "CUBE E-Mountainbike",
       "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
@@ -34955,7 +34955,7 @@
     },
     "sony-dualsense-wireless-controller": {
       "name": "Sony DualSense Wireless Controller",
-      "category": "Controller",
+      "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -43438,7 +43438,7 @@
       "updatedAt": null
     },
     "nikon-coolpix-b500": {
-      "name": "Nikon Coolpix B500",
+      "name": "Nikon COOLPIX B500",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -46805,7 +46805,7 @@
     },
     "dji-mavic-air-2": {
       "name": "DJI Mavic Air 2",
-      "category": "Fluggeräte",
+      "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -71806,7 +71806,7 @@
       "updatedAt": null
     },
     "nikon-z7-ii": {
-      "name": "NIKON Z7 II",
+      "name": "Nikon Z7 II",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
@@ -74039,6 +74039,180 @@
     },
     "kamera-konvolut": {
       "name": "Kamera-Konvolut",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fafrees-f20-flex-klapprad-pedelec": {
+      "name": "Fafrees F20 Flex Klapprad Pedelec",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "cube-e-mountainbike-hpc-sl-625": {
+      "name": "Cube E-Mountainbike HPC SL 625",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pfau-tec-bellagio-dreirad": {
+      "name": "Pfau-Tec Bellagio Dreirad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gazelle-avignon-c380-bosch-performance-riem-625w": {
+      "name": "Gazelle Avignon C380 Bosch Performance Riem 625w",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "merida-espresso-e-bike-trekkingrad": {
+      "name": "MERIDA eSPRESSO E-Bike Trekkingrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "macbook-air-m2-2022-8-gb": {
+      "name": "MacBook Air (M2, 2022) 8Gb",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-touch-bar-15": {
+      "name": "Apple MacBook Pro Touch Bar 15\"",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-14-zoll-2021-16-gb": {
+      "name": "Apple MacBook Pro 14 Zoll 2021 16 GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-dual-geforce-gtx-3060": {
+      "name": "ASUS DUAL GeForce GTX 3060",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-geforce-rtx-5070-gaming-oc": {
+      "name": "ASUS Rog Strix GeForce RTX 5070 Gaming OC",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gainward-geforce-gtx-1080-ti-phoenix-gs": {
+      "name": "Gainward GeForce GTX 1080 Ti Phoenix GS",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1070-oc-edition": {
+      "name": "Gigabyte GeForce GTX 1070 OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-rtx-2070-super-windforce-oc-3x-8g": {
+      "name": "Gigabyte GeForce RTX 2070 SUPER Windforce OC 3x 8G",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gigabyte-geforce-gtx-1050-ti-4-gb-gddr5-oc-edition": {
+      "name": "Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 OC Edition",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panzer-dragoon-remake": {
+      "name": "Panzer Dragoon Remake",
+      "category": "Spiele",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "lapiere-e-mountainbike": {
+      "name": "Lapière E-Mountainbike",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "mini-e-bike": {
+      "name": "Mini E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fischer-viator-1-0-trekkingrad": {
+      "name": "Fischer Viator 1.0 Trekkingrad",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ixus-145": {
+      "name": "Canon IXUS 145",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "voigtlander-digitalkamera": {
+      "name": "Voigtländer-Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "minolta-50mm-f1-4-objektiv": {
+      "name": "Minolta 50mm f1.4 Objektiv",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "braun-nizo-integral-5-super8-tonfilm-kamera": {
+      "name": "Braun Nizo Integral 5 Super8 Tonfilm Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "katzenkamera-roboter": {
+      "name": "Katzenkamera-Roboter",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fuji-finepix-f30": {
+      "name": "Fuji FinePix F30",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "eufy-video-doorbell-e340": {
+      "name": "Eufy Video Doorbell E340",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "jvc-everio-gz-hm330be": {
+      "name": "JVC Everio GZ-HM330BE",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "manfrotto-pro-light-kamerarucksack": {
+      "name": "Manfrotto Pro Light Kamerarucksack",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-eos-m50-digitalkamera": {
+      "name": "Canon EOS M50 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-sx240-hs": {
+      "name": "Canon PowerShot SX240 HS",
       "category": "Kameras",
       "referencePrice": null,
       "updatedAt": null
