@@ -1,16 +1,16 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-10T11:59:56.098Z",
+  "updatedAt": "2026-10-10T12:04:45.096Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128 GB",
       "category": "Smartphones",
       "referencePrice": 525,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-11-64-gb": {
-      "name": "Apple iPhone 11 64GB",
+      "name": "Apple iPhone 11 64Gb",
       "category": "Smartphones",
       "referencePrice": 140,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -28,7 +28,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-plus-128-gb": {
-      "name": "Apple iPhone 15 Plus 128GB",
+      "name": "Apple iPhone 15 Plus 128 GB",
       "category": "Smartphones",
       "referencePrice": 455,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -70,7 +70,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-max-256-gb": {
-      "name": "Apple iPhone 16 Pro Max 256 GB",
+      "name": "Apple iPhone 16 Pro Max 256GB",
       "category": "Smartphones",
       "referencePrice": 810,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -298,7 +298,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-14-128-gb": {
-      "name": "Apple iPhone 14 128 GB",
+      "name": "Apple iPhone 14 128GB",
       "category": "Smartphones",
       "referencePrice": 325,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -340,7 +340,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-16-pro-256-gb": {
-      "name": "Apple iPhone 16 Pro 256 GB",
+      "name": "Apple iPhone 16 Pro 256GB",
       "category": "Smartphones",
       "referencePrice": 660,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1426,7 +1426,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "kalkhoff-e-bike": {
-      "name": "Kalkhoff E-Bike",
+      "name": "Kalkhoff e-Bike",
       "category": "E-Bikes",
       "referencePrice": 1200,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -1804,7 +1804,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-17e-256-gb": {
-      "name": "Apple iPhone 17e 256gb",
+      "name": "Apple iPhone 17e 256GB",
       "category": "Smartphones",
       "referencePrice": 610,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -2686,7 +2686,7 @@
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
     "apple-iphone-15-pro-256-gb": {
-      "name": "Apple iPhone 15 Pro 256 gb",
+      "name": "Apple iPhone 15 Pro 256 GB",
       "category": "Smartphones",
       "referencePrice": 560,
       "updatedAt": "2026-10-02T01:30:00+02:00"
@@ -6868,7 +6868,7 @@
       "updatedAt": null
     },
     "sony-playstation-5-digital-edition-825-gb": {
-      "name": "Sony PlayStation 5 Digital Edition 825Gb",
+      "name": "Sony PlayStation 5 Digital Edition 825GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -7300,7 +7300,7 @@
       "updatedAt": null
     },
     "nvidia-geforce-gtx-1070-8-gb": {
-      "name": "NVIDIA GeForce GTX 1070 8GB",
+      "name": "NVIDIA GeForce GTX 1070 8 GB",
       "category": "Computer",
       "referencePrice": null,
       "updatedAt": null
@@ -14615,7 +14615,7 @@
     },
     "victoria-e-bike": {
       "name": "Victoria E-Bike",
-      "category": "E-Bikes",
+      "category": "Fahrräder",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -21610,7 +21610,7 @@
       "updatedAt": null
     },
     "playstation-5-digital-edition-825-gb": {
-      "name": "PlayStation 5 Digital Edition 825GB",
+      "name": "PlayStation 5 Digital Edition 825 GB",
       "category": "Spielekonsolen",
       "referencePrice": null,
       "updatedAt": null
@@ -34150,8 +34150,8 @@
       "updatedAt": null
     },
     "sony-playstation-pulse-3d-wireless-headset": {
-      "name": "Sony PlayStation PULSE 3D Wireless-Headset",
-      "category": "Games",
+      "name": "Sony PlayStation Pulse 3D Wireless Headset",
+      "category": "Controller",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -74382,6 +74382,168 @@
     "panasonic-s5": {
       "name": "Panasonic S5",
       "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bulls-copperhead-evo-2-e-bike": {
+      "name": "Bulls Copperhead EVO 2 E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-ep-915-fahrradtrager": {
+      "name": "Thule EP 915 Fahrradträger",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "bosch-e-bike-akku-750-wh": {
+      "name": "Bosch E-Bike Akku 750 Wh",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "adore-e-mountainbike": {
+      "name": "Adore E-Mountainbike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "fido-e-bike": {
+      "name": "Fido E-Bike",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-popal-gtx": {
+      "name": "E-Bike Popal GTX",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "haibike-alltrail-6": {
+      "name": "Haibike AllTrail 6",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-schwarz": {
+      "name": "E-Bike schwarz",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nvidia-quadro-p1000-4-gb-gddr5": {
+      "name": "NVIDIA Quadro P1000 4GB GDDR5",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "asus-rog-strix-rtx-2070-oc-8-gb": {
+      "name": "ASUS ROG Strix RTX 2070 OC 8GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "xfx-rx570-4-gb": {
+      "name": "XFX RX570 4GB",
+      "category": "Computer",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-day-1-edition": {
+      "name": "Sony PlayStation 5 Day 1 Edition",
+      "category": "Spielekonsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "poly-eagleeye-mini-usb-kamera": {
+      "name": "Poly EagleEye Mini USB-Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "e-bike-hercules-futura-sport": {
+      "name": "E Bike Hercules Futura Sport",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "thule-easyfold-931-fahrrad-kupplungstrager": {
+      "name": "Thule EasyFold 931 Fahrrad-Kupplungsträger",
+      "category": "Fahrräder",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "pegasus-premio-evo-lite": {
+      "name": "Pegasus Premio EVO Lite",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "focus-jarifa-2": {
+      "name": "Focus Jarifa 2",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "prophete-genie-er-2-4": {
+      "name": "Prophete Genießer 2.4",
+      "category": "E-Bikes",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "insta360-x5-tauchgehause": {
+      "name": "Insta360 X5 Tauchgehäuse",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-ds6041": {
+      "name": "Canon DS6041",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "dji-avata-1": {
+      "name": "DJI Avata 1",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rollei-b35-analog-kamera": {
+      "name": "Rollei b35 Analog Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "canon-powershot-a495": {
+      "name": "Canon PowerShot A495",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "nikon-f4": {
+      "name": "Nikon F4",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "hanimex-sr-9000-super-8-tonfilmprojektor": {
+      "name": "Hanimex SR 9000 Super 8 Tonfilmprojektor",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "casio-exilim-ex-z77-digitalkamera": {
+      "name": "Casio Exilim EX-Z77 Digitalkamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13-50-gb": {
+      "name": "Apple iPhone 13 50GB",
+      "category": "Smartphones",
       "referencePrice": null,
       "updatedAt": null
     }
