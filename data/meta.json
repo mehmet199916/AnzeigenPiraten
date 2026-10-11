@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-11T22:37:10.086Z",
-  "startedAt": "2026-10-11T22:27:35.068Z",
-  "finishedAt": "2026-10-11T22:37:10.735Z",
-  "durationMs": 575666,
+  "generatedAt": "2026-10-11T22:47:21.839Z",
+  "startedAt": "2026-10-11T22:37:35.120Z",
+  "finishedAt": "2026-10-11T22:47:22.630Z",
+  "durationMs": 587510,
   "engine": "decision:tev1:0.8b",
   "classifierConfigured": true,
   "aiUsed": true,
@@ -13,8 +13,8 @@
     "searches": [
       {
         "id": "iphone",
-        "pages": 51,
-        "stopReason": "repeated_results",
+        "pages": 52,
+        "stopReason": "date_boundary",
         "missingDates": 0
       },
       {
@@ -31,7 +31,7 @@
       },
       {
         "id": "console",
-        "pages": 51,
+        "pages": 52,
         "stopReason": "repeated_results",
         "missingDates": 0
       },
@@ -50,29 +50,28 @@
     "Konsolen",
     "Kameras"
   ],
-  "fetchedListings": 6272,
-  "previouslyStored": 13631,
-  "newDeals": 40,
+  "fetchedListings": 6264,
+  "previouslyStored": 13671,
+  "newDeals": 23,
   "classified": 200,
-  "pendingClassifications": 7702,
-  "totalDeals": 13671,
+  "pendingClassifications": 7525,
+  "totalDeals": 13694,
   "priceDatabase": {
-    "products": 11250,
+    "products": 11268,
     "observations": 20000,
-    "historyPoints": 29506,
-    "productsWithHistory": 11250,
-    "comparableListings": 3888
+    "historyPoints": 29630,
+    "productsWithHistory": 11268,
+    "comparableListings": 3994
   },
   "productPriceCatalog": {
-    "products": 13329,
+    "products": 13347,
     "pricesSet": 592,
-    "goodPriceListings": 2584
+    "goodPriceListings": 2633
   },
   "errors": [
-    "search \"iphone\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
     "search \"macbook\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
     "search \"grafikkarte\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
-    "search \"playstation 5\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
+    "search \"playstation 5\": Quelle wiederholt Ergebnisse auf Seite 52; Erfassung unvollständig",
     "search \"kamera\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig"
   ]
 }
