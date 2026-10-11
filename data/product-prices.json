@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-11T19:29:16.760Z",
+  "updatedAt": "2026-10-11T19:43:41.367Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -2075,7 +2075,7 @@
     },
     "apple-macbook-air-2024": {
       "name": "Apple MacBook Air (2024)",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": 700,
       "updatedAt": "2026-10-02T01:30:00+02:00"
     },
@@ -17597,7 +17597,7 @@
     },
     "apple-iphone-se-64-gb": {
       "name": "Apple iPhone SE 64 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -32081,7 +32081,7 @@
     },
     "apple-iphone-16-e-128-gb": {
       "name": "Apple iPhone 16 e 128GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -47831,7 +47831,7 @@
     },
     "nvidia-geforce-rtx-5070ti": {
       "name": "Nvidia GeForce RTX 5070Ti",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78803,6 +78803,102 @@
     },
     "apple-macbook-pro-2019-16-zoll": {
       "name": "Apple Macbook Pro 2019 16 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12mini": {
+      "name": "Apple iPhone 12mini",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-13pro-256-gb": {
+      "name": "Apple iPhone 13pro 256 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2019-8-gb-ram": {
+      "name": "Apple MacBook Pro 2019 8GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m5": {
+      "name": "Apple MacBook Pro M5",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m2-max-2023-32-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro M2 Max 2023 32 GB RAM 1 TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-disc-edition-1-000-gb": {
+      "name": "Sony PlayStation 5 Disc Edition 1.000 GB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-kamera": {
+      "name": "Panasonic LUMIX Kamera",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2015-15-zoll-16-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro 2015 15 Zoll 16 GB RAM 1 TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-256-gb-ssd": {
+      "name": "Apple MacBook Air M2 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-16-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Air M2 16GB RAM 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-15-zoll": {
+      "name": "Apple MacBook Air M2 15 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2019-1-tb-ssd": {
+      "name": "Apple MacBook Pro 2019 1 TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro M1 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-pro-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro M1 Pro 16 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2017-256-gb-ssd": {
+      "name": "Apple MacBook Air 2017 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-16-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Air M3 16GB RAM 256GB SSD",
       "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
