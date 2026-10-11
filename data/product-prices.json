@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-11T22:12:33.795Z",
+  "updatedAt": "2026-10-11T22:22:50.119Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -17615,7 +17615,7 @@
     },
     "apple-iphone-12-pro-512-gb": {
       "name": "Apple iPhone 12 Pro 512 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33695,7 +33695,7 @@
     },
     "apple-iphone-8-64-gb": {
       "name": "Apple iPhone 8 64GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -79866,6 +79866,60 @@
     "apple-macbook-air-2018-256-gb-ssd": {
       "name": "Apple MacBook Air 2018 256GB SSD",
       "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12pro-max-128-gb": {
+      "name": "Apple iPhone 12pro Max 128 GB",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-13-zoll-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M3 13 Zoll 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-8-gb-ram-250-gb-ssd": {
+      "name": "Apple MacBook Air 8GB RAM 250GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2020-13-zoll-8-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Air 2020 13 Zoll 8GB RAM 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2020-8-gb-ram": {
+      "name": "Apple MacBook Air 2020 8 GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-570": {
+      "name": "GTX 570",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx7600-8-gb": {
+      "name": "RX7600 8 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2017-16-gb-ram-500-gb-ssd": {
+      "name": "Apple MacBook Pro 2017 16 GB RAM 500 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-1050-2-gb": {
+      "name": "GTX 1050 2 GB",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     }
