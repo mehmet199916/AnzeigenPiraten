@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-11T19:43:41.367Z",
+  "updatedAt": "2026-10-11T19:58:58.912Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -31931,7 +31931,7 @@
     },
     "apple-macbook-air-2013": {
       "name": "Apple MacBook Air 2013",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -32123,7 +32123,7 @@
     },
     "nvidia-gtx-1060-3-gb": {
       "name": "NVIDIA GTX 1060 3GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -52463,7 +52463,7 @@
     },
     "apple-iphone-14-plus-256-gb": {
       "name": "Apple iPhone 14 Plus 256 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -54683,7 +54683,7 @@
     },
     "nvidia-rtx-3050": {
       "name": "NVIDIA RTX 3050",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -78899,6 +78899,78 @@
     },
     "apple-macbook-air-m3-16-gb-ram-256-gb-ssd": {
       "name": "Apple MacBook Air M3 16GB RAM 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-12pro-max": {
+      "name": "Apple iPhone 12Pro Max",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-8-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M3 8 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx6900-xt-16-gb": {
+      "name": "RX6900 XT 16 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-1080ti": {
+      "name": "GTX 1080Ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m3-pro-2023-18-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro M3 Pro 2023 18 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-16-gb-ram-500-gb-ssd": {
+      "name": "Apple MacBook Pro 16 GB RAM 500 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2020-8-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Pro 2020 8GB RAM 256 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-16gbram": {
+      "name": "Apple MacBook Air M3 16GBRAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-1-tb-ssd": {
+      "name": "Apple Macbook Air M5 1TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-2022-13-zoll": {
+      "name": "Apple Macbook Air M2 2022 13 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-24-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M3 24 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m3-8-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Air M3 8GB RAM 256GB SSD",
       "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
