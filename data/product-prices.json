@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-12T01:52:04.728Z",
+  "updatedAt": "2026-10-12T02:02:16.463Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -29339,7 +29339,7 @@
     },
     "apple-macbook-pro-2021": {
       "name": "Apple MacBook Pro 2021",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -33293,7 +33293,7 @@
     },
     "apple-macbook-air-m4-13-zoll": {
       "name": "Apple MacBook Air M4 13 Zoll",
-      "category": "Computer",
+      "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -62765,7 +62765,7 @@
     },
     "sony-playstation-5-slim-disc-edition-825-gb": {
       "name": "Sony PlayStation 5 Slim Disc Edition 825GB",
-      "category": "Spielekonsolen",
+      "category": "Konsolen",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -81869,6 +81869,138 @@
     },
     "apple-macbook-pro-14-zoll-24-gb-ram-1-tb-ssd": {
       "name": "Apple MacBook Pro 14 Zoll 24GB RAM 1TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-iphone-17-promax": {
+      "name": "Apple iPhone 17 proMax",
+      "category": "iPhone",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2012-15-zoll": {
+      "name": "Apple MacBook Pro 2012 15 Zoll",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2018-512-gb-ssd": {
+      "name": "Apple MacBook Pro 2018 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2022-13-zoll-8-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Pro 2022 13 Zoll 8GB RAM 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2015-13-zoll-8-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Pro 2015 13 Zoll 8 GB RAM 256 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-2015-4-gb-ram-128-gb-ssd": {
+      "name": "Apple MacBook Air 2015 4GB RAM 128GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2015-512-gb-ssd": {
+      "name": "Apple MacBook Pro 2015 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-4-gb-ram-128-gb-ssd": {
+      "name": "Apple MacBook Air 4 GB RAM 128 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m2-2022-8gbram-256-gb-ssd": {
+      "name": "Apple Macbook Pro M2 2022 8GBRAM 256GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m3-2023-512-gb-ssd": {
+      "name": "Apple MacBook Pro M3 2023 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-500-gb-ssd": {
+      "name": "Apple MacBook Air 500 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2015-8-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro 2015 8 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2019-16-inch": {
+      "name": "Apple Macbook Pro 2019 16 Inch",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m2-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M2 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-pro-2021-512-gb-ssd": {
+      "name": "Apple MacBook Pro M1 Pro 2021 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m1-2021-16-gb-ram": {
+      "name": "Apple MacBook Air M1 2021 16GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2017-15-zoll-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Pro 2017 15 Zoll 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-2020-512-gb-ssd": {
+      "name": "Apple MacBook Pro M1 2020 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-pro-2021-1-tb-ssd": {
+      "name": "Apple MacBook Pro M1 Pro 2021 1TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-2026-24-gb-ram": {
+      "name": "Apple MacBook Air M5 2026 24 GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2018-13-zoll-16-gb-ram-256-gb-ssd": {
+      "name": "Apple MacBook Pro 2018 13 Zoll 16 GB RAM 256 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m2-2023-1-tb-ssd": {
+      "name": "Apple MacBook Pro M2 2023 1TB SSD",
       "category": "MacBook",
       "referencePrice": null,
       "updatedAt": null
