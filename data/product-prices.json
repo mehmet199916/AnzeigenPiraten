@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-12T04:07:20.040Z",
+  "updatedAt": "2026-10-12T17:13:47.379Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -16421,7 +16421,7 @@
     },
     "apple-iphone-14-64-gb": {
       "name": "Apple iPhone 14 64 GB",
-      "category": "Smartphones",
+      "category": "iPhone",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -82356,6 +82356,54 @@
     "apple-macbook-air-m2-2024-256-gb-ssd": {
       "name": "Apple MacBook Air M2 2024 256GB SSD",
       "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m4-2025-15-zoll-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M4 2025 15 Zoll 16 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx1060ti-6-gb": {
+      "name": "gtx1060ti 6 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation5-disc-edition": {
+      "name": "Sony PlayStation5 Disc Edition",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "sony-playstation-5-pro-disc-edition-3-tb": {
+      "name": "Sony PlayStation 5 pro Disc Edition 3 TB",
+      "category": "Konsolen",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-hdc-sd": {
+      "name": "Panasonic HDC-SD",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "panasonic-lumix-fz": {
+      "name": "Panasonic Lumix FZ",
+      "category": "Kameras",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx960": {
+      "name": "GTX960",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx3080": {
+      "name": "RTX3080",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     }
