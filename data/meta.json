@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-11T23:52:16.775Z",
-  "startedAt": "2026-10-11T23:42:35.136Z",
-  "finishedAt": "2026-10-11T23:52:17.369Z",
-  "durationMs": 582233,
+  "generatedAt": "2026-10-12T00:02:04.700Z",
+  "startedAt": "2026-10-11T23:52:35.073Z",
+  "finishedAt": "2026-10-12T00:02:05.325Z",
+  "durationMs": 570251,
   "engine": "decision:tev1:0.8b",
   "classifierConfigured": true,
   "aiUsed": true,
@@ -13,8 +13,8 @@
     "searches": [
       {
         "id": "iphone",
-        "pages": 53,
-        "stopReason": "date_boundary",
+        "pages": 51,
+        "stopReason": "repeated_results",
         "missingDates": 0
       },
       {
@@ -50,25 +50,26 @@
     "Konsolen",
     "Kameras"
   ],
-  "fetchedListings": 6287,
-  "previouslyStored": 13775,
-  "newDeals": 14,
+  "fetchedListings": 6285,
+  "previouslyStored": 13789,
+  "newDeals": 11,
   "classified": 200,
-  "pendingClassifications": 6420,
-  "totalDeals": 13789,
+  "pendingClassifications": 6231,
+  "totalDeals": 13800,
   "priceDatabase": {
-    "products": 11303,
+    "products": 11292,
     "observations": 20000,
-    "historyPoints": 30242,
-    "productsWithHistory": 11303,
-    "comparableListings": 4552
+    "historyPoints": 30383,
+    "productsWithHistory": 11292,
+    "comparableListings": 4711
   },
   "productPriceCatalog": {
-    "products": 13432,
+    "products": 13450,
     "pricesSet": 592,
-    "goodPriceListings": 2948
+    "goodPriceListings": 3022
   },
   "errors": [
+    "search \"iphone\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
     "search \"macbook\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
     "search \"grafikkarte\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
     "search \"playstation 5\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
