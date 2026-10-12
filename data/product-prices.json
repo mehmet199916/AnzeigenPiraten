@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "EUR",
-  "updatedAt": "2026-10-12T00:22:12.213Z",
+  "updatedAt": "2026-10-12T00:32:13.186Z",
   "products": {
     "apple-iphone-15-pro-128-gb": {
       "name": "Apple iPhone 15 Pro 128GB",
@@ -38309,7 +38309,7 @@
     },
     "nvidia-geforce-rtx-3050-6-gb": {
       "name": "NVIDIA GeForce RTX 3050 6 GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -47705,7 +47705,7 @@
     },
     "amd-radeon-rx-480-8-gb": {
       "name": "AMD Radeon RX 480 8GB",
-      "category": "Computer",
+      "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
     },
@@ -80939,6 +80939,96 @@
     },
     "rtx-3090-ti-24-gb": {
       "name": "RTX 3090 Ti 24 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m3-pro-14-zoll-18-gb-ram": {
+      "name": "Apple MacBook Pro M3 Pro 14 Zoll 18GB RAM",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-13-zoll-16-gb-ram-512-gb-ssd": {
+      "name": "Apple MacBook Air M5 13 Zoll 16GB RAM 512GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-13-zoll-16-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro 13 Zoll 16 GB RAM 1 TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-air-m5-16-gb-ram-512-gb-ssd": {
+      "name": "Apple Macbook Air M5 16 GB RAM 512 GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-m1-pro-14-zoll-32-gb-ram-1-tb-ssd": {
+      "name": "Apple MacBook Pro M1 Pro 14 Zoll 32GB RAM 1TB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "apple-macbook-pro-2019-16-zoll-16-gb-ram-516-gb-ssd": {
+      "name": "Apple MacBook Pro 2019 16 Zoll 16 GB RAM 516GB SSD",
+      "category": "MacBook",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-7900-xt": {
+      "name": "RX 7900 XT",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx2060": {
+      "name": "RTX2060",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-7900": {
+      "name": "RX 7900",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-560-ti": {
+      "name": "GTX 560 Ti",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx-4080-super-16-gb": {
+      "name": "RTX 4080 SUPER 16 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-1060-1060-gb": {
+      "name": "GTX 1060 1060 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rtx-3060ti-8-gb": {
+      "name": "Rtx 3060ti 8 GB",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "rx-570": {
+      "name": "RX 570",
+      "category": "Grafikkarten",
+      "referencePrice": null,
+      "updatedAt": null
+    },
+    "gtx-960-4-gb": {
+      "name": "GTX 960 4 GB",
       "category": "Grafikkarten",
       "referencePrice": null,
       "updatedAt": null
