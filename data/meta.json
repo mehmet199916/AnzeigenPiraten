@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T15:24:00.558Z",
-  "startedAt": "2026-10-13T15:12:48.212Z",
-  "finishedAt": "2026-10-13T15:24:02.000Z",
-  "durationMs": 673778,
+  "generatedAt": "2026-10-13T15:38:31.070Z",
+  "startedAt": "2026-10-13T15:27:35.344Z",
+  "finishedAt": "2026-10-13T15:38:32.359Z",
+  "durationMs": 657014,
   "engine": "decision:tev1:0.8b",
   "classifierConfigured": true,
   "aiUsed": true,
@@ -13,7 +13,7 @@
     "searches": [
       {
         "id": "iphone",
-        "pages": 52,
+        "pages": 51,
         "stopReason": "repeated_results",
         "missingDates": 0
       },
@@ -37,7 +37,7 @@
       },
       {
         "id": "kamera",
-        "pages": 52,
+        "pages": 51,
         "stopReason": "repeated_results",
         "missingDates": 0
       }
@@ -50,29 +50,29 @@
     "Konsolen",
     "Kameras"
   ],
-  "fetchedListings": 6226,
-  "previouslyStored": 17796,
-  "newDeals": 3734,
+  "fetchedListings": 6225,
+  "previouslyStored": 21469,
+  "newDeals": 166,
   "classified": 200,
-  "pendingClassifications": 8357,
-  "totalDeals": 21469,
+  "pendingClassifications": 8323,
+  "totalDeals": 21635,
   "priceDatabase": {
-    "products": 11258,
+    "products": 11263,
     "observations": 20000,
-    "historyPoints": 33700,
-    "productsWithHistory": 11258,
-    "comparableListings": 8297
+    "historyPoints": 33839,
+    "productsWithHistory": 11263,
+    "comparableListings": 8419
   },
   "productPriceCatalog": {
-    "products": 13744,
+    "products": 13749,
     "pricesSet": 592,
-    "goodPriceListings": 5108
+    "goodPriceListings": 5182
   },
   "errors": [
-    "search \"iphone\": Quelle wiederholt Ergebnisse auf Seite 52; Erfassung unvollständig",
+    "search \"iphone\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
     "search \"macbook\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
     "search \"grafikkarte\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
     "search \"playstation 5\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig",
-    "search \"kamera\": Quelle wiederholt Ergebnisse auf Seite 52; Erfassung unvollständig"
+    "search \"kamera\": Quelle wiederholt Ergebnisse auf Seite 51; Erfassung unvollständig"
   ]
 }
