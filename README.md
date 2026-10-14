@@ -46,18 +46,14 @@ Install and start Ollama, then download the configured model once:
 ollama pull tev1:0.8b
 ```
 
-Start the local interface (including the Ollama status and controls) from the
-`scripts/` directory:
+Start the standalone Windows Ollama control app by double-clicking
+`scripts/start-ollama-control.cmd`. It opens a desktop window outside the
+browser and talks directly to Ollama on `127.0.0.1:11434`.
 
-```bash
-npm run serve:local
-```
-
-Then open `http://127.0.0.1:4173`. The local server binds only to loopback.
-Ollama start/stop/restart controls work only for an Ollama process started by
-this interface; an Ollama process already running outside it can be inspected,
-but is deliberately not terminated. Set `OLLAMA_EXECUTABLE` if `ollama` is not
-available on `PATH`, or `ANZEIGENPIRATEN_PORT` to select a local web port.
+The app shows whether the Ollama API is online, installed models, and which
+models are loaded. Its buttons start `ollama serve`, stop the local Ollama
+server process listening on port 11434, or restart it. Ollama controls do not
+appear in the website.
 
 Run a local scan from the `scripts/` directory:
 
