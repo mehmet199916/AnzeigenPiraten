@@ -665,3 +665,21 @@ input[type="range"] {
 .card__reference--target { color: #fbbf24; }
 .card__reference--over { color: #f87171; }
 .card__reference--muted { color: var(--text-faint); font-weight: 500; }
+
+.ollama-panel {
+  max-width: 1400px;
+  margin: 0 auto 28px;
+  padding: 20px clamp(16px, 4vw, 32px);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: linear-gradient(160deg, var(--surface), var(--surface-2));
+}
+.ollama-panel__head, .ollama-panel__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.ollama-panel__head { justify-content: space-between; }
+.ollama-panel h2 { margin: 0; font-size: 1.15rem; }
+.ollama-panel__status { margin: 4px 0 0; color: var(--text-dim); }
+.ollama-panel__status[data-online="true"] { color: var(--top); }
+.ollama-panel__message { min-height: 1.4em; margin: 10px 0; color: var(--fair); }
+.ollama-panel__models p { margin: 0 0 12px; color: var(--text-dim); font-size: .9rem; }
+.ollama-panel__hint { margin: 12px 0 0; color: var(--text-faint); font-size: .8rem; }
+button:disabled { cursor: not-allowed; opacity: .5; }

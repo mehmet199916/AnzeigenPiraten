@@ -86,7 +86,22 @@
           <option value="price_asc">Preis aufsteigend</option>
           <option value="price_desc">Preis absteigend</option>
           <option value="distance_asc">Entfernung (nächste zuerst)</option>
+          <option value="difference_eur">Höchste Ersparnis (€)</option>
+          <option value="difference_pct">Höchste Ersparnis (%)</option>
         </select>
+      </div>
+
+      <div class="field">
+        <label for="differenceMode">Ersparnisfilter</label>
+        <select id="differenceMode">
+          <option value="">Kein Mindestwert</option>
+          <option value="eur">Mindestens Euro (€)</option>
+          <option value="pct">Mindestens Prozent (%)</option>
+        </select>
+      </div>
+      <div class="field" id="differenceThresholdField" hidden>
+        <label for="differenceThreshold">Mindest-Ersparnis</label>
+        <input id="differenceThreshold" type="number" min="0" step="any" value="0" inputmode="decimal">
       </div>
 
       <div class="field field--inline">
@@ -104,6 +119,24 @@
     <section id="feed" class="grid" aria-live="polite" aria-busy="true"></section>
     <p id="empty" class="empty" hidden></p>
   </main>
+
+  <section class="ollama-panel" id="ollamaPanel" aria-labelledby="ollamaTitle">
+    <div class="ollama-panel__head">
+      <div>
+        <h2 id="ollamaTitle">Lokales Ollama</h2>
+        <p class="ollama-panel__status" id="ollamaStatus" aria-live="polite">Lokaler Dienst wird geprüft …</p>
+      </div>
+      <button class="btn btn--ghost" id="ollamaRefresh" type="button">Status aktualisieren</button>
+    </div>
+    <p class="ollama-panel__message" id="ollamaMessage" aria-live="polite"></p>
+    <div class="ollama-panel__models" id="ollamaModels"></div>
+    <div class="ollama-panel__actions">
+      <button class="btn btn--primary" id="ollamaStart" type="button" disabled>Ollama starten</button>
+      <button class="btn" id="ollamaStop" type="button" disabled>Ollama stoppen</button>
+      <button class="btn btn--ghost" id="ollamaReset" type="button" disabled>Neu starten</button>
+    </div>
+    <p class="ollama-panel__hint">Die Steuerung funktioniert nur über die lokale AnzeigenPiraten-Adresse.</p>
+  </section>
 
   <footer class="footer">
     <p>
@@ -124,6 +157,6 @@
     <div class="detail__body" id="detailBody"></div>
   </dialog>
 
-  <script src="assets/app.js?v=seven-days-1" type="module"></script>
+  <script src="assets/app.js?v=price-difference-ollama-1" type="module"></script>
 </body>
 </html>

@@ -46,6 +46,19 @@ Install and start Ollama, then download the configured model once:
 ollama pull tev1:0.8b
 ```
 
+Start the local interface (including the Ollama status and controls) from the
+`scripts/` directory:
+
+```bash
+npm run serve:local
+```
+
+Then open `http://127.0.0.1:4173`. The local server binds only to loopback.
+Ollama start/stop/restart controls work only for an Ollama process started by
+this interface; an Ollama process already running outside it can be inspected,
+but is deliberately not terminated. Set `OLLAMA_EXECUTABLE` if `ollama` is not
+available on `PATH`, or `ANZEIGENPIRATEN_PORT` to select a local web port.
+
 Run a local scan from the `scripts/` directory:
 
 ```bash

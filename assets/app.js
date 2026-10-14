@@ -2,6 +2,7 @@
 import { postalCodeOf, postalDistance } from './postal.mjs';
 import { isVisibleListing, TRADING_CATEGORIES } from './categories.mjs';
 import { isRecentListing, isAffordableListing } from './listing-window.mjs';
+import { dealDifference, meetsDealDifference, sortByDealDifference } from './deal-differences.mjs';
 
 (() => {
   'use strict';
@@ -23,6 +24,8 @@ import { isRecentListing, isAffordableListing } from './listing-window.mjs';
     postalCodes: null,
     scanLocation: null,
     sort: 'new',
+    differenceMode: '',
+    differenceThreshold: 0,
     onlyNew: false,
   };
 
@@ -40,12 +43,22 @@ import { isRecentListing, isAffordableListing } from './listing-window.mjs';
     postalCode: document.getElementById('postalCode'),
     locationHint: document.getElementById('locationHint'),
     sort: document.getElementById('sort'),
+    differenceMode: document.getElementById('differenceMode'),
+    differenceThreshold: document.getElementById('differenceThreshold'),
+    differenceThresholdField: document.getElementById('differenceThresholdField'),
     onlyNew: document.getElementById('onlyNew'),
     reset: document.getElementById('reset'),
     footerMeta: document.getElementById('footerMeta'),
     detail: document.getElementById('detail'),
     detailBody: document.getElementById('detailBody'),
     detailClose: document.getElementById('detailClose'),
+    ollamaStatus: document.getElementById('ollamaStatus'),
+    ollamaMessage: document.getElementById('ollamaMessage'),
+    ollamaModels: document.getElementById('ollamaModels'),
+    ollamaStart: document.getElementById('ollamaStart'),
+    ollamaStop: document.getElementById('ollamaStop'),
+    ollamaReset: document.getElementById('ollamaReset'),
+    ollamaRefresh: document.getElementById('ollamaRefresh'),
   };
 
   const euro = new Intl.NumberFormat('de-DE', {
@@ -233,6 +246,7 @@ import { isRecentListing, isAffordableListing } from './listing-window.mjs';
       if (state.productKey && deal.product?.key !== state.productKey) return false;
       if (state.priceStatus && deal.referencePriceCheck?.status !== state.priceStatus) return false;
       if (state.onlyNew && !isNew(deal)) return false;
+      if (state.differenceMode && !meetsDealDifference(deal, state.differenceMode, state.differenceThreshold)) return false;
       // A distance limit only keeps deals with a known distance: rows from
       // nationwide crawls cannot be placed near the configured PLZ.
       if (state.maxDistance) {
@@ -268,6 +282,14 @@ import { isRecentListing, isAffordableListing } from './listing-window.mjs';
         return left === right ? seenOf(b) - seenOf(a) : left - right;
       },
     };
+
+    if (state.sort === 'difference_eur' || state.sort === 'difference_pct') {
+      const mode = state.sort === 'difference_pct' ? 'pct' : 'eur';
+      const withPrice = sortByDealDifference(filtered.filter((deal) => dealDifference(deal, mode) !== null), mode);
+      const withoutPrice = filtered.filter((deal) => dealDifference(deal, mode) === null)
+        .sort((a, b) => seenOf(b) - seenOf(a));
+      return [...withPrice, ...withoutPrice];
+    }
 
     return filtered.sort(sorters[state.sort] ?? sorters.new);
   }
@@ -513,6 +535,17 @@ import { isRecentListing, isAffordableListing } from './listing-window.mjs';
       render();
     });
 
+    el.differenceMode.addEventListener('change', () => {
+      state.differenceMode = el.differenceMode.value;
+      el.differenceThresholdField.hidden = !state.differenceMode;
+      render();
+    });
+
+    el.differenceThreshold.addEventListener('input', () => {
+      state.differenceThreshold = Math.max(0, Number(el.differenceThreshold.value) || 0);
+      render();
+    });
+
     el.onlyNew.addEventListener('change', () => {
       state.onlyNew = el.onlyNew.checked;
       render();
@@ -526,6 +559,8 @@ import { isRecentListing, isAffordableListing } from './listing-window.mjs';
       state.maxDistance = '';
       state.postalCode = '';
       state.sort = 'new';
+      state.differenceMode = '';
+      state.differenceThreshold = 0;
       state.onlyNew = false;
 
       el.search.value = '';
@@ -535,6 +570,9 @@ import { isRecentListing, isAffordableListing } from './listing-window.mjs';
       el.maxDistance.value = '';
       el.postalCode.value = '';
       el.sort.value = 'new';
+      el.differenceMode.value = '';
+      el.differenceThreshold.value = '0';
+      el.differenceThresholdField.hidden = true;
       el.onlyNew.checked = false;
 
       render();
@@ -560,11 +598,71 @@ import { isRecentListing, isAffordableListing } from './listing-window.mjs';
     el.detail.addEventListener('click', (event) => {
       if (event.target === el.detail) el.detail.close();
     });
+
+    el.ollamaRefresh.addEventListener('click', refreshOllama);
+    el.ollamaStart.addEventListener('click', () => ollamaAction('start'));
+    el.ollamaStop.addEventListener('click', () => ollamaAction('stop'));
+    el.ollamaReset.addEventListener('click', () => ollamaAction('restart'));
+  }
+
+  async function ollamaRequest(path, options = {}) {
+    const response = await fetch(`/api/ollama${path}`, {
+      cache: 'no-store',
+      ...options,
+      headers: { 'Content-Type': 'application/json', ...options.headers },
+    });
+    const payload = await response.json().catch(() => ({}));
+    if (!response.ok) throw new Error(payload.error || `HTTP ${response.status}`);
+    return payload;
+  }
+
+  function renderOllama(data) {
+    el.ollamaStatus.textContent = data.online
+      ? `Online${data.managed ? ' · von AnzeigenPiraten gestartet' : ' · bereits extern gestartet'}`
+      : 'Offline';
+    el.ollamaStatus.dataset.online = String(data.online);
+    el.ollamaMessage.textContent = data.online ? '' : (data.error || 'Ollama antwortet derzeit nicht.');
+    const loaded = new Set((data.loadedModels ?? []).map((model) => model.name));
+    const models = data.models ?? [];
+    el.ollamaModels.innerHTML = models.length
+      ? `<p><strong>Verfügbare Modelle:</strong> ${models.map((model) => `${escapeHtml(model.name)}${loaded.has(model.name) ? ' · geladen' : ''}`).join(', ')}</p>`
+      : `<p>${data.online ? 'Keine Modelle installiert.' : 'Modellliste erst verfügbar, wenn Ollama läuft.'}</p>`;
+    el.ollamaStart.disabled = data.online;
+    el.ollamaStop.disabled = !data.online || !data.managed;
+    el.ollamaReset.disabled = !data.online || !data.managed;
+  }
+
+  async function refreshOllama() {
+    el.ollamaStatus.textContent = 'Status wird geprüft …';
+    try {
+      renderOllama(await ollamaRequest('/status'));
+    } catch (error) {
+      el.ollamaStatus.textContent = 'Lokale Steuerung nicht erreichbar';
+      el.ollamaModels.innerHTML = '<p>Für Status und Steuerung starte den lokalen AnzeigenPiraten-Server.</p>';
+      el.ollamaStart.disabled = true;
+      el.ollamaStop.disabled = true;
+      el.ollamaReset.disabled = true;
+      if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') el.ollamaMessage.textContent = error.message;
+    }
+  }
+
+  async function ollamaAction(action) {
+    for (const button of [el.ollamaStart, el.ollamaStop, el.ollamaReset, el.ollamaRefresh]) button.disabled = true;
+    el.ollamaMessage.textContent = action === 'restart' ? 'Ollama wird neu gestartet …' : `Ollama wird ${action === 'start' ? 'gestartet' : 'gestoppt'} …`;
+    try {
+      const result = await ollamaRequest(`/${action}`, { method: 'POST' });
+      await refreshOllama();
+      el.ollamaMessage.textContent = result.message;
+    } catch (error) {
+      await refreshOllama();
+      el.ollamaMessage.textContent = `Aktion fehlgeschlagen: ${error.message}`;
+    }
   }
 
   async function init() {
     state.lastVisit = readLastVisit();
     wireEvents();
+    refreshOllama();
 
     try {
       const [data, meta, postalData] = await Promise.all([

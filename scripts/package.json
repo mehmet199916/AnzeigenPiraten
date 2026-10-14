@@ -10,6 +10,7 @@
   "scripts": {
     "scan": "node scan.mjs",
     "scan:local": "node scan.mjs --local",
-    "test": "node --test test/"
+    "serve:local": "node local-server.mjs",
+    "test": "node --test"
   }
 }
